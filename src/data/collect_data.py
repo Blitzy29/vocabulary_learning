@@ -82,6 +82,10 @@ def choose_a_word(vocab):
     """
 
     word_found = False
+    if len(vocab[vocab['succeed_session'] | vocab['succeed']]) == len(vocab):
+        print("There are no more word for today!")
+        return -1
+
     while not word_found:
         # Pick a random word
         row_to_test = np.random.randint(0, len(vocab))
@@ -214,13 +218,14 @@ def add_historical_data(historical_data, vocab, row_to_test, output_language, is
     """
 
     historical_data = historical_data.append({
+        'id_vocab': vocab.loc[row_to_test, 'id_vocab'],
         'german_word': vocab.loc[row_to_test, 'german'],
         'english_word': vocab.loc[row_to_test, 'english'],
         'score_before': vocab.loc[row_to_test, 'score'],
         'language_asked': output_language,
         'result': is_it_correct,
         'guess': your_guess,
-        'timestamp': datetime.datetime.now()
+        'datetime': datetime.datetime.now()
     }, ignore_index=True)
 
     return historical_data
