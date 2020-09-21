@@ -82,6 +82,10 @@ def choose_a_word(vocab):
     """
 
     word_found = False
+    if len(vocab[vocab['succeed_session'] | vocab['succeed']]) == len(vocab):
+        print("There are no more word for today!")
+        return -1
+
     while not word_found:
         # Pick a random word
         row_to_test = np.random.randint(0, len(vocab))
@@ -188,7 +192,7 @@ def if_not_correct(vocab, row_to_test, input_language, output_language, your_gue
     input("Write it again   ")
 
 
-def add_historical_data(historical_data, vocab, row_to_test, output_language, is_it_correct):
+def add_historical_data(historical_data, vocab, row_to_test, output_language, is_it_correct, your_guess):
     """ Add try to historical data
 
     Parameters
@@ -203,6 +207,8 @@ def add_historical_data(historical_data, vocab, row_to_test, output_language, is
         The output language
     is_it_correct: boolean
         Is the answer correct
+    your_guess: str
+        The guess word
 
     Return
     -----
@@ -212,11 +218,14 @@ def add_historical_data(historical_data, vocab, row_to_test, output_language, is
     """
 
     historical_data = historical_data.append({
+        'id_vocab': vocab.loc[row_to_test, 'id_vocab'],
         'german_word': vocab.loc[row_to_test, 'german'],
         'english_word': vocab.loc[row_to_test, 'english'],
         'score_before': vocab.loc[row_to_test, 'score'],
         'language_asked': output_language,
-        'result': is_it_correct
+        'result': is_it_correct,
+        'guess': your_guess,
+        'datetime': datetime.datetime.now()
     }, ignore_index=True)
 
     return historical_data
@@ -270,7 +279,6 @@ def update_historical_data(historical_data):
 
     """
 
-    historical_data['day'] = date.today().strftime("%Y-%m-%d")
     historical_data_old = pd.read_csv('data/raw/historical_data.csv')
     historical_data_new = pd.concat([historical_data_old, historical_data], axis=0)
     historical_data_new.to_csv('data/raw/historical_data.csv', index=False)
