@@ -1,0 +1,11 @@
+id_vocab,german,english,score_german_english,score_english_german,retry_german_english,retry_english_german,try_session_german_english,try_session_english_german
+1,trinken,to drink,-3,5,2022-01-01,2020-09-21,True,False
+2,vielleicht,maybe,-4,4,2022-01-01,2022-01-01,True,False
+3,erklären,to explain,-3,3,2022-01-01,2022-01-01,True,False
+4,finden,to find,-2,2,2022-01-01,2022-01-01,True,False
+5,killen,to kill,1,1,2022-01-01,2022-01-01,True,False
+6,sagen,to say,1,1,2022-01-01,2022-01-01,False,True
+7,Dienstag,Tuesday,2,0,2022-01-01,2022-01-01,False,True
+8,leider,unfortunately,3,-1,2022-01-01,2022-01-01,False,True
+9,weiss,white,4,-2,2022-01-01,2022-01-01,False,True
+10,schwarz,black,5,-3,2020-09-21,2022-01-01,False,True

@@ -1,0 +1,11 @@
+english_word,german_word,language_asked,result,score_before,day,guess,datetime,id_vocab,write_it_again
+to say,sagen,german,1.0,0.0,,sagen,2020-09-21 22:04:51.165255,6.0,
+to explain,erklären,english,0.0,-2.0,,to exa,2020-09-21 22:04:56.822849,3.0,test1
+unfortunately,leider,german,1.0,-2.0,,leider,2020-09-21 22:04:58.719580,8.0,
+maybe,vielleicht,english,0.0,-3.0,,to drink,2020-09-21 22:05:08.006837,2.0,trinen to rink
+to find,finden,english,0.0,-1.0,,finden,2020-09-21 22:05:13.496088,4.0,to find
+Tuesday,Dienstag,german,1.0,-1.0,,Dienstag,2020-09-21 22:05:22.326756,7.0,
+white,weiss,german,1.0,-3.0,,weiss,2020-09-21 22:05:24.134992,9.0,
+black,schwarz,german,1.0,-4.0,,schwarz,2020-09-21 22:05:27.296184,10.0,
+to kill,killen,english,1.0,0.0,,to kill,2020-09-21 22:05:29.719850,5.0,
+to drink,trinken,english,1.0,-4.0,,to drink,2020-09-21 22:11:16.687011,1.0,
