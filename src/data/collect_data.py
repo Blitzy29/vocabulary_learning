@@ -100,7 +100,7 @@ def choose_a_language(vocab):
     forbidden_words = (
             vocab['try_session_german_english'] |
             vocab['try_session_english_german'] |
-            (vocab['score_german_english'] == 5)
+            (vocab['score_german_english'] >= 5)
     )
     if len(vocab[forbidden_words]) != len(vocab):
         possible_languages.append('english')
@@ -108,7 +108,7 @@ def choose_a_language(vocab):
     forbidden_words = (
             vocab['try_session_german_english'] |
             vocab['try_session_english_german'] |
-            (vocab['score_english_german'] == 5)
+            (vocab['score_english_german'] >= 5)
     )
     if len(vocab[forbidden_words]) != len(vocab):
         possible_languages.append('german')
@@ -144,7 +144,7 @@ def choose_a_word(vocab, input_language, output_language):
     forbidden_words = (
             vocab['try_session_german_english'] |
             vocab['try_session_english_german'] |
-            (vocab[f'score_{input_language}_{output_language}'] == 5)
+            (vocab[f'score_{input_language}_{output_language}'] >= 5)
     )
 
     # Pick a random word
