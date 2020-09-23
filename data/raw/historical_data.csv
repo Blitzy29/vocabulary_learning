@@ -1,1 +1,201 @@
-english_word,german_word,language_asked,result,score_before,day,guess,datetime,id_vocab
+id_vocab,german_word,english_word,score_before,language_asked,result,guess,question_time,write_it_again,datetime
+507,der Dom,the cathedral,0,english,1,the cathedral,5,,2020-09-23 00:39:04.672430
+213,die rote Karte,the red card,0,german,0,die rote Carte,3,die rote Karte the red card die rote Karte,2020-09-23 00:39:19.798247
+403,orange,orange,0,english,1,orange,3,,2020-09-23 00:39:22.165936
+71,das Stück,the piece,0,german,0,die Stück,3,das Stück the piece das Stück,2020-09-23 00:39:35.868349
+305,mag,like,0,english,1,like,3,,2020-09-23 00:39:37.795874
+540,die Suppe,the soup,0,german,1,die Suppe,5,,2020-09-23 00:39:40.586938
+536,das Ritual,the ritual,0,german,1,das Ritual,2,,2020-09-23 00:39:43.820635
+39,das Hotel,the hotel,0,english,1,the hotel,4,,2020-09-23 00:39:46.742748
+464,der Blumenkohl,the cauliflower,0,english,0,the flower,5,der Blumenkohl the cauliflower der Blumenkohl,2020-09-23 00:40:05.675235
+461,der Stuhl,the chair,0,german,1,der Stuhl,2,,2020-09-23 00:40:10.604291
+332,sehen,to see,0,german,1,sehen,2,,2020-09-23 00:40:13.194121
+293,kurz,short,0,german,1,kurz,4,,2020-09-23 00:40:17.316229
+80,denken,to think,0,english,1,to think,4,,2020-09-23 00:40:19.962827
+405,das Kompliment,the compliment,0,english,1,the compliment,2,,2020-09-23 00:40:23.340914
+496,die Hand,the hand,0,german,0,die Hande,5,die Hand the hand die Hand,2020-09-23 00:40:32.425619
+556,kennen,to know,0,english,1,to know,5,,2020-09-23 00:40:34.795125
+28,das Brot,the bread,0,german,1,das Brot,5,,2020-09-23 00:40:38.025638
+81,der Apfel,the apple,0,german,0,die Apfel,2,der Apfel the apple der Apfel,2020-09-23 00:40:47.281626
+489,die Religion,the religion,0,english,1,the religion,1,,2020-09-23 00:41:09.649892
+46,das Lotto,the lottery,0,english,1,the lottery,4,,2020-09-23 00:41:14.225574
+365,vielleicht,maybe,0,english,1,maybe,1,,2020-09-23 00:41:16.969220
+261,genau,I agree,0,english,1,I agree,4,,2020-09-23 00:41:19.961604
+565,die gelbe Karte,the yellow card,0,german,1,die gelbe Karte,1,,2020-09-23 00:41:25.177024
+89,der Computer,the computer,0,english,1,the computer,4,,2020-09-23 00:41:28.887523
+43,das Kleid,the dress,0,german,0,die Rock,1,das Kleid the dress das Kleid,2020-09-23 00:41:39.335370
+602,ja,yes,0,german,1,ja,4,,2020-09-23 00:41:41.136146
+529,der Vollmond,the full-moon,0,german,0,,4,der Vollmond the full-moon der Vollmond,2020-09-23 00:41:53.919695
+373,weil,because,0,english,1,because,3,,2020-09-23 00:41:56.336031
+275,hässlich,ugly,0,english,1,ugly,5,,2020-09-23 00:41:59.199386
+362,vegetarier,vegetarian,0,english,1,vegetarian,3,,2020-09-23 00:42:02.856362
+393,jubeln,to cheer,0,english,0,to rejoy,3,jubeln to cheer jubeln,2020-09-23 00:42:14.102821
+517,die Zwiebel,the onion,0,german,0,der Zwiebel,3,die Zwiebel the onion die Zwiebel,2020-09-23 00:42:38.318194
+429,weiss,white,0,english,1,white,2,,2020-09-23 00:42:40.950808
+383,zusammen,together,0,german,1,zusammen,4,,2020-09-23 00:42:44.733039
+103,der Himmel,the sky,0,english,1,the sky,2,,2020-09-23 00:42:48.382575
+144,der Student,the student,0,english,0,the studen,2,der Student the student der Student,2020-09-23 00:43:00.333398
+129,der Orangensaft,the orange juice,0,german,0,das Orangensaft,5,der Orangensaft the orange juie der Orangensaft,2020-09-23 00:43:19.740528
+376,wichtig,important,0,german,1,wichtig,2,,2020-09-23 00:43:22.654629
+48,das Material,the material,0,english,1,the material,3,,2020-09-23 00:43:25.892964
+330,schwimmen,to swim,0,german,1,schwimmen,2,,2020-09-23 00:43:29.004956
+29,das Büro,the office,0,german,1,das Büro,3,,2020-09-23 00:43:31.956803
+247,falsch,wrong,0,german,1,falsch,3,,2020-09-23 00:43:36.108730
+339,spät,late,0,german,1,spät,2,,2020-09-23 00:43:40.284519
+453,kommen,to come,0,german,1,kommen,4,,2020-09-23 00:43:42.580489
+120,der Leopard,the leopard,0,german,0,das Leopard,1,der Leopard the leopard der Leopard,2020-09-23 00:43:52.483497
+40,das Insekt,the insect,0,german,1,das Insekt,3,,2020-09-23 00:43:55.156116
+136,der Schauspieler,the actor,0,german,1,der Schauspieler,1,,2020-09-23 00:43:59.100277
+210,die Qualifikation,the qualification,0,german,0,das Qualification,1,die Qualifikation the qualification die Qualifikation,2020-09-23 00:44:16.218831
+243,entschuldigung,excuse-me,0,german,1,entschuldigung,2,,2020-09-23 00:44:20.075695
+222,die Sprache,the language,0,english,1,the language,2,,2020-09-23 00:44:24.579226
+57,das Praktikum,the internship,0,german,1,das Praktikum,4,,2020-09-23 00:44:29.067781
+527,die Ananas,the pineapple,0,german,0,der Ananas,2,die Ananas the pineapple die Ananas,2020-09-23 00:44:42.458216
+382,zeigen,to show,0,english,1,to show,3,,2020-09-23 00:44:45.522674
+108,der Kalender,the calendar,0,german,0,das Kalendar,3,der Kalender the calendar der Kalender,2020-09-23 00:44:55.985922
+230,die Tomate,the tomato,0,english,1,the tomato,4,,2020-09-23 00:45:00.778406
+3,alt,old,0,german,1,alt,5,,2020-09-23 00:45:02.682773
+235,die Zeit,the time,0,german,0,die zeit,4,die Zeit the time di Zeit,2020-09-23 00:45:11.393384
+509,die Grosseltern,the grand-parents,0,german,0,die Eltern,3,die Grosseltern the grand-parents die Grosseltern,2020-09-23 00:45:33.496753
+12,ausmachen,to turn off,0,german,1,ausmachen,3,,2020-09-23 00:45:36.713887
+357,trinken,to drink,0,english,1,to drink,2,,2020-09-23 00:45:39.209156
+10,auf Wiedersehen,goodbye,0,english,1,goodbye,3,,2020-09-23 00:45:44.593080
+502,das Haus,the house,0,english,1,the house,4,,2020-09-23 00:45:46.873127
+178,die Fliege,the fly,0,german,0,fliegen,2,die Fliege the fly die Fliege,2020-09-23 00:45:59.734986
+470,die Speisekarte,the menu,0,english,0,the crd game,2,die Speisekarte dthe menu die Speisekarte,2020-09-23 00:46:33.990978
+274,haben,to have,0,german,1,haben,2,,2020-09-23 00:46:36.167120
+92,der Enkel,the grand-son,0,german,1,der Enkel,1,,2020-09-23 00:46:44.911187
+61,das Radio,the radio,0,english,1,the radio,3,,2020-09-23 00:46:47.766936
+341,spielen,to play,0,english,1,to play,2,,2020-09-23 00:46:50.262729
+537,Juli,July,0,german,1,Juli,5,,2020-09-23 00:46:53.854997
+30,das Café,the café,0,german,1,das Café,5,,2020-09-23 00:46:57.134611
+182,die Freundin,the girlfriend,0,english,1,the girlfriend,4,,2020-09-23 00:47:03.373115
+510,die Magie,the magic,0,english,1,the magic,3,,2020-09-23 00:47:07.054307
+148,der Tiger,the tiger,0,english,1,the tiger,5,,2020-09-23 00:47:09.414311
+474,der Pokal,the cup,0,english,1,the cup,3,,2020-09-23 00:47:11.822173
+151,der Vogel,the bird,0,english,1,the bird,4,,2020-09-23 00:47:14.021787
+17,bis Bald,bye for now,0,german,0,bie Bald,2,bis Bald by for now bis Bald,2020-09-23 00:47:33.053211
+395,die Adresse,the address,0,english,1,the address,4,,2020-09-23 00:47:35.966130
+433,der Kohl,the cabbage,0,english,1,the cabbage,3,,2020-09-23 00:47:41.037507
+34,das Ethik,the ethique,0,english,0,the ethic,1,das Ethik the ethique das Ethik,2020-09-23 00:47:54.500342
+574,das Bett,the bed,0,english,1,the bed,2,,2020-09-23 00:47:57.500500
+425,killen,to kill,0,german,1,killen,2,,2020-09-23 00:47:59.691232
+564,der Stress,the stress,0,german,0,das Stress,5,der Stress the stress der Stress,2020-09-23 00:48:10.937921
+277,heute,today,0,english,1,today,1,,2020-09-23 00:48:13.626911
+49,das Meer,the sea,0,german,0,der See,1,das Meer the seas das Meer,2020-09-23 00:48:23.442044
+585,November,November,0,german,1,November,5,,2020-09-23 00:48:27.562880
+78,das Wort,the word,0,english,1,the word,5,,2020-09-23 00:48:29.819068
+297,lecker,delicious,0,english,1,delicious,4,,2020-09-23 00:48:32.594531
+95,der Freund,the boyfriend,0,english,1,the boyfriend,2,,2020-09-23 00:48:35.738599
+459,Mai,May,0,english,1,May,5,,2020-09-23 00:48:37.858746
+460,hübsch,pretty,0,english,1,pretty,5,,2020-09-23 00:48:43.498331
+559,Mittwoch,Wednesday,0,german,0,Mittwoc,3,Mittwoch Wednesday Mittwoch,2020-09-23 00:48:58.513306
+164,die Banane,the banana,0,english,1,the banana,5,,2020-09-23 00:49:01.297694
+272,Guten Morgen,good morning,0,english,1,good morning,5,,2020-09-23 00:49:08.513822
+404,die Aprikose,the apricot,0,german,0,das Apricot,1,die Aprikose the apricot die Aprikose,2020-09-23 00:49:19.159939
+161,die Angst,the fear,0,english,1,the fear,4,,2020-09-23 00:49:21.601057
+308,Montag,Monday,0,english,1,Monday,1,,2020-09-23 00:49:23.793022
+476,suchen,to search,0,german,0,,1,suchen to search suchen,2020-09-23 00:49:31.320013
+24,dann,then,0,english,1,then,2,,2020-09-23 00:49:33.375199
+601,schreiben,to write,0,german,1,schreiben,4,,2020-09-23 00:49:37.247383
+278,Himmel,Heaven,0,english,1,Heaven,2,,2020-09-23 00:49:40.160716
+363,verheiratet,married,0,english,1,married,3,,2020-09-23 17:44:57.022225
+556,kennen,to know,1,english,1,to know,3,,2020-09-23 17:45:00.170005
+130,der Partner,the partner,0,english,1,the partner,3,,2020-09-23 17:45:03.608950
+603,gestern,yesterday,0,german,0,morgen,6,gestern yesterday gestern,2020-09-23 17:45:16.480068
+294,lang,long,0,german,1,lang,1,,2020-09-23 17:45:18.368204
+178,die Fliege,the fly,-1,german,1,die Fliege,3,,2020-09-23 17:45:21.777048
+475,das Wetter,the weather,0,german,1,das Wetter,3,,2020-09-23 17:45:25.216381
+255,frisch,fresh,0,german,0,fresch,7,frisch fresh frisch,2020-09-23 17:45:37.894886
+155,der Wurst,the sausage,0,german,1,der Wurst,3,,2020-09-23 17:45:41.831070
+168,die Chemie,the chemistry,0,english,0,the chemestry,7,die Chemie the chemistry die Chemie,2020-09-23 17:45:57.205150
+230,die Tomate,the tomato,0,german,1,die Tomate,4,,2020-09-23 17:46:01.413687
+163,die Aussage,the statement,0,german,0,die Austrage,4,die Aussage the statement die Aussage,2020-09-23 17:46:14.022500
+13,backen,to bake,0,german,1,backen,3,,2020-09-23 17:46:17.888541
+162,die Antwort,the answer,0,german,0,die Antword,3,die Antwort the answer die Antwort,2020-09-23 17:46:28.645576
+76,das Wissen,the knowledge,0,english,1,the knowledge,3,,2020-09-23 17:46:32.590679
+161,die Angst,the fear,1,english,1,the fear,2,,2020-09-23 17:46:35.318196
+574,das Bett,the bed,0,german,1,das Bett,3,,2020-09-23 17:46:38.389024
+482,die Suche,the search,0,german,1,die Suche,3,,2020-09-23 17:46:41.493957
+546,das Eis,the ice,0,english,1,the ice,2,,2020-09-23 17:46:44.037430
+117,der Kunststoff,the plastic,0,german,0,der Kunstoff,3,der Kunststoff the plastic der Kunststoff,2020-09-23 17:46:59.819131
+488,das Bild,the picture,0,english,1,the picture,2,,2020-09-23 17:47:02.778185
+221,die Spinne,the spider,0,german,0,,3,die Spinne the spider die Spinne,2020-09-23 17:47:12.523605
+548,die Strasse,the street,0,german,1,die Strasse,4,,2020-09-23 17:47:16.652250
+443,der Schauspieler,the actor,0,german,1,der Schauspieler,3,,2020-09-23 17:47:20.643843
+305,mag,like,0,german,1,mag,1,,2020-09-23 17:47:22.619944
+7,April,April,0,german,1,April,1,,2020-09-23 17:47:24.587865
+300,leicht,light,0,german,1,leicht,2,,2020-09-23 17:47:26.787925
+404,die Aprikose,the apricot,0,english,1,the apricot,3,,2020-09-23 17:47:30.411339
+174,die Farbe,the color,0,german,1,die Farbe,3,,2020-09-23 17:47:33.611340
+360,umkämpfen,to beat,0,german,0,kämpfen,4,umkämpfen to beat umkämpfen,2020-09-23 17:47:48.010240
+274,haben,to have,1,german,1,haben,2,,2020-09-23 17:47:50.121514
+596,kosten,to cost,0,german,1,kosten,2,,2020-09-23 17:47:52.706634
+525,Januar,January,0,german,1,Januar,2,,2020-09-23 17:47:55.058162
+474,der Pokal,the cup,1,english,1,the cup,2,,2020-09-23 17:47:57.265384
+359,überall,everywhere,0,german,1,überall,2,,2020-09-23 17:48:00.129508
+427,Dienstag,Tuesday,0,german,1,Dienstag,3,,2020-09-23 17:48:03.632395
+497,das Buch,the book,0,german,1,das Buch,2,,2020-09-23 17:48:06.497098
+195,die Kirche,the church,0,english,1,the church,3,,2020-09-23 17:48:09.535542
+500,brauchen,to need,0,german,1,brauchen,4,,2020-09-23 17:48:14.111050
+416,die Wassermelone,the watermelon,0,german,0,,4,die Wassermelone the watermelon die Wassermelone,2020-09-23 17:48:29.835520
+70,das Sonderangebot,the special offer,0,german,0,die Sonderangebot,7,das Sonderangebot the special offer das Sonderangebot,2020-09-23 17:48:49.657893
+68,das Schwein,the pig,0,german,1,das Schwein,4,,2020-09-23 17:48:54.001919
+545,der Arzt,the doctor,0,german,1,der Arzt,3,,2020-09-23 17:48:57.626172
+514,schwul,gay lovers,0,english,1,gay lovers,5,,2020-09-23 17:49:03.074544
+24,dann,then,1,english,1,then,1,,2020-09-23 17:49:04.842383
+252,frei,free,0,german,1,frei,1,,2020-09-23 17:49:06.817996
+450,die Zeit,the time,0,german,1,die Zeit,2,,2020-09-23 17:49:09.169852
+237,Dienstag,Tuesday,0,english,1,Tuesday,3,,2020-09-23 17:49:12.760584
+509,die Grosseltern,the grand-parents,0,english,1,the grand-parents,5,,2020-09-23 17:49:18.393526
+250,fertig,ready,0,english,0,finish,4,fertig ready fertig,2020-09-23 17:49:28.768728
+19,bitte,please,0,english,1,please,2,,2020-09-23 17:49:31.233053
+561,fantastisch,fantastic,0,english,1,fantastic,2,,2020-09-23 17:49:34.176576
+239,Donnerstag,Thursday,0,english,1,Thursday,4,,2020-09-23 17:49:38.896586
+171,die Ehefrau,the wife,0,german,1,die Ehefrau,4,,2020-09-23 17:49:43.064176
+319,richtig,correct,0,english,0,important,8,richtig correct richtig,2020-09-23 17:49:57.654845
+389,das Organ,the organ,0,german,1,das Organ,2,,2020-09-23 17:50:00.655310
+299,leer,empty,0,german,1,leer,1,,2020-09-23 17:50:02.440292
+16,bezahlen,to pay,0,german,0,zählen,4,bezahlen to pay bezahlen,2020-09-23 17:50:13.093229
+269,gut,good,0,german,1,gut,1,,2020-09-23 17:50:14.679203
+53,das Öl,the oil,0,german,1,das Öl,3,,2020-09-23 17:50:17.806889
+37,das Handtuch,the towel,0,german,0,,2,das Handtuch the towel das Handtuch,2020-09-23 17:50:27.822286
+209,die Philosophie,the philosophy,0,english,0,the phyilosophy,12,die Philosophie the philosophy die Philosophie,2020-09-23 17:50:54.644240
+334,September,September,0,english,1,September,3,,2020-09-23 17:50:58.189923
+125,der Mechatroniker,the mechanic,0,english,1,the mechanic,3,,2020-09-23 17:51:01.293565
+56,das Pferd,the horse,0,german,1,das Pferd,3,,2020-09-23 17:51:04.589301
+577,der Frühling,the spring,0,german,1,der Frühling,6,,2020-09-23 17:51:10.645322
+149,der Vater,the father,0,german,1,der Vater,3,,2020-09-23 17:51:13.900694
+582,inhalieren,to inhale,0,english,0,,1,inhalieren to inhale inhalieren,2020-09-23 17:51:23.211395
+342,sprechen,to speak,0,english,1,to speak,3,,2020-09-23 17:51:26.412386
+292,kommen,to come,0,german,1,kommen,2,,2020-09-23 17:51:28.794867
+523,gegen,against,0,german,1,gegen,2,,2020-09-23 17:51:31.084340
+438,viel,a lot,0,english,1,a lot,4,,2020-09-23 17:51:35.668408
+584,lernen,to learn,0,english,1,to learn,3,,2020-09-23 17:51:38.747645
+43,das Kleid,the dress,0,english,1,the dress,3,,2020-09-23 17:51:41.804236
+134,der Regenschirm,the umbrella,0,german,0,die Uberregen,10,der rRegenschirm the umbrella der Regenschirm,2020-09-23 17:52:06.170090
+129,der Orangensaft,the orange juice,-1,german,0,das Orangensaft,4,der Orangensaft the orange juice der Orangensaft,2020-09-23 17:52:21.215737
+119,der Lehrer,the teacher,0,english,1,the teacher,4,,2020-09-23 17:52:25.827088
+50,das Mehl,the flour,0,german,0,,10,das Mehl the flour das Mehl,2020-09-23 17:52:42.432877
+380,wirklich,really,0,english,1,really,3,,2020-09-23 17:52:45.625493
+448,die Biologie,the biology,0,german,1,die Biologie,3,,2020-09-23 17:52:49.001418
+512,der Student,the student,0,german,1,der Student,2,,2020-09-23 17:52:51.920598
+456,wilkommen,welcome,0,english,1,welcome,2,,2020-09-23 17:52:54.120456
+222,die Sprache,the language,0,german,1,die Sprache,3,,2020-09-23 17:52:57.585039
+317,rennen,to sprint,0,english,1,to sprint,2,,2020-09-23 17:53:00.536823
+197,die Küche,the kitchen,0,english,0,the cake,4,die Küche the kitchen die Küche,2020-09-23 17:53:13.509963
+186,die Gruppe,the group,0,english,1,the group,7,,2020-09-23 17:53:21.070499
+607,das Herz,the heart,0,german,1,das Herz,2,,2020-09-23 17:53:23.878662
+418,das Jahr,the year,0,english,1,the year,2,,2020-09-23 17:53:26.462593
+18,bis Später,see you later,0,german,1,bis Später,3,,2020-09-23 17:53:29.950349
+392,die Idee,the idea,0,german,0,das Idee,5,die Idee the idea die Idee,2020-09-23 17:53:40.709667
+295,langsam,slow,0,english,1,slow,3,,2020-09-23 17:53:44.365628
+87,der Berg,the mountain,0,german,0,das Berg,3,der Berg the mountain der Berg,2020-09-23 17:53:53.468662
+345,stimmen,to vote,0,english,1,to vote,3,,2020-09-23 17:53:56.693272
+398,attraktiv,attractive,0,german,1,attraktiv,6,,2020-09-23 17:54:02.941672
+444,die Ärztin,the female doctor,0,english,1,the female doctor,6,,2020-09-23 17:54:09.820782
+296,laufen,to run,0,german,1,laufen,5,,2020-09-23 17:54:14.908487
+176,die Flagge,the flag,0,english,1,the flag,3,,2020-09-23 17:54:18.308711
+83,der Arm,the arm,0,german,0,das Arm,4,der Arm the arm,2020-09-23 17:54:26.651208
+568,und,and,0,german,1,und,1,,2020-09-23 17:54:28.459396
+455,zusammen,together,0,english,1,together,3,,2020-09-23 17:54:31.693431

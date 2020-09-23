@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 import random
 import datetime
@@ -24,11 +23,15 @@ class PrintColors:
     BOLDGREEN = '\033[1;92m'
 
 
-def initiate_vocab():
+def initiate_vocab(test=True, test_name='test'):
     """ Initiate the vocab table
 
     Parameters
     -----
+    test: boolean
+        Is it a test
+    test_name:
+        name of the test
 
     Return
     -----
@@ -36,14 +39,21 @@ def initiate_vocab():
         The vocab table
     """
 
-    vocab = pd.read_csv('data/raw/german_english.csv')
+    if test:
+        vocab = pd.read_csv(f'data/raw/german_english_{test_name}.csv')
+    else:
+        vocab = pd.read_csv('data/raw/german_english.csv')
 
-    vocab['succeed_session'] = False
-    vocab['try_session'] = False
+    vocab['try_session_german_english'] = False
+    vocab['try_session_english_german'] = False
 
-    vocab['score'] = np.where(vocab['retry'] < date.today().strftime("%Y-%m-%d"), vocab['score'] - 1, vocab['score'])
-    vocab['retry'] = np.where(vocab['retry'] < date.today().strftime("%Y-%m-%d"), "2022-01-01", vocab['retry'])
-    vocab['succeed'] = np.where(vocab['retry'] < date.today().strftime("%Y-%m-%d"), False, vocab['succeed'])
+    retry_german_english = vocab['retry_german_english'] < date.today().strftime("%Y-%m-%d")
+    vocab.loc[retry_german_english, 'score_german_english'] -= 1
+    vocab.loc[retry_german_english, 'retry_german_english'] = "2022-01-01"
+
+    retry_english_german = vocab['retry_english_german'] < date.today().strftime("%Y-%m-%d")
+    vocab.loc[retry_english_german, 'score_english_german'] -= 1
+    vocab.loc[retry_english_german, 'retry_english_german'] = "2022-01-01"
 
     return vocab
 
@@ -64,43 +74,17 @@ def initiate_session():
 
     historical_data = pd.DataFrame()
     triesSession = 0
-    return historical_data, triesSession
+    nb_known_words_session = 0
+    return historical_data, triesSession, nb_known_words_session
 
 
-def choose_a_word(vocab):
-    """ Choose a word in vocab, which has not been successful in this session
+def choose_a_language(vocab):
+    """ Choose a language between German and English
 
     Parameters
     -----
     vocab: pd.DataFrame
         The vocab table
-
-    Return
-    -----
-    row_to_test: int
-        The row index of the chosen word
-    """
-
-    word_found = False
-    if len(vocab[vocab['succeed_session'] | vocab['succeed']]) == len(vocab):
-        print("There are no more word for today!")
-        return -1
-
-    while not word_found:
-        # Pick a random word
-        row_to_test = np.random.randint(0, len(vocab))
-
-        if vocab.loc[row_to_test, 'succeed_session'] | vocab.loc[row_to_test, 'succeed']:
-            continue
-        else:
-            return row_to_test
-
-
-def choose_a_language():
-    """ Choose a language between German and English
-
-    Parameters
-    -----
 
     Return
     -----
@@ -110,21 +94,73 @@ def choose_a_language():
         The output language
     """
 
-    possible_actions = ['german', 'english']
-    output_language = random.choice(possible_actions)
-    input_language = [x for x in possible_actions if x != output_language][0]
+    languages = ['german', 'english']
+    possible_languages = []
+
+    forbidden_words = (
+            vocab['try_session_german_english'] |
+            vocab['try_session_english_german'] |
+            (vocab['score_german_english'] >= 5)
+    )
+    if len(vocab[forbidden_words]) != len(vocab):
+        possible_languages.append('english')
+
+    forbidden_words = (
+            vocab['try_session_german_english'] |
+            vocab['try_session_english_german'] |
+            (vocab['score_english_german'] >= 5)
+    )
+    if len(vocab[forbidden_words]) != len(vocab):
+        possible_languages.append('german')
+
+    if not possible_languages:
+        print("There are no more word for today!")
+        return -1, -1
+
+    output_language = random.choice(possible_languages)
+    input_language = [x for x in languages if x != output_language][0]
+
     return input_language, output_language
 
 
-def prompt_question(vocab, row_to_test, input_language, output_language, nb_known_words_session, tries_session):
+def choose_a_word(vocab, input_language, output_language):
+    """ Choose a word in vocab, which has not been successful in this session
+
+    Parameters
+    -----
+    vocab: pd.DataFrame
+        The vocab table
+    input_language: str
+        The input language
+    output_language: str
+        The output language
+
+    Return
+    -----
+    id_vocab: int
+        The word id
+    """
+
+    forbidden_words = (
+            vocab['try_session_german_english'] |
+            vocab['try_session_english_german'] |
+            (vocab[f'score_{input_language}_{output_language}'] >= 5)
+    )
+
+    # Pick a random word
+    id_vocab = random.choice(vocab[~forbidden_words]['id_vocab'].tolist())
+    return id_vocab
+
+
+def prompt_question(vocab, id_vocab, input_language, output_language, nb_known_words_session, tries_session):
     """ Prompt the word and language to find. Return the answer
 
     Parameters
     -----
     vocab: pd.DataFrame
         The vocab table
-    row_to_test: int
-        The row index of the chosen word
+    id_vocab: int
+        The word id of the chosen word
     input_language: str
         The input language
     output_language: str
@@ -142,9 +178,15 @@ def prompt_question(vocab, row_to_test, input_language, output_language, nb_know
 
     text_prompt = "{}{}/{}{} - What is the {} word for '{}'?   ".format(
         PrintColors.BOLD, nb_known_words_session, tries_session, PrintColors.ENDC,
-        output_language, vocab.loc[row_to_test, input_language])
+        output_language, vocab.loc[vocab['id_vocab'] == id_vocab, input_language].values[0])
+
+    pre_question_time = datetime.datetime.now()
     your_guess = input(text_prompt)
-    return your_guess
+    post_question_time = datetime.datetime.now()
+
+    question_time = post_question_time - pre_question_time
+
+    return your_guess, question_time
 
 
 def if_correct():
@@ -153,15 +195,15 @@ def if_correct():
     print(f"{PrintColors.GREEN}Correct!{PrintColors.ENDC}")
 
 
-def if_not_correct(vocab, row_to_test, input_language, output_language, your_guess, is_it_another_word):
+def if_not_correct(vocab, id_vocab, input_language, output_language, your_guess, is_it_another_word):
     """Print statement + rewrite input if wrong answer
 
     Parameters
     -----
     vocab: pd.DataFrame
         The vocab table
-    row_to_test: int
-        The row index of the chosen word
+    id_vocab: int
+        The word id of the chosen word
     input_language: str
         The input language
     output_language: str
@@ -180,8 +222,8 @@ def if_not_correct(vocab, row_to_test, input_language, output_language, your_gue
     print(
         "{}Sorry{}, it was '{} = {}'".format(
             PrintColors.FAIL, PrintColors.ENDC,
-            vocab.loc[row_to_test, input_language],
-            vocab.loc[row_to_test, output_language]
+            vocab.loc[vocab['id_vocab'] == id_vocab, input_language].values[0],
+            vocab.loc[vocab['id_vocab'] == id_vocab, output_language].values[0]
         ))
 
     if is_it_another_word:
@@ -189,10 +231,14 @@ def if_not_correct(vocab, row_to_test, input_language, output_language, your_gue
             PrintColors.WARNING, PrintColors.ENDC,
             your_guess, vocab[vocab[output_language] == your_guess].iloc[0][input_language]))
 
-    input("Write it again   ")
+    write_it_again = input("Write it again   ")
+    return write_it_again
 
 
-def add_historical_data(historical_data, vocab, row_to_test, output_language, is_it_correct, your_guess):
+def add_historical_data(
+        historical_data, vocab,
+        id_vocab, input_language, output_language,
+        is_it_correct, your_guess, question_time, write_it_again):
     """ Add try to historical data
 
     Parameters
@@ -201,14 +247,20 @@ def add_historical_data(historical_data, vocab, row_to_test, output_language, is
         Historical data of the session
     vocab: pd.DataFrame
         The vocab table
-    row_to_test: int
-        The row index of the chosen word
+    id_vocab: int
+        The word id of the chosen word
+    input_language: str
+        The input language
     output_language: str
         The output language
     is_it_correct: boolean
         Is the answer correct
     your_guess: str
         The guess word
+    question_time: datetime.timedelta
+        Time it took to write an answer
+    write_it_again: str
+        What was written when it asked to write it again
 
     Return
     -----
@@ -218,28 +270,34 @@ def add_historical_data(historical_data, vocab, row_to_test, output_language, is
     """
 
     historical_data = historical_data.append({
-        'id_vocab': vocab.loc[row_to_test, 'id_vocab'],
-        'german_word': vocab.loc[row_to_test, 'german'],
-        'english_word': vocab.loc[row_to_test, 'english'],
-        'score_before': vocab.loc[row_to_test, 'score'],
+        'id_vocab': vocab.loc[vocab['id_vocab'] == id_vocab, 'id_vocab'].values[0],
+        'german_word': vocab.loc[vocab['id_vocab'] == id_vocab, 'german'].values[0],
+        'english_word': vocab.loc[vocab['id_vocab'] == id_vocab, 'english'].values[0],
+        'score_before': vocab.loc[vocab['id_vocab'] == id_vocab, f'score_{input_language}_{output_language}'].values[0],
         'language_asked': output_language,
         'result': is_it_correct,
         'guess': your_guess,
+        'question_time': question_time.seconds,
+        "write_it_again": write_it_again,
         'datetime': datetime.datetime.now()
     }, ignore_index=True)
 
     return historical_data
 
 
-def update_vocab(vocab, row_to_test, is_it_correct):
+def update_vocab(vocab, id_vocab, input_language, output_language, is_it_correct):
     """ Update the vocab table
 
     Parameters
     -----
     vocab: pd.DataFrame
         The vocab table
-    row_to_test: int
-        The row index of the chosen word
+    id_vocab: int
+        The word if of the chosen word
+    input_language: str
+        The input language
+    output_language: str
+        The output language
     is_it_correct: boolean
         Is the answer correct
 
@@ -250,28 +308,34 @@ def update_vocab(vocab, row_to_test, is_it_correct):
 
     """
 
-    vocab.loc[row_to_test, 'succeed_session'] = is_it_correct
-
     if is_it_correct:
-        vocab.loc[row_to_test, 'score'] = vocab.loc[row_to_test, 'score'] + 1
+        vocab.loc[
+            vocab["id_vocab"] == id_vocab, f'score_{input_language}_{output_language}'
+        ] += 1
     if not is_it_correct:
-        vocab.loc[row_to_test, 'score'] = vocab.loc[row_to_test, 'score'] - 1
+        vocab.loc[
+            vocab["id_vocab"] == id_vocab, f'score_{input_language}_{output_language}'
+        ] -= 1
 
-    vocab.loc[row_to_test, 'try_session'] = True
+    vocab.loc[vocab["id_vocab"] == id_vocab, f'try_session_{input_language}_{output_language}'] = True
 
-    if vocab.loc[row_to_test, 'score'] == 5:
+    if vocab.loc[vocab["id_vocab"] == id_vocab, f'score_{input_language}_{output_language}'].values[0] == 5:
         print(f"{PrintColors.BOLDGREEN}Archived!!{PrintColors.ENDC}")
 
     return vocab
 
 
-def update_historical_data(historical_data):
+def update_historical_data(historical_data, test=True, test_name='test'):
     """ Update and save the historical data
 
     Parameters
     -----
     historical_data: pd.DataFrame()
         Historical data of the session
+    test: boolean
+        Is it a test
+    test_name:
+        name of the test
 
     Return
     -----
@@ -279,18 +343,30 @@ def update_historical_data(historical_data):
 
     """
 
-    historical_data_old = pd.read_csv('data/raw/historical_data.csv')
+    if test:
+        historical_data_old = pd.read_csv(f'data/raw/historical_data_{test_name}.csv')
+    else:
+        historical_data_old = pd.read_csv('data/raw/historical_data.csv')
+
     historical_data_new = pd.concat([historical_data_old, historical_data], axis=0)
-    historical_data_new.to_csv('data/raw/historical_data.csv', index=False)
+
+    if test:
+        historical_data_new.to_csv(f'data/raw/historical_data_{test_name}_after.csv', index=False)
+    else:
+        historical_data_new.to_csv('data/raw/historical_data.csv', index=False)
 
 
-def finalize_vocab(vocab):
+def finalize_vocab(vocab, test=True, test_name='test'):
     """ Update and save the vocab table
 
     Parameters
     -----
     vocab: pd.DataFrame
         The vocab table
+    test: boolean
+        Is it a test
+    test_name:
+        name of the test
 
     Return
     -----
@@ -298,9 +374,17 @@ def finalize_vocab(vocab):
 
     """
 
-    vocab['score'] = np.where(vocab['score'] < -10, -10, vocab['score'])
-    vocab['succeed'] = vocab['score'] >= 5
-    vocab['retry'] = np.where(vocab['succeed'] & vocab['succeed_session'],
-                              (date.today() + datetime.timedelta(days=90)).strftime("%Y-%m-%d"), vocab['retry'])
+    vocab.loc[vocab['score_german_english'] < -10, 'score_german_english'] = -10
+    vocab.loc[vocab['score_english_german'] < -10, 'score_english_german'] = -10
 
-    vocab.to_csv('data/raw/german_english.csv', index=False)
+    vocab.loc[
+        (vocab['score_german_english'] == 5) & vocab['try_session_german_english'], 'retry_german_english'
+    ] = (date.today() + datetime.timedelta(days=90)).strftime("%Y-%m-%d")
+    vocab.loc[
+        (vocab['score_english_german'] == 5) & vocab['try_session_english_german'], 'retry_english_german'
+    ] = (date.today() + datetime.timedelta(days=90)).strftime("%Y-%m-%d")
+
+    if test:
+        vocab.to_csv(f'data/raw/german_english_{test_name}_after.csv', index=False)
+    else:
+        vocab.to_csv('data/raw/german_english.csv', index=False)

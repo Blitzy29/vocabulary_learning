@@ -1,0 +1,11 @@
+id_vocab,german_word,english_word,score_before,language_asked,result,guess,question_time,write_it_again,datetime
+6.0,richtig_falsch_no_sug,DE_richtig_falsch_no_sug,2.0,german,0.0,DE_richtig_falsch_no_sug,3.0,DE_richtig_falsch_no_sug,2020-09-23 21:33:30.463658
+3.0,DE_archived,DE_archived,4.0,german,1.0,DE_archived,2.0,,2020-09-23 21:33:33.184726
+13.0,EN_archived_back,EN_archived_back,4.0,english,1.0,EN_archived_back,2.0,,2020-09-23 21:33:36.000680
+7.0,DE_correct_richtig,DE_correct_richtig,1.0,german,1.0,DE_correct_richtig,2.0,,2020-09-23 21:33:38.985651
+12.0,EN_archived,EN_archived,4.0,english,1.0,EN_archived,2.0,,2020-09-23 21:33:41.769096
+9.0,EN_richtig_falsch_no_sug,richtig_falsch_no_sug,2.0,english,0.0,EN_richtig_falsch_no_sug,2.0,EN_richtig_falsch_no_sug,2020-09-23 21:33:45.942174
+2.0,DE_archived_back,DE_archived_back,4.0,german,1.0,DE_archived_back,3.0,,2020-09-23 21:33:49.536770
+8.0,richtig_correct,richtig_correct,1.0,english,1.0,richtig_correct,2.0,,2020-09-23 21:33:52.248335
+10.0,EN_wrong_wrong,EN_right_wrong,2.0,english,0.0,EN_wrong_wrong,2.0,EN_wrong_wrong,2020-09-23 21:33:56.535884
+4.0,DE_falsch_falsch,DE_richtig_falsch,3.0,german,0.0,DE_richtig_falsch,2.0,DE_richtig_falsch,2020-09-23 21:34:01.064694

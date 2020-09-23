@@ -1,0 +1,15 @@
+id_vocab,german,english,score_german_english,score_english_german,retry_german_english,retry_english_german,try_session_german_english,try_session_english_german
+1,DE_never_shown,DE_never_shown,10,10,2022-01-01,2022-01-01,False,False
+2,DE_archived_back,DE_archived_back,10,5,2022-01-01,2020-09-21,False,False
+3,DE_archived,DE_archived,10,4,2022-01-01,2022-01-01,False,False
+4,DE_falsch_falsch,DE_richtig_falsch,10,3,2022-01-01,2022-01-01,False,False
+5,DE_richtig_falsch,DE_falsch_falsch,5,5,2022-01-01,2022-01-01,False,False
+6,richtig_falsch_no_sug,DE_richtig_falsch_no_sug,5,2,2022-01-01,2022-01-01,False,False
+7,DE_correct_richtig,DE_correct_richtig,10,1,2022-01-01,2022-01-01,False,False
+8,richtig_correct,richtig_correct,1,1,2022-01-01,2022-01-01,False,False
+9,EN_richtig_falsch_no_sug,richtig_falsch_no_sug,2,5,2022-01-01,2022-01-01,False,False
+10,EN_wrong_wrong,EN_right_wrong,2,10,2022-01-01,2022-01-01,False,False
+11,EN_right_wrong,EN_wrong_wrong,5,5,2022-01-01,2022-01-01,False,False
+12,EN_archived,EN_archived,4,10,2022-01-01,2022-01-01,False,False
+13,EN_archived_back,EN_archived_back,5,10,2020-09-21,2022-01-01,False,False
+14,EN_never_shown,EN_never_shown,10,10,2022-01-01,2022-01-01,False,False
