@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 import random
 import datetime
@@ -75,7 +74,8 @@ def initiate_session():
 
     historical_data = pd.DataFrame()
     triesSession = 0
-    return historical_data, triesSession
+    nb_known_words_session = 0
+    return historical_data, triesSession, nb_known_words_session
 
 
 def choose_a_language(vocab):
@@ -179,8 +179,14 @@ def prompt_question(vocab, id_vocab, input_language, output_language, nb_known_w
     text_prompt = "{}{}/{}{} - What is the {} word for '{}'?   ".format(
         PrintColors.BOLD, nb_known_words_session, tries_session, PrintColors.ENDC,
         output_language, vocab.loc[vocab['id_vocab'] == id_vocab, input_language].values[0])
+
+    pre_question_time = datetime.datetime.now()
     your_guess = input(text_prompt)
-    return your_guess
+    post_question_time = datetime.datetime.now()
+
+    question_time = post_question_time - pre_question_time
+
+    return your_guess, question_time
 
 
 def if_correct():
@@ -229,7 +235,10 @@ def if_not_correct(vocab, id_vocab, input_language, output_language, your_guess,
     return write_it_again
 
 
-def add_historical_data(historical_data, vocab, id_vocab, input_language, output_language, is_it_correct, your_guess, write_it_again):
+def add_historical_data(
+        historical_data, vocab,
+        id_vocab, input_language, output_language,
+        is_it_correct, your_guess, question_time, write_it_again):
     """ Add try to historical data
 
     Parameters
@@ -248,6 +257,10 @@ def add_historical_data(historical_data, vocab, id_vocab, input_language, output
         Is the answer correct
     your_guess: str
         The guess word
+    question_time: datetime.timedelta
+        Time it took to write an answer
+    write_it_again: str
+        What was written when it asked to write it again
 
     Return
     -----
@@ -264,6 +277,7 @@ def add_historical_data(historical_data, vocab, id_vocab, input_language, output
         'language_asked': output_language,
         'result': is_it_correct,
         'guess': your_guess,
+        'question_time': question_time.seconds,
         "write_it_again": write_it_again,
         'datetime': datetime.datetime.now()
     }, ignore_index=True)
