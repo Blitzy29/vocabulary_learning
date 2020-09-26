@@ -274,6 +274,7 @@ def add_historical_data(
         'german_word': vocab.loc[vocab['id_vocab'] == id_vocab, 'german'].values[0],
         'english_word': vocab.loc[vocab['id_vocab'] == id_vocab, 'english'].values[0],
         'score_before': vocab.loc[vocab['id_vocab'] == id_vocab, f'score_{input_language}_{output_language}'].values[0],
+        'score_before_other_language': vocab.loc[vocab['id_vocab'] == id_vocab, f'score_{output_language}_{input_language}'].values[0],
         'language_asked': output_language,
         'result': is_it_correct,
         'guess': your_guess,
