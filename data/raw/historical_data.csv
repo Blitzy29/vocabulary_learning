@@ -299,3 +299,103 @@ id_vocab,german_word,english_word,score_before,language_asked,result,guess,quest
 287.0,kalt,cold,0.0,english,1.0,cold,1.0,,2020-09-25 21:52:29.116450
 22.0,blind,blind,0.0,english,1.0,blind,2.0,,2020-09-25 21:52:31.244022
 200.0,die Lampe,the lamp,0.0,english,1.0,the lamp,7.0,,2020-09-25 21:52:38.700319
+36.0,das Gemüse,the vegetable,0.0,english,1.0,the vegetable,4.0,,2020-09-26 14:04:38.815994
+168.0,die Chemie,the chemistry,0.0,german,0.0,das Chemie,3.0,die Chemie the chemistry die Chemie,2020-09-26 14:04:50.776048
+109.0,der Käse,the cheese,0.0,english,1.0,the cheese,2.0,,2020-09-26 14:04:53.693366
+468.0,das Haar,the hair,1.0,german,1.0,das Haar,2.0,,2020-09-26 14:04:56.252917
+138.0,der Seher,the seer,0.0,german,0.0,der Sehen,5.0,der Seher the seen der Seher,2020-09-26 14:05:12.412174
+312.0,normal,normal,0.0,english,1.0,normal,10.0,,2020-09-26 14:05:22.836661
+78.0,das Wort,the word,1.0,english,1.0,the word,3.0,,2020-09-26 14:05:26.492493
+371.0,Was machst du beruflich?,What is your work?,0.0,german,0.0,Was ist deine Beruflich?,53.0,Was machst du beruflich was maschest du beruflich,2020-09-26 14:06:33.456093
+413.0,die Eltern,the parents,0.0,english,1.0,the parents,4.0,,2020-09-26 14:06:37.561550
+253.0,Freitag,Friday,0.0,english,1.0,Friday,2.0,,2020-09-26 14:06:40.225182
+525.0,Januar,January,1.0,german,1.0,Januar,2.0,,2020-09-26 14:06:42.401036
+535.0,radfahren,to cycle,0.0,english,0.0,the cycle,2.0,to cycle the cycle,2020-09-26 14:06:51.416874
+31.0,das Camping,the camping,0.0,english,1.0,the camping,2.0,,2020-09-26 14:06:54.378928
+76.0,das Wissen,the knowledge,0.0,german,1.0,das Wissen,3.0,,2020-09-26 14:06:57.425132
+34.0,das Ethik,the ethique,0.0,german,0.0,das Ethic,2.0,das Ethik the ethique das Ethik,2020-09-26 14:07:06.920027
+373.0,weil,because,1.0,english,1.0,because,2.0,,2020-09-26 14:07:09.064457
+328.0,schon,already,0.0,english,1.0,already,2.0,,2020-09-26 14:07:11.479690
+5.0,anrufen,to phone,0.0,english,0.0,to call,2.0,anrufen to phone anrufen,2020-09-26 14:07:18.799306
+309.0,müde,tired,0.0,german,1.0,müde,3.0,,2020-09-26 14:07:22.591337
+123.0,der Mann,the man,0.0,english,1.0,the man,2.0,,2020-09-26 14:07:24.792092
+266.0,golden,golden,0.0,english,1.0,golden,1.0,,2020-09-26 14:07:26.671059
+49.0,das Meer,the sea,0.0,english,1.0,the sea,1.0,,2020-09-26 14:07:28.639610
+607.0,das Herz,the heart,1.0,german,1.0,das Herz,3.0,,2020-09-26 14:07:31.886457
+369.0,warm,warm,0.0,german,1.0,warm,1.0,,2020-09-26 14:07:33.790695
+160.0,Dezember,December,0.0,english,1.0,December,2.0,,2020-09-26 14:07:36.166677
+344.0,stehen,to stand up,0.0,english,1.0,to stand up,2.0,,2020-09-26 14:07:38.918796
+215.0,die Schokolade,the chocolate,0.0,german,0.0,die Chocolade,4.0,die Schkolade die Schokolade,2020-09-26 14:07:52.327982
+298.0,ledig,single,0.0,german,1.0,ledig,2.0,,2020-09-26 14:07:54.391245
+66.0,das Schiff,the ship,0.0,german,0.0,das Shift,3.0,das Schiff the ship das Schiff,2020-09-26 14:08:04.501656
+271.0,Guten Abend,good evening,0.0,german,1.0,Guten Abend,85.0,,2020-09-26 14:09:29.610288
+404.0,die Aprikose,the apricot,-1.0,german,1.0,die Aprikose,2.0,,2020-09-26 14:09:32.482000
+500.0,brauchen,to need,0.0,english,1.0,to need,2.0,,2020-09-26 14:09:35.066567
+566.0,lieben,to love,0.0,english,0.0,favorite,4.0,lieben to love lieben,2020-09-26 14:09:44.786001
+440.0,grün,green,0.0,english,1.0,green,2.0,,2020-09-26 14:09:46.985631
+475.0,das Wetter,the weather,1.0,german,1.0,das Wetter,2.0,,2020-09-26 14:09:49.761880
+47.0,das Mädchen,the girl,0.0,english,1.0,the girl,2.0,,2020-09-26 14:09:52.305543
+146.0,der Tee,the tea,0.0,english,1.0,the tea,2.0,,2020-09-26 14:09:54.680835
+211.0,die Reise,the travel,0.0,german,0.0,der Weise,2.0,die reise the travel die Reise,2020-09-26 14:10:03.902660
+126.0,der Mensch,the human,0.0,german,0.0,das Menschen,9.0,der Mensch the human der Mensch,2020-09-26 14:10:21.320214
+191.0,die Jacke,the jacket,0.0,english,1.0,the jacket,2.0,,2020-09-26 14:10:23.990278
+237.0,Dienstag,Tuesday,0.0,german,1.0,Dienstag,2.0,,2020-09-26 14:10:26.502947
+438.0,viel,a lot,1.0,english,1.0,a lot,2.0,,2020-09-26 14:10:28.791568
+29.0,das Büro,the office,1.0,german,1.0,das Büro,2.0,,2020-09-26 14:10:31.262880
+554.0,die Woche,the week,0.0,german,1.0,die Woche,3.0,,2020-09-26 14:10:34.839509
+445.0,das Interview,the interview,0.0,english,1.0,the interview,3.0,,2020-09-26 14:10:38.055194
+179.0,die Fotografie,the photography,0.0,english,1.0,the photography,5.0,,2020-09-26 14:10:43.431120
+273.0,Guten Tag,good day,0.0,english,1.0,good day,30.0,,2020-09-26 14:11:13.996352
+127.0,der Nachmittag,the afternoon,0.0,english,0.0,the dessert,4.0,der Nachmittag the afternoon der Nachittag,2020-09-26 14:11:42.628236
+70.0,das Sonderangebot,the special offer,0.0,english,1.0,the special offer,4.0,,2020-09-26 14:11:47.452527
+497.0,das Buch,the book,0.0,english,1.0,the book,2.0,,2020-09-26 14:11:49.548074
+292.0,kommen,to come,1.0,german,1.0,kommen,1.0,,2020-09-26 14:11:51.547881
+230.0,die Tomate,the tomato,1.0,english,1.0,the tomato,2.0,,2020-09-26 14:11:54.204344
+207.0,die Oma,the grandma,0.0,english,1.0,the grandma,2.0,,2020-09-26 14:11:57.132155
+216.0,die Schwester,the sister,0.0,german,1.0,die Schwester,3.0,,2020-09-26 14:12:00.811736
+111.0,der Köchenchef,the cook,0.0,english,0.0,the chef,3.0,der Köchenchef the cook der Köchenchef,2020-09-26 14:12:14.527609
+353.0,toll,formidable,0.0,german,1.0,toll,2.0,,2020-09-26 14:12:16.739232
+483.0,nass,wet,0.0,german,0.0,wet,4.0,nass wet nass,2020-09-26 14:12:25.185442
+37.0,das Handtuch,the towel,-1.0,german,1.0,das Handtuch,4.0,,2020-09-26 14:12:29.737942
+412.0,das Paar,the pair,0.0,german,1.0,das Paar,4.0,,2020-09-26 14:12:33.788287
+35.0,das Geld,the money,0.0,german,1.0,das Geld,2.0,,2020-09-26 14:12:36.090091
+294.0,lang,long,1.0,german,1.0,lang,1.0,,2020-09-26 14:12:37.624995
+114.0,der Kopf,the head,0.0,english,1.0,the head,2.0,,2020-09-26 14:12:40.041931
+474.0,der Pokal,the cup,0.0,german,0.0,der Cup,4.0,der Pokal the cup der Pokal,2020-09-26 14:12:49.294324
+342.0,sprechen,to speak,2.0,english,1.0,to speak,3.0,,2020-09-26 14:12:52.793369
+245.0,es tut mir leid,I'm sorry,0.0,german,0.0,Es tut mir leid,3.0,,2020-09-26 14:13:01.368776
+376.0,wichtig,important,0.0,english,1.0,important,3.0,,2020-09-26 14:13:04.896965
+329.0,schwarz,black,0.0,english,1.0,black,9.0,,2020-09-26 14:13:14.104388
+10.0,auf Wiedersehen,goodbye,0.0,german,0.0,tschüss,5.0,auf Wiedersehen auf Wiedersehen,2020-09-26 14:13:30.719227
+240.0,durst,thirsty,0.0,english,1.0,thirsty,40.0,,2020-09-26 14:14:11.437502
+574.0,das Bett,the bed,1.0,english,1.0,the bed,3.0,,2020-09-26 14:14:14.862230
+214.0,die Sauce,the sauce,0.0,german,1.0,die Sauce,3.0,,2020-09-26 14:14:18.158221
+330.0,schwimmen,to swim,1.0,german,1.0,schwimmen,2.0,,2020-09-26 14:14:21.142562
+370.0,warum,why,0.0,english,1.0,why,2.0,,2020-09-26 14:14:23.558168
+433.0,der Kohl,the cabbage,1.0,english,1.0,the cabbage,3.0,,2020-09-26 14:14:26.701718
+396.0,jede,each,0.0,english,1.0,each,2.0,,2020-09-26 14:14:29.309459
+20.0,bitte sehr,you're welcome,0.0,english,1.0,you're welcome,12.0,,2020-09-26 14:14:42.269176
+494.0,heiss,hot,0.0,german,1.0,heiss,8.0,,2020-09-26 14:14:50.684860
+448.0,die Biologie,the biology,1.0,german,1.0,die Biologie,3.0,,2020-09-26 14:14:53.877261
+222.0,die Sprache,the language,2.0,english,1.0,the language,2.0,,2020-09-26 14:14:56.813103
+181.0,die Frau,the woman,0.0,german,1.0,die Frau,3.0,,2020-09-26 14:14:59.900512
+274.0,haben,to have,2.0,german,1.0,haben,1.0,,2020-09-26 14:15:01.692463
+331.0,schwul,gay lovers,0.0,german,1.0,schwul,3.0,,2020-09-26 14:15:04.900232
+44.0,das Kreuz,the cross,0.0,english,1.0,the cross,2.0,,2020-09-26 14:15:07.476130
+224.0,die Stimme,the voice,0.0,english,0.0,the vote,3.0,die Stimme the voice die Stimme,2020-09-26 14:15:18.227008
+276.0,heissen,to be named,0.0,english,1.0,to be named,4.0,,2020-09-26 14:15:22.779682
+248.0,fantastisch,fantastic,-1.0,english,1.0,fantastic,3.0,,2020-09-26 14:15:26.355317
+416.0,die Wassermelone,the watermelon,-1.0,german,1.0,die Wassermelone,5.0,,2020-09-26 14:15:31.722431
+83.0,der Arm,the arm,0.0,english,1.0,the arm,2.0,,2020-09-26 14:15:34.209770
+131.0,der Praktikant,the intern,0.0,german,1.0,der Praktikant,8.0,,2020-09-26 14:15:42.641195
+444.0,die Ärztin,the female doctor,1.0,english,1.0,the female doctor,5.0,,2020-09-26 14:15:48.505000
+355.0,traurig,sad,0.0,german,1.0,traurig,3.0,,2020-09-26 14:15:52.096660
+125.0,der Mechatroniker,the mechanic,1.0,english,1.0,the mechanic,3.0,,2020-09-26 14:15:55.177834
+502.0,das Haus,the house,0.0,german,1.0,das Haus,2.0,,2020-09-26 14:15:57.736877
+366.0,voll,full,0.0,english,1.0,full,2.0,,2020-09-26 14:16:00.624981
+161.0,die Angst,the fear,2.0,english,1.0,the fear,3.0,,2020-09-26 14:16:04.424856
+552.0,die Aubergine,the eggplant,0.0,english,1.0,the eggplant,7.0,,2020-09-26 14:16:11.776352
+105.0,der Hund,the dog,0.0,english,1.0,the dog,2.0,,2020-09-26 14:16:14.344051
+202.0,die Milch,the milk,0.0,english,1.0,the milk,2.0,,2020-09-26 14:16:17.206334
+425.0,killen,to kill,0.0,english,1.0,to kill,2.0,,2020-09-26 14:16:19.424166
+280.0,hoch,up,0.0,english,1.0,up,1.0,,2020-09-26 14:16:21.199387
