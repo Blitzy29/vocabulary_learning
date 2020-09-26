@@ -1,43 +1,43 @@
-id_vocab,german_word,english_word,score_before,language_asked,result,guess,question_time,write_it_again,datetime
-5,stimmen,to vote,0,german,0,voten,4,stim,2020-09-24 19:18:48.634821
-13,wilkommen,welcome,0,german,1,wilkommen,3,,2020-09-24 19:18:51.795404
-11,die Ärztin,the female doctor,0,german,0,die Ärtzin,3,,2020-09-24 19:18:56.274586
-10,viel,a lot,0,german,1,viel,2,,2020-09-24 19:18:58.354556
-2,richtig,correct,0,english,1,correct,2,,2020-09-24 19:19:00.786959
-9,das Jahr,the year,0,english,0,theihew,3,,2020-09-24 19:19:12.746541
-4,sprechen,to speak,0,english,0,TO SPEAK,2,,2020-09-24 19:19:17.312349
-8,die Aprikose,the apricot,0,german,1,die Aprikose,3,,2020-09-24 19:19:20.674570
-6,verheiratet,married,0,english,1,married,2,,2020-09-24 19:19:22.947463
-3,September,September,0,german,1,September,2,,2020-09-24 19:19:25.690596
-1,rennen,to sprint,0,english,0,to walk,2,,2020-09-24 19:19:29.242456
-12,zusammen,together,0,english,1,together,2,,2020-09-24 19:19:31.762100
-7,wirklich,really,0,english,0,correct,2,wirklich,2020-09-24 19:19:34.479012
-14,der Pokal,the cup,0,german,1,der Pokal,2,,2020-09-24 19:19:37.313845
-3,September,September,1,german,1,September,3,,2020-09-24 19:22:45.913969
-6,verheiratet,married,1,english,1,married,2,,2020-09-24 19:22:48.457256
-9,das Jahr,the year,-1,english,1,the year,2,,2020-09-24 19:22:51.034178
-12,zusammen,together,0,german,0,zud,1,,2020-09-24 19:22:54.851200
-10,viel,a lot,1,german,1,viel,1,,2020-09-24 19:22:56.704917
-14,der Pokal,the cup,1,german,0,die Pokal,3,,2020-09-24 19:23:00.695802
-1,rennen,to sprint,0,german,0,printen,3,,2020-09-24 19:23:04.784582
-13,wilkommen,welcome,0,english,1,welcome,2,,2020-09-24 19:23:07.298743
-2,richtig,correct,0,german,0,wirklich,3,,2020-09-24 19:23:12.088827
-5,stimmen,to vote,0,english,1,to vote,3,,2020-09-24 19:23:15.441459
-7,wirklich,really,0,german,0,wirkliche,4,really wiklich,2020-09-24 19:23:21.080142
-8,die Aprikose,the apricot,0,english,1,the apricot,3,,2020-09-24 19:23:25.095831
-11,die Ärztin,the female doctor,-1,german,0,die Arztin,7,,2020-09-24 19:23:33.774537
-4,sprechen,to speak,0,german,1,sprechen,5,,2020-09-24 19:23:39.303810
-1,rennen,to sprint,-1,english,1,to sprint,10,,2020-09-24 19:25:01.108439
-13,wilkommen,welcome,1,german,1,wilkommen,3,,2020-09-24 19:25:04.931844
-6,verheiratet,married,2,english,0,marrid,3,,2020-09-24 19:25:08.986186
-3,September,September,0,english,1,September,2,,2020-09-24 19:25:11.763793
-10,viel,a lot,2,german,1,viel,1,,2020-09-24 19:25:13.427719
-9,das Jahr,the year,0,german,0,das jahr,3,,2020-09-24 19:25:18.090700
-12,zusammen,together,1,english,1,together,2,,2020-09-24 19:25:21.059333
-4,sprechen,to speak,1,german,1,sprechen,72,,2020-09-24 19:26:33.312717
-7,wirklich,really,-1,english,0,wirkclih,3,wirklich really wirklich,2020-09-24 19:26:38.784707
-8,die Aprikose,the apricot,1,english,1,the apricot,4,,2020-09-24 19:26:43.135899
-11,die Ärztin,the female doctor,0,english,0,the femal ocrg,5,,2020-09-24 19:26:49.783660
-2,richtig,correct,1,english,1,correct,5,,2020-09-24 19:26:55.096269
-14,der Pokal,the cup,0,english,1,the cup,2,,2020-09-24 19:26:57.591799
-5,stimmen,to vote,1,english,1,to vote,2,,2020-09-24 19:26:59.912363
+id_vocab,german_word,english_word,score_before,score_before_other_language,language_asked,result,guess,question_time,write_it_again,datetime
+5.0,stimmen,to vote,0.0,0.0,german,1.0,stimmen,2.0,,2020-09-26 15:36:12.807719
+13.0,wilkommen,welcome,0.0,0.0,german,1.0,wilkommen,2.0,,2020-09-26 15:36:15.214298
+7.0,wirklich,really,0.0,0.0,german,1.0,wirklich,2.0,,2020-09-26 15:36:17.400445
+2.0,richtig,correct,0.0,0.0,german,0.0,correct,2.0,,2020-09-26 15:36:20.672080
+11.0,die Ärztin,the female doctor,0.0,0.0,german,0.0,die rtzzin,3.0,,2020-09-26 15:36:24.655357
+14.0,der Pokal,the cup,0.0,0.0,german,0.0,der Pokla,2.0,,2020-09-26 15:36:27.631112
+9.0,das Jahr,the year,0.0,0.0,german,1.0,das Jahr,1.0,,2020-09-26 15:36:29.551602
+1.0,rennen,to sprint,0.0,0.0,german,1.0,rennen,1.0,,2020-09-26 15:36:31.359999
+4.0,sprechen,to speak,0.0,0.0,german,0.0,spechen,2.0,,2020-09-26 15:36:34.558801
+10.0,viel,a lot,0.0,0.0,german,1.0,viel,1.0,,2020-09-26 15:36:36.015926
+6.0,verheiratet,married,0.0,0.0,english,1.0,married,1.0,,2020-09-26 15:36:37.936004
+3.0,September,September,0.0,0.0,german,1.0,September,2.0,,2020-09-26 15:36:39.983532
+8.0,die Aprikose,the apricot,0.0,0.0,german,0.0,die Apokose,2.0,,2020-09-26 15:36:43.406900
+12.0,zusammen,together,0.0,0.0,english,1.0,together,1.0,,2020-09-26 15:36:45.335166
+9.0,das Jahr,the year,1.0,0.0,german,1.0,das Jahr,2.0,,2020-09-26 15:37:46.172719
+12.0,zusammen,together,0.0,1.0,german,1.0,zusammen,2.0,,2020-09-26 15:37:48.396229
+5.0,stimmen,to vote,1.0,0.0,german,0.0,simmen,1.0,,2020-09-26 15:37:51.211944
+1.0,rennen,to sprint,1.0,0.0,german,1.0,rennen,1.0,,2020-09-26 15:37:52.804136
+13.0,wilkommen,welcome,0.0,1.0,english,1.0,welcome,2.0,,2020-09-26 15:37:55.022526
+6.0,verheiratet,married,1.0,0.0,english,1.0,married,1.0,,2020-09-26 15:37:56.939913
+4.0,sprechen,to speak,-1.0,0.0,german,1.0,sprechen,1.0,,2020-09-26 15:37:58.868120
+8.0,die Aprikose,the apricot,-1.0,0.0,german,0.0,dei Apikose,2.0,,2020-09-26 15:38:02.539310
+3.0,September,September,0.0,1.0,english,1.0,September,2.0,,2020-09-26 15:38:04.636292
+14.0,der Pokal,the cup,-1.0,0.0,german,0.0,der POkal,2.0,,2020-09-26 15:38:08.035179
+10.0,viel,a lot,0.0,1.0,english,0.0,a lo,1.0,,2020-09-26 15:38:10.458894
+11.0,die Ärztin,the female doctor,0.0,-1.0,english,1.0,the female doctor,2.0,,2020-09-26 15:38:13.275451
+7.0,wirklich,really,0.0,1.0,english,1.0,really,2.0,,2020-09-26 15:38:15.299095
+2.0,richtig,correct,-1.0,0.0,german,1.0,richtig,2.0,,2020-09-26 15:38:17.411571
+6.0,verheiratet,married,0.0,2.0,german,0.0,vereihrate,3.0,,2020-09-26 15:39:06.807877
+4.0,sprechen,to speak,0.0,0.0,english,1.0,to speak,3.0,,2020-09-26 15:39:10.760516
+7.0,wirklich,really,1.0,1.0,german,1.0,wirklich,2.0,,2020-09-26 15:39:13.168510
+9.0,das Jahr,the year,0.0,2.0,english,0.0,,1.0,,2020-09-26 15:39:15.753555
+12.0,zusammen,together,1.0,1.0,english,1.0,together,2.0,,2020-09-26 15:39:17.880849
+3.0,September,September,1.0,1.0,english,1.0,September,2.0,,2020-09-26 15:39:19.952135
+14.0,der Pokal,the cup,0.0,-2.0,english,1.0,the cup,1.0,,2020-09-26 15:39:21.760264
+5.0,stimmen,to vote,0.0,0.0,english,1.0,to vote,2.0,,2020-09-26 15:39:23.823382
+10.0,viel,a lot,1.0,-1.0,german,1.0,viel,1.0,,2020-09-26 15:39:25.182744
+1.0,rennen,to sprint,2.0,0.0,german,1.0,rennen,1.0,,2020-09-26 15:39:26.736036
+2.0,richtig,correct,0.0,0.0,german,0.0,recall,2.0,,2020-09-26 15:39:29.864344
+11.0,die Ärztin,the female doctor,-1.0,1.0,german,0.0,die rtzin,2.0,,2020-09-26 15:39:33.463349
+8.0,die Aprikose,the apricot,0.0,-2.0,english,0.0,the apiroct,1.0,,2020-09-26 15:39:52.887442
+13.0,wilkommen,welcome,1.0,1.0,english,1.0,welcome,3.0,,2020-09-26 15:39:56.726798
