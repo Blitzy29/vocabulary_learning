@@ -78,20 +78,24 @@ def initiate_session():
     return historical_data, triesSession, nb_known_words_session
 
 
-def choose_a_language(vocab):
+def choose_a_language(i_vocab_try, vocab):
     """ Choose a language between German and English
 
     Parameters
     -----
+    i_vocab_try: dict
+        try
     vocab: pd.DataFrame
         The vocab table
 
     Return
     -----
-    input_language: str
-        The input language
-    output_language: str
-        The output language
+    i_vocab_try: dict
+        try
+        input_language: str
+            The input language
+        output_language: str
+            The output language
     """
 
     languages = ['german', 'english']
@@ -115,70 +119,108 @@ def choose_a_language(vocab):
 
     if not possible_languages:
         print("There are no more word for today!")
-        return -1, -1
+        i_vocab_try['input_language'] = -1
+        i_vocab_try['output_language'] = -1
+        return i_vocab_try
 
     output_language = random.choice(possible_languages)
     input_language = [x for x in languages if x != output_language][0]
 
-    return input_language, output_language
+    i_vocab_try['input_language'] = input_language
+    i_vocab_try['output_language'] = output_language
+
+    return i_vocab_try
 
 
-def choose_a_word(vocab, input_language, output_language):
+def choose_a_word(i_vocab_try, vocab):
     """ Choose a word in vocab, which has not been successful in this session
 
     Parameters
     -----
+    i_vocab_try: dict
+        try
     vocab: pd.DataFrame
         The vocab table
-    input_language: str
-        The input language
-    output_language: str
-        The output language
 
     Return
     -----
-    id_vocab: int
-        The word id
+    i_vocab_try:
+        try
+        id_vocab: int
+            The word id
     """
 
     forbidden_words = (
             vocab['try_session_german_english'] |
             vocab['try_session_english_german'] |
-            (vocab[f'score_{input_language}_{output_language}'] >= 5)
+            (vocab[f"score_{i_vocab_try['input_language']}_{i_vocab_try['output_language']}"] >= 5)
     )
 
     # Pick a random word
     id_vocab = random.choice(vocab[~forbidden_words]['id_vocab'].tolist())
-    return id_vocab
+
+    i_vocab_try['id_vocab'] = id_vocab
+
+    i_vocab_try['german_word'] = vocab.loc[
+        vocab['id_vocab'] == id_vocab, 'german'
+    ].values[0]
+
+    i_vocab_try['english_word'] = vocab.loc[
+        vocab['id_vocab'] == id_vocab, 'english'
+    ].values[0]
+
+    i_vocab_try['word_input_language'] = vocab.loc[
+        vocab['id_vocab'] == id_vocab, i_vocab_try['input_language']
+    ].values[0]
+
+    i_vocab_try['word_output_language'] = vocab.loc[
+        vocab['id_vocab'] == id_vocab, i_vocab_try['output_language']
+    ].values[0]
+
+    i_vocab_try['score_before'] = vocab.loc[
+        vocab['id_vocab'] == id_vocab, f"score_{i_vocab_try['input_language']}_{i_vocab_try['output_language']}"
+    ].values[0]
+
+    i_vocab_try['score_before_other_language'] = vocab.loc[
+        vocab['id_vocab'] == id_vocab, f"score_{i_vocab_try['output_language']}_{i_vocab_try['input_language']}"
+    ].values[0]
+
+    return i_vocab_try
 
 
-def prompt_question(vocab, id_vocab, input_language, output_language, nb_known_words_session, tries_session):
+def prompt_question(i_vocab_try, print_info):
     """ Prompt the word and language to find. Return the answer
 
     Parameters
     -----
-    vocab: pd.DataFrame
-        The vocab table
-    id_vocab: int
-        The word id of the chosen word
-    input_language: str
-        The input language
-    output_language: str
-        The output language
-    nb_known_words_session: int
-        Number of words known during this session
-    tries_session: int
-        Number of tries during this session
+    i_vocab_try: dict
+        try
+        id_vocab: int
+            The word id of the chosen word
+        input_language: str
+            The input language
+        output_language: str
+            The output language
+    print_info: dict()
+        nb_known_words_session: int
+            Number of words known during this session
+        tries_session: int
+            Number of tries during this session
 
     Return
     -----
-    your_guess: str
-        The answer
+    i_vocab_try: dict()
+        try
+        your_guess: str
+            The answer
+        question_time
     """
 
     text_prompt = "{}{}/{}{} - What is the {} word for '{}'?   ".format(
-        PrintColors.BOLD, nb_known_words_session, tries_session, PrintColors.ENDC,
-        output_language, vocab.loc[vocab['id_vocab'] == id_vocab, input_language].values[0])
+        PrintColors.BOLD, print_info['nb_known_words_session'], print_info['tries_session'], PrintColors.ENDC,
+        i_vocab_try['output_language'], i_vocab_try['word_input_language'])
+
+    i_vocab_try['datetime'] = datetime.datetime.now()
 
     pre_question_time = datetime.datetime.now()
     your_guess = input(text_prompt)
@@ -186,32 +228,53 @@ def prompt_question(vocab, id_vocab, input_language, output_language, nb_known_w
 
     question_time = post_question_time - pre_question_time
 
-    return your_guess, question_time
+    i_vocab_try['your_guess'] = your_guess
+    i_vocab_try['question_time'] = question_time.seconds
+
+    return i_vocab_try
 
 
-def if_correct():
+def check_answer(i_vocab_try, vocab):
+
+    # Answer analysis
+    i_vocab_try['is_it_correct'] = i_vocab_try['your_guess'] == i_vocab_try['word_output_language']
+
+    i_vocab_try['is_it_another_word'] = i_vocab_try['your_guess'] in vocab[i_vocab_try['output_language']].values
+
+    return i_vocab_try
+
+
+def if_correct(i_vocab_try):
     """Print statement if correct answer
     """
+
     print(f"{PrintColors.GREEN}Correct!{PrintColors.ENDC}")
 
+    i_vocab_try['write_it_again'] = None
+    i_vocab_try['confused_word'] = None
 
-def if_not_correct(vocab, id_vocab, input_language, output_language, your_guess, is_it_another_word):
+    return i_vocab_try
+
+
+def if_not_correct(i_vocab_try, vocab):
     """Print statement + rewrite input if wrong answer
 
     Parameters
     -----
+    i_vocab_try: dict()
+        try
+        id_vocab: int
+            The word id of the chosen word
+        input_language: str
+            The input language
+        output_language: str
+            The output language
+        your_guess: str
+            The answer
+        is_it_another_word: boolean
+            Does the answer correspond to another word
     vocab: pd.DataFrame
         The vocab table
-    id_vocab: int
-        The word id of the chosen word
-    input_language: str
-        The input language
-    output_language: str
-        The output language
-    your_guess: str
-        The answer
-    is_it_another_word: boolean
-        Does the answer correspond to another word
 
     Return
     -----
@@ -222,45 +285,53 @@ def if_not_correct(vocab, id_vocab, input_language, output_language, your_guess,
     print(
         "{}Sorry{}, it was '{} = {}'".format(
             PrintColors.FAIL, PrintColors.ENDC,
-            vocab.loc[vocab['id_vocab'] == id_vocab, input_language].values[0],
-            vocab.loc[vocab['id_vocab'] == id_vocab, output_language].values[0]
+            i_vocab_try['word_input_language'],
+            i_vocab_try['word_output_language']
         ))
 
-    if is_it_another_word:
+    i_vocab_try['confused_word'] = None
+    if i_vocab_try['is_it_another_word']:
+
+        confused_word = vocab[
+            vocab[i_vocab_try['output_language']] == i_vocab_try['your_guess']
+        ]
+        i_vocab_try['confused_word'] = confused_word.iloc[0]['id_vocab']
+
         print("{}You confused it{} with '{} = {}'".format(
             PrintColors.WARNING, PrintColors.ENDC,
-            your_guess, vocab[vocab[output_language] == your_guess].iloc[0][input_language]))
+            i_vocab_try['your_guess'],
+            confused_word.iloc[0][i_vocab_try['input_language']]
+        ))
 
     write_it_again = input("Write it again   ")
-    return write_it_again
+    i_vocab_try['write_it_again'] = write_it_again
+
+    return i_vocab_try
 
 
-def add_historical_data(
-        historical_data, vocab,
-        id_vocab, input_language, output_language,
-        is_it_correct, your_guess, question_time, write_it_again):
+def add_historical_data(historical_data, i_vocab_try):
     """ Add try to historical data
 
     Parameters
     -----
     historical_data: pd.DataFrame()
         Historical data of the session
-    vocab: pd.DataFrame
+    i_vocab_try: pd.DataFrame
         The vocab table
-    id_vocab: int
-        The word id of the chosen word
-    input_language: str
-        The input language
-    output_language: str
-        The output language
-    is_it_correct: boolean
-        Is the answer correct
-    your_guess: str
-        The guess word
-    question_time: datetime.timedelta
-        Time it took to write an answer
-    write_it_again: str
-        What was written when it asked to write it again
+        id_vocab: int
+            The word id of the chosen word
+        input_language: str
+            The input language
+        output_language: str
+            The output language
+        is_it_correct: boolean
+            Is the answer correct
+        your_guess: str
+            The guess word
+        question_time: datetime.timedelta
+            Time it took to write an answer
+        write_it_again: str
+            What was written when it asked to write it again
 
     Return
     -----
@@ -270,37 +341,40 @@ def add_historical_data(
     """
 
     historical_data = historical_data.append({
-        'id_vocab': vocab.loc[vocab['id_vocab'] == id_vocab, 'id_vocab'].values[0],
-        'german_word': vocab.loc[vocab['id_vocab'] == id_vocab, 'german'].values[0],
-        'english_word': vocab.loc[vocab['id_vocab'] == id_vocab, 'english'].values[0],
-        'score_before': vocab.loc[vocab['id_vocab'] == id_vocab, f'score_{input_language}_{output_language}'].values[0],
-        'score_before_other_language': vocab.loc[vocab['id_vocab'] == id_vocab, f'score_{output_language}_{input_language}'].values[0],
-        'language_asked': output_language,
-        'result': is_it_correct,
-        'guess': your_guess,
-        'question_time': question_time.seconds,
-        "write_it_again": write_it_again,
-        'datetime': datetime.datetime.now()
+        'id_vocab': i_vocab_try['id_vocab'],
+        'german_word': i_vocab_try['german_word'],
+        'english_word': i_vocab_try['english_word'],
+        'score_before': i_vocab_try['score_before'],
+        'score_before_other_language': i_vocab_try['score_before_other_language'],
+        'language_asked': i_vocab_try['output_language'],
+        'result': i_vocab_try['is_it_correct'],
+        'guess': i_vocab_try['your_guess'],
+        'question_time': i_vocab_try['question_time'],
+        "write_it_again": i_vocab_try['write_it_again'],
+        "is_it_another_word": i_vocab_try['is_it_another_word'],
+        "confused_word": i_vocab_try['confused_word'],
+        'datetime': i_vocab_try['datetime']
     }, ignore_index=True)
 
     return historical_data
 
 
-def update_vocab(vocab, id_vocab, input_language, output_language, is_it_correct):
+def update_vocab(vocab, i_vocab_try):
     """ Update the vocab table
 
     Parameters
     -----
     vocab: pd.DataFrame
         The vocab table
-    id_vocab: int
-        The word if of the chosen word
-    input_language: str
-        The input language
-    output_language: str
-        The output language
-    is_it_correct: boolean
-        Is the answer correct
+    i_vocab_try: dict()
+        id_vocab: int
+            The word if of the chosen word
+        input_language: str
+            The input language
+        output_language: str
+            The output language
+        is_it_correct: boolean
+            Is the answer correct
 
     Return
     -----
@@ -309,18 +383,27 @@ def update_vocab(vocab, id_vocab, input_language, output_language, is_it_correct
 
     """
 
-    if is_it_correct:
+    if i_vocab_try['is_it_correct']:
         vocab.loc[
-            vocab["id_vocab"] == id_vocab, f'score_{input_language}_{output_language}'
+            vocab["id_vocab"] == i_vocab_try['id_vocab'],
+            f"score_{i_vocab_try['input_language']}_{i_vocab_try['output_language']}"
         ] += 1
-    if not is_it_correct:
+
+    if not i_vocab_try['is_it_correct']:
         vocab.loc[
-            vocab["id_vocab"] == id_vocab, f'score_{input_language}_{output_language}'
+            vocab["id_vocab"] == i_vocab_try['id_vocab'],
+            f"score_{i_vocab_try['input_language']}_{i_vocab_try['output_language']}"
         ] -= 1
 
-    vocab.loc[vocab["id_vocab"] == id_vocab, f'try_session_{input_language}_{output_language}'] = True
+    vocab.loc[
+        vocab["id_vocab"] == i_vocab_try['id_vocab'],
+        f"try_session_{i_vocab_try['input_language']}_{i_vocab_try['output_language']}"
+    ] = True
 
-    if vocab.loc[vocab["id_vocab"] == id_vocab, f'score_{input_language}_{output_language}'].values[0] == 5:
+    if vocab.loc[
+        vocab["id_vocab"] == i_vocab_try['id_vocab'],
+        f"score_{i_vocab_try['input_language']}_{i_vocab_try['output_language']}"
+    ].values[0] == 5:
         print(f"{PrintColors.BOLDGREEN}Archived!!{PrintColors.ENDC}")
 
     return vocab

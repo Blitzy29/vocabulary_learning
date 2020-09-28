@@ -1,1 +1,1 @@
-english_word,german_word,language_asked,result,score_before,day
+id_vocab,german_word,english_word,score_before,score_before_other_language,language_asked,result,guess,question_time,write_it_again,confused_word,is_it_another_word,datetime
