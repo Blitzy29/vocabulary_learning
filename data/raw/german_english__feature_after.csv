@@ -1,0 +1,15 @@
+id_vocab,german,english,score_german_english,score_english_german,retry_german_english,retry_english_german,try_session_german_english,try_session_english_german
+1,rennen,to sprint,1,3,2022-01-01,2022-01-01,True,False
+2,richtig,correct,1,-1,2022-01-01,2022-01-01,True,False
+3,September,September,3,1,2022-01-01,2022-01-01,True,False
+4,sprechen,to speak,1,-1,2022-01-01,2022-01-01,False,True
+5,stimmen,to vote,1,-1,2022-01-01,2022-01-01,False,True
+6,verheiratet,married,2,-2,2022-01-01,2022-01-01,False,True
+7,wirklich,really,2,2,2022-01-01,2022-01-01,True,False
+8,die Aprikose,the apricot,-2,-2,2022-01-01,2022-01-01,True,False
+9,das Jahr,the year,-1,3,2022-01-01,2022-01-01,False,True
+10,viel,a lot,0,2,2022-01-01,2022-01-01,True,False
+11,die Ärztin,the female doctor,2,-2,2022-01-01,2022-01-01,True,False
+12,zusammen,together,3,1,2022-01-01,2022-01-01,True,False
+13,wilkommen,welcome,3,1,2022-01-01,2022-01-01,True,False
+14,der Pokal,the cup,1,-3,2022-01-01,2022-01-01,False,True
