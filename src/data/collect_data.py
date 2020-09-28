@@ -239,7 +239,9 @@ def check_answer(i_vocab_try, vocab):
     # Answer analysis
     i_vocab_try['is_it_correct'] = i_vocab_try['your_guess'] == i_vocab_try['word_output_language']
 
-    i_vocab_try['is_it_another_word'] = i_vocab_try['your_guess'] in vocab[i_vocab_try['output_language']].values
+    i_vocab_try['is_it_another_word'] = None
+    if not i_vocab_try['is_it_correct']:
+        i_vocab_try['is_it_another_word'] = i_vocab_try['your_guess'] in vocab[i_vocab_try['output_language']].values
 
     return i_vocab_try
 
