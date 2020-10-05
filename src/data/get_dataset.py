@@ -58,3 +58,17 @@ def get_vocab(vocab_path="data/raw/german_english.csv", list_columns=None):
     vocab = vocab[list_columns]
 
     return vocab
+
+
+def get_all_vocab(all_vocab_path="data/raw/all_vocab.csv", list_columns=None):
+
+    all_vocab = pd.read_csv(all_vocab_path)
+
+    if list_columns is None:
+        list_columns = ["german", "english"]
+    if list_columns == "all":
+        list_columns = all_vocab.columns.tolist()
+
+    all_vocab = all_vocab[list_columns]
+
+    return all_vocab

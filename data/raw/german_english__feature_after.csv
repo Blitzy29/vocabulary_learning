@@ -1,15 +1,15 @@
 id_vocab,german,english,score_german_english,score_english_german,retry_german_english,retry_english_german,try_session_german_english,try_session_english_german
-1,rennen,to sprint,0,4,2022-01-01,2022-01-01,False,True
+1,rennen,to sprint,0,2,2022-01-01,2022-01-01,False,True
 2,richtig,correct,0,-1,2022-01-01,2022-01-01,False,False
-3,September,September,3,1,2022-01-01,2022-01-01,True,False
-4,sprechen,to speak,0,0,2022-01-01,2022-01-01,True,False
-5,stimmen,to vote,0,0,2022-01-01,2022-01-01,True,False
-6,verheiratet,married,2,-2,2022-01-01,2022-01-01,False,True
-7,wirklich,really,0,2,2022-01-01,2022-01-01,True,False
-8,die Aprikose,the apricot,0,-2,2022-01-01,2022-01-01,True,False
-9,das Jahr,the year,-1,1,2022-01-01,2022-01-01,False,True
-10,viel,a lot,-1,2,2022-01-01,2022-01-01,False,False
-11,die Ärztin,the female doctor,1,-2,2022-01-01,2022-01-01,False,False
-12,zusammen,together,2,1,2022-01-01,2022-01-01,False,False
-13,wilkommen,welcome,2,0,2022-01-01,2022-01-01,False,True
-14,der Pokal,the cup,1,-1,2022-01-01,2022-01-01,False,True
+3,September,September,2,1,2022-01-01,2022-01-01,False,False
+4,sprechen,to speak,2,0,2022-01-01,2022-01-01,True,False
+5,stimmen,to vote,1,-1,2022-01-01,2022-01-01,False,True
+6,verheiratet,married,1,-1,2022-01-01,2022-01-01,True,False
+7,wirklich,really,1,2,2022-01-01,2022-01-01,False,False
+8,die Aprikose,the apricot,-1,-2,2022-01-01,2022-01-01,False,False
+9,das Jahr,the year,-2,2,2022-01-01,2022-01-01,True,False
+10,viel,a lot,0,2,2022-01-01,2022-01-01,True,False
+11,die Ärztin,the female doctor,0,-2,2022-01-01,2022-01-01,True,False
+12,zusammen,together,2,0,2022-01-01,2022-01-01,False,True
+13,wilkommen,welcome,1,1,2022-01-01,2022-01-01,True,False
+14,der Pokal,the cup,0,-2,2022-01-01,2022-01-01,True,False

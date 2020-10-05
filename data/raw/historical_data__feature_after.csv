@@ -1,11 +1,11 @@
 id_vocab,german_word,english_word,score_before,score_before_other_language,language_asked,result,guess,question_time,write_it_again,confused_word,is_it_another_word,datetime
-1.0,rennen,to sprint,3.0,0.0,german,1.0,rennen,2.0,,,,2020-09-28 23:10:18.193597
-7.0,wirklich,really,1.0,2.0,english,0.0,correct,3.0,correct,2,True,2020-09-28 23:10:20.989286
-14.0,der Pokal,the cup,-2.0,1.0,german,1.0,der Pokal,2.0,,,,2020-09-28 23:10:27.364991
-6.0,verheiratet,married,-1.0,2.0,german,0.0,der Pokal,3.0,,14,True,2020-09-28 23:10:29.965530
-9.0,das Jahr,the year,2.0,-1.0,german,0.0,der Pokla,2.0,,,False,2020-09-28 23:10:35.278957
-3.0,September,September,2.0,1.0,english,1.0,September,2.0,,,,2020-09-28 23:10:39.003971
-5.0,stimmen,to vote,1.0,0.0,english,0.0,really,1.0,,7,True,2020-09-28 23:10:41.510307
-4.0,sprechen,to speak,1.0,0.0,english,0.0,stimmen,1.0,,,False,2020-09-28 23:10:44.404685
-8.0,die Aprikose,the apricot,-1.0,-2.0,english,1.0,the apricot,3.0,,,,2020-09-28 23:10:47.112406
-13.0,wilkommen,welcome,1.0,2.0,german,0.0,wiklomen,3.0,,,False,2020-09-28 23:10:50.947773
+10.0,viel,a lot,-1.0,2.0,english,1.0,a lot,2.0,,,,2020-10-05 23:20:49.018746
+6.0,verheiratet,married,2.0,-1.0,english,0.0,really,3.0,,7,True,2020-10-05 23:20:51.519468
+4.0,sprechen,to speak,1.0,0.0,english,1.0,to speak,2.0,,,,2020-10-05 23:20:56.201381
+11.0,die Ärztin,the female doctor,1.0,-2.0,english,0.0,the bear,1.0,,0,True,2020-10-05 23:20:58.894348
+1.0,rennen,to sprint,3.0,0.0,german,0.0,,0.0,,,False,2020-10-05 23:21:02.704667
+14.0,der Pokal,the cup,1.0,-2.0,english,0.0,,0.0,,,False,2020-10-05 23:21:03.289546
+5.0,stimmen,to vote,0.0,1.0,german,0.0,,0.0,,,False,2020-10-05 23:21:03.456080
+9.0,das Jahr,the year,-1.0,2.0,english,0.0,,0.0,,,False,2020-10-05 23:21:03.625082
+13.0,wilkommen,welcome,2.0,1.0,english,0.0,,0.0,,,False,2020-10-05 23:21:03.791940
+12.0,zusammen,together,1.0,2.0,german,0.0,,0.0,,,False,2020-10-05 23:21:03.958365
