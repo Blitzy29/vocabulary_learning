@@ -234,14 +234,14 @@ def prompt_question(i_vocab_try, print_info):
     return i_vocab_try
 
 
-def check_answer(i_vocab_try, vocab):
+def check_answer(i_vocab_try, all_vocab):
 
     # Answer analysis
     i_vocab_try['is_it_correct'] = i_vocab_try['your_guess'] == i_vocab_try['word_output_language']
 
     i_vocab_try['is_it_another_word'] = None
     if not i_vocab_try['is_it_correct']:
-        i_vocab_try['is_it_another_word'] = i_vocab_try['your_guess'] in vocab[i_vocab_try['output_language']].values
+        i_vocab_try['is_it_another_word'] = i_vocab_try['your_guess'] in all_vocab[i_vocab_try['output_language']].values
 
     return i_vocab_try
 
@@ -258,7 +258,7 @@ def if_correct(i_vocab_try):
     return i_vocab_try
 
 
-def if_not_correct(i_vocab_try, vocab):
+def if_not_correct(i_vocab_try, vocab, all_vocab):
     """Print statement + rewrite input if wrong answer
 
     Parameters
@@ -277,6 +277,8 @@ def if_not_correct(i_vocab_try, vocab):
             Does the answer correspond to another word
     vocab: pd.DataFrame
         The vocab table
+    all_vocab: pd.DataFrame
+        All vocab table
 
     Return
     -----
@@ -297,12 +299,24 @@ def if_not_correct(i_vocab_try, vocab):
         confused_word = vocab[
             vocab[i_vocab_try['output_language']] == i_vocab_try['your_guess']
         ]
-        i_vocab_try['confused_word'] = confused_word.iloc[0]['id_vocab']
+
+        if len(confused_word) > 0:
+
+            i_vocab_try['confused_word'] = confused_word.iloc[0]['id_vocab']
+            confused_word_to_print = confused_word.iloc[0][i_vocab_try['input_language']]
+
+        else:
+
+            i_vocab_try['confused_word'] = 0
+            confused_word_all_vocab = all_vocab[
+                all_vocab[i_vocab_try['output_language']] == i_vocab_try['your_guess']
+                ]
+            confused_word_to_print = confused_word_all_vocab.iloc[0][i_vocab_try['input_language']]
 
         print("{}You confused it{} with '{} = {}'".format(
             PrintColors.WARNING, PrintColors.ENDC,
             i_vocab_try['your_guess'],
-            confused_word.iloc[0][i_vocab_try['input_language']]
+            confused_word_to_print
         ))
 
     write_it_again = input("Write it again   ")
