@@ -8,17 +8,17 @@ id_vocab,german,english,score_german_english,score_english_german,retry_german_e
 7,arbeiten,to work,0,0,2022-01-01,2022-01-01,False,False
 8,der Kellner,the waiter,0,0,2022-01-01,2022-01-01,False,False
 9,Deutsch,German,0,0,2022-01-01,2022-01-01,False,False
-10,auf Wiedersehen,goodbye,0,0,2022-01-01,2022-01-01,False,False
+10,auf Wiedersehen,goodbye,0,1,2022-01-01,2022-01-01,False,True
 11,beginnen,to begin,0,0,2022-01-01,2022-01-01,False,False
 12,September,September,0,0,2022-01-01,2022-01-01,False,False
-13,der Herbst,the autumn,0,-1,2022-01-01,2022-01-01,False,True
+13,der Herbst,the autumn,0,-1,2022-01-01,2022-01-01,False,False
 14,der Historiker,the historian,0,0,2022-01-01,2022-01-01,False,False
 15,Himmel,Heaven,0,0,2022-01-01,2022-01-01,False,False
 16,das Mehl,the flour,0,0,2022-01-01,2022-01-01,False,False
 17,das Sonderangebot,the special offer,0,0,2022-01-01,2022-01-01,False,False
 18,reservieren,to reserve,0,0,2022-01-01,2022-01-01,False,False
 19,der Himmel,the sky,0,0,2022-01-01,2022-01-01,False,False
-20,die SMS,the SMS,0,-1,2022-01-01,2022-01-01,False,True
+20,die SMS,the SMS,0,-1,2022-01-01,2022-01-01,False,False
 21,sauber,clean,0,0,2022-01-01,2022-01-01,False,False
 22,die Tür,the door,0,0,2022-01-01,2022-01-01,False,False
 23,oft,often,0,0,2022-01-01,2022-01-01,False,False
@@ -36,7 +36,7 @@ id_vocab,german,english,score_german_english,score_english_german,retry_german_e
 35,die Herberge,the hostel,0,0,2022-01-01,2022-01-01,False,False
 36,der Garten,the garden,0,0,2022-01-01,2022-01-01,False,False
 37,der Pass,the pass,0,0,2022-01-01,2022-01-01,False,False
-38,es tut mir leid,I'm sorry,0,0,2022-01-01,2022-01-01,False,False
+38,es tut mir leid,I'm sorry,0,1,2022-01-01,2022-01-01,False,True
 39,der Halt,the halt,0,0,2022-01-01,2022-01-01,False,False
 40,März,March,0,0,2022-01-01,2022-01-01,False,False
 41,der Tempel,the temple,0,0,2022-01-01,2022-01-01,False,False
@@ -44,10 +44,10 @@ id_vocab,german,english,score_german_english,score_english_german,retry_german_e
 43,die Geschichte,the history,0,0,2022-01-01,2022-01-01,False,False
 44,die Position,the position,0,0,2022-01-01,2022-01-01,False,False
 45,die Luft,the air,0,0,2022-01-01,2022-01-01,False,False
-46,die Garantie,the guarantee,0,-1,2022-01-01,2022-01-01,False,True
-47,löschen,to delete,0,0,2022-01-01,2022-01-01,False,False
+46,die Garantie,the guarantee,0,-1,2022-01-01,2022-01-01,False,False
+47,löschen,to delete,0,1,2022-01-01,2022-01-01,False,True
 48,der Tod,the death,0,0,2022-01-01,2022-01-01,False,False
-49,die Note,the grade,0,0,2022-01-01,2022-01-01,False,False
+49,die Note,the grade,-1,0,2022-01-01,2022-01-01,True,False
 50,das Schwein,the pig,0,0,2022-01-01,2022-01-01,False,False
 51,überfahren,to run over,0,0,2022-01-01,2022-01-01,False,False
 52,der Cousin,the cousin,0,0,2022-01-01,2022-01-01,False,False
@@ -58,18 +58,18 @@ id_vocab,german,english,score_german_english,score_english_german,retry_german_e
 57,sich lohnen,to be worth it,0,0,2022-01-01,2022-01-01,False,False
 58,der Strömung,the flow,0,0,2022-01-01,2022-01-01,False,False
 59,aushalten,to withstand,0,0,2022-01-01,2022-01-01,False,False
-60,lachen,to laugh,0,0,2022-01-01,2022-01-01,False,False
-61,währen,to last,0,-1,2022-01-01,2022-01-01,False,True
+60,lachen,to laugh,0,-1,2022-01-01,2022-01-01,False,True
+61,währen,to last,0,-1,2022-01-01,2022-01-01,False,False
 62,die Gabe,the gift,0,0,2022-01-01,2022-01-01,False,False
 63,der Pfeffer,the pepper,0,0,2022-01-01,2022-01-01,False,False
 64,besondere,special,0,0,2022-01-01,2022-01-01,False,False
-65,die Präposition,the preposition,0,1,2022-01-01,2022-01-01,False,True
-66,der Geruchssin,the sense of smell,-1,0,2022-01-01,2022-01-01,True,False
+65,die Präposition,the preposition,0,1,2022-01-01,2022-01-01,False,False
+66,der Geruchssin,the sense of smell,-1,0,2022-01-01,2022-01-01,False,False
 67,die Übersetzung,the translation,0,0,2022-01-01,2022-01-01,False,False
 68,reiten,to ride,0,0,2022-01-01,2022-01-01,False,False
 69,das Pokal,the cup,0,0,2022-01-01,2022-01-01,False,False
 70,die Flanke,the flank,0,0,2022-01-01,2022-01-01,False,False
-71,beachten,to pay attention,0,-1,2022-01-01,2022-01-01,False,True
+71,beachten,to pay attention,0,-1,2022-01-01,2022-01-01,False,False
 72,die Gegenstand,the object,0,0,2022-01-01,2022-01-01,False,False
 73,der Freund,the boyfriend,0,0,2022-01-01,2022-01-01,False,False
 74,die Erkenntnis,the knowledge,0,0,2022-01-01,2022-01-01,False,False
@@ -83,7 +83,7 @@ id_vocab,german,english,score_german_english,score_english_german,retry_german_e
 82,der Stern,the star,0,0,2022-01-01,2022-01-01,False,False
 83,die Mandel,the almond,0,0,2022-01-01,2022-01-01,False,False
 84,das Nashorn,the rhino,0,0,2022-01-01,2022-01-01,False,False
-85,der Hahn,the rooster,-1,0,2022-01-01,2022-01-01,True,False
+85,der Hahn,the rooster,-1,0,2022-01-01,2022-01-01,False,False
 86,erinnern,to remind,0,0,2022-01-01,2022-01-01,False,False
 87,die rote Bete,the beetroot,0,0,2022-01-01,2022-01-01,False,False
 88,der Ahn,the ancestor,0,0,2022-01-01,2022-01-01,False,False
@@ -95,7 +95,7 @@ id_vocab,german,english,score_german_english,score_english_german,retry_german_e
 94,die Kardone,the cardoon,0,0,2022-01-01,2022-01-01,False,False
 95,statt,instead of,0,0,2022-01-01,2022-01-01,False,False
 96,die Dattek,the date,0,0,2022-01-01,2022-01-01,False,False
-97,vorstellen,to present,0,0,2022-01-01,2022-01-01,False,False
+97,vorstellen,to present,-1,0,2022-01-01,2022-01-01,True,False
 98,der Film,the movie,0,0,2022-01-01,2022-01-01,False,False
 99,der Zwerg,the dwarf,0,0,2022-01-01,2022-01-01,False,False
 100,sich verlieben,to fall in love,0,0,2022-01-01,2022-01-01,False,False
@@ -113,7 +113,7 @@ id_vocab,german,english,score_german_english,score_english_german,retry_german_e
 112,beschenken,to make a present,0,0,2022-01-01,2022-01-01,False,False
 113,der Magen,the stomach,0,0,2022-01-01,2022-01-01,False,False
 114,leise,discrete,0,0,2022-01-01,2022-01-01,False,False
-115,die Landwirtschaft,the agriculture,0,0,2022-01-01,2022-01-01,False,False
+115,die Landwirtschaft,the agriculture,0,-1,2022-01-01,2022-01-01,False,True
 116,sonst,otherwise,0,0,2022-01-01,2022-01-01,False,False
 117,wieder,another time,0,0,2022-01-01,2022-01-01,False,False
 118,zum Geburtstag viel Glück,happy birthday,0,0,2022-01-01,2022-01-01,False,False
@@ -122,19 +122,19 @@ id_vocab,german,english,score_german_english,score_english_german,retry_german_e
 121,das Rührei,the scrambled egg,0,0,2022-01-01,2022-01-01,False,False
 122,die Lösung,the solution,0,0,2022-01-01,2022-01-01,False,False
 123,die Markise,the awning,0,0,2022-01-01,2022-01-01,False,False
-124,die Brunnenkresse,the watercress,0,0,2022-01-01,2022-01-01,False,False
+124,die Brunnenkresse,the watercress,-1,0,2022-01-01,2022-01-01,True,False
 125,zwingend,mandatory,0,0,2022-01-01,2022-01-01,False,False
-126,die Reineclaude,the greengage,0,-1,2022-01-01,2022-01-01,False,True
+126,die Reineclaude,the greengage,0,-1,2022-01-01,2022-01-01,False,False
 127,die Ableitung,the derivation,0,0,2022-01-01,2022-01-01,False,False
 128,wenig,little,0,0,2022-01-01,2022-01-01,False,False
 129,der übersetzer,the translator,0,0,2022-01-01,2022-01-01,False,False
 130,herzlich,cordial,0,0,2022-01-01,2022-01-01,False,False
 131,unterhalten,to entertain,0,0,2022-01-01,2022-01-01,False,False
-132,vorgedrungen,advanced,0,0,2022-01-01,2022-01-01,False,False
+132,vorgedrungen,advanced,0,-1,2022-01-01,2022-01-01,False,True
 133,schmutzig,dirty,0,0,2022-01-01,2022-01-01,False,False
 134,unterwegs,on the road,0,0,2022-01-01,2022-01-01,False,False
 135,die Entscheidung,the decision,0,0,2022-01-01,2022-01-01,False,False
-136,die Mütze,the cap,0,0,2022-01-01,2022-01-01,False,False
+136,die Mütze,the cap,0,-1,2022-01-01,2022-01-01,False,True
 137,abmelden,to sign out,0,0,2022-01-01,2022-01-01,False,False
 138,der Grünkohl,the kale,0,0,2022-01-01,2022-01-01,False,False
 139,die Masche,the mesh,0,0,2022-01-01,2022-01-01,False,False
@@ -147,7 +147,7 @@ id_vocab,german,english,score_german_english,score_english_german,retry_german_e
 146,messen,to measure,0,0,2022-01-01,2022-01-01,False,False
 147,das Nasenbluten,the nosebleed,0,0,2022-01-01,2022-01-01,False,False
 148,schiessen,to shoot,0,0,2022-01-01,2022-01-01,False,False
-149,die Ausbildung,the training,-1,0,2022-01-01,2022-01-01,True,False
+149,die Ausbildung,the training,-1,0,2022-01-01,2022-01-01,False,False
 150,regnen,to rain,0,0,2022-01-01,2022-01-01,False,False
 151,daher,therefore,0,0,2022-01-01,2022-01-01,False,False
 152,die Entfernung,the distance,0,0,2022-01-01,2022-01-01,False,False

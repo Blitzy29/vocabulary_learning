@@ -9,3 +9,13 @@ id_vocab,german_word,english_word,score_before,score_before_other_language,langu
 65.0,die Präposition,the preposition,0.0,0.0,german,1.0,die Präposition,5.0,,,,2020-10-05 22:42:21.785806
 20.0,die SMS,the SMS,0.0,0.0,german,0.0,der SMS,3.0,die SMS the SMS die SMS,,False,2020-10-05 22:42:27.051137
 13.0,der Herbst,the autumn,0.0,0.0,german,0.0,das Herbst,9.0,der Herbst the autumn der Herbst,,False,2020-10-05 22:42:36.601388
+38.0,es tut mir leid,I'm sorry,0.0,0.0,german,1.0,es tut mir leid,4.0,,,,2020-10-05 23:26:15.164270
+124.0,die Brunnenkresse,the watercress,0.0,0.0,english,0.0,,3.0,die Brunnenresse the watercresse die Brunnenkresse,,False,2020-10-05 23:26:19.793155
+136.0,die Mütze,the cap,0.0,0.0,german,0.0,der Kap,4.0,die Mütze the cap die Mütze,,False,2020-10-05 23:26:34.942164
+10.0,auf Wiedersehen,goodbye,0.0,0.0,german,1.0,auf Wiedersehen,9.0,,,,2020-10-05 23:26:47.855128
+47.0,löschen,to delete,0.0,0.0,german,1.0,löschen,3.0,,,,2020-10-05 23:26:57.215378
+97.0,vorstellen,to present,0.0,0.0,english,0.0,to forsee,7.0,vorstellen to present vorstellen,,False,2020-10-05 23:27:00.768781
+115.0,die Landwirtschaft,the agriculture,0.0,0.0,german,0.0,die Agrikultur,5.0,die Landwirtschaft die Landwirschaft,,False,2020-10-05 23:27:16.731430
+60.0,lachen,to laugh,0.0,0.0,german,0.0,,2.0,lache to laugh lachen,,False,2020-10-05 23:27:34.587018
+132.0,vorgedrungen,advanced,0.0,0.0,german,0.0,,2.0,vorgedrungen advanced vorgedrungen,,False,2020-10-05 23:27:42.525650
+49.0,die Note,the grade,0.0,0.0,english,0.0,the note,4.0,die Note the grade die Note,,False,2020-10-05 23:27:54.348771
