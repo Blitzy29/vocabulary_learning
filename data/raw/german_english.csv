@@ -1,155 +1,155 @@
 id_vocab,german,english,score_german_english,score_english_german,retry_german_english,retry_english_german,try_session_german_english,try_session_english_german
-1,aber,but,0,0,2022-01-01,2022-01-01,False,False
-2,allein,alone,0,0,2022-01-01,2022-01-01,False,False
+1,aber,but,0,1,2022-01-01,2022-01-01,False,True
+2,allein,alone,0,1,2022-01-01,2022-01-01,False,True
 3,alt,old,0,0,2022-01-01,2022-01-01,False,False
-4,andere,other,0,0,2022-01-01,2022-01-01,False,False
-5,anziehen,to put a clothe on,0,0,2022-01-01,2022-01-01,False,False
+4,andere,other,1,0,2022-01-01,2022-01-01,True,False
+5,anziehen,to put a clothe on,0,-1,2022-01-01,2022-01-01,False,True
 6,arbeiten,to work,0,0,2022-01-01,2022-01-01,False,False
-7,attraktiv,attractive,0,0,2022-01-01,2022-01-01,False,False
+7,attraktiv,attractive,1,0,2022-01-01,2022-01-01,True,False
 8,auf Wiedersehen,goodbye,0,0,2022-01-01,2022-01-01,False,False
-9,ausmachen,to turn off,0,0,2022-01-01,2022-01-01,False,False
-10,beginnen,to begin,0,0,2022-01-01,2022-01-01,False,False
-11,bis Bald,bye for now,0,0,2022-01-01,2022-01-01,False,False
-12,bis Später,see you later,0,0,2022-01-01,2022-01-01,False,False
-13,bitte,please,0,0,2022-01-01,2022-01-01,False,False
+9,ausmachen,to turn off,1,0,2022-01-01,2022-01-01,True,False
+10,beginnen,to begin,0,1,2022-01-01,2022-01-01,False,True
+11,bis Bald,bye for now,-1,0,2022-01-01,2022-01-01,True,False
+12,bis Später,see you later,1,0,2022-01-01,2022-01-01,True,False
+13,bitte,please,0,1,2022-01-01,2022-01-01,False,True
 14,bitte sehr,you're welcome,0,0,2022-01-01,2022-01-01,False,False
-15,blau,blue,0,0,2022-01-01,2022-01-01,False,False
-16,danke,thank you,0,0,2022-01-01,2022-01-01,False,False
+15,blau,blue,0,1,2022-01-01,2022-01-01,False,True
+16,danke,thank you,0,1,2022-01-01,2022-01-01,False,True
 17,das Bier,the beer,0,0,2022-01-01,2022-01-01,False,False
 18,das Brot,the bread,0,0,2022-01-01,2022-01-01,False,False
-19,das Café,the café,0,0,2022-01-01,2022-01-01,False,False
+19,das Café,the café,0,1,2022-01-01,2022-01-01,False,False
 20,das Eis,the ice,0,0,2022-01-01,2022-01-01,False,False
 21,das Essen,the meal,0,0,2022-01-01,2022-01-01,False,False
 22,das Geld,the money,0,0,2022-01-01,2022-01-01,False,False
-23,das Gemüse,the vegetables,0,0,2022-01-01,2022-01-01,False,False
+23,das Gemüse,the vegetables,-1,1,2022-01-01,2022-01-01,False,True
 24,das Insekt,the insect,0,0,2022-01-01,2022-01-01,False,False
 25,das Kind,the kid,0,0,2022-01-01,2022-01-01,False,False
 26,das Kleid,the dress,0,0,2022-01-01,2022-01-01,False,False
-27,das Lotto,the lottery,0,0,2022-01-01,2022-01-01,False,False
+27,das Lotto,the lottery,0,1,2022-01-01,2022-01-01,False,True
 28,das Mädchen,the girl,0,0,2022-01-01,2022-01-01,False,False
 29,das Öl,the oil,0,0,2022-01-01,2022-01-01,False,False
-30,das Organ,the organ,0,0,2022-01-01,2022-01-01,False,False
-31,das Pferd,the horse,0,0,2022-01-01,2022-01-01,False,False
-32,das Salz,the salt,0,0,2022-01-01,2022-01-01,False,False
+30,das Organ,the organ,1,0,2022-01-01,2022-01-01,True,False
+31,das Pferd,the horse,0,1,2022-01-01,2022-01-01,False,True
+32,das Salz,the salt,0,-1,2022-01-01,2022-01-01,False,True
 33,das Schwein,the pig,0,0,2022-01-01,2022-01-01,False,False
-34,das Tier,the animal,0,0,2022-01-01,2022-01-01,False,False
-35,das Wasser,the water,0,0,2022-01-01,2022-01-01,False,False
-36,das Wissen,the knowledge,0,0,2022-01-01,2022-01-01,False,False
+34,das Tier,the animal,0,1,2022-01-01,2022-01-01,False,True
+35,das Wasser,the water,0,1,2022-01-01,2022-01-01,False,True
+36,das Wissen,the knowledge,0,1,2022-01-01,2022-01-01,False,True
 37,das Wort,the word,0,0,2022-01-01,2022-01-01,False,False
-38,denken,to think,0,0,2022-01-01,2022-01-01,False,False
-39,der Apfel,the apple,0,0,2022-01-01,2022-01-01,False,False
+38,denken,to think,1,0,2022-01-01,2022-01-01,True,False
+39,der Apfel,the apple,1,0,2022-01-01,2022-01-01,True,False
 40,der Arkitekt,the architect,0,0,2022-01-01,2022-01-01,False,False
 41,der Arzt,the doctor,0,0,2022-01-01,2022-01-01,False,False
 42,der Aufgabe,the task,0,0,2022-01-01,2022-01-01,False,False
-43,der Bruder,the brother,0,0,2022-01-01,2022-01-01,False,False
+43,der Bruder,the brother,1,0,2022-01-01,2022-01-01,True,False
 44,der Computer,the computer,0,0,2022-01-01,2022-01-01,False,False
 45,der Ei,the egg,0,0,2022-01-01,2022-01-01,False,False
-46,der Enkel,the grand-son,0,0,2022-01-01,2022-01-01,False,False
+46,der Enkel,the grand-son,0,1,2022-01-01,2022-01-01,False,True
 47,der Freund,the boyfriend,0,0,2022-01-01,2022-01-01,False,False
 48,der Grossvater,the grand-father,0,0,2022-01-01,2022-01-01,False,False
-49,der Herbst,the autumn,0,0,2022-01-01,2022-01-01,False,False
+49,der Herbst,the autumn,1,0,2022-01-01,2022-01-01,True,False
 50,der Hund,the dog,0,0,2022-01-01,2022-01-01,False,False
 51,der Journalist,the journalist,0,0,2022-01-01,2022-01-01,False,False
 52,der Junge,the boy,0,0,2022-01-01,2022-01-01,False,False
 53,der Käse,the cheese,0,0,2022-01-01,2022-01-01,False,False
-54,der Kellner,the waiter,0,0,2022-01-01,2022-01-01,False,False
+54,der Kellner,the waiter,1,0,2022-01-01,2022-01-01,True,False
 55,der Körper,the body,0,0,2022-01-01,2022-01-01,False,False
 56,der Kühlschrank,the fridge,0,0,2022-01-01,2022-01-01,False,False
 57,der Lehrer,the teacher,0,0,2022-01-01,2022-01-01,False,False
 58,der Mann,the man,0,0,2022-01-01,2022-01-01,False,False
-59,der Mantel,the coat,0,0,2022-01-01,2022-01-01,False,False
+59,der Mantel,the coat,1,0,2022-01-01,2022-01-01,True,False
 60,der Mechatroniker,the mechanic,0,0,2022-01-01,2022-01-01,False,False
 61,der Mensch,the human,0,0,2022-01-01,2022-01-01,False,False
 62,der Opa,the grandpa,0,0,2022-01-01,2022-01-01,False,False
 63,der Orangensaft,the orange juice,0,0,2022-01-01,2022-01-01,False,False
 64,der Partner,the partner,0,0,2022-01-01,2022-01-01,False,False
-65,der Praktikant,the intern,0,0,2022-01-01,2022-01-01,False,False
+65,der Praktikant,the intern,1,0,2022-01-01,2022-01-01,True,False
 66,der Prinz,the prince,0,0,2022-01-01,2022-01-01,False,False
-67,der Pullover,the pull-over,0,0,2022-01-01,2022-01-01,False,False
+67,der Pullover,the pull-over,1,0,2022-01-01,2022-01-01,True,False
 68,der Reis,the rice,0,0,2022-01-01,2022-01-01,False,False
 69,der Schauspieler,the actor,0,0,2022-01-01,2022-01-01,False,False
-70,der Sekretär,the secretary,0,0,2022-01-01,2022-01-01,False,False
+70,der Sekretär,the secretary,0,-1,2022-01-01,2022-01-01,False,True
 71,der Sohn,the son,0,0,2022-01-01,2022-01-01,False,False
-72,der Sommer,the summer,0,0,2022-01-01,2022-01-01,False,False
+72,der Sommer,the summer,0,1,2022-01-01,2022-01-01,False,True
 73,der Statistiker,the statistician,0,0,2022-01-01,2022-01-01,False,False
-74,der Stern,the star,0,0,2022-01-01,2022-01-01,False,False
-75,der Student,the student,0,0,2022-01-01,2022-01-01,False,False
-76,der Stuhl,the chair,0,0,2022-01-01,2022-01-01,False,False
-77,der Tee,the tea,0,0,2022-01-01,2022-01-01,False,False
+74,der Stern,the star,1,1,2022-01-01,2022-01-01,False,True
+75,der Student,the student,0,1,2022-01-01,2022-01-01,False,False
+76,der Stuhl,the chair,1,0,2022-01-01,2022-01-01,True,False
+77,der Tee,the tea,1,0,2022-01-01,2022-01-01,True,False
 78,der Vater,the father,0,0,2022-01-01,2022-01-01,False,False
 79,der Vogel,the bird,0,0,2022-01-01,2022-01-01,False,False
 80,der Wein,the wine,0,0,2022-01-01,2022-01-01,False,False
-81,der Winter,the winter,0,0,2022-01-01,2022-01-01,False,False
+81,der Winter,the winter,1,0,2022-01-01,2022-01-01,False,False
 82,der Wurst,the sausage,0,0,2022-01-01,2022-01-01,False,False
-83,Deutsch,German,0,0,2022-01-01,2022-01-01,False,False
+83,Deutsch,German,1,0,2022-01-01,2022-01-01,True,False
 84,Deutschland,Germany,0,0,2022-01-01,2022-01-01,False,False
 85,die Angst,the fear,0,0,2022-01-01,2022-01-01,False,False
-86,die Antwort,the answer,0,0,2022-01-01,2022-01-01,False,False
+86,die Antwort,the answer,0,1,2022-01-01,2022-01-01,False,True
 87,die Aussage,the statement,0,0,2022-01-01,2022-01-01,False,False
-88,die Banane,the banana,0,0,2022-01-01,2022-01-01,False,False
+88,die Banane,the banana,1,0,2022-01-01,2022-01-01,True,False
 89,die Bluse,the blouse,0,0,2022-01-01,2022-01-01,False,False
 90,die Ehefrau,the wife,0,0,2022-01-01,2022-01-01,False,False
 91,die Enkelin,the grand-daughter,0,0,2022-01-01,2022-01-01,False,False
 92,die Ente,the duck,0,0,2022-01-01,2022-01-01,False,False
-93,die Frage,the question,0,0,2022-01-01,2022-01-01,False,False
-94,die Frau,the woman,0,0,2022-01-01,2022-01-01,False,False
+93,die Frage,the question,0,1,2022-01-01,2022-01-01,False,True
+94,die Frau,the woman,0,1,2022-01-01,2022-01-01,False,True
 95,die Gewinnzahl,the winning number,0,0,2022-01-01,2022-01-01,False,False
 96,die Grossmutter,the grand-mother,0,0,2022-01-01,2022-01-01,False,False
 97,die Hose,the pants,0,0,2022-01-01,2022-01-01,False,False
 98,die Jacke,the jacket,0,0,2022-01-01,2022-01-01,False,False
-99,die Kartoffel,the potato,0,0,2022-01-01,2022-01-01,False,False
-100,die Katze,the cat,0,0,2022-01-01,2022-01-01,False,False
-101,die Kirche,the church,0,0,2022-01-01,2022-01-01,False,False
-102,die Kosmetik,the make-up,0,0,2022-01-01,2022-01-01,False,False
-103,die Lampe,the lamp,0,0,2022-01-01,2022-01-01,False,False
-104,die Milch,the milk,0,0,2022-01-01,2022-01-01,False,False
-105,die Moral,the morality,0,0,2022-01-01,2022-01-01,False,False
-106,die Mutter,the mother,0,0,2022-01-01,2022-01-01,False,False
-107,die Oma,the grandma,0,0,2022-01-01,2022-01-01,False,False
-108,die Schokolade,the chocolate,0,0,2022-01-01,2022-01-01,False,False
+99,die Kartoffel,the potato,1,0,2022-01-01,2022-01-01,True,False
+100,die Katze,the cat,1,0,2022-01-01,2022-01-01,True,False
+101,die Kirche,the church,0,1,2022-01-01,2022-01-01,False,True
+102,die Kosmetik,the make-up,1,0,2022-01-01,2022-01-01,True,False
+103,die Lampe,the lamp,1,1,2022-01-01,2022-01-01,True,False
+104,die Milch,the milk,0,-1,2022-01-01,2022-01-01,False,True
+105,die Moral,the morality,1,0,2022-01-01,2022-01-01,True,False
+106,die Mutter,the mother,1,0,2022-01-01,2022-01-01,True,False
+107,die Oma,the grandma,1,0,2022-01-01,2022-01-01,True,False
+108,die Schokolade,the chocolate,0,-1,2022-01-01,2022-01-01,False,True
 109,die Schwester,the sister,0,0,2022-01-01,2022-01-01,False,False
-110,die Strumpfhose,the hoose,0,0,2022-01-01,2022-01-01,False,False
+110,die Strumpfhose,the hoose,0,1,2022-01-01,2022-01-01,False,True
 111,die Suppe,the soup,0,0,2022-01-01,2022-01-01,False,False
 112,die Tomate,the tomato,0,0,2022-01-01,2022-01-01,False,False
-113,die Tür,the door,0,0,2022-01-01,2022-01-01,False,False
+113,die Tür,the door,0,1,2022-01-01,2022-01-01,False,True
 114,die Zahl,the number,0,0,2022-01-01,2022-01-01,False,False
-115,die Zeit,the time,0,0,2022-01-01,2022-01-01,False,False
+115,die Zeit,the time,1,0,2022-01-01,2022-01-01,True,False
 116,die Zeitung,the newspaper,0,0,2022-01-01,2022-01-01,False,False
 117,Dienstag,Tuesday,0,0,2022-01-01,2022-01-01,False,False
-118,Donnerstag,Thursday,0,0,2022-01-01,2022-01-01,False,False
+118,Donnerstag,Thursday,0,1,2022-01-01,2022-01-01,False,True
 119,durst,thirsty,0,0,2022-01-01,2022-01-01,False,False
 120,einmal,once,0,0,2022-01-01,2022-01-01,False,False
 121,Englisch,English,0,0,2022-01-01,2022-01-01,False,False
-122,entschuldigung,excuse-me,0,0,2022-01-01,2022-01-01,False,False
+122,entschuldigung,excuse-me,0,-1,2022-01-01,2022-01-01,False,True
 123,erste,first,0,0,2022-01-01,2022-01-01,False,False
-124,es tut mir leid,I'm sorry,0,0,2022-01-01,2022-01-01,False,False
-125,essen,to eat,0,0,2022-01-01,2022-01-01,False,False
+124,es tut mir leid,I'm sorry,1,0,2022-01-01,2022-01-01,True,False
+125,essen,to eat,0,1,2022-01-01,2022-01-01,False,True
 126,falsch,wrong,0,0,2022-01-01,2022-01-01,False,False
-127,fantastisch,fantastic,0,0,2022-01-01,2022-01-01,False,False
-128,fertig,ready,0,0,2022-01-01,2022-01-01,False,False
+127,fantastisch,fantastic,0,1,2022-01-01,2022-01-01,False,True
+128,fertig,ready,0,1,2022-01-01,2022-01-01,False,True
 129,frei,free,0,0,2022-01-01,2022-01-01,False,False
 130,Freitag,Friday,0,0,2022-01-01,2022-01-01,False,False
-131,fressen,to eat (animal),0,0,2022-01-01,2022-01-01,False,False
-132,geben,to give,0,0,2022-01-01,2022-01-01,False,False
-133,gehen,to go,0,0,2022-01-01,2022-01-01,False,False
-134,genau,I agree,0,0,2022-01-01,2022-01-01,False,False
+131,fressen,to eat (animal),1,0,2022-01-01,2022-01-01,True,False
+132,geben,to give,0,1,2022-01-01,2022-01-01,False,True
+133,gehen,to go,0,1,2022-01-01,2022-01-01,False,True
+134,genau,I agree,1,0,2022-01-01,2022-01-01,True,False
 135,geschieden,divorced,0,0,2022-01-01,2022-01-01,False,False
 136,glauben,to believe,0,0,2022-01-01,2022-01-01,False,False
 137,golden,golden,0,0,2022-01-01,2022-01-01,False,False
-138,grau,grey,0,0,2022-01-01,2022-01-01,False,False
-139,gross,big,0,0,2022-01-01,2022-01-01,False,False
-140,gut,good,0,0,2022-01-01,2022-01-01,False,False
-141,Gute Nacht,good night,0,0,2022-01-01,2022-01-01,False,False
-142,Guten Abend,good evening,0,0,2022-01-01,2022-01-01,False,False
+138,grau,grey,0,1,2022-01-01,2022-01-01,False,True
+139,gross,big,0,-1,2022-01-01,2022-01-01,False,True
+140,gut,good,1,0,2022-01-01,2022-01-01,True,False
+141,Gute Nacht,good night,0,1,2022-01-01,2022-01-01,False,True
+142,Guten Abend,good evening,1,0,2022-01-01,2022-01-01,True,False
 143,Guten Morgen,good morning,0,0,2022-01-01,2022-01-01,False,False
 144,Guten Tag,good day,0,0,2022-01-01,2022-01-01,False,False
-145,haben,to have,0,0,2022-01-01,2022-01-01,False,False
+145,haben,to have,1,0,2022-01-01,2022-01-01,True,False
 146,hässlich,ugly,0,0,2022-01-01,2022-01-01,False,False
 147,heissen,to be named,0,0,2022-01-01,2022-01-01,False,False
-148,heute,today,0,0,2022-01-01,2022-01-01,False,False
+148,heute,today,0,1,2022-01-01,2022-01-01,False,True
 149,hoch,up,0,0,2022-01-01,2022-01-01,False,False
 150,hören,to listen,0,0,2022-01-01,2022-01-01,False,False
-151,hunger,hungry,0,0,2022-01-01,2022-01-01,False,False
+151,hunger,hungry,1,0,2022-01-01,2022-01-01,True,False
 152,interessant,interesting,0,0,2022-01-01,2022-01-01,False,False
 153,jetzt,now,0,0,2022-01-01,2022-01-01,False,False
 154,kennen,to know,0,0,2022-01-01,2022-01-01,False,False
@@ -158,65 +158,65 @@ id_vocab,german,english,score_german_english,score_english_german,retry_german_e
 157,kommen,to come,0,0,2022-01-01,2022-01-01,False,False
 158,kurz,short,0,0,2022-01-01,2022-01-01,False,False
 159,lang,long,0,0,2022-01-01,2022-01-01,False,False
-160,langsam,slow,0,0,2022-01-01,2022-01-01,False,False
+160,langsam,slow,1,0,2022-01-01,2022-01-01,True,False
 161,laufen,to walk,0,0,2022-01-01,2022-01-01,False,False
 162,lecker,delicious,0,0,2022-01-01,2022-01-01,False,False
 163,ledig,single,0,0,2022-01-01,2022-01-01,False,False
-164,leer,empty,0,0,2022-01-01,2022-01-01,False,False
-165,leicht,light,0,0,2022-01-01,2022-01-01,False,False
-166,leider,unfortunately,0,0,2022-01-01,2022-01-01,False,False
-167,lernen,to learn,0,0,2022-01-01,2022-01-01,False,False
-168,lesen,to read,0,0,2022-01-01,2022-01-01,False,False
-169,mag,like,0,0,2022-01-01,2022-01-01,False,False
+164,leer,empty,1,0,2022-01-01,2022-01-01,True,False
+165,leicht,light,1,0,2022-01-01,2022-01-01,True,False
+166,leider,unfortunately,1,0,2022-01-01,2022-01-01,True,False
+167,lernen,to learn,0,1,2022-01-01,2022-01-01,False,True
+168,lesen,to read,1,0,2022-01-01,2022-01-01,True,False
+169,mag,like,0,1,2022-01-01,2022-01-01,False,True
 170,mehrere,several,0,0,2022-01-01,2022-01-01,False,False
-171,Mittwoch,Wednesday,0,0,2022-01-01,2022-01-01,False,False
-172,Montag,Monday,0,0,2022-01-01,2022-01-01,False,False
-173,müde,tired,0,0,2022-01-01,2022-01-01,False,False
-174,nein,no,0,0,2022-01-01,2022-01-01,False,False
-175,normal,normal,0,0,2022-01-01,2022-01-01,False,False
-176,orange,orange,0,0,2022-01-01,2022-01-01,False,False
-177,pikant,spicy,0,0,2022-01-01,2022-01-01,False,False
+171,Mittwoch,Wednesday,0,1,2022-01-01,2022-01-01,False,True
+172,Montag,Monday,1,0,2022-01-01,2022-01-01,True,False
+173,müde,tired,1,0,2022-01-01,2022-01-01,True,False
+174,nein,no,0,1,2022-01-01,2022-01-01,False,True
+175,normal,normal,0,1,2022-01-01,2022-01-01,False,True
+176,orange,orange,1,0,2022-01-01,2022-01-01,True,False
+177,pikant,spicy,1,0,2022-01-01,2022-01-01,False,False
 178,prima,fine,0,0,2022-01-01,2022-01-01,False,False
-179,rennen,to run,0,0,2022-01-01,2022-01-01,False,False
+179,rennen,to run,0,1,2022-01-01,2022-01-01,False,True
 180,richtig,correct,0,0,2022-01-01,2022-01-01,False,False
 181,rot,red,0,0,2022-01-01,2022-01-01,False,False
-182,rund,round,0,0,2022-01-01,2022-01-01,False,False
-183,sagen,to say,0,0,2022-01-01,2022-01-01,False,False
+182,rund,round,1,0,2022-01-01,2022-01-01,True,False
+183,sagen,to say,0,1,2022-01-01,2022-01-01,False,True
 184,sauber,clean,0,0,2022-01-01,2022-01-01,False,False
 185,schlafen,to sleep,0,0,2022-01-01,2022-01-01,False,False
 186,schnell,fast,0,0,2022-01-01,2022-01-01,False,False
 187,schwarz,black,0,0,2022-01-01,2022-01-01,False,False
-188,schwimmen,to swim,0,0,2022-01-01,2022-01-01,False,False
+188,schwimmen,to swim,0,1,2022-01-01,2022-01-01,False,False
 189,schwul,gay lovers,0,0,2022-01-01,2022-01-01,False,False
 190,sehen,to see,0,0,2022-01-01,2022-01-01,False,False
-191,sein,to be,0,0,2022-01-01,2022-01-01,False,False
-192,Sonntag,Sunday,0,0,2022-01-01,2022-01-01,False,False
+191,sein,to be,1,0,2022-01-01,2022-01-01,False,False
+192,Sonntag,Sunday,1,0,2022-01-01,2022-01-01,True,False
 193,spielen,to play,0,0,2022-01-01,2022-01-01,False,False
-194,sprechen,to speak,0,0,2022-01-01,2022-01-01,False,False
+194,sprechen,to speak,1,0,2022-01-01,2022-01-01,True,False
 195,stark,strong,0,0,2022-01-01,2022-01-01,False,False
-196,stehen,to stand up,0,0,2022-01-01,2022-01-01,False,False
-197,studieren,to study,0,0,2022-01-01,2022-01-01,False,False
-198,süss,sweet,0,0,2022-01-01,2022-01-01,False,False
-199,tausend,thousand,0,0,2022-01-01,2022-01-01,False,False
-200,teuer,expensive,0,0,2022-01-01,2022-01-01,False,False
+196,stehen,to stand up,1,0,2022-01-01,2022-01-01,True,False
+197,studieren,to study,1,0,2022-01-01,2022-01-01,True,False
+198,süss,sweet,1,0,2022-01-01,2022-01-01,True,False
+199,tausend,thousand,1,0,2022-01-01,2022-01-01,True,False
+200,teuer,expensive,0,2,2022-01-01,2022-01-01,False,True
 201,toll,formidable,0,0,2022-01-01,2022-01-01,False,False
-202,tragen,to wear,0,0,2022-01-01,2022-01-01,False,False
+202,tragen,to wear,1,0,2022-01-01,2022-01-01,True,False
 203,trinken,to drink,0,0,2022-01-01,2022-01-01,False,False
 204,tschüss,bye,0,0,2022-01-01,2022-01-01,False,False
-205,überall,everywhere,0,0,2022-01-01,2022-01-01,False,False
+205,überall,everywhere,0,1,2022-01-01,2022-01-01,False,True
 206,und,and,0,0,2022-01-01,2022-01-01,False,False
 207,vegetarier,vegetarian,0,0,2022-01-01,2022-01-01,False,False
 208,verheiratet,married,0,0,2022-01-01,2022-01-01,False,False
 209,vielleicht,maybe,0,0,2022-01-01,2022-01-01,False,False
 210,warm,warm,0,0,2022-01-01,2022-01-01,False,False
 211,warum,why,0,0,2022-01-01,2022-01-01,False,False
-212,Was machst du beruflich?,What is your work?,0,0,2022-01-01,2022-01-01,False,False
+212,Was machst du beruflich?,What is your work?,0,1,2022-01-01,2022-01-01,False,True
 213,waschen,to wash,0,0,2022-01-01,2022-01-01,False,False
 214,weil,because,0,0,2022-01-01,2022-01-01,False,False
 215,weiss,white,0,0,2022-01-01,2022-01-01,False,False
 216,wie geht es dir?,how are you?,0,0,2022-01-01,2022-01-01,False,False
-217,wilkommen,welcome,0,0,2022-01-01,2022-01-01,False,False
-218,wirklich,really,0,0,2022-01-01,2022-01-01,False,False
+217,wilkommen,welcome,1,0,2022-01-01,2022-01-01,True,False
+218,wirklich,really,0,1,2022-01-01,2022-01-01,False,True
 219,wo,where,0,0,2022-01-01,2022-01-01,False,False
-220,zusammen,together,0,0,2022-01-01,2022-01-01,False,False
-221,zweite,second,0,0,2022-01-01,2022-01-01,False,False
+220,zusammen,together,0,1,2022-01-01,2022-01-01,False,True
+221,zweite,second,0,1,2022-01-01,2022-01-01,False,True
