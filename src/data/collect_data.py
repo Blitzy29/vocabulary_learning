@@ -474,3 +474,10 @@ def finalize_vocab(vocab, test=True, test_name='test'):
         vocab.to_csv(f'data/raw/german_english_{test_name}_after.csv', index=False)
     else:
         vocab.to_csv('data/raw/german_english.csv', index=False)
+
+    words_left = vocab[(vocab["score_german_english"] < 5) | (vocab["score_english_german"] < 5)]
+    if len(words_left) < 100:
+        print(
+            "{}Time to add new words!!{} - only {} words left'".format(
+                PrintColors.FAIL, PrintColors.ENDC, len(words_left)
+            ))

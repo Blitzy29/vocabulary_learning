@@ -52,8 +52,9 @@ def get_vocab(vocab_path="data/raw/german_english.csv", list_columns=None):
 
     if list_columns is None:
         list_columns = ["id_vocab", "german", "english"]
+    if list_columns == "all":
+        list_columns = vocab.columns.tolist()
+
     vocab = vocab[list_columns]
 
     return vocab
-
-
