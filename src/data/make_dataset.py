@@ -63,6 +63,8 @@ def get_vardict():
         "previous_write_it_again_not_null",
         "is_noun",
         "is_verb",
+        "previous_confused_with_another_word",
+        "previous_confused_with_an_unknown_word",
     ]
 
     # Categorical
