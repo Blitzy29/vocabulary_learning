@@ -1,4 +1,30 @@
 import pandas as pd
+import dill
+
+from src.data.get_dataset import get_historical_data
+from src.data.make_historical_features import create_historical_features
+
+from src.data.get_dataset import get_vocab
+from src.data.make_vocab_features import create_vocab_features
+
+
+def create_dataset(historical_data_path, vocab_path, dataset_path):
+
+    historical_data = get_historical_data(historical_data_path)
+    historical_data = create_historical_features(historical_data)
+
+    vocab = get_vocab(vocab_path)
+    vocab = create_vocab_features(vocab)
+
+    dataset = merge_feature_datasets(historical_data, vocab)
+
+    vardict = get_vardict()
+    dataset = transform_type(dataset, vardict)
+
+    with open(dataset_path, "wb") as file:
+        dill.dump(dataset, file)
+
+    print("Saved")
 
 
 def merge_feature_datasets(historical_data, vocab):
