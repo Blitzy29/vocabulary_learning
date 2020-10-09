@@ -9,6 +9,7 @@ def create_historical_features(historical_data):
     historical_data = add_nb_past_occurrences(historical_data)
     historical_data = add_last_occurrence(historical_data)
     historical_data = add_first_occurrence(historical_data)
+    historical_data = add_confused_features(historical_data)
     historical_data = transfer_features_to_next_datapoint(historical_data)
     historical_data = add_datetime_features(historical_data)
     historical_data = add_nb_words_same_session(historical_data)
@@ -326,7 +327,8 @@ def transfer_features_to_next_datapoint(historical_data):
         'days_since_first_occur_same_language', 'days_since_first_occur_any_language',
         'previous_correct_article', 'previous_levenshtein_distance_guess_answer', 'previous_only_missed_uppercase',
         'previous_language_asked', 'previous_result', 'previous_question_time',
-        'previous_write_it_again_not_null', 'previous_write_it_again_german', 'previous_write_it_again_english'
+        'previous_write_it_again_not_null', 'previous_write_it_again_german', 'previous_write_it_again_english',
+        'previous_confused_with_another_word', 'previous_confused_with_an_unknown_word',
     ]
 
     prev_occur = historical_data[
@@ -398,5 +400,23 @@ def add_nb_words_same_session(historical_data):
     )
 
     del historical_data["occurrence"]
+
+    return historical_data
+
+
+def add_confused_features(historical_data):
+
+    historical_data["previous_confused_with_another_word"] = ~historical_data[
+        "is_it_another_word"
+    ].isna()
+
+    historical_data.loc[
+        ~historical_data["is_it_another_word"].isna(), "previous_confused_with_an_unknown_word"
+    ] = (
+            historical_data.loc[~historical_data["is_it_another_word"].isna()][
+                "confused_word"
+            ]
+            == 0
+    )
 
     return historical_data
