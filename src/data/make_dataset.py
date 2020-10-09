@@ -42,6 +42,7 @@ def get_vardict():
         "day_week",
         "hour",
         "nb_words_session",
+        "difficulty_category",
     ]
 
     # Difference in time
