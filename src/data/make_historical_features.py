@@ -9,10 +9,17 @@ def create_historical_features(historical_data):
     historical_data = add_nb_past_occurrences(historical_data)
     historical_data = add_last_occurrence(historical_data)
     historical_data = add_first_occurrence(historical_data)
+    historical_data = add_correct_article(historical_data)
+    historical_data = add_levenshtein_distance_guess_answer(historical_data)
+    historical_data = add_only_missed_uppercase(historical_data)
+    historical_data = add_previous_results(historical_data)
+    historical_data = add_write_it_again_features(historical_data)
     historical_data = add_confused_features(historical_data)
-    historical_data = transfer_features_to_next_datapoint(historical_data)
     historical_data = add_datetime_features(historical_data)
     historical_data = add_nb_words_same_session(historical_data)
+
+    historical_data = transfer_features_same_language(historical_data)
+    historical_data = transfer_features_any_language(historical_data)
 
     return historical_data
 
@@ -126,7 +133,7 @@ def add_first_occurrence(historical_data):
     day_first_occur_same = historical_data.loc[
         historical_data.groupby(
             ['id_vocab', 'language_asked']
-        )['day'].idxmax()
+        )['day'].idxmin()
     ]
     day_first_occur_same.rename(columns={'day': 'day_first_occur_same_language'}, inplace=True)
 
@@ -146,7 +153,7 @@ def add_first_occurrence(historical_data):
     day_first_occur_any = historical_data.loc[
         historical_data.groupby(
             ['id_vocab']
-        )['day'].idxmax()
+        )['day'].idxmin()
     ]
     day_first_occur_any.rename(columns={'day': 'day_first_occur_any_language'}, inplace=True)
 
@@ -315,44 +322,6 @@ def add_write_it_again_features(historical_data):
     return historical_data
 
 
-def transfer_features_to_next_datapoint(historical_data):
-
-    historical_data = add_correct_article(historical_data)
-    historical_data = add_levenshtein_distance_guess_answer(historical_data)
-    historical_data = add_only_missed_uppercase(historical_data)
-    historical_data = add_previous_results(historical_data)
-    historical_data = add_write_it_again_features(historical_data)
-
-    features_to_transfer = [
-        'days_since_first_occur_same_language', 'days_since_first_occur_any_language',
-        'previous_correct_article', 'previous_levenshtein_distance_guess_answer', 'previous_only_missed_uppercase',
-        'previous_language_asked', 'previous_result', 'previous_question_time',
-        'previous_write_it_again_not_null', 'previous_write_it_again_german', 'previous_write_it_again_english',
-        'previous_confused_with_another_word', 'previous_confused_with_an_unknown_word',
-    ]
-
-    prev_occur = historical_data[
-        ['id_vocab', 'language_asked', 'past_occurrences_same_language'] + features_to_transfer
-    ].copy()
-    prev_occur['new_occurr'] = prev_occur['past_occurrences_same_language'] + 1
-    del prev_occur['past_occurrences_same_language']
-
-    for i_feature_to_transfer in features_to_transfer:
-        del historical_data[i_feature_to_transfer]
-
-    historical_data = pd.merge(
-        historical_data,
-        prev_occur,
-        left_on=['id_vocab', 'language_asked', 'past_occurrences_same_language'],
-        right_on=['id_vocab', 'language_asked', 'new_occurr'],
-        how='left'
-    )
-
-    del historical_data['new_occurr']
-
-    return historical_data
-
-
 def add_datetime_features(historical_data):
 
     historical_data["week_number"] = historical_data["datetime"].apply(
@@ -418,5 +387,73 @@ def add_confused_features(historical_data):
             ]
             == 0
     )
+
+    return historical_data
+
+
+def transfer_features_same_language(historical_data):
+
+    features_to_transfer = [
+        "days_since_first_occur_same_language",
+        "previous_result",
+        "previous_correct_article",
+        "previous_levenshtein_distance_guess_answer",
+        "previous_only_missed_uppercase",
+        "previous_question_time",
+        "previous_write_it_again_not_null",
+        "previous_write_it_again_german",
+        "previous_write_it_again_english",
+        "previous_confused_with_another_word",
+        "previous_confused_with_an_unknown_word",
+    ]
+
+    prev_occur = historical_data[
+        ["id_vocab", "language_asked", "past_occurrences_same_language"]
+        + features_to_transfer
+    ].copy()
+    prev_occur["new_occurr"] = prev_occur["past_occurrences_same_language"] + 1
+    del prev_occur["past_occurrences_same_language"]
+
+    for i_feature_to_transfer in features_to_transfer:
+        del historical_data[i_feature_to_transfer]
+
+    historical_data = pd.merge(
+        historical_data,
+        prev_occur,
+        left_on=["id_vocab", "language_asked", "past_occurrences_same_language"],
+        right_on=["id_vocab", "language_asked", "new_occurr"],
+        how="left",
+    )
+
+    del historical_data["new_occurr"]
+
+    return historical_data
+
+
+def transfer_features_any_language(historical_data):
+
+    features_to_transfer = [
+        "days_since_first_occur_any_language",
+        "previous_language_asked",
+    ]
+
+    prev_occur = historical_data[
+        ["id_vocab", "past_occurrences_any_language"] + features_to_transfer
+    ].copy()
+    prev_occur["new_occurr"] = prev_occur["past_occurrences_any_language"] + 1
+    del prev_occur["past_occurrences_any_language"]
+
+    for i_feature_to_transfer in features_to_transfer:
+        del historical_data[i_feature_to_transfer]
+
+    historical_data = pd.merge(
+        historical_data,
+        prev_occur,
+        left_on=["id_vocab", "past_occurrences_any_language"],
+        right_on=["id_vocab", "new_occurr"],
+        how="left",
+    )
+
+    del historical_data["new_occurr"]
 
     return historical_data
