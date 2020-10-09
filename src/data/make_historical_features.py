@@ -375,14 +375,14 @@ def add_nb_words_same_session(historical_data):
 
 def add_confused_features(historical_data):
 
-    historical_data["previous_confused_with_another_word"] = ~historical_data[
+    historical_data["previous_confused_with_another_word"] = historical_data[
         "is_it_another_word"
-    ].isna()
+    ] == True
 
     historical_data.loc[
-        ~historical_data["is_it_another_word"].isna(), "previous_confused_with_an_unknown_word"
+        historical_data["previous_confused_with_another_word"], "previous_confused_with_an_unknown_word"
     ] = (
-            historical_data.loc[~historical_data["is_it_another_word"].isna()][
+            historical_data.loc[historical_data["previous_confused_with_another_word"]][
                 "confused_word"
             ]
             == 0
