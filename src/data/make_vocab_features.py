@@ -16,6 +16,8 @@ def create_vocab_features(vocab):
     vocab["is_noun"] = vocab.apply(is_noun, axis=1)
     vocab["is_verb"] = vocab.apply(is_verb, axis=1)
 
+    vocab = add_difficulty_category(vocab)
+
     del vocab["german"]
     del vocab["english"]
 
@@ -77,3 +79,50 @@ def is_noun(x):
 def is_verb(x):
     possible_article = x["english"].split(" ", 1)[0]
     return "to" in possible_article
+
+
+def add_difficulty_category(vocab):
+
+    dict_difficulty_category = {
+        "Minus10points": -10,
+        "Minus9points": -9,
+        "Minus8points": -8,
+        "Minus7points": -7,
+        "Minus6points": -6,
+        "Minus5points": -5,
+        "Minus4points": -4,
+        "Minus3points": -3,
+        "Minus2points": -2,
+        "Minus1points": -1,
+        "0points": 0,
+        "1points": 1,
+        "2points": 2,
+        "3points": 3,
+        "4points": 4,
+        "5points": 5,
+    }
+
+    original_vocab = pd.DataFrame()
+
+    for difficulty_category in dict_difficulty_category.keys():
+
+        i_original_vocab = pd.read_csv(
+            f"data/raw/new_vocabulary/{difficulty_category}.csv"
+        )
+        i_original_vocab["difficulty_category"] = dict_difficulty_category[
+            difficulty_category
+        ]
+        original_vocab = original_vocab.append(i_original_vocab)
+
+    vocab = pd.merge(
+        vocab,
+        original_vocab[["German", "English", "difficulty_category"]],
+        left_on=["german", "english"],
+        right_on=["German", "English"],
+        how="left",
+    )
+
+    del vocab["German"]
+    del vocab["English"]
+
+    return vocab
