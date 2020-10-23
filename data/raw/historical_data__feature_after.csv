@@ -1,11 +1,15 @@
 id_vocab,german_word,english_word,score_before,score_before_other_language,language_asked,result,guess,question_time,write_it_again,confused_word,is_it_another_word,datetime
-10.0,viel,a lot,-1.0,2.0,english,1.0,a lot,2.0,,,,2020-10-05 23:20:49.018746
-6.0,verheiratet,married,2.0,-1.0,english,0.0,really,3.0,,7,True,2020-10-05 23:20:51.519468
-4.0,sprechen,to speak,1.0,0.0,english,1.0,to speak,2.0,,,,2020-10-05 23:20:56.201381
-11.0,die Ärztin,the female doctor,1.0,-2.0,english,0.0,the bear,1.0,,0,True,2020-10-05 23:20:58.894348
-1.0,rennen,to sprint,3.0,0.0,german,0.0,,0.0,,,False,2020-10-05 23:21:02.704667
-14.0,der Pokal,the cup,1.0,-2.0,english,0.0,,0.0,,,False,2020-10-05 23:21:03.289546
-5.0,stimmen,to vote,0.0,1.0,german,0.0,,0.0,,,False,2020-10-05 23:21:03.456080
-9.0,das Jahr,the year,-1.0,2.0,english,0.0,,0.0,,,False,2020-10-05 23:21:03.625082
-13.0,wilkommen,welcome,2.0,1.0,english,0.0,,0.0,,,False,2020-10-05 23:21:03.791940
-12.0,zusammen,together,1.0,2.0,german,0.0,,0.0,,,False,2020-10-05 23:21:03.958365
+3.0,September,September,1.0,2.0,german,1.0,September,3.0,,,,2020-10-23 23:05:21.711325
+6.0,verheiratet,married,-1.0,2.0,german,0.0,scj,1.0,jo,,False,2020-10-23 23:05:24.853849
+10.0,viel,a lot,-1.0,2.0,english,1.0,a lot,4.0,,,,2020-10-23 23:05:28.226478
+11.0,die Ärztin,the female doctor,-2.0,1.0,german,0.0,Arztin,3.0,ih,,False,2020-10-23 23:05:32.422446
+8.0,die Aprikose,the apricot,-2.0,-1.0,german,1.0,die Aprikose,3.0,,,,2020-10-23 23:05:37.720080
+5.0,stimmen,to vote,0.0,1.0,german,0.0,aslöjcpwj,1.0,ä,,False,2020-10-23 23:05:40.771885
+4.0,sprechen,to speak,0.0,1.0,german,0.0,vkKEV+,1.0,Vo,,False,2020-10-23 23:05:43.140405
+9.0,das Jahr,the year,2.0,-1.0,german,0.0,vm,0.0,,,False,2020-10-23 23:05:45.275225
+7.0,wirklich,really,1.0,2.0,english,0.0,,0.0,,,False,2020-10-23 23:05:46.434395
+1.0,rennen,to sprint,0.0,3.0,english,0.0,,0.0,,,False,2020-10-23 23:05:46.930806
+14.0,der Pokal,the cup,-2.0,1.0,german,0.0,,0.0,,,False,2020-10-23 23:05:47.309676
+13.0,wilkommen,welcome,2.0,1.0,english,0.0,,0.0,,,False,2020-10-23 23:05:47.698500
+2.0,richtig,correct,-1.0,0.0,german,0.0,,0.0,,,False,2020-10-23 23:05:48.371003
+12.0,zusammen,together,1.0,2.0,german,0.0,,0.0,,,False,2020-10-23 23:05:49.180044
