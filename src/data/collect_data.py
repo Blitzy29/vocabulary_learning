@@ -1,7 +1,10 @@
+import numpy as np
 import pandas as pd
 import random
 import datetime
 from datetime import date
+
+from scipy.special import softmax
 
 
 class PrintColors:
@@ -41,8 +44,10 @@ def initiate_vocab(test=True, test_name='test'):
 
     if test:
         vocab = pd.read_csv(f'data/raw/german_english_{test_name}.csv')
+        probas_next_session = pd.read_csv(f"data/raw/predictions_next_session_{test_name}.csv")
     else:
-        vocab = pd.read_csv('data/raw/german_english.csv')
+        vocab = pd.read_csv('data/official/german_english.csv')
+        probas_next_session = pd.read_csv('data/official/predictions_next_session.csv')
 
     vocab['try_session_german_english'] = False
     vocab['try_session_english_german'] = False
@@ -54,6 +59,12 @@ def initiate_vocab(test=True, test_name='test'):
     retry_english_german = vocab['retry_english_german'] < date.today().strftime("%Y-%m-%d")
     vocab.loc[retry_english_german, 'score_english_german'] -= 1
     vocab.loc[retry_english_german, 'retry_english_german'] = "2022-01-01"
+
+    vocab = pd.merge(
+        vocab,
+        probas_next_session,
+        on='id_vocab'
+    )
 
     return vocab
 
@@ -156,8 +167,17 @@ def choose_a_word(i_vocab_try, vocab):
             (vocab[f"score_{i_vocab_try['input_language']}_{i_vocab_try['output_language']}"] >= 5)
     )
 
+    list_possible_words = vocab[~forbidden_words]
+
+    list_possible_words[
+        f"{i_vocab_try['output_language']}_softmax"
+    ] = softmax(1 - list_possible_words[f"{i_vocab_try['output_language']}_proba"])
+
     # Pick a random word
-    id_vocab = random.choice(vocab[~forbidden_words]['id_vocab'].tolist())
+    id_vocab = np.random.choice(
+        list_possible_words['id_vocab'].tolist(),
+        p=list_possible_words[f"{i_vocab_try['output_language']}_softmax"]
+    )
 
     i_vocab_try['id_vocab'] = id_vocab
 
@@ -446,14 +466,14 @@ def update_historical_data(historical_data, test=True, test_name='test'):
     if test:
         historical_data_old = pd.read_csv(f'data/raw/historical_data_{test_name}.csv')
     else:
-        historical_data_old = pd.read_csv('data/raw/historical_data.csv')
+        historical_data_old = pd.read_csv('data/official/historical_data.csv')
 
     historical_data_new = pd.concat([historical_data_old, historical_data], axis=0)
 
     if test:
         historical_data_new.to_csv(f'data/raw/historical_data_{test_name}_after.csv', index=False)
     else:
-        historical_data_new.to_csv('data/raw/historical_data.csv', index=False)
+        historical_data_new.to_csv('data/official/historical_data.csv', index=False)
 
 
 def finalize_vocab(vocab, test=True, test_name='test'):
@@ -487,7 +507,7 @@ def finalize_vocab(vocab, test=True, test_name='test'):
     if test:
         vocab.to_csv(f'data/raw/german_english_{test_name}_after.csv', index=False)
     else:
-        vocab.to_csv('data/raw/german_english.csv', index=False)
+        vocab.to_csv('data/official/german_english.csv', index=False)
 
     words_left = vocab[(vocab["score_german_english"] < 5) | (vocab["score_english_german"] < 5)]
     if len(words_left) < 100:

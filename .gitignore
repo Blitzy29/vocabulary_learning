@@ -79,12 +79,19 @@ target/
 # exclude data from source control by default
 # /data/
 /data/external/
+/data/figures/
 /data/interim/
 /data/log/
+/data/pipeline/
 /data/processed/
 /data/raw/20200921 - dirty data/
+/data/raw/20201009/
+/data/raw/20201017/
 /data/raw/Attachments-GermanEnglish/
 /data/raw/new_vocabulary/
+
+# exclude models
+/models/
 
 # Mac OS-specific storage files
 .DS_Store

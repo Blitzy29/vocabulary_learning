@@ -37,7 +37,7 @@ def define_session(historical_data):
     ].diff()
 
     historical_data["id_session"] = (
-            historical_data["time_since_last_question"] > datetime.timedelta(hours=1)
+            historical_data["time_since_last_question"] > datetime.timedelta(hours=12)
     ).cumsum()
 
     del historical_data["datetime_timestamp"]
