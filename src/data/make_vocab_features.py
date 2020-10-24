@@ -114,6 +114,12 @@ def add_difficulty_category(vocab):
         ]
         original_vocab = original_vocab.append(i_original_vocab)
 
+    original_vocab = (
+        original_vocab.groupby(["German", "English"])
+            .agg({"difficulty_category": "max"})
+            .reset_index()
+    )
+
     vocab = pd.merge(
         vocab,
         original_vocab[["German", "English", "difficulty_category"]],
