@@ -1,161 +1,161 @@
 id_vocab,german,english,score_german_english,score_english_german,retry_german_english,retry_english_german,try_session_german_english,try_session_english_german
-1,hässlich,ugly,1,0,2022-01-01,2022-01-01,False,False
-2,das Organ,the organ,0,0,2022-01-01,2022-01-01,False,False
-3,süss,sweet,0,1,2022-01-01,2022-01-01,False,False
-4,der Mensch,the human,1,-1,2022-01-01,2022-01-01,False,True
-5,anziehen,to put a clothe on,1,2,2022-01-01,2022-01-01,False,True
-6,heissen,to be named,2,0,2022-01-01,2022-01-01,True,False
-7,arbeiten,to work,0,0,2022-01-01,2022-01-01,False,False
-8,der Kellner,the waiter,1,0,2022-01-01,2022-01-01,True,False
-9,Deutsch,German,0,1,2022-01-01,2022-01-01,False,True
-10,auf Wiedersehen,goodbye,1,1,2022-01-01,2022-01-01,True,False
-11,beginnen,to begin,1,0,2022-01-01,2022-01-01,False,False
-12,September,September,1,1,2022-01-01,2022-01-01,False,True
-13,der Herbst,the autumn,1,0,2022-01-01,2022-01-01,True,False
-14,der Historiker,the historian,3,0,2022-01-01,2022-01-01,True,False
-15,Himmel,Heaven,2,1,2022-01-01,2022-01-01,True,False
-16,das Mehl,the flour,1,1,2022-01-01,2022-01-01,False,False
-17,das Sonderangebot,the special offer,2,0,2022-01-01,2022-01-01,True,False
-18,reservieren,to reserve,1,0,2022-01-01,2022-01-01,True,False
-19,der Himmel,the sky,0,3,2022-01-01,2022-01-01,False,True
-20,die SMS,the SMS,2,-2,2022-01-01,2022-01-01,False,True
-21,sauber,clean,1,0,2022-01-01,2022-01-01,False,True
-22,die Tür,the door,1,0,2022-01-01,2022-01-01,False,False
-23,oft,often,2,-1,2022-01-01,2022-01-01,True,False
-24,der Fernseher,the television,-1,0,2022-01-01,2022-01-01,True,False
-25,seltsam,strange,1,0,2022-01-01,2022-01-01,True,False
-26,der Khaki,the khaki,1,1,2022-01-01,2022-01-01,False,True
-27,der Joghurt,the yoghurt,1,0,2022-01-01,2022-01-01,False,True
-28,leben,to live,1,0,2022-01-01,2022-01-01,False,False
-29,der Kollege,the colleague,1,-1,2022-01-01,2022-01-01,True,False
-30,die Kirche,the church,0,0,2022-01-01,2022-01-01,False,False
-31,das Ziel,the aim,0,0,2022-01-01,2022-01-01,False,True
-32,emotional,emotional,0,1,2022-01-01,2022-01-01,False,False
-33,die Zucchini,the zucchini,0,0,2022-01-01,2022-01-01,False,False
-34,der Urlaub,the holiday,0,3,2022-01-01,2022-01-01,False,True
-35,die Herberge,the hostel,0,-1,2022-01-01,2022-01-01,False,True
-36,der Garten,the garden,2,-1,2022-01-01,2022-01-01,False,True
-37,der Pass,the pass,0,1,2022-01-01,2022-01-01,False,False
-38,es tut mir leid,I'm sorry,0,3,2022-01-01,2022-01-01,False,True
-39,der Halt,the halt,0,0,2022-01-01,2022-01-01,False,False
-40,März,March,2,1,2022-01-01,2022-01-01,False,True
-41,der Tempel,the temple,2,0,2022-01-01,2022-01-01,False,False
-42,die Konstellation,the constellation,-1,1,2022-01-01,2022-01-01,False,True
-43,die Geschichte,the history,-1,-1,2022-01-01,2022-01-01,False,True
-44,die Position,the position,1,0,2022-01-01,2022-01-01,False,False
-45,die Luft,the air,0,-1,2022-01-01,2022-01-01,False,False
-46,die Garantie,the guarantee,0,-1,2022-01-01,2022-01-01,False,False
-47,löschen,to delete,0,0,2022-01-01,2022-01-01,False,True
-48,der Tod,the death,0,0,2022-01-01,2022-01-01,False,False
-49,die Note,the grade,1,0,2022-01-01,2022-01-01,True,False
-50,das Schwein,the pig,2,0,2022-01-01,2022-01-01,True,False
-51,überfahren,to run over,0,-1,2022-01-01,2022-01-01,False,False
-52,der Cousin,the cousin,2,1,2022-01-01,2022-01-01,True,False
-53,geduldig,patient,0,-2,2022-01-01,2022-01-01,False,True
-54,der Kindergarten,the nursery,0,0,2022-01-01,2022-01-01,False,False
-55,die Überschwemmung,the flood,2,-1,2022-01-01,2022-01-01,True,False
-56,ständig,constant,-1,1,2022-01-01,2022-01-01,False,False
-57,sich lohnen,to be worth it,0,-2,2022-01-01,2022-01-01,False,True
-58,der Strömung,the flow,-1,-2,2022-01-01,2022-01-01,False,True
-59,aushalten,to withstand,-2,0,2022-01-01,2022-01-01,True,False
-60,lachen,to laugh,1,-1,2022-01-01,2022-01-01,False,False
-61,währen,to last,1,-2,2022-01-01,2022-01-01,False,False
-62,die Gabe,the gift,-1,0,2022-01-01,2022-01-01,False,True
-63,der Pfeffer,the pepper,0,-1,2022-01-01,2022-01-01,False,False
-64,besondere,special,-1,0,2022-01-01,2022-01-01,False,False
-65,die Präposition,the preposition,1,0,2022-01-01,2022-01-01,True,False
-66,der Geruchssin,the sense of smell,-1,-1,2022-01-01,2022-01-01,False,False
-67,die Übersetzung,the translation,2,-1,2022-01-01,2022-01-01,False,True
-68,reiten,to ride,-1,-1,2022-01-01,2022-01-01,False,False
-69,das Pokal,the cup,0,-2,2022-01-01,2022-01-01,False,True
-70,die Flanke,the flank,0,0,2022-01-01,2022-01-01,False,False
-71,beachten,to pay attention,0,-3,2022-01-01,2022-01-01,False,True
-72,die Gegenstand,the object,0,-2,2022-01-01,2022-01-01,False,True
-73,der Freund,the boyfriend,2,1,2022-01-01,2022-01-01,True,False
-74,die Erkenntnis,the knowledge,0,-1,2022-01-01,2022-01-01,False,True
-75,umfahren,to bypass,0,-2,2022-01-01,2022-01-01,False,False
-76,das Sprichwort,the proverb,0,-2,2022-01-01,2022-01-01,False,False
-77,die Hymne,the anthem,1,-1,2022-01-01,2022-01-01,True,False
-78,nah,close,-1,0,2022-01-01,2022-01-01,False,False
-79,die Regierung,the government,1,1,2022-01-01,2022-01-01,False,True
-80,selten,rarely,0,-1,2022-01-01,2022-01-01,False,False
-81,der Vordergrund,the foreground,0,-1,2022-01-01,2022-01-01,False,False
-82,der Stern,the star,1,0,2022-01-01,2022-01-01,True,False
-83,die Mandel,the almond,-1,-1,2022-01-01,2022-01-01,False,False
-84,das Nashorn,the rhino,0,0,2022-01-01,2022-01-01,False,False
-85,der Hahn,the rooster,-1,1,2022-01-01,2022-01-01,False,False
-86,erinnern,to remind,-1,0,2022-01-01,2022-01-01,False,False
-87,die rote Bete,the beetroot,0,-1,2022-01-01,2022-01-01,False,False
-88,der Ahn,the ancestor,0,0,2022-01-01,2022-01-01,False,True
-89,der Kamm,the towel,-1,0,2022-01-01,2022-01-01,False,True
-90,ärgern,to annoy,0,-1,2022-01-01,2022-01-01,False,False
-91,hinten,behind,-1,0,2022-01-01,2022-01-01,True,False
-92,die Zahnbürste,the toothbrush,1,-1,2022-01-01,2022-01-01,False,True
-93,die Erkältung,the cold,0,-1,2022-01-01,2022-01-01,False,True
-94,die Kardone,the cardoon,1,0,2022-01-01,2022-01-01,True,False
-95,statt,instead of,1,0,2022-01-01,2022-01-01,True,False
-96,die Dattek,the date,0,-1,2022-01-01,2022-01-01,False,True
-97,vorstellen,to present,-1,0,2022-01-01,2022-01-01,True,False
-98,der Film,the movie,2,1,2022-01-01,2022-01-01,False,True
-99,der Zwerg,the dwarf,0,0,2022-01-01,2022-01-01,False,False
-100,sich verlieben,to fall in love,0,-2,2022-01-01,2022-01-01,False,True
-101,die Bürste,the brush,3,0,2022-01-01,2022-01-01,True,False
-102,stumm,mute,0,1,2022-01-01,2022-01-01,True,False
-103,das Gesetz,the law (G.),0,0,2022-01-01,2022-01-01,False,False
-104,bald,soon,1,-1,2022-01-01,2022-01-01,True,False
-105,sich die Zähne putzen,to brush one's teeth,1,0,2022-01-01,2022-01-01,False,True
-106,der Posteingang,the inbox,0,-1,2022-01-01,2022-01-01,False,True
-107,das Waschen,the washing,2,-1,2022-01-01,2022-01-01,True,False
-108,schneiden,to cut,0,2,2022-01-01,2022-01-01,False,True
-109,der Kürbis,the pumpkin,-1,0,2022-01-01,2022-01-01,False,False
-110,verdrängen,to replace,0,0,2022-01-01,2022-01-01,False,False
-111,verpassen,to miss,0,0,2022-01-01,2022-01-01,False,False
-112,beschenken,to make a present,0,-1,2022-01-01,2022-01-01,False,True
-113,der Magen,the stomach,0,1,2022-01-01,2022-01-01,False,True
-114,leise,discrete,-2,0,2022-01-01,2022-01-01,True,False
-115,die Landwirtschaft,the agriculture,0,-3,2022-01-01,2022-01-01,False,True
-116,sonst,otherwise,0,1,2022-01-01,2022-01-01,True,False
-117,wieder,another time,0,0,2022-01-01,2022-01-01,False,False
-118,zum Geburtstag viel Glück,happy birthday,0,-2,2022-01-01,2022-01-01,False,False
-119,die Erbse,the pea,1,0,2022-01-01,2022-01-01,True,False
-120,gelten,to apply,0,-1,2022-01-01,2022-01-01,False,True
-121,das Rührei,the scrambled egg,1,-1,2022-01-01,2022-01-01,False,True
-122,die Lösung,the solution,0,0,2022-01-01,2022-01-01,False,False
-123,die Markise,the awning,1,-2,2022-01-01,2022-01-01,False,True
-124,die Brunnenkresse,the watercress,-2,0,2022-01-01,2022-01-01,False,False
-125,zwingend,mandatory,-1,0,2022-01-01,2022-01-01,False,True
-126,die Reineclaude,the greengage,2,0,2022-01-01,2022-01-01,True,False
-127,die Ableitung,the derivation,-1,-1,2022-01-01,2022-01-01,True,False
-128,wenig,little,0,-1,2022-01-01,2022-01-01,False,False
-129,der übersetzer,the translator,1,0,2022-01-01,2022-01-01,True,False
-130,herzlich,cordial,-1,-1,2022-01-01,2022-01-01,True,False
-131,unterhalten,to entertain,0,-2,2022-01-01,2022-01-01,False,True
-132,vorgedrungen,advanced,0,-1,2022-01-01,2022-01-01,False,False
-133,schmutzig,dirty,-1,-1,2022-01-01,2022-01-01,False,True
-134,unterwegs,on the road,0,-2,2022-01-01,2022-01-01,False,False
-135,die Entscheidung,the decision,0,1,2022-01-01,2022-01-01,False,False
-136,die Mütze,the cap,2,0,2022-01-01,2022-01-01,False,True
-137,abmelden,to sign out,-1,0,2022-01-01,2022-01-01,False,False
-138,der Grünkohl,the kale,0,0,2022-01-01,2022-01-01,False,False
-139,die Masche,the mesh,-1,-1,2022-01-01,2022-01-01,True,False
-140,wandern,to hike,-1,1,2022-01-01,2022-01-01,False,True
-141,flüssig,liquid,0,-1,2022-01-01,2022-01-01,False,False
-142,die Ausflug,the excursion,-1,-2,2022-01-01,2022-01-01,True,False
-143,die Fernbedienung,the remote,-1,-1,2022-01-01,2022-01-01,False,True
-144,die Heizung,the heater,-1,1,2022-01-01,2022-01-01,False,True
-145,die Erläuterung,the explanation,0,-2,2022-01-01,2022-01-01,False,True
-146,messen,to measure,-1,1,2022-01-01,2022-01-01,False,True
-147,das Nasenbluten,the nosebleed,0,-1,2022-01-01,2022-01-01,False,False
-148,schiessen,to shoot,0,-1,2022-01-01,2022-01-01,False,True
-149,die Ausbildung,the training,-1,3,2022-01-01,2022-01-01,False,True
-150,regnen,to rain,0,-1,2022-01-01,2022-01-01,False,False
-151,daher,therefore,1,0,2022-01-01,2022-01-01,False,True
-152,die Entfernung,the distance,0,0,2022-01-01,2022-01-01,True,False
-153,die Stillzeit,the breastfeeding period,0,1,2022-01-01,2022-01-01,False,True
-154,die Bedingung,the condition,-1,-1,2022-01-01,2022-01-01,False,True
-155,das Gebäck,the pastry,2,-1,2022-01-01,2022-01-01,True,False
-156,höchst,highly,-1,0,2022-01-01,2022-01-01,False,False
-157,der Dachboden,the attic,-1,-1,2022-01-01,2022-01-01,True,False
-158,das Töpfchen,the potty,0,-2,2022-01-01,2022-01-01,False,False
-159,der Tacker,the stapler,-1,2,2022-01-01,2022-01-01,False,True
-160,der Beutel,the sachet,0,-2,2022-01-01,2022-01-01,False,False
+1,hässlich,ugly,2,2,2020-11-14,2020-11-14,False,False
+2,das Organ,the organ,2,0,2020-11-14,2022-01-01,False,False
+3,süss,sweet,2,2,2020-11-14,2020-11-14,False,False
+4,der Mensch,the human,2,2,2020-11-14,2020-11-18,False,True
+5,anziehen,to put a clothe on,2,2,2020-11-14,2020-11-13,False,False
+6,heissen,to be named,2,2,2020-11-12,2020-11-14,False,False
+7,arbeiten,to work,2,2,2020-11-14,2020-11-18,False,True
+8,der Kellner,the waiter,2,2,2020-11-12,2020-11-14,False,False
+9,Deutsch,German,2,2,2020-11-14,2020-11-14,False,False
+10,auf Wiedersehen,goodbye,2,2,2020-11-14,2020-11-14,False,False
+11,beginnen,to begin,2,2,2020-11-14,2020-11-14,False,False
+12,September,September,2,1,2020-11-13,2022-01-01,False,False
+13,der Herbst,the autumn,2,2,2020-11-14,2020-11-14,False,False
+14,der Historiker,the historian,2,2,2020-11-12,2020-11-14,False,False
+15,Himmel,Heaven,2,2,2020-11-12,2020-11-13,False,False
+16,das Mehl,the flour,2,2,2020-11-14,2020-11-14,False,False
+17,das Sonderangebot,the special offer,2,2,2020-11-12,2020-11-13,False,False
+18,reservieren,to reserve,2,2,2020-11-14,2020-11-13,False,False
+19,der Himmel,the sky,2,2,2020-11-13,2020-11-12,False,False
+20,die SMS,the SMS,2,-2,2020-11-12,2022-01-01,False,False
+21,sauber,clean,2,1,2020-11-12,2022-01-01,False,False
+22,die Tür,the door,2,2,2020-11-14,2020-11-14,False,False
+23,oft,often,2,2,2020-11-14,2020-11-14,False,False
+24,der Fernseher,the television,1,2,2022-01-01,2020-11-14,True,False
+25,seltsam,strange,2,2,2020-11-14,2020-11-13,False,False
+26,der Khaki,the khaki,2,1,2020-11-13,2022-01-01,False,False
+27,der Joghurt,the yoghurt,2,2,2020-11-14,2020-11-14,False,False
+28,leben,to live,2,1,2020-11-12,2022-01-01,False,False
+29,der Kollege,the colleague,2,1,2020-11-13,2022-01-01,False,False
+30,die Kirche,the church,2,2,2020-11-14,2020-11-13,False,False
+31,das Ziel,the aim,2,2,2020-11-18,2020-11-14,True,False
+32,emotional,emotional,2,1,2020-11-14,2022-01-01,False,False
+33,die Zucchini,the zucchini,2,1,2020-11-14,2022-01-01,False,True
+34,der Urlaub,the holiday,2,2,2020-11-14,2020-11-12,False,False
+35,die Herberge,the hostel,2,-1,2020-11-14,2022-01-01,False,True
+36,der Garten,the garden,2,1,2020-11-12,2022-01-01,False,True
+37,der Pass,the pass,0,2,2022-01-01,2020-11-14,False,False
+38,es tut mir leid,I'm sorry,2,2,2020-11-13,2020-11-12,False,False
+39,der Halt,the halt,2,2,2020-11-14,2020-11-14,False,False
+40,März,March,2,2,2020-11-12,2020-11-14,False,False
+41,der Tempel,the temple,2,2,2020-11-14,2020-11-18,False,True
+42,die Konstellation,the constellation,2,2,2020-11-14,2020-11-14,False,False
+43,die Geschichte,the history,2,0,2020-11-14,2022-01-01,False,True
+44,die Position,the position,2,1,2020-11-13,2022-01-01,False,True
+45,die Luft,the air,2,-2,2020-11-18,2022-01-01,True,False
+46,die Garantie,the guarantee,2,0,2020-11-18,2022-01-01,True,False
+47,löschen,to delete,2,2,2020-11-14,2020-11-13,False,False
+48,der Tod,the death,1,2,2022-01-01,2020-11-14,True,False
+49,die Note,the grade,2,2,2020-11-12,2020-11-14,False,False
+50,das Schwein,the pig,2,2,2020-11-14,2020-11-13,False,False
+51,überfahren,to run over,2,-3,2020-11-14,2022-01-01,False,False
+52,der Cousin,the cousin,2,2,2020-11-12,2020-11-14,False,False
+53,geduldig,patient,2,-3,2020-11-18,2022-01-01,True,False
+54,der Kindergarten,the nursery,2,1,2020-11-18,2022-01-01,True,False
+55,die Überschwemmung,the flood,2,0,2020-11-12,2022-01-01,False,False
+56,ständig,constant,2,1,2020-11-14,2022-01-01,False,False
+57,sich lohnen,to be worth it,0,-4,2022-01-01,2022-01-01,False,False
+58,der Strömung,the flow,1,-2,2022-01-01,2022-01-01,True,False
+59,aushalten,to withstand,2,-1,2020-11-18,2022-01-01,True,False
+60,lachen,to laugh,2,0,2020-11-14,2022-01-01,False,True
+61,währen,to last,2,-2,2020-11-14,2022-01-01,False,False
+62,die Gabe,the gift,1,2,2022-01-01,2020-11-12,True,False
+63,der Pfeffer,the pepper,1,0,2022-01-01,2022-01-01,True,False
+64,besondere,special,0,-1,2022-01-01,2022-01-01,True,False
+65,die Präposition,the preposition,2,2,2020-11-13,2020-11-14,False,False
+66,der Geruchssin,the sense of smell,1,-1,2022-01-01,2022-01-01,True,False
+67,die Übersetzung,the translation,2,-2,2020-11-12,2022-01-01,False,True
+68,reiten,to ride,2,-2,2020-11-18,2022-01-01,True,False
+69,das Pokal,the cup,1,-4,2022-01-01,2022-01-01,False,True
+70,die Flanke,the flank,1,2,2022-01-01,2020-11-18,False,True
+71,beachten,to pay attention,0,1,2022-01-01,2022-01-01,False,False
+72,die Gegenstand,the object,2,-6,2020-11-14,2022-01-01,False,True
+73,der Freund,the boyfriend,2,2,2020-11-12,2020-11-13,False,False
+74,die Erkenntnis,the knowledge,2,-4,2020-11-13,2022-01-01,False,True
+75,umfahren,to bypass,2,1,2020-11-14,2022-01-01,False,True
+76,das Sprichwort,the proverb,2,0,2020-11-14,2022-01-01,False,False
+77,die Hymne,the anthem,2,2,2020-11-12,2020-11-14,False,False
+78,nah,close,0,1,2022-01-01,2022-01-01,False,False
+79,die Regierung,the government,2,2,2020-11-14,2020-11-12,False,False
+80,selten,rarely,2,-1,2020-11-18,2022-01-01,True,False
+81,der Vordergrund,the foreground,-2,-2,2022-01-01,2022-01-01,False,False
+82,der Stern,the star,2,1,2020-11-13,2022-01-01,False,True
+83,die Mandel,the almond,2,-1,2020-11-14,2022-01-01,False,False
+84,das Nashorn,the rhino,1,-1,2022-01-01,2022-01-01,False,True
+85,der Hahn,the rooster,1,2,2022-01-01,2020-11-14,True,False
+86,erinnern,to remind,1,1,2022-01-01,2022-01-01,False,True
+87,die rote Bete,the beetroot,2,1,2020-11-14,2022-01-01,False,False
+88,der Ahn,the ancestor,2,2,2020-11-14,2020-11-14,False,False
+89,der Kamm,the towel,2,0,2020-11-14,2022-01-01,False,False
+90,ärgern,to annoy,1,2,2022-01-01,2020-11-14,True,False
+91,hinten,behind,0,1,2022-01-01,2022-01-01,True,False
+92,die Zahnbürste,the toothbrush,2,-2,2020-11-14,2022-01-01,False,False
+93,die Erkältung,the cold,2,-1,2020-11-18,2022-01-01,True,False
+94,die Kardone,the cardoon,2,2,2020-11-14,2020-11-14,False,False
+95,statt,instead of,2,2,2020-11-18,2020-11-14,True,False
+96,die Dattek,the date,2,1,2020-11-14,2022-01-01,False,True
+97,vorstellen,to present,1,2,2022-01-01,2020-11-14,True,False
+98,der Film,the movie,2,2,2020-11-12,2020-11-14,False,False
+99,der Zwerg,the dwarf,2,2,2020-11-14,2020-11-14,False,False
+100,sich verlieben,to fall in love,1,-1,2022-01-01,2022-01-01,False,True
+101,die Bürste,the brush,2,2,2020-11-12,2020-11-14,False,False
+102,stumm,mute,2,2,2020-11-13,2020-11-14,False,False
+103,das Gesetz,the law (G.),2,2,2020-11-14,2020-11-18,False,True
+104,bald,soon,2,2,2020-11-12,2020-11-18,False,True
+105,sich die Zähne putzen,to brush one's teeth,2,2,2020-11-12,2020-11-14,False,False
+106,der Posteingang,the inbox,2,0,2020-11-14,2022-01-01,False,False
+107,das Waschen,the washing,2,-2,2020-11-12,2022-01-01,False,True
+108,schneiden,to cut,2,2,2020-11-14,2020-11-12,False,False
+109,der Kürbis,the pumpkin,1,2,2022-01-01,2020-11-18,False,True
+110,verdrängen,to replace,-3,-1,2022-01-01,2022-01-01,True,False
+111,verpassen,to miss,0,-1,2022-01-01,2022-01-01,True,False
+112,beschenken,to make a present,-1,-1,2022-01-01,2022-01-01,True,False
+113,der Magen,the stomach,2,2,2020-11-14,2020-11-13,False,False
+114,leise,discrete,-1,-1,2022-01-01,2022-01-01,False,True
+115,die Landwirtschaft,the agriculture,2,-2,2020-11-18,2022-01-01,True,False
+116,sonst,otherwise,2,2,2020-11-14,2020-11-13,False,False
+117,wieder,another time,1,2,2022-01-01,2020-11-18,False,True
+118,zum Geburtstag viel Glück,happy birthday,2,0,2020-11-14,2022-01-01,False,True
+119,die Erbse,the pea,2,2,2020-11-14,2020-11-14,False,False
+120,gelten,to apply,2,-3,2020-11-18,2022-01-01,True,False
+121,das Rührei,the scrambled egg,2,2,2020-11-14,2020-11-14,False,False
+122,die Lösung,the solution,2,2,2020-11-12,2020-11-14,False,False
+123,die Markise,the awning,2,0,2020-11-12,2022-01-01,False,True
+124,die Brunnenkresse,the watercress,-1,-2,2022-01-01,2022-01-01,True,False
+125,zwingend,mandatory,-1,2,2022-01-01,2020-11-14,True,False
+126,die Reineclaude,the greengage,2,2,2020-11-12,2020-11-14,False,False
+127,die Ableitung,the derivation,-3,1,2022-01-01,2022-01-01,True,False
+128,wenig,little,2,2,2020-11-14,2020-11-18,False,True
+129,der übersetzer,the translator,2,-1,2020-11-14,2022-01-01,False,True
+130,herzlich,cordial,1,1,2022-01-01,2022-01-01,True,False
+131,unterhalten,to entertain,0,-2,2022-01-01,2022-01-01,True,False
+132,vorgedrungen,advanced,0,-4,2022-01-01,2022-01-01,False,True
+133,schmutzig,dirty,1,-1,2022-01-01,2022-01-01,True,False
+134,unterwegs,on the road,2,-2,2020-11-13,2022-01-01,False,True
+135,die Entscheidung,the decision,2,2,2020-11-18,2020-11-12,True,False
+136,die Mütze,the cap,2,2,2020-11-12,2020-11-14,False,False
+137,abmelden,to sign out,0,2,2022-01-01,2020-11-18,False,True
+138,der Grünkohl,the kale,1,-1,2022-01-01,2022-01-01,False,True
+139,die Masche,the mesh,2,0,2020-11-14,2022-01-01,False,True
+140,wandern,to hike,2,2,2020-11-14,2020-11-12,False,False
+141,flüssig,liquid,2,0,2020-11-18,2022-01-01,True,False
+142,die Ausflug,the excursion,2,-2,2020-11-18,2022-01-01,True,False
+143,die Fernbedienung,the remote,2,0,2020-11-14,2022-01-01,False,True
+144,die Heizung,the heater,1,2,2022-01-01,2020-11-14,False,False
+145,die Erläuterung,the explanation,2,0,2020-11-14,2022-01-01,False,False
+146,messen,to measure,2,2,2020-11-14,2020-11-14,False,False
+147,das Nasenbluten,the nosebleed,2,-4,2020-11-14,2022-01-01,False,False
+148,schiessen,to shoot,1,-2,2022-01-01,2022-01-01,True,False
+149,die Ausbildung,the training,2,2,2020-11-14,2020-11-12,False,False
+150,regnen,to rain,1,1,2022-01-01,2022-01-01,False,True
+151,daher,therefore,2,2,2020-11-13,2020-11-14,False,False
+152,die Entfernung,the distance,2,2,2020-11-18,2020-11-14,True,False
+153,die Stillzeit,the breastfeeding period,2,2,2020-11-18,2020-11-13,True,False
+154,die Bedingung,the condition,2,-2,2020-11-18,2022-01-01,True,False
+155,das Gebäck,the pastry,2,0,2020-11-12,2022-01-01,False,False
+156,höchst,highly,2,1,2020-11-14,2022-01-01,False,False
+157,der Dachboden,the attic,1,0,2022-01-01,2022-01-01,True,False
+158,das Töpfchen,the potty,1,1,2022-01-01,2022-01-01,False,True
+159,der Tacker,the stapler,-2,2,2022-01-01,2020-11-12,True,False
+160,der Beutel,the sachet,1,-1,2022-01-01,2022-01-01,True,False
