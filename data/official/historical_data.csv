@@ -233,7 +233,7 @@ id_vocab,german_word,english_word,score_before,score_before_other_language,langu
 15.0,Himmel,Heaven,1.0,1.0,english,1.0,Heaven,2.0,,,,2020-10-08 16:56:12.212091
 55.0,die Überschwemmung,the flood,1.0,-1.0,english,1.0,the flood,3.0,,,,2020-10-08 16:56:15.019128
 23.0,oft,often,1.0,-1.0,english,1.0,often,2.0,,,,2020-10-08 16:56:18.644200
-91.0,hinten,behind,0.0,0.0,english,0.0,to hide,3.0,hinten behind hinten behind,0,True,2020-10-08 16:56:20.808732
+91.0,hinten,behind,0.0,0.0,english,0.0,to hide,3.0,hinten behind hinten behind,0.0,True,2020-10-08 16:56:20.808732
 21.0,sauber,clean,1.0,1.0,german,0.0,suaber,2.0,clean sauber,,False,2020-10-08 16:56:32.171513
 151.0,daher,therefore,-1.0,1.0,german,1.0,daher,3.0,,,,2020-10-08 16:56:39.090617
 102.0,stumm,mute,-1.0,1.0,english,1.0,mute,2.0,,,,2020-10-08 16:56:42.299276
@@ -246,7 +246,7 @@ id_vocab,german_word,english_word,score_before,score_before_other_language,langu
 105.0,sich die Zähne putzen,to brush one's teeth,-1.0,1.0,german,1.0,sich die Zähne putzen,11.0,,,,2020-10-08 16:59:12.790599
 142.0,die Ausflug,the excursion,0.0,-2.0,english,0.0,,3.0,die Ausflug the excursion die Ausflug,,False,2020-10-08 16:59:24.361621
 155.0,das Gebäck,the pastry,1.0,-1.0,english,1.0,the pastry,3.0,,,,2020-10-08 16:59:36.302730
-96.0,die Dattek,the date,0.0,0.0,german,0.0,die Daten,4.0,die Dattek the date die Dattek,0,True,2020-10-08 16:59:40.141884
+96.0,die Dattek,the date,0.0,0.0,german,0.0,die Daten,4.0,die Dattek the date die Dattek,0.0,True,2020-10-08 16:59:40.141884
 14.0,der Historiker,the historian,2.0,0.0,english,1.0,the historian,3.0,,,,2020-10-08 16:59:53.279488
 104.0,bald,soon,0.0,-1.0,english,1.0,soon,2.0,,,,2020-10-08 16:59:57.018853
 13.0,der Herbst,the autumn,0.0,0.0,english,1.0,the autumn,3.0,,,,2020-10-08 16:59:59.603138
@@ -269,7 +269,7 @@ id_vocab,german_word,english_word,score_before,score_before_other_language,langu
 47.0,löschen,to delete,1.0,0.0,german,0.0,loschen,4.0,löschen löschen to delete,,False,2020-10-08 17:01:58.140369
 73.0,der Freund,the boyfriend,1.0,1.0,english,1.0,the boyfriend,3.0,,,,2020-10-08 17:02:09.101457
 93.0,die Erkältung,the cold,0.0,0.0,german,0.0,der Erkaltung,8.0,die Erkältung the cold die Erkältung,,False,2020-10-08 17:02:12.488574
-74.0,die Erkenntnis,the knowledge,0.0,0.0,german,0.0,das Wissen,4.0,die Erkenntnis the knowledge die Erkenntnis,0,True,2020-10-08 17:02:32.655338
+74.0,die Erkenntnis,the knowledge,0.0,0.0,german,0.0,das Wissen,4.0,die Erkenntnis the knowledge die Erkenntnis,0.0,True,2020-10-08 17:02:32.655338
 35.0,die Herberge,the hostel,-2.0,0.0,german,1.0,die Herberge,9.0,,,,2020-10-08 17:02:49.500212
 106.0,der Posteingang,the inbox,0.0,0.0,german,0.0,der Posteingant,5.0,der Posteingang,,False,2020-10-08 17:02:58.874834
 121.0,das Rührei,the scrambled egg,0.0,1.0,german,0.0,die Rührei,5.0,das Rührei the scrambled egg die Rührei,,False,2020-10-08 17:03:12.615740
@@ -277,7 +277,7 @@ id_vocab,german_word,english_word,score_before,score_before_other_language,langu
 4.0,der Mensch,the human,0.0,1.0,german,0.0,das Mensch,5.0,der Mensch the human der Mensch,,False,2020-10-08 17:03:35.060837
 159.0,der Tacker,the stapler,1.0,-1.0,german,1.0,der Tacker,2.0,,,,2020-10-08 17:03:47.062542
 10.0,auf Wiedersehen,goodbye,0.0,1.0,english,1.0,goodbye,4.0,,,,2020-10-08 17:03:49.890597
-100.0,sich verlieben,to fall in love,-1.0,0.0,german,0.0,fühlen,3.0,sich verlieben to fall in love sich verlieben,0,True,2020-10-08 17:03:53.985179
+100.0,sich verlieben,to fall in love,-1.0,0.0,german,0.0,fühlen,3.0,sich verlieben to fall in love sich verlieben,0.0,True,2020-10-08 17:03:53.985179
 65.0,die Präposition,the preposition,0.0,0.0,english,1.0,the preposition,4.0,,,,2020-10-08 17:06:54.874353
 92.0,die Zahnbürste,the toothbrush,0.0,1.0,german,0.0,die Zähnebürste,8.0,die Zahnebürste die Zahnebürste,,False,2020-10-08 17:06:59.083575
 94.0,die Kardone,the cardoon,0.0,0.0,english,1.0,the cardoon,3.0,,,,2020-10-08 17:07:18.100956
@@ -285,12 +285,12 @@ id_vocab,german_word,english_word,score_before,score_before_other_language,langu
 77.0,die Hymne,the anthem,0.0,-1.0,english,1.0,the anthem,3.0,,,,2020-10-08 17:07:31.792865
 89.0,der Kamm,the towel,-1.0,-1.0,german,1.0,der Kamm,8.0,,,,2020-10-08 17:07:35.375830
 140.0,wandern,to hike,0.0,-1.0,german,1.0,wandern,2.0,,,,2020-10-08 17:07:43.784950
-133.0,schmutzig,dirty,0.0,-1.0,german,0.0,staubig,4.0,schmutzig dirty schmutzig,0,True,2020-10-08 17:07:46.722177
+133.0,schmutzig,dirty,0.0,-1.0,german,0.0,staubig,4.0,schmutzig dirty schmutzig,0.0,True,2020-10-08 17:07:46.722177
 123.0,die Markise,the awning,-1.0,1.0,german,0.0,die Marquise,3.0,die Markise the awning die Markise,,False,2020-10-08 17:08:01.705046
-24.0,der Fernseher,the television,0.0,0.0,english,0.0,the window,5.0,der Fernseher the television der Fernseher,0,True,2020-10-08 17:08:12.598258
+24.0,der Fernseher,the television,0.0,0.0,english,0.0,the window,5.0,der Fernseher the television der Fernseher,0.0,True,2020-10-08 17:08:12.598258
 29.0,der Kollege,the colleague,0.0,-1.0,english,1.0,the colleague,4.0,,,,2020-10-08 17:08:28.441992
 6.0,heissen,to be named,1.0,0.0,english,1.0,to be named,3.0,,,,2020-10-08 17:08:32.463666
-97.0,vorstellen,to present,0.0,0.0,english,0.0,to prevent,3.0,vorstellen to present vorstellen,0,True,2020-10-08 17:08:35.856435
+97.0,vorstellen,to present,0.0,0.0,english,0.0,to prevent,3.0,vorstellen to present vorstellen,0.0,True,2020-10-08 17:08:35.856435
 17.0,das Sonderangebot,the special offer,1.0,0.0,english,1.0,the special offer,3.0,,,,2020-10-08 17:08:49.480760
 59.0,aushalten,to withstand,-1.0,0.0,english,0.0,,3.0,aushalten to withstand aushalten,,False,2020-10-08 17:08:53.489955
 120.0,gelten,to apply,0.0,0.0,german,0.0,,1.0,gelten to apply gelten,,False,2020-10-08 17:09:04.296812
@@ -319,3 +319,623 @@ id_vocab,german_word,english_word,score_before,score_before_other_language,langu
 52.0,der Cousin,the cousin,1.0,1.0,english,1.0,the cousin,4.0,,,,2020-10-08 17:11:19.535079
 113.0,der Magen,the stomach,0.0,0.0,german,1.0,der Magen,3.0,,,,2020-10-08 17:11:23.691143
 157.0,der Dachboden,the attic,0.0,-1.0,english,0.0,,2.0,der Dachboden the attic der Dachboden,,False,2020-10-08 17:11:26.855734
+100.0,sich verlieben,to fall in love,-2.0,0.0,german,1.0,sich verlieben,5.0,,,,2020-10-12 09:45:51.215225
+111.0,verpassen,to miss,0.0,0.0,german,0.0,,3.0,verpassen to miss verpassen,,False,2020-10-12 09:45:56.944139
+79.0,die Regierung,the government,1.0,1.0,german,1.0,die Regierung,4.0,,,,2020-10-12 09:46:06.294070
+147.0,das Nasenbluten,the nosebleed,0.0,-1.0,english,1.0,the nosebleed,4.0,,,,2020-10-12 09:46:10.651049
+25.0,seltsam,strange,0.0,1.0,german,1.0,seltsam,3.0,,,,2020-10-12 09:46:14.973668
+18.0,reservieren,to reserve,0.0,1.0,german,1.0,reservieren,3.0,,,,2020-10-12 09:46:18.610888
+38.0,es tut mir leid,I'm sorry,0.0,3.0,english,1.0,I'm sorry,4.0,,,,2020-10-12 09:46:22.226251
+92.0,die Zahnbürste,the toothbrush,-1.0,1.0,german,0.0,die Zähnebruste,5.0,die Zahnbürste die Zahnbürste,,False,2020-10-12 09:46:26.899797
+121.0,das Rührei,the scrambled egg,-1.0,1.0,german,1.0,das Rührei,8.0,,,,2020-10-12 09:46:48.533711
+45.0,die Luft,the air,-1.0,0.0,german,0.0,der Luft,9.0,die Luft the air die Luft,,False,2020-10-12 09:46:57.107763
+119.0,die Erbse,the pea,0.0,1.0,german,1.0,die Erbse,4.0,,,,2020-10-12 09:47:50.304064
+117.0,wieder,another time,0.0,0.0,english,0.0,another,6.0,wider another time wieder,,False,2020-10-12 09:47:54.342643
+33.0,die Zucchini,the zucchini,0.0,0.0,german,0.0,die Konkombr,9.0,the zucchini die Zucchini die Zucchini,,False,2020-10-12 09:48:18.571088
+53.0,geduldig,patient,-2.0,0.0,german,0.0,still,2.0,geduldig patient geduldig,0.0,True,2020-10-12 09:48:40.406702
+7.0,arbeiten,to work,0.0,0.0,english,1.0,to work,2.0,,,,2020-10-12 09:48:52.467917
+29.0,der Kollege,the colleague,1.0,-1.0,english,1.0,the colleague,3.0,,,,2020-10-12 09:48:55.338091
+66.0,der Geruchssin,the sense of smell,-1.0,-1.0,german,0.0,die Geruchssin,7.0,der Geruchssin the sense of smell der Geruchssin,,False,2020-10-12 09:48:59.139195
+4.0,der Mensch,the human,-1.0,1.0,german,1.0,der Mensch,5.0,,,,2020-10-12 09:49:20.170370
+116.0,sonst,otherwise,0.0,1.0,english,1.0,otherwise,4.0,,,,2020-10-12 09:49:25.842831
+72.0,die Gegenstand,the object,-2.0,0.0,german,0.0,das Object,7.0,die Gegenstand die gegenstand die Gegenstand,,False,2020-10-12 09:49:29.937715
+101.0,die Bürste,the brush,0.0,3.0,german,1.0,die Bürste,4.0,,,,2020-10-12 10:28:29.299607
+78.0,nah,close,0.0,-1.0,german,1.0,nah,2.0,,,,2020-10-12 10:28:34.029394
+115.0,die Landwirtschaft,the agriculture,-3.0,0.0,german,1.0,die Landwirtschaft,8.0,,,,2020-10-12 10:28:36.870336
+21.0,sauber,clean,1.0,0.0,english,1.0,clean,3.0,,,,2020-10-12 10:28:45.653517
+120.0,gelten,to apply,-1.0,0.0,german,0.0,beachten,7.0,beachten to pay attention ; gelten to apply gelten gelten,71.0,True,2020-10-12 10:28:48.736160
+96.0,die Dattek,the date,0.0,-1.0,english,1.0,the date,3.0,,,,2020-10-12 10:29:13.777998
+24.0,der Fernseher,the television,0.0,-1.0,german,0.0,das Fernseher,5.0,der Fernseher the television der Fernseher,,False,2020-10-12 10:29:17.085419
+8.0,der Kellner,the waiter,1.0,0.0,english,1.0,the waiter,3.0,,,,2020-10-12 10:29:35.905735
+89.0,der Kamm,the towel,-1.0,0.0,english,1.0,the towel,4.0,,,,2020-10-12 10:29:39.375341
+134.0,unterwegs,on the road,0.0,-2.0,english,1.0,on the road,4.0,,,,2020-10-12 10:29:44.025816
+40.0,März,March,2.0,1.0,english,1.0,March,3.0,,,,2020-10-12 11:24:38.884780
+143.0,die Fernbedienung,the remote,-1.0,-1.0,english,1.0,the remote,5.0,,,,2020-10-12 11:24:42.271631
+28.0,leben,to live,1.0,0.0,english,1.0,to live,3.0,,,,2020-10-12 11:24:47.960835
+65.0,die Präposition,the preposition,0.0,1.0,german,1.0,die Präposition,5.0,,,,2020-10-12 11:24:51.781174
+113.0,der Magen,the stomach,0.0,1.0,english,1.0,the stomach,4.0,,,,2020-10-12 11:24:57.727658
+99.0,der Zwerg,the dwarf,0.0,0.0,german,1.0,der Zwerg,5.0,,,,2020-10-12 11:25:02.212353
+140.0,wandern,to hike,1.0,-1.0,german,1.0,wandern,3.0,,,,2020-10-12 11:25:07.893711
+30.0,die Kirche,the church,0.0,0.0,english,1.0,the church,4.0,,,,2020-10-12 11:25:11.100618
+35.0,die Herberge,the hostel,0.0,-1.0,english,1.0,the hostel,3.0,,,,2020-10-12 11:25:15.743364
+77.0,die Hymne,the anthem,1.0,-1.0,english,1.0,the anthem,5.0,,,,2020-10-12 11:25:19.133591
+64.0,besondere,special,-1.0,0.0,english,0.0,therefore,10.0,besondere special besondere,151.0,True,2020-10-12 11:25:29.642710
+47.0,löschen,to delete,0.0,0.0,german,1.0,löschen,3.0,,,,2020-10-12 11:25:46.993985
+51.0,überfahren,to run over,-1.0,0.0,german,0.0,,3.0,überfahren to run over überfahren,,False,2020-10-12 11:25:50.202165
+36.0,der Garten,the garden,2.0,-1.0,english,1.0,the garden,2.0,,,,2020-10-12 11:26:04.130707
+129.0,der übersetzer,the translator,0.0,1.0,german,0.0,die übersetzer,8.0,der übersetzer der übersetzer,,False,2020-10-12 11:26:07.122861
+19.0,der Himmel,the sky,0.0,3.0,english,1.0,the sky,3.0,,,,2020-10-12 11:26:26.399080
+62.0,die Gabe,the gift,0.0,-1.0,german,1.0,die Gabe,3.0,,,,2020-10-12 11:26:30.210615
+50.0,das Schwein,the pig,0.0,2.0,german,1.0,das Schwein,3.0,,,,2020-10-12 11:26:34.033840
+104.0,bald,soon,-1.0,1.0,german,1.0,bald,4.0,,,,2020-10-12 11:26:37.905551
+75.0,umfahren,to bypass,-2.0,0.0,german,1.0,umfahren,5.0,,,,2020-10-12 11:26:42.361984
+73.0,der Freund,the boyfriend,1.0,2.0,german,1.0,der Freund,3.0,,,,2020-10-12 11:26:52.157208
+41.0,der Tempel,the temple,0.0,2.0,german,0.0,das Tempel,8.0,der Tempel the temple der Tempel,,False,2020-10-12 11:26:56.113390
+15.0,Himmel,Heaven,2.0,1.0,english,1.0,Heaven,2.0,,,,2020-10-12 11:27:11.378376
+146.0,messen,to measure,1.0,-1.0,german,1.0,messen,2.0,,,,2020-10-12 11:27:14.162720
+74.0,die Erkenntnis,the knowledge,-1.0,0.0,german,0.0,das Wissen,3.0,die Erkenntnis die Erkenntiis,0.0,True,2020-10-12 11:27:16.778437
+71.0,beachten,to pay attention,-3.0,0.0,german,1.0,beachten,3.0,,,,2020-10-12 11:27:32.747872
+105.0,sich die Zähne putzen,to brush one's teeth,0.0,1.0,german,1.0,sich die Zähne putzen,8.0,,,,2020-10-12 11:27:36.545531
+55.0,die Überschwemmung,the flood,2.0,-1.0,english,1.0,the flood,5.0,,,,2020-10-12 11:27:44.825261
+156.0,höchst,highly,-1.0,0.0,english,1.0,highly,4.0,,,,2020-10-12 11:27:50.372845
+122.0,die Lösung,the solution,0.0,0.0,english,1.0,the solution,3.0,,,,2020-10-12 11:27:54.410958
+135.0,die Entscheidung,the decision,1.0,0.0,german,1.0,die Entscheidung,5.0,,,,2020-10-12 11:28:03.319940
+139.0,die Masche,the mesh,-1.0,-1.0,english,0.0,the mash,7.0,the mesh die Masche the mesh,,False,2020-10-12 11:28:08.380502
+98.0,der Film,the movie,1.0,2.0,german,1.0,der Film,3.0,,,,2020-10-12 11:28:22.435224
+137.0,abmelden,to sign out,0.0,-1.0,german,0.0,aus,4.0,abmelden to sign out abmelden,,False,2020-10-12 11:28:25.826750
+123.0,die Markise,the awning,-2.0,1.0,german,0.0,die Marquise,3.0,die Markise the awning die Markise,,False,2020-10-12 11:28:37.322826
+17.0,das Sonderangebot,the special offer,0.0,2.0,german,1.0,das Sonderangebot,8.0,,,,2020-10-12 11:28:48.171388
+136.0,die Mütze,the cap,0.0,2.0,german,1.0,die Mütze,5.0,,,,2020-10-12 11:28:56.364416
+86.0,erinnern,to remind,-1.0,0.0,english,1.0,to remind,5.0,,,,2020-10-12 11:29:01.701994
+102.0,stumm,mute,0.0,1.0,english,1.0,mute,2.0,,,,2020-10-12 11:29:07.308750
+32.0,emotional,emotional,0.0,1.0,english,0.0,emtional,3.0,emotional,,False,2020-10-12 11:29:10.141284
+77.0,die Hymne,the anthem,2.0,-1.0,english,1.0,the anthem,6.0,,,,2020-10-12 17:25:45.289755
+17.0,das Sonderangebot,the special offer,1.0,2.0,german,1.0,das Sonderangebot,7.0,,,,2020-10-12 17:25:51.513357
+132.0,vorgedrungen,advanced,-1.0,0.0,german,0.0,,3.0,vorgedrungen advanced vorgedrungen vorgedrungen,,False,2020-10-12 17:25:58.945703
+91.0,hinten,behind,-1.0,0.0,english,0.0,to hide,6.0,hinten behind hinten,0.0,True,2020-10-12 17:26:15.378834
+128.0,wenig,little,0.0,-1.0,english,1.0,little,3.0,,,,2020-10-12 17:26:28.269167
+146.0,messen,to measure,-1.0,2.0,english,1.0,to measure,3.0,,,,2020-10-12 17:26:31.651115
+151.0,daher,therefore,0.0,1.0,german,1.0,daher,2.0,,,,2020-10-12 17:26:35.029867
+113.0,der Magen,the stomach,1.0,1.0,english,1.0,the stomach,3.0,,,,2020-10-12 17:26:37.630084
+59.0,aushalten,to withstand,0.0,-2.0,german,0.0,to vorstehen,9.0,aushalten to withstand aushalten,,False,2020-10-12 17:26:41.185187
+30.0,die Kirche,the church,0.0,1.0,german,1.0,die Kirche,3.0,,,,2020-10-12 17:47:27.889166
+76.0,das Sprichwort,the proverb,0.0,-2.0,english,1.0,the proverb,3.0,,,,2020-10-12 17:47:31.442495
+9.0,Deutsch,German,0.0,1.0,english,1.0,German,2.0,,,,2020-10-12 17:47:35.178481
+98.0,der Film,the movie,2.0,2.0,german,0.0,der FIlm,2.0,the movie der Film,,False,2020-10-12 17:47:37.852543
+22.0,die Tür,the door,0.0,1.0,german,1.0,die Tür,10.0,,,,2020-10-12 17:47:46.800549
+42.0,die Konstellation,the constellation,-1.0,1.0,english,1.0,the constellation,4.0,,,,2020-10-12 17:47:57.278110
+57.0,sich lohnen,to be worth it,0.0,-2.0,english,0.0,,3.0,sich lohnen to be worth it sich lohnen,,False,2020-10-12 17:48:01.868160
+48.0,der Tod,the death,0.0,0.0,english,0.0,the dead,3.0,der Tod the death der Tod the death,,False,2020-10-12 17:48:13.251514
+88.0,der Ahn,the ancestor,0.0,0.0,english,1.0,the ancestor,4.0,,,,2020-10-12 17:48:27.017711
+147.0,das Nasenbluten,the nosebleed,-1.0,1.0,german,0.0,die Nasenbluten,8.0,das Nosenbluten the nosebleed das Nasenbluten,,False,2020-10-12 17:48:31.865520
+74.0,die Erkenntnis,the knowledge,0.0,-2.0,english,1.0,the knowledge,3.0,,,,2020-10-12 17:48:52.452374
+139.0,die Masche,the mesh,-2.0,-1.0,english,1.0,the mesh,3.0,,,,2020-10-12 17:48:56.226512
+72.0,die Gegenstand,the object,-3.0,0.0,german,0.0,das Gegenstand,6.0,die gegenstand the object die gegenstand,,False,2020-10-12 17:48:59.508373
+60.0,lachen,to laugh,-1.0,1.0,german,1.0,lachen,3.0,,,,2020-10-12 17:49:14.077587
+68.0,reiten,to ride,-1.0,-1.0,german,0.0,,2.0,reiten to ride reiten,,False,2020-10-12 17:49:17.633628
+126.0,die Reineclaude,the greengage,2.0,0.0,english,1.0,the greengage,6.0,,,,2020-10-12 17:49:25.899611
+25.0,seltsam,strange,1.0,1.0,english,1.0,strange,3.0,,,,2020-10-12 17:49:32.080529
+83.0,die Mandel,the almond,-1.0,-1.0,english,1.0,the almond,3.0,,,,2020-10-12 17:49:35.235631
+120.0,gelten,to apply,-2.0,0.0,german,0.0,anmelden,6.0,gelten to apply gelten,,False,2020-10-12 17:49:38.501813
+49.0,die Note,the grade,1.0,0.0,english,1.0,the grade,3.0,,,,2020-10-12 17:49:50.535483
+118.0,zum Geburtstag viel Glück,happy birthday,0.0,-2.0,english,1.0,happy birthday,6.0,,,,2020-10-12 17:49:53.742714
+145.0,die Erläuterung,the explanation,0.0,-2.0,english,1.0,the explanation,5.0,,,,2020-10-12 17:50:00.511096
+87.0,die rote Bete,the beetroot,0.0,-1.0,english,1.0,the beetroot,4.0,,,,2020-10-12 17:50:05.746542
+123.0,die Markise,the awning,1.0,-3.0,english,1.0,the awning,3.0,,,,2020-10-12 17:50:09.833525
+140.0,wandern,to hike,2.0,-1.0,german,1.0,wandern,2.0,,,,2020-10-12 17:50:13.489454
+104.0,bald,soon,1.0,0.0,english,1.0,soon,2.0,,,,2020-10-12 17:50:16.477827
+34.0,der Urlaub,the holiday,3.0,0.0,german,1.0,der Urlaub,3.0,,,,2020-10-12 17:50:18.656896
+47.0,löschen,to delete,0.0,1.0,english,1.0,to delete,5.0,,,,2020-10-12 17:50:22.433404
+143.0,die Fernbedienung,the remote,-1.0,0.0,german,1.0,die Fernbedienung,6.0,,,,2020-10-12 17:50:28.319551
+136.0,die Mütze,the cap,2.0,1.0,english,1.0,the cap,4.0,,,,2020-10-12 17:50:35.143319
+105.0,sich die Zähne putzen,to brush one's teeth,1.0,1.0,english,1.0,to brush one's teeth,10.0,,,,2020-10-12 17:50:39.247607
+1.0,hässlich,ugly,0.0,1.0,german,1.0,hässlich,3.0,,,,2020-10-12 17:50:49.575724
+157.0,der Dachboden,the attic,-1.0,-1.0,german,0.0,,5.0,der Dachboden the attic der Dachboden,,False,2020-10-12 17:50:53.212557
+24.0,der Fernseher,the television,-1.0,-1.0,german,1.0,der Fernseher,5.0,,,,2020-10-12 17:51:06.500499
+46.0,die Garantie,the guarantee,0.0,-1.0,english,1.0,the guarantee,3.0,,,,2020-10-12 17:51:11.712352
+63.0,der Pfeffer,the pepper,0.0,-1.0,english,0.0,the horse,3.0,der Pfeffer the horse der Pfeffer,0.0,True,2020-10-12 17:51:15.473921
+67.0,die Übersetzung,the translation,2.0,-1.0,english,1.0,the translation,5.0,,,,2020-10-12 17:51:31.091231
+111.0,verpassen,to miss,0.0,-1.0,english,0.0,to,4.0,verpassen to miss verpassen verpassen verpassen,,False,2020-10-12 17:51:36.697935
+62.0,die Gabe,the gift,1.0,-1.0,german,1.0,die Gabe,3.0,,,,2020-10-12 17:51:50.713756
+122.0,die Lösung,the solution,1.0,0.0,english,1.0,the solution,3.0,,,,2020-10-12 17:51:54.426688
+141.0,flüssig,liquid,-1.0,0.0,german,0.0,liquid,3.0,flüssig liquid flüssig,,False,2020-10-12 17:51:57.940804
+107.0,das Waschen,the washing,2.0,-1.0,english,1.0,the washing,5.0,,,,2020-10-13 09:19:12.169374
+22.0,die Tür,the door,1.0,1.0,english,1.0,the door,5.0,,,,2020-10-13 09:19:17.580686
+23.0,oft,often,-1.0,2.0,german,1.0,oft,1.0,,,,2020-10-13 09:19:22.953161
+123.0,die Markise,the awning,2.0,-3.0,english,1.0,the awning,3.0,,,,2020-10-13 09:19:24.853786
+158.0,das Töpfchen,the potty,-2.0,0.0,german,1.0,das Töpfchen,5.0,,,,2020-10-13 09:19:28.324024
+27.0,der Joghurt,the yoghurt,0.0,1.0,german,1.0,der Joghurt,5.0,,,,2020-10-13 09:19:33.788728
+45.0,die Luft,the air,0.0,-2.0,english,1.0,the air,2.0,,,,2020-10-13 09:19:38.923702
+64.0,besondere,special,0.0,-2.0,german,0.0,sondere,6.0,besondere special besondere,,False,2020-10-13 09:19:41.521142
+43.0,die Geschichte,the history,-1.0,-1.0,english,1.0,the history,4.0,,,,2020-10-13 09:19:55.861189
+21.0,sauber,clean,2.0,0.0,english,1.0,clean,2.0,,,,2020-10-13 09:20:00.390731
+152.0,die Entfernung,the distance,0.0,0.0,english,1.0,the distance,6.0,,,,2020-10-13 09:23:27.586465
+91.0,hinten,behind,0.0,-2.0,german,1.0,hinten,3.0,,,,2020-10-13 09:23:33.744702
+134.0,unterwegs,on the road,1.0,-2.0,english,1.0,on the road,4.0,,,,2020-10-13 09:23:36.992551
+81.0,der Vordergrund,the foreground,-1.0,0.0,german,0.0,der Vorgedrungen,7.0,der Vordergrund der Vordergrund,,False,2020-10-13 09:23:41.195789
+69.0,das Pokal,the cup,-2.0,0.0,german,0.0,der Pokal,4.0,das Pokal the cup das Pokal,,False,2020-10-13 09:24:09.487315
+122.0,die Lösung,the solution,2.0,0.0,english,1.0,the solution,3.0,,,,2020-10-13 09:24:19.201729
+102.0,stumm,mute,1.0,1.0,english,1.0,mute,2.0,,,,2020-10-13 09:24:22.692705
+118.0,zum Geburtstag viel Glück,happy birthday,-2.0,1.0,german,1.0,zum Geburtstag viel Glück,11.0,,,,2020-10-13 09:24:25.157558
+62.0,die Gabe,the gift,2.0,-1.0,german,1.0,die Gabe,4.0,,,,2020-10-13 09:24:36.426089
+117.0,wieder,another time,-1.0,0.0,english,1.0,another time,3.0,,,,2020-10-13 09:24:40.540123
+18.0,reservieren,to reserve,1.0,1.0,german,1.0,reservieren,4.0,,,,2020-10-13 10:10:10.614013
+4.0,der Mensch,the human,1.0,0.0,english,1.0,the human,5.0,,,,2020-10-13 10:10:15.324307
+65.0,die Präposition,the preposition,1.0,1.0,english,1.0,the preposition,5.0,,,,2020-10-13 10:10:21.086045
+156.0,höchst,highly,0.0,0.0,english,1.0,highly,3.0,,,,2020-10-13 10:10:26.567412
+113.0,der Magen,the stomach,1.0,2.0,german,1.0,der Magen,3.0,,,,2020-10-13 10:10:30.248095
+9.0,Deutsch,German,1.0,1.0,english,1.0,German,2.0,,,,2020-10-13 10:10:33.274348
+112.0,beschenken,to make a present,0.0,-1.0,english,0.0,to thank,4.0,beschenken to make a present beschenken,,False,2020-10-13 10:10:35.916439
+137.0,abmelden,to sign out,-1.0,-1.0,english,1.0,to sign out,5.0,,,,2020-10-13 10:10:49.224017
+106.0,der Posteingang,the inbox,0.0,-1.0,english,1.0,the inbox,4.0,,,,2020-10-13 10:10:54.270348
+13.0,der Herbst,the autumn,0.0,1.0,german,1.0,der Herbst,3.0,,,,2020-10-13 10:10:58.542654
+125.0,zwingend,mandatory,0.0,-1.0,german,1.0,zwingend,4.0,,,,2020-10-13 11:29:46.885691
+40.0,März,March,1.0,3.0,german,1.0,März,3.0,,,,2020-10-13 11:29:51.727789
+31.0,das Ziel,the aim,0.0,0.0,english,1.0,the aim,5.0,,,,2020-10-13 11:29:55.501384
+72.0,die Gegenstand,the object,0.0,-4.0,english,1.0,the object,4.0,,,,2020-10-13 11:30:00.811360
+145.0,die Erläuterung,the explanation,-2.0,1.0,german,1.0,die Erläuterung,7.0,,,,2020-10-13 11:30:04.953625
+1.0,hässlich,ugly,1.0,1.0,english,1.0,ugly,3.0,,,,2020-10-13 11:30:12.264191
+67.0,die Übersetzung,the translation,-1.0,3.0,german,0.0,die übersetzung,6.0,die Übersetzung die Übersetzung,,False,2020-10-13 11:30:16.159566
+53.0,geduldig,patient,0.0,-3.0,english,0.0,,5.0,geduldig geduldig geduldig patient,,False,2020-10-13 11:30:36.859576
+141.0,flüssig,liquid,-2.0,0.0,german,1.0,flüssig,4.0,,,,2020-10-13 11:30:51.407689
+78.0,nah,close,1.0,-1.0,german,0.0,nahe,2.0,nah nah close nah nah close,0.0,True,2020-10-13 11:30:55.860648
+87.0,die rote Bete,the beetroot,-1.0,1.0,german,1.0,die rote Bete,7.0,,,,2020-10-13 11:45:00.838007
+119.0,die Erbse,the pea,1.0,1.0,english,1.0,the pea,3.0,,,,2020-10-13 11:45:08.294754
+89.0,der Kamm,the towel,0.0,0.0,english,1.0,the towel,4.0,,,,2020-10-13 11:45:11.535436
+116.0,sonst,otherwise,1.0,1.0,german,1.0,sonst,2.0,,,,2020-10-13 11:45:15.815419
+151.0,daher,therefore,1.0,1.0,english,1.0,therefore,3.0,,,,2020-10-13 11:45:18.716227
+41.0,der Tempel,the temple,-1.0,2.0,german,1.0,der Tempel,3.0,,,,2020-10-13 11:45:21.800175
+29.0,der Kollege,the colleague,-1.0,2.0,german,1.0,der Kollege,4.0,,,,2020-10-13 11:45:25.505432
+153.0,die Stillzeit,the breastfeeding period,1.0,0.0,german,1.0,die Stillzeit,6.0,,,,2020-10-13 11:45:29.576095
+155.0,das Gebäck,the pastry,2.0,-1.0,english,1.0,the pastry,5.0,,,,2020-10-13 11:45:35.749235
+57.0,sich lohnen,to be worth it,-2.0,-1.0,german,0.0,löhnen,3.0,sich lohnen sich lohnen to be worth it sich lohnen,,False,2020-10-13 11:45:41.592246
+11.0,beginnen,to begin,0.0,1.0,german,1.0,beginnen,3.0,,,,2020-10-13 11:46:02.239513
+74.0,die Erkenntnis,the knowledge,1.0,-2.0,english,1.0,the knowledge,5.0,,,,2020-10-13 11:46:05.603466
+144.0,die Heizung,the heater,-1.0,1.0,english,1.0,the heater,6.0,,,,2020-10-13 11:46:11.529602
+90.0,ärgern,to annoy,-1.0,0.0,german,1.0,ärgern,5.0,,,,2020-10-13 11:46:18.034959
+148.0,schiessen,to shoot,-1.0,0.0,german,0.0,hiten,4.0,schiessen to shoot schiessen,,False,2020-10-13 11:46:23.800350
+97.0,vorstellen,to present,0.0,-1.0,german,1.0,vorstellen,5.0,,,,2020-10-13 11:46:36.111923
+149.0,die Ausbildung,the training,-1.0,3.0,english,1.0,the training,5.0,,,,2020-10-13 11:46:42.014933
+51.0,überfahren,to run over,0.0,-2.0,english,1.0,to run over,7.0,,,,2020-10-13 11:46:47.256238
+83.0,die Mandel,the almond,0.0,-1.0,english,1.0,the almond,3.0,,,,2020-10-13 11:46:54.422127
+68.0,reiten,to ride,-1.0,-2.0,english,1.0,to ride,2.0,,,,2020-10-13 11:46:57.818284
+47.0,löschen,to delete,1.0,1.0,german,1.0,löschen,4.0,,,,2020-10-13 12:04:23.549475
+61.0,währen,to last,-2.0,1.0,german,0.0,lasten,2.0,währen to last währen währen,,False,2020-10-13 12:04:27.725889
+103.0,das Gesetz,the law (G.),0.0,0.0,english,1.0,the law (G.),6.0,,,,2020-10-13 12:04:38.574098
+46.0,die Garantie,the guarantee,-1.0,1.0,german,0.0,die Garantee,5.0,die Garantie the guarantee die Garantie,,False,2020-10-13 12:04:44.853333
+63.0,der Pfeffer,the pepper,-1.0,-1.0,english,1.0,the pepper,2.0,,,,2020-10-13 12:05:00.411642
+84.0,das Nashorn,the rhino,0.0,0.0,english,0.0,the rhinoceros,7.0,das Nashorn the rhino das Nashorn,,False,2020-10-13 12:05:03.250481
+37.0,der Pass,the pass,0.0,1.0,english,0.0,the passport,4.0,der Pass the pass der Pass,,False,2020-10-13 12:05:20.817553
+92.0,die Zahnbürste,the toothbrush,-2.0,1.0,german,1.0,die Zahnbürste,6.0,,,,2020-10-13 12:05:31.831453
+70.0,die Flanke,the flank,0.0,0.0,english,1.0,the flank,3.0,,,,2020-10-13 12:05:37.988289
+85.0,der Hahn,the rooster,-1.0,1.0,english,1.0,the rooster,4.0,,,,2020-10-13 12:05:41.154797
+39.0,der Halt,the halt,0.0,0.0,german,1.0,der Halt,3.0,,,,2020-10-13 12:05:51.012532
+135.0,die Entscheidung,the decision,2.0,0.0,german,1.0,die Entscheidung,9.0,,,,2020-10-13 12:05:54.963659
+42.0,die Konstellation,the constellation,0.0,1.0,english,1.0,the constellation,6.0,,,,2020-10-13 12:06:04.538775
+143.0,die Fernbedienung,the remote,0.0,0.0,german,1.0,die Fernbedienung,7.0,,,,2020-10-13 12:06:10.557228
+75.0,umfahren,to bypass,0.0,-1.0,english,1.0,to bypass,4.0,,,,2020-10-13 12:06:17.705055
+129.0,der übersetzer,the translator,1.0,-1.0,english,1.0,the translator,5.0,,,,2020-10-13 12:06:22.097190
+127.0,die Ableitung,the derivation,-1.0,-1.0,english,0.0,,2.0,die Ableitung the derivation die Ableitung,,False,2020-10-13 12:06:27.263791
+35.0,die Herberge,the hostel,-1.0,1.0,german,0.0,der Herberge,5.0,die Herberge ths hostell die Herberge,,False,2020-10-13 12:06:39.196005
+49.0,die Note,the grade,2.0,0.0,english,1.0,the grade,3.0,,,,2020-10-13 12:06:52.820879
+80.0,selten,rarely,0.0,-1.0,english,0.0,seldom,5.0,selten rarely selten rarely,,False,2020-10-13 12:06:56.018835
+154.0,die Bedingung,the condition,-1.0,-1.0,english,1.0,the condition,6.0,,,,2020-10-13 12:07:15.158480
+50.0,das Schwein,the pig,1.0,2.0,german,1.0,das Schwein,4.0,,,,2020-10-13 12:07:21.644039
+96.0,die Dattek,the date,1.0,-1.0,english,1.0,the date,3.0,,,,2020-10-13 12:07:25.891165
+16.0,das Mehl,the flour,1.0,1.0,english,1.0,the flour,3.0,,,,2020-10-13 12:07:29.452737
+30.0,die Kirche,the church,1.0,1.0,german,1.0,die Kirche,3.0,,,,2020-10-13 12:07:32.522888
+140.0,wandern,to hike,-1.0,3.0,english,1.0,to hike,4.0,,,,2020-10-13 12:07:35.788160
+86.0,erinnern,to remind,0.0,0.0,german,0.0,errinern,3.0,erinnern erinnern,,False,2020-10-13 12:07:39.840324
+142.0,die Ausflug,the excursion,-2.0,-1.0,german,0.0,,3.0,die Ausflug the excursion die Ausflug,,False,2020-10-13 12:07:51.525601
+104.0,bald,soon,2.0,0.0,english,1.0,soon,2.0,,,,2020-10-13 12:08:03.669096
+20.0,die SMS,the SMS,2.0,-2.0,english,1.0,the SMS,5.0,,,,2020-10-13 12:08:06.076331
+101.0,die Bürste,the brush,1.0,3.0,german,1.0,die Bürste,5.0,,,,2020-10-13 12:08:22.265545
+60.0,lachen,to laugh,1.0,0.0,english,1.0,to laugh,4.0,,,,2020-10-13 12:08:27.551634
+82.0,der Stern,the star,1.0,0.0,english,1.0,the star,2.0,,,,2020-10-13 12:08:32.268774
+128.0,wenig,little,1.0,-1.0,english,1.0,little,3.0,,,,2020-10-13 12:08:35.021889
+44.0,die Position,the position,1.0,0.0,english,1.0,the position,4.0,,,,2020-10-13 12:08:38.925769
+111.0,verpassen,to miss,-1.0,-1.0,english,0.0,to,6.0,verpassen to miss verpassen verpassen verpassen,,False,2020-10-13 12:08:43.935489
+88.0,der Ahn,the ancestor,0.0,1.0,german,1.0,der Ahn,3.0,,,,2020-10-13 12:08:59.688265
+19.0,der Himmel,the sky,1.0,3.0,english,1.0,the sky,3.0,,,,2020-10-13 12:09:02.717515
+160.0,der Beutel,the sachet,0.0,-2.0,english,0.0,the case,7.0,der EButel the sachet der Beutel,0.0,True,2020-10-13 12:09:05.836552
+77.0,die Hymne,the anthem,-1.0,3.0,german,1.0,die Hymne,4.0,,,,2020-10-13 12:09:22.997929
+139.0,die Masche,the mesh,-1.0,-1.0,english,1.0,the mesh,5.0,,,,2020-10-13 12:20:03.746121
+54.0,der Kindergarten,the nursery,0.0,0.0,english,1.0,the nursery,4.0,,,,2020-10-13 12:20:08.993056
+114.0,leise,discrete,0.0,-2.0,german,0.0,leer,2.0,leise discrete leise,0.0,True,2020-10-13 12:20:13.566066
+6.0,heissen,to be named,2.0,0.0,english,1.0,to be named,3.0,,,,2020-10-13 12:20:23.589582
+132.0,vorgedrungen,advanced,0.0,-2.0,english,0.0,to foreground,10.0,vorgedrungen advanced vorgedrungen,,False,2020-10-13 12:20:27.200741
+138.0,der Grünkohl,the kale,0.0,0.0,german,0.0,der Khaki,5.0,der Grünkohl the kale der Grünkohl,26.0,True,2020-10-13 12:20:47.823576
+71.0,beachten,to pay attention,-2.0,0.0,german,1.0,beachten,3.0,,,,2020-10-13 12:21:07.116023
+131.0,unterhalten,to entertain,-2.0,0.0,german,0.0,,4.0,unterhalten to entertain unterhalten,,False,2020-10-13 12:21:10.670112
+146.0,messen,to measure,0.0,2.0,english,1.0,to measure,3.0,,,,2020-10-13 12:21:23.625567
+105.0,sich die Zähne putzen,to brush one's teeth,2.0,1.0,english,1.0,to brush one's teeth,7.0,,,,2020-10-13 12:21:27.108469
+147.0,das Nasenbluten,the nosebleed,-2.0,1.0,german,0.0,die Nasenbluten,10.0,das Nasenbluten das das das Nasenbluten,,False,2020-10-13 13:49:02.408658
+52.0,der Cousin,the cousin,2.0,1.0,english,1.0,the cousin,2.0,,,,2020-10-13 13:49:22.677269
+2.0,das Organ,the organ,0.0,0.0,english,1.0,the organ,3.0,,,,2020-10-13 13:49:25.638958
+93.0,die Erkältung,the cold,-1.0,0.0,german,0.0,der Erkältung,6.0,die Erkältung die Erkältung,,False,2020-10-13 13:49:28.658167
+150.0,regnen,to rain,0.0,-1.0,english,0.0,,4.0,to rain regnen regnen,,False,2020-10-13 13:49:43.355425
+121.0,das Rührei,the scrambled egg,1.0,0.0,english,1.0,the scrambled egg,5.0,,,,2020-10-13 13:49:54.909247
+5.0,anziehen,to put a clothe on,1.0,2.0,english,1.0,to put a clothe on,5.0,,,,2020-10-13 13:50:00.613402
+56.0,ständig,constant,-1.0,1.0,english,1.0,constant,4.0,,,,2020-10-13 13:50:05.772755
+26.0,der Khaki,the khaki,1.0,1.0,english,1.0,the khaki,5.0,,,,2020-10-13 13:50:10.708180
+17.0,das Sonderangebot,the special offer,2.0,2.0,english,1.0,the special offer,5.0,,,,2020-10-13 13:50:16.555250
+12.0,September,September,1.0,1.0,english,1.0,September,3.0,,,,2020-10-13 13:53:31.087421
+109.0,der Kürbis,the pumpkin,-1.0,0.0,english,1.0,the pumpkin,4.0,,,,2020-10-13 13:53:34.351073
+66.0,der Geruchssin,the sense of smell,-1.0,-2.0,english,1.0,the sense of smell,5.0,,,,2020-10-13 13:53:39.310874
+110.0,verdrängen,to replace,0.0,0.0,english,0.0,,2.0,verdrängen to replace verdrängen,,False,2020-10-13 13:53:45.092634
+10.0,auf Wiedersehen,goodbye,1.0,1.0,english,1.0,goodbye,3.0,,,,2020-10-13 13:53:58.381165
+14.0,der Historiker,the historian,0.0,3.0,german,1.0,der Historiker,4.0,,,,2020-10-13 13:54:02.132002
+124.0,die Brunnenkresse,the watercress,-2.0,0.0,english,0.0,the cresson,10.0,die Brunnekresse the watercress,,False,2020-10-13 13:54:06.414710
+3.0,süss,sweet,0.0,1.0,english,1.0,sweet,2.0,,,,2020-10-13 13:54:26.527687
+100.0,sich verlieben,to fall in love,0.0,-1.0,english,1.0,to fall in love,5.0,,,,2020-10-13 13:54:28.970435
+7.0,arbeiten,to work,0.0,1.0,german,1.0,arbeiten,4.0,,,,2020-10-13 13:54:34.837235
+98.0,der Film,the movie,2.0,1.0,english,1.0,the movie,3.0,,,,2020-10-13 13:54:43.183835
+59.0,aushalten,to withstand,-2.0,-1.0,english,1.0,to withstand,6.0,,,,2020-10-13 13:54:46.580357
+99.0,der Zwerg,the dwarf,0.0,1.0,english,1.0,the dwarf,3.0,,,,2020-10-13 13:54:53.048407
+76.0,das Sprichwort,the proverb,-2.0,1.0,german,1.0,das Sprichwort,4.0,,,,2020-10-13 13:54:56.913274
+58.0,der Strömung,the flow,-1.0,-2.0,english,0.0,the flood,8.0,der Strömung the flow der Strömung,55.0,True,2020-10-13 13:55:01.366745
+8.0,der Kellner,the waiter,2.0,0.0,english,1.0,the waiter,3.0,,,,2020-10-13 13:55:20.660744
+136.0,die Mütze,the cap,1.0,3.0,german,1.0,die Mütze,4.0,,,,2020-10-13 13:55:24.034135
+32.0,emotional,emotional,-1.0,1.0,english,1.0,emotional,3.0,,,,2020-10-13 13:55:28.316754
+25.0,seltsam,strange,1.0,2.0,german,1.0,seltsam,3.0,,,,2020-10-13 13:55:31.367331
+79.0,die Regierung,the government,2.0,1.0,german,1.0,die Regierung,4.0,,,,2020-10-13 13:55:34.854810
+94.0,die Kardone,the cardoon,0.0,1.0,german,1.0,die Kardone,3.0,,,,2020-10-13 13:55:42.960867
+73.0,der Freund,the boyfriend,2.0,2.0,english,1.0,the boyfriend,4.0,,,,2020-10-13 13:55:46.706017
+126.0,die Reineclaude,the greengage,0.0,3.0,german,1.0,die Reineclaude,6.0,,,,2020-10-13 13:55:51.455892
+157.0,der Dachboden,the attic,-2.0,-1.0,german,1.0,der Dachboden,9.0,,,,2020-10-13 13:55:58.193541
+36.0,der Garten,the garden,-1.0,3.0,german,0.0,das Garten,4.0,der Garten the garden der GArten,,False,2020-10-13 13:56:07.306584
+55.0,die Überschwemmung,the flood,-1.0,3.0,german,1.0,die Überschwemmung,7.0,,,,2020-10-13 13:56:18.510380
+133.0,schmutzig,dirty,-1.0,-1.0,german,0.0,staubig,6.0,staubig dusty dirty schmutzig schmutzig,0.0,True,2020-10-13 13:56:25.719109
+24.0,der Fernseher,the television,0.0,-1.0,german,1.0,der Fernseher,4.0,,,,2020-10-13 13:56:46.428023
+115.0,die Landwirtschaft,the agriculture,-2.0,0.0,german,0.0,das Landwirtshaft,11.0,die Landwirtschaft die die die Landwirtschaft,,False,2020-10-13 13:56:51.334614
+108.0,schneiden,to cut,2.0,0.0,german,1.0,schneiden,3.0,,,,2020-10-13 13:57:21.398034
+159.0,der Tacker,the stapler,2.0,-1.0,german,1.0,der Tacker,3.0,,,,2020-10-13 13:57:28.291521
+95.0,statt,instead of,0.0,1.0,german,1.0,statt,3.0,,,,2020-10-13 13:57:31.998842
+34.0,der Urlaub,the holiday,0.0,3.0,english,1.0,the holiday,4.0,,,,2020-10-13 13:57:35.159442
+130.0,herzlich,cordial,-1.0,-1.0,german,1.0,herzlich,6.0,,,,2020-10-13 13:57:39.419858
+28.0,leben,to live,2.0,0.0,english,1.0,to live,3.0,,,,2020-10-13 13:57:45.853549
+120.0,gelten,to apply,-3.0,0.0,german,0.0,anmelden,4.0,gelten to apply gelten,,False,2020-10-13 13:57:49.434606
+33.0,die Zucchini,the zucchini,0.0,-1.0,english,1.0,the zucchini,3.0,,,,2020-10-13 13:58:00.342515
+48.0,der Tod,the death,-1.0,0.0,english,1.0,the death,3.0,,,,2020-10-13 13:58:04.309452
+38.0,es tut mir leid,I'm sorry,1.0,3.0,english,1.0,I'm sorry,4.0,,,,2020-10-13 13:58:07.797617
+15.0,Himmel,Heaven,1.0,3.0,german,1.0,Himmel,2.0,,,,2020-10-13 13:58:12.734492
+84.0,das Nashorn,the rhino,-1.0,0.0,english,1.0,the rhino,4.0,,,,2020-10-14 09:11:23.023293
+57.0,sich lohnen,to be worth it,-1.0,-3.0,english,1.0,to be worth it,6.0,,,,2020-10-14 09:11:27.793546
+63.0,der Pfeffer,the pepper,-1.0,0.0,german,1.0,der Pfeffer,8.0,,,,2020-10-14 09:11:34.671715
+23.0,oft,often,0.0,2.0,german,1.0,oft,2.0,,,,2020-10-14 09:11:42.908009
+78.0,nah,close,-1.0,0.0,english,1.0,close,2.0,,,,2020-10-14 09:11:45.117169
+36.0,der Garten,the garden,-2.0,3.0,german,1.0,der Garten,3.0,,,,2020-10-14 09:11:47.536904
+97.0,vorstellen,to present,-1.0,1.0,english,1.0,to present,9.0,,,,2020-10-14 09:11:51.529427
+2.0,das Organ,the organ,1.0,0.0,english,1.0,the organ,3.0,,,,2020-10-14 09:12:01.531813
+31.0,das Ziel,the aim,0.0,1.0,german,1.0,das Ziel,4.0,,,,2020-10-14 09:12:04.922196
+59.0,aushalten,to withstand,-1.0,-1.0,english,1.0,to withstand,5.0,,,,2020-10-14 09:12:09.373687
+68.0,reiten,to ride,0.0,-2.0,english,1.0,to ride,3.0,,,,2020-10-14 10:52:48.732080
+145.0,die Erläuterung,the explanation,1.0,-1.0,english,1.0,the explanation,4.0,,,,2020-10-14 10:52:51.980013
+154.0,die Bedingung,the condition,-1.0,0.0,german,0.0,die Bedienung,4.0,die Bedingung die Bedingung,,False,2020-10-14 10:52:56.692967
+76.0,das Sprichwort,the proverb,1.0,-1.0,english,1.0,the proverb,3.0,,,,2020-10-14 10:53:08.797132
+74.0,die Erkenntnis,the knowledge,2.0,-2.0,english,1.0,the knowledge,4.0,,,,2020-10-14 10:53:12.141525
+95.0,statt,instead of,1.0,1.0,german,1.0,statt,4.0,,,,2020-10-14 10:53:16.866494
+80.0,selten,rarely,-1.0,-1.0,english,1.0,rarely,4.0,,,,2020-10-14 10:53:20.956253
+22.0,die Tür,the door,1.0,2.0,german,1.0,die Tür,3.0,,,,2020-10-14 10:53:25.217633
+131.0,unterhalten,to entertain,-3.0,0.0,german,1.0,unterhalten,10.0,,,,2020-10-14 10:53:28.349037
+125.0,zwingend,mandatory,1.0,-1.0,german,1.0,zwingend,4.0,,,,2020-10-14 10:53:38.586893
+3.0,süss,sweet,1.0,1.0,german,1.0,süss,3.0,,,,2020-10-14 10:53:59.035564
+5.0,anziehen,to put a clothe on,2.0,2.0,german,1.0,anziehen,3.0,,,,2020-10-14 10:54:02.123690
+92.0,die Zahnbürste,the toothbrush,1.0,-1.0,english,1.0,the toothbrush,4.0,,,,2020-10-14 10:54:05.780057
+34.0,der Urlaub,the holiday,1.0,3.0,english,1.0,the holiday,3.0,,,,2020-10-14 10:54:10.402181
+96.0,die Dattek,the date,-1.0,2.0,german,1.0,die Dattek,4.0,,,,2020-10-14 10:54:14.265526
+114.0,leise,discrete,-1.0,-2.0,german,1.0,leise,2.0,,,,2020-10-14 10:54:18.881406
+139.0,die Masche,the mesh,0.0,-1.0,english,1.0,the mesh,5.0,,,,2020-10-14 10:54:21.308244
+28.0,leben,to live,0.0,3.0,german,1.0,leben,5.0,,,,2020-10-14 10:54:26.386290
+56.0,ständig,constant,0.0,1.0,english,1.0,constant,3.0,,,,2020-10-14 10:54:31.609726
+132.0,vorgedrungen,advanced,-2.0,-1.0,german,0.0,vordegrunden,10.0,vorgedrungen vorgedrungen vorgedrungen,,False,2020-10-14 10:54:35.107017
+33.0,die Zucchini,the zucchini,1.0,-1.0,english,1.0,the zucchini,5.0,,,,2020-10-14 10:55:17.312204
+47.0,löschen,to delete,2.0,1.0,german,1.0,löschen,4.0,,,,2020-10-14 10:55:23.201630
+124.0,die Brunnenkresse,the watercress,0.0,-3.0,german,0.0,die Brunnenkress,15.0,die Brunnekresse die Brunnekresse,,False,2020-10-14 10:55:28.216320
+51.0,überfahren,to run over,-2.0,1.0,german,0.0,umfahren,3.0,umfahren bypasse überfahren überhafren,75.0,True,2020-10-14 10:55:53.158889
+103.0,das Gesetz,the law (G.),1.0,0.0,english,1.0,the law (G.),5.0,,,,2020-10-14 10:56:09.305115
+141.0,flüssig,liquid,-1.0,0.0,german,1.0,flüssig,6.0,,,,2020-10-14 10:56:14.743624
+90.0,ärgern,to annoy,0.0,0.0,german,1.0,ärgern,3.0,,,,2020-10-14 10:56:21.145482
+26.0,der Khaki,the khaki,2.0,1.0,english,1.0,the khaki,3.0,,,,2020-10-14 10:56:24.553086
+148.0,schiessen,to shoot,0.0,-2.0,english,0.0,,8.0,schiessen to shoot schiessen,,False,2020-10-14 10:56:28.298665
+65.0,die Präposition,the preposition,2.0,1.0,english,1.0,the preposition,4.0,,,,2020-10-14 10:56:46.412758
+71.0,beachten,to pay attention,-1.0,0.0,german,1.0,beachten,3.0,,,,2020-10-14 10:57:42.537976
+122.0,die Lösung,the solution,0.0,3.0,german,1.0,die Lösung,4.0,,,,2020-10-14 10:57:46.062849
+118.0,zum Geburtstag viel Glück,happy birthday,1.0,-1.0,english,1.0,happy birthday,5.0,,,,2020-10-14 10:57:50.221513
+89.0,der Kamm,the towel,1.0,0.0,english,1.0,the towel,2.0,,,,2020-10-14 10:57:55.254910
+109.0,der Kürbis,the pumpkin,0.0,0.0,german,1.0,der Kürbis,4.0,,,,2020-10-14 10:57:57.755184
+55.0,die Überschwemmung,the flood,0.0,3.0,german,0.0,die Schwemmung,7.0,die Überschwemmung die Überschwemmung,,False,2020-10-14 10:58:02.532154
+98.0,der Film,the movie,1.0,3.0,german,1.0,der Film,3.0,,,,2020-10-14 10:58:19.929926
+160.0,der Beutel,the sachet,-1.0,-2.0,english,1.0,the sachet,3.0,,,,2020-10-14 10:58:23.265369
+94.0,die Kardone,the cardoon,1.0,1.0,german,1.0,die Kardone,3.0,,,,2020-10-14 10:58:26.711685
+70.0,die Flanke,the flank,0.0,1.0,german,1.0,die Flanke,5.0,,,,2020-10-14 10:58:29.864557
+44.0,die Position,the position,2.0,0.0,english,1.0,the position,5.0,,,,2020-10-14 10:58:49.583970
+99.0,der Zwerg,the dwarf,1.0,1.0,german,1.0,der Zwerg,4.0,,,,2020-10-14 10:58:55.041973
+35.0,die Herberge,the hostel,1.0,-2.0,english,1.0,the hostel,6.0,,,,2020-10-14 10:58:59.335722
+21.0,sauber,clean,0.0,3.0,german,1.0,sauber,2.0,,,,2020-10-14 10:59:05.368045
+146.0,messen,to measure,1.0,2.0,english,1.0,to measure,3.0,,,,2020-10-14 10:59:08.088577
+151.0,daher,therefore,2.0,1.0,english,1.0,therefore,3.0,,,,2020-10-14 10:59:11.161865
+75.0,umfahren,to bypass,1.0,-1.0,english,1.0,to bypass,4.0,,,,2020-10-14 10:59:14.544372
+100.0,sich verlieben,to fall in love,-1.0,1.0,german,0.0,sich verlieren,6.0,sich verlieben sich verlieben sich verlieben,,False,2020-10-14 10:59:18.737527
+82.0,der Stern,the star,2.0,0.0,english,1.0,the star,2.0,,,,2020-10-14 10:59:34.524241
+112.0,beschenken,to make a present,-1.0,-1.0,english,0.0,to give a present,4.0,beschenken to make a present beschenken,,False,2020-10-14 10:59:37.363850
+29.0,der Kollege,the colleague,2.0,0.0,english,1.0,the colleague,3.0,,,,2020-10-14 11:00:31.137750
+49.0,die Note,the grade,0.0,3.0,german,1.0,die Note,5.0,,,,2020-10-14 11:00:35.072823
+6.0,heissen,to be named,0.0,3.0,german,1.0,heissen,3.0,,,,2020-10-14 11:00:40.090324
+137.0,abmelden,to sign out,-1.0,0.0,german,1.0,abmelden,7.0,,,,2020-10-14 11:00:43.294104
+41.0,der Tempel,the temple,0.0,2.0,german,1.0,der Tempel,3.0,,,,2020-10-14 11:00:51.195242
+1.0,hässlich,ugly,1.0,2.0,german,1.0,hässlich,3.0,,,,2020-10-14 11:00:54.786704
+156.0,höchst,highly,0.0,1.0,german,1.0,höchst,6.0,,,,2020-10-14 11:00:58.608370
+10.0,auf Wiedersehen,goodbye,1.0,2.0,german,1.0,auf Wiedersehen,5.0,,,,2020-10-14 11:01:04.834409
+16.0,das Mehl,the flour,1.0,2.0,german,1.0,das Mehl,3.0,,,,2020-10-14 11:01:10.674056
+123.0,die Markise,the awning,-3.0,3.0,german,1.0,die Markise,3.0,,,,2020-10-14 11:01:14.169965
+43.0,die Geschichte,the history,0.0,-1.0,english,1.0,the history,4.0,,,,2020-10-14 14:01:51.236088
+81.0,der Vordergrund,the foreground,0.0,-2.0,english,0.0,the present,6.0,der Vordergrund the foreground the foregroudnd er Vordergrund,0.0,True,2020-10-14 14:01:56.172868
+152.0,die Entfernung,the distance,0.0,1.0,german,1.0,die Entfernung,4.0,,,,2020-10-14 14:02:21.224624
+113.0,der Magen,the stomach,2.0,2.0,german,1.0,der Magen,5.0,,,,2020-10-14 14:02:25.821398
+24.0,der Fernseher,the television,-1.0,1.0,english,1.0,the television,4.0,,,,2020-10-14 14:02:31.613966
+126.0,die Reineclaude,the greengage,1.0,3.0,german,1.0,die Reineclaude,6.0,,,,2020-10-14 14:02:36.545792
+13.0,der Herbst,the autumn,1.0,1.0,english,1.0,the autumn,3.0,,,,2020-10-14 14:02:43.002000
+93.0,die Erkältung,the cold,-2.0,0.0,german,1.0,die Erkältung,6.0,,,,2020-10-14 14:02:46.725495
+149.0,die Ausbildung,the training,0.0,3.0,english,1.0,the training,4.0,,,,2020-10-14 14:02:53.115554
+130.0,herzlich,cordial,0.0,-1.0,german,1.0,herzlich,4.0,,,,2020-10-14 14:02:57.155088
+147.0,das Nasenbluten,the nosebleed,1.0,-3.0,english,1.0,the nosebleed,4.0,,,,2020-10-14 14:03:06.463733
+52.0,der Cousin,the cousin,1.0,3.0,german,1.0,der Cousin,3.0,,,,2020-10-14 14:03:11.244045
+85.0,der Hahn,the rooster,1.0,0.0,german,1.0,der Hahn,3.0,,,,2020-10-14 14:03:15.204544
+12.0,September,September,2.0,1.0,english,1.0,September,2.0,,,,2020-10-14 14:03:18.842243
+30.0,die Kirche,the church,2.0,1.0,german,1.0,die Kirche,3.0,,,,2020-10-14 14:03:21.802984
+48.0,der Tod,the death,0.0,0.0,german,1.0,der Tod,3.0,,,,2020-10-14 14:03:25.004206
+72.0,die Gegenstand,the object,1.0,-4.0,english,1.0,the object,5.0,,,,2020-10-14 14:03:28.522457
+61.0,währen,to last,-3.0,1.0,german,1.0,währen,6.0,,,,2020-10-14 14:03:34.007613
+127.0,die Ableitung,the derivation,-1.0,-2.0,german,1.0,die Ableitung,4.0,,,,2020-10-14 14:03:40.048577
+58.0,der Strömung,the flow,-2.0,-2.0,english,1.0,the flow,5.0,,,,2020-10-14 14:03:44.875498
+119.0,die Erbse,the pea,1.0,2.0,german,1.0,die Erbse,3.0,,,,2020-10-14 14:03:53.600555
+45.0,die Luft,the air,-2.0,1.0,german,0.0,der Luft,3.0,die Luft the air die Luft die Luft,,False,2020-10-14 14:03:57.531473
+157.0,der Dachboden,the attic,-1.0,-1.0,english,1.0,the attic,3.0,,,,2020-10-14 14:04:08.570758
+19.0,der Himmel,the sky,2.0,3.0,english,1.0,the sky,2.0,,,,2020-10-14 14:04:11.893785
+106.0,der Posteingang,the inbox,1.0,-1.0,english,1.0,the inbox,3.0,,,,2020-10-14 14:04:14.537634
+120.0,gelten,to apply,-4.0,0.0,german,1.0,gelten,4.0,,,,2020-10-14 14:04:17.899386
+83.0,die Mandel,the almond,1.0,-1.0,english,1.0,the almond,3.0,,,,2020-10-14 14:04:22.831300
+15.0,Himmel,Heaven,2.0,3.0,german,1.0,Himmel,3.0,,,,2020-10-14 14:04:26.113528
+110.0,verdrängen,to replace,-1.0,0.0,english,0.0,to prevent,11.0,verdrängen to replace verdrängen,0.0,True,2020-10-14 14:04:29.993055
+128.0,wenig,little,-1.0,2.0,german,1.0,wenig,3.0,,,,2020-10-14 14:04:55.996597
+38.0,es tut mir leid,I'm sorry,2.0,3.0,english,1.0,I'm sorry,4.0,,,,2020-10-14 14:05:25.061116
+158.0,das Töpfchen,the potty,0.0,-1.0,english,1.0,the potty,3.0,,,,2020-10-14 14:05:29.788297
+11.0,beginnen,to begin,1.0,1.0,german,1.0,beginnen,2.0,,,,2020-10-14 14:05:33.479725
+142.0,die Ausflug,the excursion,-1.0,-3.0,english,1.0,the excursion,13.0,,,,2020-10-14 14:05:36.477434
+37.0,der Pass,the pass,1.0,-1.0,german,1.0,der Pass,3.0,,,,2020-10-14 14:05:49.510646
+143.0,die Fernbedienung,the remote,0.0,1.0,english,1.0,the remote,2.0,,,,2020-10-14 14:05:52.906188
+53.0,geduldig,patient,-1.0,-3.0,english,1.0,patient,5.0,,,,2020-10-14 14:05:55.883782
+77.0,die Hymne,the anthem,0.0,3.0,german,1.0,die Hymne,5.0,,,,2020-10-14 14:06:01.107072
+133.0,schmutzig,dirty,-1.0,-2.0,english,1.0,dirty,3.0,,,,2020-10-14 14:06:07.106333
+9.0,Deutsch,German,1.0,2.0,german,1.0,Deutsch,6.0,,,,2020-10-14 14:06:10.739288
+7.0,arbeiten,to work,1.0,1.0,english,1.0,to work,2.0,,,,2020-10-14 14:06:20.149024
+88.0,der Ahn,the ancestor,1.0,1.0,german,1.0,der Ahn,3.0,,,,2020-10-14 14:06:23.002769
+91.0,hinten,behind,-2.0,1.0,english,1.0,behind,4.0,,,,2020-10-14 14:06:26.167169
+86.0,erinnern,to remind,-1.0,0.0,german,1.0,erinnern,3.0,,,,2020-10-14 14:06:30.355720
+138.0,der Grünkohl,the kale,0.0,-1.0,english,1.0,the kale,5.0,,,,2020-10-14 14:06:34.259421
+129.0,der übersetzer,the translator,-1.0,2.0,german,1.0,der übersetzer,9.0,,,,2020-10-14 14:06:39.290647
+155.0,das Gebäck,the pastry,-1.0,3.0,german,1.0,das Gebäck,5.0,,,,2020-10-14 14:06:48.852248
+79.0,die Regierung,the government,1.0,3.0,english,1.0,the government,6.0,,,,2020-10-14 14:06:54.588444
+66.0,der Geruchssin,the sense of smell,-2.0,0.0,german,1.0,der Geruchssin,6.0,,,,2020-10-14 14:07:01.437565
+4.0,der Mensch,the human,2.0,0.0,english,0.0,the mash,5.0,der Mesnch the human der Mensch,,False,2020-10-14 14:07:07.621172
+32.0,emotional,emotional,0.0,1.0,english,1.0,emotional,4.0,,,,2020-10-14 14:10:51.844178
+115.0,die Landwirtschaft,the agriculture,-3.0,0.0,german,1.0,die Landwirtschaft,8.0,,,,2020-10-14 14:10:56.285349
+107.0,das Waschen,the washing,-1.0,3.0,german,0.0,der Waschen,7.0,das Waschen the washing das Waschen,,False,2020-10-14 14:11:04.448416
+144.0,die Heizung,the heater,0.0,1.0,english,1.0,the heater,3.0,,,,2020-10-14 14:11:19.636760
+50.0,das Schwein,the pig,2.0,2.0,german,1.0,das Schwein,3.0,,,,2020-10-14 14:11:23.072392
+117.0,wieder,another time,0.0,0.0,german,1.0,wieder,2.0,,,,2020-10-14 14:11:27.069470
+73.0,der Freund,the boyfriend,2.0,3.0,german,1.0,der Freund,3.0,,,,2020-10-14 14:11:30.073492
+27.0,der Joghurt,the yoghurt,1.0,1.0,english,1.0,the yoghurt,9.0,,,,2020-10-14 14:11:33.732743
+116.0,sonst,otherwise,2.0,1.0,german,1.0,sonst,3.0,,,,2020-10-14 14:11:42.906117
+17.0,das Sonderangebot,the special offer,2.0,3.0,german,1.0,das Sonderangebot,6.0,,,,2020-10-14 14:11:46.256311
+134.0,unterwegs,on the road,2.0,-2.0,english,1.0,on the road,3.0,,,,2020-10-14 14:14:47.362658
+39.0,der Halt,the halt,0.0,1.0,english,1.0,the halt,3.0,,,,2020-10-14 14:14:51.146484
+64.0,besondere,special,-2.0,-1.0,english,1.0,special,5.0,,,,2020-10-14 14:14:54.584425
+140.0,wandern,to hike,0.0,3.0,english,1.0,to hike,3.0,,,,2020-10-14 14:14:59.857967
+150.0,regnen,to rain,-1.0,-1.0,english,1.0,to rain,3.0,,,,2020-10-14 14:15:03.090073
+25.0,seltsam,strange,2.0,2.0,german,1.0,seltsam,2.0,,,,2020-10-14 14:15:06.593063
+14.0,der Historiker,the historian,1.0,3.0,german,1.0,der Historiker,4.0,,,,2020-10-14 14:15:09.478477
+108.0,schneiden,to cut,0.0,3.0,english,1.0,to cut,3.0,,,,2020-10-14 14:15:13.976708
+42.0,die Konstellation,the constellation,1.0,1.0,english,1.0,the constellation,4.0,,,,2020-10-14 14:15:17.432340
+46.0,die Garantie,the guarantee,-2.0,1.0,german,1.0,die Garantie,5.0,,,,2020-10-14 14:15:21.771783
+121.0,das Rührei,the scrambled egg,0.0,2.0,german,1.0,das Rührei,5.0,,,,2020-10-14 14:15:39.310790
+18.0,reservieren,to reserve,2.0,1.0,german,1.0,reservieren,4.0,,,,2020-10-14 14:15:45.266558
+104.0,bald,soon,0.0,3.0,german,1.0,bald,3.0,,,,2020-10-14 14:15:49.529116
+102.0,stumm,mute,2.0,1.0,english,1.0,mute,2.0,,,,2020-10-14 14:15:53.269527
+62.0,die Gabe,the gift,-1.0,3.0,english,1.0,the gift,10.0,,,,2020-10-14 14:15:55.759476
+60.0,lachen,to laugh,0.0,2.0,german,1.0,lachen,5.0,,,,2020-10-14 14:16:07.021976
+87.0,die rote Bete,the beetroot,0.0,1.0,german,1.0,die rote Bete,109.0,,,,2020-10-14 14:16:12.859805
+69.0,das Pokal,the cup,0.0,-3.0,english,1.0,the cup,11.0,,,,2020-10-14 14:18:02.124065
+8.0,der Kellner,the waiter,0.0,3.0,german,1.0,der Kellner,60.0,,,,2020-10-14 14:18:13.273764
+153.0,die Stillzeit,the breastfeeding period,2.0,0.0,german,1.0,die Stillzeit,4.0,,,,2020-10-14 14:19:14.040417
+135.0,die Entscheidung,the decision,0.0,2.0,english,1.0,the decision,4.0,,,,2020-10-15 09:55:23.099789
+144.0,die Heizung,the heater,1.0,1.0,german,1.0,die Heizung,5.0,,,,2020-10-15 09:55:27.932242
+150.0,regnen,to rain,-1.0,0.0,german,1.0,regnen,2.0,,,,2020-10-15 09:55:33.515476
+148.0,schiessen,to shoot,-1.0,-2.0,english,1.0,to shoot,4.0,,,,2020-10-15 09:55:36.162408
+4.0,der Mensch,the human,0.0,1.0,german,1.0,der Mensch,5.0,,,,2020-10-15 09:55:40.199728
+124.0,die Brunnenkresse,the watercress,-3.0,-1.0,english,1.0,the watercress,5.0,,,,2020-10-15 09:55:46.154072
+142.0,die Ausflug,the excursion,0.0,-3.0,english,1.0,the excursion,5.0,,,,2020-10-15 09:55:51.696301
+94.0,die Kardone,the cardoon,1.0,2.0,english,1.0,the cardoon,3.0,,,,2020-10-15 09:55:57.158367
+21.0,sauber,clean,1.0,2.0,german,0.0,suaber,2.0,sauber clean sauber,,False,2020-10-15 09:56:01.089324
+39.0,der Halt,the halt,1.0,1.0,english,1.0,the halt,3.0,,,,2020-10-15 09:56:09.168701
+48.0,der Tod,the death,1.0,0.0,german,1.0,der Tod,3.0,,,,2020-10-15 11:53:27.352556
+57.0,sich lohnen,to be worth it,-3.0,0.0,german,0.0,lohnen,5.0,sich lohnen to be worth it sich lohnen,,False,2020-10-15 11:53:31.124677
+109.0,der Kürbis,the pumpkin,0.0,1.0,english,1.0,the pumpkin,3.0,,,,2020-10-15 11:53:44.616085
+81.0,der Vordergrund,the foreground,-1.0,-2.0,english,0.0,the present,8.0,der Vordergrund the foreground,0.0,True,2020-10-15 11:53:48.609794
+39.0,der Halt,the halt,1.0,2.0,german,1.0,der Halt,2.0,,,,2020-10-15 11:54:09.254210
+125.0,zwingend,mandatory,-1.0,2.0,english,0.0,dangerous,9.0,zwingend mandatory zwingend,,False,2020-10-15 11:54:12.152604
+141.0,flüssig,liquid,0.0,0.0,english,1.0,liquid,3.0,,,,2020-10-15 11:54:29.072325
+71.0,beachten,to pay attention,0.0,0.0,german,1.0,beachten,4.0,,,,2020-10-15 11:54:32.450258
+42.0,die Konstellation,the constellation,1.0,2.0,german,1.0,die Konstellation,10.0,,,,2020-10-15 11:54:36.682707
+90.0,ärgern,to annoy,1.0,0.0,german,1.0,ärgern,3.0,,,,2020-10-15 11:54:47.040449
+137.0,abmelden,to sign out,0.0,0.0,german,1.0,abmelden,4.0,,,,2020-10-15 11:54:58.594943
+37.0,der Pass,the pass,-1.0,2.0,english,1.0,the pass,2.0,,,,2020-10-15 11:55:02.731417
+31.0,das Ziel,the aim,1.0,1.0,german,1.0,das Ziel,4.0,,,,2020-10-15 11:55:05.473664
+11.0,beginnen,to begin,1.0,2.0,english,1.0,to begin,3.0,,,,2020-10-15 11:55:09.831786
+127.0,die Ableitung,the derivation,0.0,-2.0,german,1.0,die Ableitung,7.0,,,,2020-10-15 11:55:13.177028
+87.0,die rote Bete,the beetroot,1.0,1.0,english,1.0,the beetroot,4.0,,,,2020-10-15 11:55:20.554642
+150.0,regnen,to rain,0.0,0.0,english,1.0,to rain,2.0,,,,2020-10-15 11:55:25.164480
+55.0,die Überschwemmung,the flood,-1.0,2.0,german,1.0,die Überschwemmung,5.0,,,,2020-10-15 11:55:28.104947
+131.0,unterhalten,to entertain,0.0,-2.0,english,0.0,the withstand,6.0,unterhalten to entertain unterhalten to entertain,,False,2020-10-15 11:55:34.066604
+142.0,die Ausflug,the excursion,-3.0,1.0,german,1.0,die Ausflug,4.0,,,,2020-10-15 11:55:49.770173
+151.0,daher,therefore,1.0,2.0,german,1.0,daher,2.0,,,,2020-10-15 12:10:41.132727
+49.0,die Note,the grade,1.0,2.0,german,1.0,die Note,3.0,,,,2020-10-15 12:10:43.741425
+53.0,geduldig,patient,0.0,-3.0,english,1.0,patient,4.0,,,,2020-10-15 12:10:47.244669
+116.0,sonst,otherwise,1.0,2.0,english,1.0,otherwise,4.0,,,,2020-10-15 12:10:51.537287
+93.0,die Erkältung,the cold,0.0,-1.0,english,1.0,the cold,3.0,,,,2020-10-15 12:10:56.296131
+99.0,der Zwerg,the dwarf,1.0,2.0,english,1.0,the dwarf,4.0,,,,2020-10-15 12:10:59.453672
+138.0,der Grünkohl,the kale,-1.0,1.0,german,1.0,der Grünkohl,7.0,,,,2020-10-15 12:11:04.178011
+154.0,die Bedingung,the condition,0.0,-2.0,english,1.0,the condition,4.0,,,,2020-10-15 12:11:11.543635
+107.0,das Waschen,the washing,-2.0,2.0,german,0.0,der Waschen,4.0,das Waschen the washing das Waschen,,False,2020-10-15 12:11:15.816219
+123.0,die Markise,the awning,-2.0,2.0,german,1.0,die Markise,3.0,,,,2020-10-15 12:11:29.186074
+58.0,der Strömung,the flow,-1.0,-2.0,english,1.0,the flow,3.0,,,,2020-10-15 12:11:49.377523
+80.0,selten,rarely,0.0,-1.0,english,1.0,rarely,3.0,,,,2020-10-15 12:11:53.016005
+158.0,das Töpfchen,the potty,-1.0,1.0,german,1.0,das Töpfchen,4.0,,,,2020-10-15 12:11:56.610972
+36.0,der Garten,the garden,-1.0,2.0,german,1.0,der Garten,3.0,,,,2020-10-15 12:12:01.268336
+43.0,die Geschichte,the history,1.0,-1.0,english,1.0,the history,4.0,,,,2020-10-15 12:12:04.710915
+6.0,heissen,to be named,1.0,2.0,german,1.0,heissen,2.0,,,,2020-10-15 12:12:09.623265
+102.0,stumm,mute,1.0,2.0,german,1.0,stumm,2.0,,,,2020-10-15 12:12:12.617990
+29.0,der Kollege,the colleague,0.0,2.0,german,1.0,der Kollege,7.0,,,,2020-10-15 12:12:15.505469
+122.0,die Lösung,the solution,1.0,2.0,german,1.0,die Lösung,4.0,,,,2020-10-15 12:12:23.330100
+45.0,die Luft,the air,-3.0,1.0,german,1.0,die Luft,3.0,,,,2020-10-15 12:12:28.002921
+59.0,aushalten,to withstand,0.0,-1.0,english,1.0,to withstand,13.0,,,,2020-10-15 12:12:36.477119
+30.0,die Kirche,the church,1.0,2.0,english,1.0,the church,2.0,,,,2020-10-15 12:12:50.018805
+97.0,vorstellen,to present,1.0,0.0,german,1.0,vorstellen,3.0,,,,2020-10-15 12:12:53.028586
+157.0,der Dachboden,the attic,-1.0,0.0,german,1.0,der Dachboden,4.0,,,,2020-10-15 12:12:56.948126
+156.0,höchst,highly,1.0,1.0,english,1.0,highly,3.0,,,,2020-10-15 12:13:01.532651
+139.0,die Masche,the mesh,1.0,-1.0,english,1.0,the mesh,2.0,,,,2020-10-15 12:13:04.559373
+120.0,gelten,to apply,0.0,-3.0,english,1.0,to apply,2.0,,,,2020-10-15 12:13:07.470622
+115.0,die Landwirtschaft,the agriculture,0.0,-2.0,english,1.0,the agriculture,4.0,,,,2020-10-15 12:13:10.468273
+24.0,der Fernseher,the television,1.0,0.0,german,1.0,der Fernseher,4.0,,,,2020-10-15 12:13:14.769583
+61.0,währen,to last,1.0,-2.0,english,1.0,to last,2.0,,,,2020-10-15 12:13:18.882789
+46.0,die Garantie,the guarantee,-1.0,1.0,german,1.0,die Garantie,4.0,,,,2020-10-15 12:19:13.846678
+114.0,leise,discrete,-2.0,0.0,english,1.0,discrete,3.0,,,,2020-10-15 12:19:18.317379
+160.0,der Beutel,the sachet,-2.0,0.0,german,1.0,der Beutel,6.0,,,,2020-10-15 12:19:21.777683
+32.0,emotional,emotional,1.0,1.0,english,1.0,emotional,3.0,,,,2020-10-15 12:19:27.834979
+103.0,das Gesetz,the law (G.),0.0,2.0,german,1.0,das Gesetz,4.0,,,,2020-10-15 12:19:31.487829
+145.0,die Erläuterung,the explanation,-1.0,2.0,german,1.0,die Erläuterung,7.0,,,,2020-10-15 12:19:36.194752
+84.0,das Nashorn,the rhino,0.0,0.0,english,1.0,the rhino,3.0,,,,2020-10-15 12:19:43.300784
+143.0,die Fernbedienung,the remote,1.0,1.0,english,1.0,the remote,2.0,,,,2020-10-15 12:19:46.475717
+54.0,der Kindergarten,the nursery,0.0,1.0,german,1.0,der Kindergarten,6.0,,,,2020-10-15 12:19:49.368368
+108.0,schneiden,to cut,1.0,2.0,english,1.0,to cut,2.0,,,,2020-10-15 12:19:55.886587
+75.0,umfahren,to bypass,-1.0,2.0,german,1.0,umfahren,5.0,,,,2020-10-15 14:21:28.394382
+78.0,nah,close,0.0,0.0,german,1.0,nah,4.0,,,,2020-10-15 14:21:33.897619
+152.0,die Entfernung,the distance,1.0,1.0,german,1.0,die Entfernung,5.0,,,,2020-10-15 14:21:38.529842
+147.0,das Nasenbluten,the nosebleed,-3.0,2.0,german,0.0,das Nasebluten,5.0,das Nasenbluten the nose blled das Nasenbluten,,False,2020-10-15 14:21:44.168205
+33.0,die Zucchini,the zucchini,-1.0,2.0,german,1.0,die Zucchini,3.0,,,,2020-10-15 15:07:31.270849
+76.0,das Sprichwort,the proverb,-1.0,2.0,german,1.0,das Sprichwort,4.0,,,,2020-10-15 15:07:35.089591
+140.0,wandern,to hike,1.0,2.0,english,1.0,to hike,3.0,,,,2020-10-15 15:07:39.426796
+77.0,die Hymne,the anthem,1.0,2.0,german,1.0,die Hymne,6.0,,,,2020-10-15 15:07:42.536082
+72.0,die Gegenstand,the object,-4.0,2.0,german,0.0,die Bedingung,7.0,die gegenstand die Gegenstand,154.0,True,2020-10-15 15:07:49.379280
+117.0,wieder,another time,0.0,1.0,english,1.0,another time,3.0,,,,2020-10-15 15:08:07.520238
+56.0,ständig,constant,1.0,1.0,english,1.0,constant,3.0,,,,2020-10-15 16:06:36.659068
+124.0,die Brunnenkresse,the watercress,-1.0,-2.0,german,0.0,die Brunnencresse,7.0,die Brunnenkress,,False,2020-10-15 16:06:39.729130
+121.0,das Rührei,the scrambled egg,1.0,2.0,german,1.0,das Rührei,4.0,,,,2020-10-15 16:06:53.424815
+27.0,der Joghurt,the yoghurt,1.0,2.0,german,1.0,der Joghurt,6.0,,,,2020-10-15 16:06:58.367679
+134.0,unterwegs,on the road,-2.0,2.0,german,0.0,unterweg,5.0,unterwegs on the road unterwegs,,False,2020-10-15 16:07:04.965162
+110.0,verdrängen,to replace,0.0,-2.0,german,0.0,,5.0,verdrängen to replace verdrängen,,False,2020-10-15 16:07:17.227304
+21.0,sauber,clean,0.0,2.0,german,1.0,sauber,5.0,,,,2020-10-15 16:07:30.370221
+86.0,erinnern,to remind,0.0,0.0,english,1.0,to remind,4.0,,,,2020-10-15 16:07:35.540675
+111.0,verpassen,to miss,-2.0,-1.0,english,1.0,to miss,2.0,,,,2020-10-15 16:07:40.313980
+51.0,überfahren,to run over,1.0,-3.0,english,1.0,to run over,3.0,,,,2020-10-15 16:07:43.176012
+47.0,löschen,to delete,1.0,2.0,english,1.0,to delete,3.0,,,,2020-10-15 17:54:18.212264
+133.0,schmutzig,dirty,-2.0,0.0,german,1.0,schmutzig,6.0,,,,2020-10-15 17:54:21.768347
+105.0,sich die Zähne putzen,to brush one's teeth,1.0,2.0,german,1.0,sich die Zähne putzen,12.0,,,,2020-10-15 17:54:27.819536
+4.0,der Mensch,the human,1.0,1.0,english,1.0,the human,4.0,,,,2020-10-15 17:54:40.301100
+130.0,herzlich,cordial,-1.0,1.0,english,1.0,cordial,4.0,,,,2020-10-15 17:54:44.317976
+132.0,vorgedrungen,advanced,-1.0,-3.0,english,1.0,advanced,6.0,,,,2020-10-15 17:54:48.745559
+65.0,die Präposition,the preposition,1.0,2.0,german,1.0,die Präposition,7.0,,,,2020-10-15 17:54:55.073325
+8.0,der Kellner,the waiter,1.0,2.0,german,1.0,der Kellner,3.0,,,,2020-10-15 17:55:02.195459
+18.0,reservieren,to reserve,1.0,2.0,english,1.0,to reserve,3.0,,,,2020-10-15 17:55:05.809401
+13.0,der Herbst,the autumn,1.0,2.0,german,1.0,der Herbst,3.0,,,,2020-10-15 17:55:09.248660
+106.0,der Posteingang,the inbox,-1.0,2.0,german,1.0,der Posteingang,5.0,,,,2020-10-15 17:56:49.661843
+128.0,wenig,little,0.0,2.0,german,1.0,wenig,3.0,,,,2020-10-15 17:56:55.352932
+88.0,der Ahn,the ancestor,1.0,2.0,english,1.0,the ancestor,3.0,,,,2020-10-15 17:56:58.442829
+149.0,die Ausbildung,the training,1.0,2.0,english,1.0,the training,3.0,,,,2020-10-15 17:57:02.244909
+153.0,die Stillzeit,the breastfeeding period,0.0,2.0,english,1.0,the breastfeeding period,5.0,,,,2020-10-15 17:57:06.080093
+92.0,die Zahnbürste,the toothbrush,-1.0,2.0,german,0.0,die Zahnebürste,6.0,die Zähnbürste,,False,2020-10-15 17:57:11.622061
+3.0,süss,sweet,1.0,2.0,english,1.0,sweet,2.0,,,,2020-10-15 17:57:25.636296
+67.0,die Übersetzung,the translation,-2.0,2.0,german,0.0,die Überstezung,6.0,die Übersetzung die Übersetzung,,False,2020-10-15 17:57:28.152585
+23.0,oft,often,1.0,2.0,german,1.0,oft,1.0,,,,2020-10-15 17:57:41.547278
+74.0,die Erkenntnis,the knowledge,-2.0,2.0,german,0.0,das Wissen,3.0,die Erkenntnis die Erkenntnis,0.0,True,2020-10-15 17:57:43.298322
+60.0,lachen,to laugh,1.0,2.0,german,0.0,laufen,5.0,lachen to laugh lachen,0.0,1.0,2020-10-19 11:34:46.306954
+159.0,der Tacker,the stapler,-1.0,2.0,english,0.0,the stappler,4.0,the stapler der Tacker the stapler,,0.0,2020-10-19 11:35:02.310117
+59.0,aushalten,to withstand,1.0,-1.0,english,1.0,to withstand,5.0,,,,2020-10-19 11:35:14.839717
+153.0,die Stillzeit,the breastfeeding period,1.0,2.0,english,1.0,the breastfeeding period,8.0,,,,2020-10-19 11:35:20.357118
+158.0,das Töpfchen,the potty,0.0,1.0,german,1.0,das Töpfchen,5.0,,,,2020-10-19 11:35:28.471057
+43.0,die Geschichte,the history,-1.0,2.0,german,1.0,die Geschichte,7.0,,,,2020-10-19 11:35:33.884464
+100.0,sich verlieben,to fall in love,-2.0,1.0,german,1.0,sich verlieben,6.0,,,,2020-10-19 11:35:41.292332
+63.0,der Pfeffer,the pepper,0.0,0.0,english,1.0,the pepper,4.0,,,,2020-10-19 11:35:47.642118
+141.0,flüssig,liquid,1.0,0.0,english,1.0,liquid,2.0,,,,2020-10-19 11:35:51.963734
+110.0,verdrängen,to replace,-2.0,-1.0,english,0.0,,10.0,verdrängen verdrängen to replace verdrängen,,False,2020-10-19 11:35:54.971538
+24.0,der Fernseher,the television,0.0,2.0,english,1.0,the television,4.0,,,,2020-10-19 13:36:32.885033
+132.0,vorgedrungen,advanced,-3.0,0.0,german,0.0,vorgedrängen,8.0,vorgedrungen vorgedrungen,,False,2020-10-19 13:36:37.363786
+58.0,der Strömung,the flow,0.0,-2.0,english,1.0,the flow,2.0,,,,2020-10-19 13:36:53.071563
+137.0,abmelden,to sign out,1.0,0.0,german,1.0,abmelden,3.0,,,,2020-10-19 13:36:55.843248
+135.0,die Entscheidung,the decision,1.0,2.0,english,1.0,the decision,7.0,,,,2020-10-19 13:36:59.313658
+70.0,die Flanke,the flank,1.0,1.0,german,1.0,die Flanke,5.0,,,,2020-10-19 13:37:07.250192
+128.0,wenig,little,1.0,2.0,german,1.0,wenig,13.0,,,,2020-10-19 13:37:13.171866
+130.0,herzlich,cordial,0.0,1.0,english,1.0,cordial,4.0,,,,2020-10-19 13:37:26.863095
+157.0,der Dachboden,the attic,0.0,0.0,english,1.0,the attic,3.0,,,,2020-10-19 13:37:31.249259
+41.0,der Tempel,the temple,1.0,2.0,german,1.0,der Tempel,4.0,,,,2020-10-19 13:37:34.294351
+91.0,hinten,behind,-1.0,1.0,english,1.0,behind,5.0,,,,2020-10-19 13:56:56.524220
+48.0,der Tod,the death,0.0,2.0,english,1.0,the death,3.0,,,,2020-10-19 13:57:01.578170
+93.0,die Erkältung,the cold,1.0,-1.0,english,1.0,the cold,3.0,,,,2020-10-19 13:57:04.803018
+152.0,die Entfernung,the distance,1.0,2.0,english,1.0,the distance,3.0,,,,2020-10-19 13:57:07.846200
+117.0,wieder,another time,1.0,1.0,german,1.0,wieder,2.0,,,,2020-10-19 13:57:11.576454
+112.0,beschenken,to make a present,-2.0,-1.0,english,1.0,to make a present,5.0,,,,2020-10-19 13:57:14.243189
+36.0,der Garten,the garden,0.0,2.0,german,1.0,der Garten,3.0,,,,2020-10-19 13:57:19.548264
+4.0,der Mensch,the human,1.0,2.0,german,1.0,der Mensch,7.0,,,,2020-10-19 13:57:23.525290
+143.0,die Fernbedienung,the remote,1.0,2.0,german,0.0,die Ferbedienung,6.0,die Fernbedienung die Fernbedienung,,False,2020-10-19 13:57:30.746900
+115.0,die Landwirtschaft,the agriculture,1.0,-2.0,english,1.0,the agriculture,4.0,,,,2020-10-19 13:57:55.158458
+129.0,der übersetzer,the translator,0.0,2.0,german,0.0,die übersetzer,4.0,der übersetzer der übersetzer,,False,2020-10-19 13:58:00.025628
+123.0,die Markise,the awning,-1.0,2.0,german,1.0,die Markise,5.0,,,,2020-10-19 13:58:12.722293
+35.0,die Herberge,the hostel,-2.0,2.0,german,1.0,die Herberge,6.0,,,,2020-10-19 13:58:17.747369
+139.0,die Masche,the mesh,-1.0,2.0,german,1.0,die Masche,5.0,,,,2020-10-19 13:58:24.297633
+66.0,der Geruchssin,the sense of smell,0.0,-1.0,english,1.0,the sense of smell,4.0,,,,2020-10-19 13:58:30.160717
+90.0,ärgern,to annoy,0.0,2.0,english,1.0,to annoy,4.0,,,,2020-10-19 13:58:34.337147
+69.0,das Pokal,the cup,-3.0,1.0,german,0.0,der Pokal,2.0,das Pokal das Pokal das Pokal,,False,2020-10-19 13:58:38.921275
+85.0,der Hahn,the rooster,0.0,2.0,english,1.0,the rooster,3.0,,,,2020-10-19 13:58:47.930744
+67.0,die Übersetzung,the translation,-3.0,2.0,german,1.0,die Übersetzung,12.0,,,,2020-10-19 13:58:51.538481
+72.0,die Gegenstand,the object,-5.0,2.0,german,0.0,das Gegenstand,9.0,die gegenstand die Gegenstand,,False,2020-10-19 13:59:04.514901
+154.0,die Bedingung,the condition,1.0,-2.0,english,1.0,the condition,3.0,,,,2020-10-19 15:38:52.855722
+124.0,die Brunnenkresse,the watercress,-2.0,-2.0,english,1.0,the watercress,5.0,,,,2020-10-19 15:38:56.854194
+53.0,geduldig,patient,1.0,-3.0,english,1.0,patient,3.0,,,,2020-10-19 15:39:02.296884
+142.0,die Ausflug,the excursion,1.0,-2.0,english,1.0,the excursion,3.0,,,,2020-10-19 15:39:06.185628
+114.0,leise,discrete,0.0,-1.0,german,0.0,leer,2.0,leise discrete leise discrete leise discrete,0,True,2020-10-19 15:39:10.103809
+75.0,umfahren,to bypass,0.0,2.0,german,1.0,umfahren,4.0,,,,2020-10-19 15:39:23.388764
+97.0,vorstellen,to present,0.0,2.0,english,1.0,to present,3.0,,,,2020-10-19 15:39:27.458426
+104.0,bald,soon,1.0,2.0,german,1.0,bald,7.0,,,,2020-10-19 15:39:30.760910
+133.0,schmutzig,dirty,0.0,-1.0,english,1.0,dirty,3.0,,,,2020-10-19 15:39:38.525334
+62.0,die Gabe,the gift,0.0,2.0,english,1.0,the gift,2.0,,,,2020-10-19 15:39:41.784113
+33.0,die Zucchini,the zucchini,0.0,2.0,german,1.0,die Zucchini,5.0,,,,2020-10-19 15:39:44.544190
+120.0,gelten,to apply,1.0,-3.0,english,1.0,to apply,3.0,,,,2020-10-19 15:39:49.770152
+82.0,der Stern,the star,0.0,2.0,german,1.0,der Stern,3.0,,,,2020-10-19 15:39:52.948049
+150.0,regnen,to rain,0.0,1.0,german,1.0,regnen,2.0,,,,2020-10-19 15:39:56.255692
+45.0,die Luft,the air,1.0,-2.0,english,1.0,the air,2.0,,,,2020-10-19 15:39:58.977152
+148.0,schiessen,to shoot,0.0,-2.0,english,1.0,to shoot,3.0,,,,2020-10-19 15:40:01.492409
+84.0,das Nashorn,the rhino,0.0,1.0,german,0.0,das Nasenpferd,10.0,das Nashorn das Nashorn das Nashorn,,False,2020-10-19 15:40:04.954425
+138.0,der Grünkohl,the kale,0.0,1.0,german,0.0,der Kohl,7.0,the kale der Grünkohl der Grünkohl,,False,2020-10-19 15:40:27.593169
+134.0,unterwegs,on the road,-3.0,2.0,german,1.0,unterwegs,6.0,,,,2020-10-19 15:40:45.675521
+160.0,der Beutel,the sachet,0.0,-1.0,english,1.0,the sachet,3.0,,,,2020-10-19 15:40:51.866683
+127.0,die Ableitung,the derivation,-2.0,1.0,english,0.0,,5.0,die Ableitung the derivation die Ableitung,,False,2020-10-19 17:40:08.744127
+95.0,statt,instead of,1.0,2.0,english,1.0,instead of,3.0,,,,2020-10-19 17:40:22.368538
+80.0,selten,rarely,1.0,-1.0,english,1.0,rarely,4.0,,,,2020-10-19 17:40:26.115978
+54.0,der Kindergarten,the nursery,1.0,1.0,english,1.0,the nursery,4.0,,,,2020-10-19 17:40:30.490271
+46.0,die Garantie,the guarantee,1.0,0.0,english,1.0,the guarantee,4.0,,,,2020-10-19 17:40:34.529606
+107.0,das Waschen,the washing,-3.0,2.0,german,1.0,das Waschen,4.0,,,,2020-10-19 17:40:39.235752
+86.0,erinnern,to remind,0.0,1.0,german,1.0,erinnern,3.0,,,,2020-10-19 17:40:43.922065
+7.0,arbeiten,to work,1.0,2.0,german,1.0,arbeiten,2.0,,,,2020-10-19 17:40:47.358793
+131.0,unterhalten,to entertain,-1.0,-2.0,english,1.0,to entertain,5.0,,,,2020-10-19 17:40:50.297090
+111.0,verpassen,to miss,-1.0,-1.0,english,1.0,to miss,2.0,,,,2020-10-19 17:40:55.925201
+44.0,die Position,the position,0.0,2.0,german,1.0,die Position,5.0,,,,2020-10-19 17:40:58.684494
+103.0,das Gesetz,the law (G.),1.0,2.0,german,1.0,das Gesetz,4.0,,,,2020-10-19 17:41:04.696229
+74.0,die Erkenntnis,the knowledge,-3.0,2.0,german,0.0,das Wissen,4.0,die Erkenntnis,0,True,2020-10-19 17:41:09.589282
+31.0,das Ziel,the aim,1.0,2.0,english,1.0,the aim,4.0,,,,2020-10-19 17:41:19.627828
+68.0,reiten,to ride,1.0,-2.0,english,1.0,to ride,2.0,,,,2020-10-19 17:41:24.454994
+109.0,der Kürbis,the pumpkin,1.0,1.0,german,1.0,der Kürbis,5.0,,,,2020-10-19 17:41:27.395891
+64.0,besondere,special,-1.0,-1.0,english,1.0,special,7.0,,,,2020-10-19 17:41:32.902000
+96.0,die Dattek,the date,0.0,2.0,german,1.0,die Dattek,3.0,,,,2020-10-19 17:41:40.042903
+118.0,zum Geburtstag viel Glück,happy birthday,-1.0,2.0,german,1.0,zum Geburtstag viel Glück,9.0,,,,2020-10-19 17:41:44.030378
+125.0,zwingend,mandatory,-2.0,2.0,english,1.0,mandatory,4.0,,,,2020-10-19 17:41:53.881870
