@@ -3,7 +3,7 @@ import numpy as np
 import plotly.graph_objects as go
 
 
-def show_components(dataset, component_a=1, component_b=2, model_name='model'):
+def show_components(dataset, component_a=1, component_b=2, model_name='model', show_plot=True, save_plot=True):
 
     fig = go.Figure()
 
@@ -38,9 +38,11 @@ def show_components(dataset, component_a=1, component_b=2, model_name='model'):
         legend={'itemsizing': 'constant'}
     )
 
-    fig.show()
+    if show_plot:
+        fig.show()
 
-    fig.write_html("data/figures/{}_pca_{:02d}_{:02d}.html".format(model_name, component_a, component_b))
+    if save_plot:
+        fig.write_html("data/figures/{}_pca_{:02d}_{:02d}.html".format(model_name, component_a, component_b))
 
 
 def explained_variance(X_pca):
@@ -49,7 +51,7 @@ def explained_variance(X_pca):
     return explained_variance_ratio
 
 
-def plot_explained_variance(explained_variance_ratio, model_name='model'):
+def plot_explained_variance(explained_variance_ratio, model_name='model', show_plot=True, save_plot=True):
 
     fig = go.Figure()
 
@@ -68,12 +70,15 @@ def plot_explained_variance(explained_variance_ratio, model_name='model'):
         legend={"itemsizing": "constant"},
     )
 
-    fig.show()
+    if show_plot:
+        fig.show()
 
-    fig.write_html("data/figures/{}_pca_explained_variance.html".format(model_name))
+    if save_plot:
+        fig.write_html("data/figures/{}_pca_explained_variance.html".format(model_name))
 
 
-def plot_feature_components(feature_components, feature_names, n_components, model_name='model'):
+def plot_feature_components(feature_components, feature_names, n_components,
+                            model_name='model', show_plot=True, save_plot=True):
     plt.matshow(feature_components, cmap='viridis')
     plt.yticks(
         range(n_components),
@@ -85,4 +90,8 @@ def plot_feature_components(feature_components, feature_names, n_components, mod
         feature_names,
         rotation=65, ha='left')
     plt.tight_layout()
-    plt.savefig("data/figures/{}_pca_feature_components.png".format(model_name), format='png', dpi=500)
+
+    if show_plot:
+        plt.show()
+    if save_plot:
+        plt.savefig("data/figures/{}_pca_feature_components.png".format(model_name), format='png', dpi=500)

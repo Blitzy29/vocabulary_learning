@@ -1,5 +1,5 @@
 import datetime
-import dill
+#import dill
 import numpy as np
 import pandas as pd
 import time
@@ -13,6 +13,7 @@ from sklearn.linear_model import LogisticRegression
 
 import plotly.graph_objects as go
 
+from src.models.performance_metrics import show_results
 from src.utils import pca
 
 
@@ -24,10 +25,11 @@ class ModelLogisticRegression:
 
     def __init__(self):
 
-        self.version = 'logistic_regression_mle__' + datetime.datetime.today().strftime("%Y%m%d")
+        self.version = 'logistic_regression__' + datetime.datetime.today().strftime("%Y%m%d")
 
         self.global_config = {
-            'show_plot': False
+            'show_plot': False,
+            'save_plot': True
         }
 
         self.vardict = self.get_model_vardict()
@@ -144,7 +146,12 @@ class ModelLogisticRegression:
         dataset = pd.concat([X_train_pca, y_train], axis=1)
 
         if self.global_config['show_plot']:
-            pca.show_components(dataset, component_a=1, component_b=2, model_name=self.version)
+            pca.show_components(
+                dataset, component_a=1, component_b=2,
+                model_name=self.version,
+                show_plot=self.global_config['show_plot'],
+                save_plot=self.global_config['save_plot'],
+            )
             pca.plot_explained_variance(pca.explained_variance(X_train_pca), model_name=self.version)
             pca.plot_feature_components(
                 feature_components=self.dimension_reduction.components_,
@@ -327,8 +334,8 @@ class ModelLogisticRegression:
         if self.scaler:
             dataset[self.vardict["preprocessed"]] = self.scaler.transform(dataset[self.vardict["preprocessed"]])
 
-        with open(f"data/{self.version}__data_test.pkl", "wb") as file:
-            dill.dump(dataset, file)
+        #with open(f"data/{self.version}__data_test.pkl", "wb") as file:
+        #    dill.dump(dataset, file)
 
         if self.dimension_reduction:
             dataset = self.apply_dimension_reduction_inference(dataset)
@@ -486,6 +493,23 @@ class ModelLogisticRegression:
             yaxis_title="Variables",
         )
 
-        fig.show()
+        if self.global_config['show_plot']:
+            fig.show()
 
-        fig.write_html(f"data/figures/{self.version}_coefficients.html")
+        if self.global_config['save_plot']:
+            fig.write_html(f"data/figures/{self.version}_coefficients.html")
+
+    def predict_and_show_results(self, dataset_valid, save_folder="data/processed"):
+
+        y_valid = dataset_valid[self.vardict["target"]].copy()
+        dataset_valid = self.preprocessing_inference(dataset_valid)
+        predictions = self.predict(dataset=dataset_valid, target_present=False)
+        predictions["y_true"] = y_valid.values.tolist()
+
+        show_results(
+            predictions,
+            model_name=self.version,
+            show_plot=self.global_config['show_plot'],
+            save_plot=self.global_config['save_plot'],
+            save_folder=save_folder,
+        )

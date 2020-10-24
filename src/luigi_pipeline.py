@@ -230,6 +230,13 @@ class TrainLogisticRegressionModel(luigi.Task):
         model = ModelLogisticRegression()
         dataset_train = model.preprocessing_training(dataset_train)
         model.train(dataset_train)
+        model.plot_coefficients()
+
+        path_dataset_valid = "data/pipeline/{}/{}".format(today, "valid_dataset.pkl")
+        with open(path_dataset_valid, "rb") as input_file:
+            dataset_valid = dill.load(input_file)
+
+        model.predict_and_show_results(dataset_valid, save_folder="data/pipeline/{}".format(today))
 
         path_model = "data/pipeline/{}/{}".format(today, "model.pkl")
         with open(path_model, "wb") as file:

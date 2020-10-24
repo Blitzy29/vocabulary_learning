@@ -6,7 +6,43 @@ import plotly.graph_objects as go
 from sklearn import metrics
 
 
-def get_binary_classification_results(dataset, model_name="model"):
+def show_results(
+    predictions,
+    model_name,
+    show_plot=True,
+    save_plot=True,
+    save_folder="data/processed",
+):
+
+    binary_classification_results = (
+        get_binary_classification_results(
+            predictions, model_name, save_folder
+        )
+    )
+
+    regression_results = get_regression_results(
+        predictions, model_name, save_folder
+    )
+
+    plot_roc_auc_curve(
+        predictions, model_name, show_plot, save_plot, save_folder
+    )
+
+    plot_precision_recall_curve(
+        predictions,
+        binary_classification_results,
+        model_name,
+        show_plot,
+        save_plot,
+        save_folder,
+    )
+
+    plot_predictions(
+        predictions, model_name, show_plot, save_plot, save_folder
+    )
+
+
+def get_binary_classification_results(dataset, model_name="model", save_folder="data"):
 
     binary_classification_results = dict()
 
@@ -86,18 +122,18 @@ def get_binary_classification_results(dataset, model_name="model"):
     )
 
     binary_classification_results_table.to_csv(
-        f"data/processed/{model_name}_binary_classification_results_table.csv"
+        f"{save_folder}/{model_name}_binary_classification_results_table.csv"
     )
 
     with open(
-            f"data/processed/{model_name}_binary_classification_results_dict.pkl", "wb"
+            f"{save_folder}/{model_name}_binary_classification_results_dict.pkl", "wb"
     ) as file:
         dill.dump(binary_classification_results, file)
 
     return binary_classification_results
 
 
-def get_regression_results(dataset, model_name="model"):
+def get_regression_results(dataset, model_name="model", save_folder="data"):
 
     regression_results = dict()
 
@@ -139,11 +175,11 @@ def get_regression_results(dataset, model_name="model"):
     )
 
     regression_results_table.to_csv(
-        f"data/processed/{model_name}_regression_results_table.csv"
+        f"{save_folder}/{model_name}_regression_results_table.csv"
     )
 
     with open(
-            f"data/processed/{model_name}_regression_results_dict.pkl", "wb"
+            f"{save_folder}/{model_name}_regression_results_dict.pkl", "wb"
     ) as file:
         dill.dump(regression_results, file)
 
@@ -161,7 +197,8 @@ def add_precision_recall_curve(fig, dataset, model_name="model"):
     return fig
 
 
-def plot_precision_recall_curve(dataset, binary_classification_results, model_name="model"):
+def plot_precision_recall_curve(dataset, binary_classification_results, model_name="model",
+                                show_plot=True, save_plot=True, save_folder="data"):
 
     # Create traces
     fig = go.Figure()
@@ -191,9 +228,11 @@ def plot_precision_recall_curve(dataset, binary_classification_results, model_na
     fig.update_xaxes(title_text="Recall", range=[-0.05, 1.05])
     fig.update_yaxes(title_text="Precision", range=[-0.05, 1.05])
 
-    fig.show()
+    if show_plot:
+        fig.show()
 
-    fig.write_html(f"data/figures/{model_name}_PrecisionRecall.html")
+    if save_plot:
+        fig.write_html(f"{save_folder}/{model_name}_PrecisionRecall.html")
 
 
 def add_roc_auc_curve(fig, dataset, model_name="model"):
@@ -205,7 +244,7 @@ def add_roc_auc_curve(fig, dataset, model_name="model"):
     return fig
 
 
-def plot_roc_auc_curve(dataset, model_name="model"):
+def plot_roc_auc_curve(dataset, model_name="model", show_plot=True, save_plot=True, save_folder="data"):
 
     # Create traces
     fig = go.Figure()
@@ -232,9 +271,11 @@ def plot_roc_auc_curve(dataset, model_name="model"):
     fig.update_xaxes(title_text="False Positive Rate", range=[-0.05, 1.05])
     fig.update_yaxes(title_text="True Positive Rate", range=[-0.05, 1.05])
 
-    fig.show()
+    if show_plot:
+        fig.show()
 
-    fig.write_html(f"data/figures/{model_name}_ROC.html")
+    if save_plot:
+        fig.write_html(f"{save_folder}/{model_name}_ROC.html")
 
 
 def add_square(fig, x0, x1, y0, y1):
@@ -279,7 +320,7 @@ def add_square(fig, x0, x1, y0, y1):
     return fig
 
 
-def plot_predictions(dataset, model_name="model"):
+def plot_predictions(dataset, model_name="model", show_plot=True, save_plot=True, save_folder="data"):
 
     dataset_subset = dataset[["y_true", "y_pred", "y_proba"]].copy()
     dataset_subset.sort_values("y_proba", inplace=True)
@@ -337,6 +378,8 @@ def plot_predictions(dataset, model_name="model"):
         yaxis_title="True values and predictions",
     )
 
-    fig.show()
+    if show_plot:
+        fig.show()
 
-    fig.write_html(f"data/figures/{model_name}_predictions.html")
+    if save_plot:
+        fig.write_html(f"{save_folder}/{model_name}_predictions.html")
