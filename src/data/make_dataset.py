@@ -209,8 +209,6 @@ def create_historical_data_new_session(vocab_to_predict, max_id_session, max_id_
         )
         fake_historical_data_for_new_session["language_asked"] = "english"
 
-    del fake_historical_data_for_new_session["retry_german_english"]
-    del fake_historical_data_for_new_session["retry_english_german"]
     del fake_historical_data_for_new_session["try_session_german_english"]
     del fake_historical_data_for_new_session["try_session_english_german"]
 
