@@ -26,6 +26,10 @@ class PrintColors:
     BOLDGREEN = '\033[1;92m'
 
 
+POINTS_FOR_SUCCESS = 2
+DAYS_FOR_COMING_BACK = 30
+
+
 def initiate_vocab(test=True, test_name='test'):
     """ Initiate the vocab table
 
@@ -115,7 +119,7 @@ def choose_a_language(i_vocab_try, vocab):
     forbidden_words = (
             vocab['try_session_german_english'] |
             vocab['try_session_english_german'] |
-            (vocab['score_german_english'] >= 5)
+            (vocab['score_german_english'] >= POINTS_FOR_SUCCESS)
     )
     if len(vocab[forbidden_words]) != len(vocab):
         possible_languages.append('english')
@@ -123,7 +127,7 @@ def choose_a_language(i_vocab_try, vocab):
     forbidden_words = (
             vocab['try_session_german_english'] |
             vocab['try_session_english_german'] |
-            (vocab['score_english_german'] >= 5)
+            (vocab['score_english_german'] >= POINTS_FOR_SUCCESS)
     )
     if len(vocab[forbidden_words]) != len(vocab):
         possible_languages.append('german')
@@ -164,7 +168,7 @@ def choose_a_word(i_vocab_try, vocab):
     forbidden_words = (
             vocab['try_session_german_english'] |
             vocab['try_session_english_german'] |
-            (vocab[f"score_{i_vocab_try['input_language']}_{i_vocab_try['output_language']}"] >= 5)
+            (vocab[f"score_{i_vocab_try['input_language']}_{i_vocab_try['output_language']}"] >= POINTS_FOR_SUCCESS)
     )
 
     list_possible_words = vocab[~forbidden_words]
@@ -439,7 +443,7 @@ def update_vocab(vocab, i_vocab_try):
     if vocab.loc[
         vocab["id_vocab"] == i_vocab_try['id_vocab'],
         f"score_{i_vocab_try['input_language']}_{i_vocab_try['output_language']}"
-    ].values[0] == 5:
+    ].values[0] == POINTS_FOR_SUCCESS:
         print(f"{PrintColors.BOLDGREEN}Archived!!{PrintColors.ENDC}")
 
     return vocab
@@ -498,18 +502,18 @@ def finalize_vocab(vocab, test=True, test_name='test'):
     vocab.loc[vocab['score_english_german'] < -10, 'score_english_german'] = -10
 
     vocab.loc[
-        (vocab['score_german_english'] == 5) & vocab['try_session_german_english'], 'retry_german_english'
-    ] = (date.today() + datetime.timedelta(days=90)).strftime("%Y-%m-%d")
+        (vocab['score_german_english'] == POINTS_FOR_SUCCESS) & vocab['try_session_german_english'], 'retry_german_english'
+    ] = (date.today() + datetime.timedelta(days=DAYS_FOR_COMING_BACK)).strftime("%Y-%m-%d")
     vocab.loc[
-        (vocab['score_english_german'] == 5) & vocab['try_session_english_german'], 'retry_english_german'
-    ] = (date.today() + datetime.timedelta(days=90)).strftime("%Y-%m-%d")
+        (vocab['score_english_german'] == POINTS_FOR_SUCCESS) & vocab['try_session_english_german'], 'retry_english_german'
+    ] = (date.today() + datetime.timedelta(days=DAYS_FOR_COMING_BACK)).strftime("%Y-%m-%d")
 
     if test:
         vocab.to_csv(f'data/raw/german_english_{test_name}_after.csv', index=False)
     else:
         vocab.to_csv('data/official/german_english.csv', index=False)
 
-    words_left = vocab[(vocab["score_german_english"] < 5) | (vocab["score_english_german"] < 5)]
+    words_left = vocab[(vocab["score_german_english"] < POINTS_FOR_SUCCESS) | (vocab["score_english_german"] < POINTS_FOR_SUCCESS)]
     if len(words_left) < 100:
         print(
             "{}Time to add new words!!{} - only {} words left'".format(
