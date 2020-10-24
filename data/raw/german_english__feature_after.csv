@@ -1,15 +1,15 @@
-id_vocab,german,english,score_german_english,score_english_german,retry_german_english,retry_english_german,try_session_german_english,try_session_english_german
-1,rennen,to sprint,0,2,2022-01-01,2022-01-01,False,True
-2,richtig,correct,0,-1,2022-01-01,2022-01-01,False,False
-3,September,September,2,1,2022-01-01,2022-01-01,False,False
-4,sprechen,to speak,2,0,2022-01-01,2022-01-01,True,False
-5,stimmen,to vote,1,-1,2022-01-01,2022-01-01,False,True
-6,verheiratet,married,1,-1,2022-01-01,2022-01-01,True,False
-7,wirklich,really,1,2,2022-01-01,2022-01-01,False,False
-8,die Aprikose,the apricot,-1,-2,2022-01-01,2022-01-01,False,False
-9,das Jahr,the year,-2,2,2022-01-01,2022-01-01,True,False
-10,viel,a lot,0,2,2022-01-01,2022-01-01,True,False
-11,die Ärztin,the female doctor,0,-2,2022-01-01,2022-01-01,True,False
-12,zusammen,together,2,0,2022-01-01,2022-01-01,False,True
-13,wilkommen,welcome,1,1,2022-01-01,2022-01-01,True,False
-14,der Pokal,the cup,0,-2,2022-01-01,2022-01-01,True,False
+id_vocab,german,english,score_german_english,score_english_german,retry_german_english,retry_english_german,try_session_german_english,try_session_english_german,english_proba,german_proba
+1,rennen,to sprint,-1,3,2022-01-01,2022-01-01,True,False,0.7983971529203348,0.9251464613239128
+2,richtig,correct,0,-2,2022-01-01,2022-01-01,False,True,0.8349399761109698,0.9217116289833224
+3,September,September,2,2,2022-01-01,2022-01-01,False,True,0.8362484175379876,0.7995839125663845
+4,sprechen,to speak,1,-1,2022-01-01,2022-01-01,False,True,0.9622446964562998,0.8569266165926902
+5,stimmen,to vote,1,-1,2022-01-01,2022-01-01,False,True,0.8998406485486035,0.8643959141333165
+6,verheiratet,married,2,-2,2022-01-01,2022-01-01,False,True,0.951234203014213,0.9678613076065168
+7,wirklich,really,0,2,2022-01-01,2022-01-01,True,False,0.8457561878409543,0.9271926242005872
+8,die Aprikose,the apricot,-1,-1,2022-01-01,2022-01-01,False,True,0.8939018449889017,0.8041650320779943
+9,das Jahr,the year,-1,1,2022-01-01,2022-01-01,False,True,0.640146206901486,0.6046198188949488
+10,viel,a lot,0,2,2022-01-01,2022-01-01,True,False,0.91241003064296,0.8934493373153197
+11,die Ärztin,the female doctor,1,-3,2022-01-01,2022-01-01,False,True,0.7341454789028861,0.924435328780948
+12,zusammen,together,2,0,2022-01-01,2022-01-01,False,True,0.7623107435360471,0.9545775747215692
+13,wilkommen,welcome,1,1,2022-01-01,2022-01-01,True,False,0.8919513937312608,0.7854287230668735
+14,der Pokal,the cup,1,-3,2022-01-01,2022-01-01,False,True,0.8534526705383091,0.7749562056276798
