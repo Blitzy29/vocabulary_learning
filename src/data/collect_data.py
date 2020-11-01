@@ -2,9 +2,10 @@ import numpy as np
 import pandas as pd
 import random
 import datetime
-from datetime import date
 
 from scipy.special import softmax
+
+from src.visualization.visualize_vocab import plot_comparison_both_probabilities
 
 
 class PrintColors:
@@ -250,7 +251,9 @@ def check_answer(i_vocab_try, all_vocab):
 
     i_vocab_try['is_it_another_word'] = None
     if not i_vocab_try['is_it_correct']:
-        i_vocab_try['is_it_another_word'] = i_vocab_try['your_guess'] in all_vocab[i_vocab_try['output_language']].values
+        i_vocab_try['is_it_another_word'] = (
+                i_vocab_try['your_guess'] in all_vocab[i_vocab_try['output_language']].values
+        )
 
     return i_vocab_try
 
@@ -477,14 +480,63 @@ def finalize_vocab(vocab, test=True, test_name='test'):
 
     """
 
+    vocab = vocab.copy()
+
+    del vocab['english_proba']
+    del vocab['german_proba']
+
     if test:
         vocab.to_csv(f'data/raw/german_english_{test_name}_after.csv', index=False)
     else:
         vocab.to_csv('data/official/german_english.csv', index=False)
 
+
+def info_vocab(test=True, test_name='test'):
+    """ Information on the vocab table
+
+    Parameters
+    -----
+    test: boolean
+        Is it a test
+    test_name:
+        name of the test
+
+    Return
+    -----
+    vocab: pd.DataFrame
+        The vocab table
+    """
+
+    if test:
+        vocab = pd.read_csv(f'data/raw/german_english_{test_name}.csv')
+        probas_next_session = pd.read_csv(f"data/raw/predictions_next_session_{test_name}.csv")
+    else:
+        vocab = pd.read_csv('data/official/german_english.csv')
+        probas_next_session = pd.read_csv('data/official/predictions_next_session.csv')
+
+    vocab = pd.merge(
+        vocab,
+        probas_next_session,
+        on='id_vocab'
+    )
+
     words_left = vocab[(vocab["english_proba"] < 0.9) | (vocab["german_proba"] < 0.9)]
+
+    print(
+        "{} words are considered as known.".format(
+            len(vocab) - len(words_left)
+        ))
+
     if len(words_left) < 100:
         print(
             "{}Time to add new words!!{} - only {} words left'".format(
                 PrintColors.FAIL, PrintColors.ENDC, len(words_left)
             ))
+
+    plot_comparison_both_probabilities(
+        vocab,
+        model_name=test_name if test else 'official',
+        show_plot=True,
+        save_plot=True,
+        save_folder='data/raw' if test else 'data/official'
+    )
