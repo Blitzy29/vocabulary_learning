@@ -520,6 +520,17 @@ def info_vocab(test=True, test_name='test'):
         on='id_vocab'
     )
 
+    info_vocab_direct(
+        vocab,
+        model_name=test_name if test else 'official',
+        show_plot=True,
+        save_plot=True,
+        save_folder='data/raw' if test else 'data/official'
+    )
+
+
+def info_vocab_direct(vocab, model_name, show_plot, save_plot, save_folder):
+
     words_left = vocab[(vocab["english_proba"] < 0.9) | (vocab["german_proba"] < 0.9)]
 
     print(
@@ -535,8 +546,8 @@ def info_vocab(test=True, test_name='test'):
 
     plot_comparison_both_probabilities(
         vocab,
-        model_name=test_name if test else 'official',
-        show_plot=True,
-        save_plot=True,
-        save_folder='data/raw' if test else 'data/official'
+        model_name=model_name,
+        show_plot=show_plot,
+        save_plot=save_plot,
+        save_folder=save_folder
     )
