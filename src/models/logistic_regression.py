@@ -38,16 +38,16 @@ class ModelLogisticRegression:
         self.impute_missing_variables = dict()
         self.sampling = 'SMOTE'
         self.dimension_reduction = PCA(
-            n_components=5
+            n_components=4
         )
         self.feature_selection = None  # 'Recursive Feature Elimination'
 
         # https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
         # ?highlight=logistic#sklearn.linear_model.LogisticRegression.decision_function
         self.model_config = {
-            'penalty': 'l2',
+            'penalty': 'l1',
             'solver': 'liblinear',
-            'C': 0.03359818286283781,
+            'C': 0.23357214690901212,
             'random_state': 0,
             'verbose': 1
         }
@@ -65,29 +65,55 @@ class ModelLogisticRegression:
 
         # Numerical
         vardict["numerical"] = [
-            #"nb_characters_german",
-            #"nb_characters_english",
+            "nb_characters_german",
+            "nb_characters_english",
+            "nb_words_german",
+            "nb_words_english",
             "levenshtein_distance_german_english",
-            #"previous_score",
-            #"previous_question_time",
+            "previous_score",
+            "previous_score_other_language",
+            "previous_levenshtein_distance_guess_answer",
+            "previous_question_time",
+            "previous_write_it_again_german",
+            "previous_write_it_again_english",
+            "past_occurrences_same_language",
+            "past_successes_same_language",
+            "past_fails_same_language",
+            "past_occurrences_any_language",
+            "past_successes_any_language",
+            "past_fails_any_language",
+            "week_number",
+            "day_week",
+            "hour",
+            "nb_words_session",
             "difficulty_category",
         ]
 
         # Difference in time
         vardict["diff_time"] = [
-            #"days_since_last_occurrence_same_language",
+            "days_since_last_occurrence_same_language",
+            "days_since_last_occurrence_any_language",
+            "days_since_last_success_same_language",
+            "days_since_last_success_any_language",
+            "days_since_first_occur_same_language",
             "days_since_first_occur_any_language",
         ]
 
         # Boolean
         vardict["boolean"] = [
-            #"previous_result",
+            "previous_result",
+            "previous_correct_article",
+            "previous_only_missed_uppercase",
+            "previous_write_it_again_not_null",
             "is_noun",
+            "is_verb",
+            "previous_confused_with_another_word",
+            "previous_confused_with_an_unknown_word",
         ]
 
         # Categorical
         vardict["categorical"] = [
-            #"language_asked",
+            "language_asked",
             "previous_language_asked",
         ]
 
