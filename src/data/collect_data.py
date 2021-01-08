@@ -161,7 +161,7 @@ def choose_a_word(i_vocab_try, vocab):
 
     list_possible_words[
         f"{i_vocab_try['output_language']}_softmax"
-    ] = softmax(1 - list_possible_words[f"{i_vocab_try['output_language']}_proba"])
+    ] = softmax(3*(1 - list_possible_words[f"{i_vocab_try['output_language']}_proba"]))
 
     # Pick a random word
     id_vocab = np.random.choice(
@@ -534,8 +534,8 @@ def info_vocab_direct(vocab, model_name, show_plot, save_plot, save_folder):
     words_left = vocab[(vocab["english_proba"] < 0.9) | (vocab["german_proba"] < 0.9)]
 
     print(
-        "{} words are considered as known.".format(
-            len(vocab) - len(words_left)
+        "{}/{} words are considered as known.".format(
+            len(vocab) - len(words_left), len(vocab)
         ))
 
     if len(words_left) < 100:
