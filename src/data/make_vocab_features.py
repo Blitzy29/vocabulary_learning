@@ -90,16 +90,23 @@ def add_difficulty_category(vocab):
         "Minus7points": -7,
         "Minus6points": -6,
         "Minus5points": -5,
+        # "wortschatzliste_einfach - besser_b1 - b2_englisch": -5,
         "Minus4points": -4,
         "Minus3points": -3,
         "Minus2points": -2,
         "Minus1points": -1,
+        # "wortschatzliste_einfach-gut_b1-2_englisch_clean": -1,
         "0points": 0,
+        # "wortschatzliste_einfach-gut_b1-1_englisch_clean": 0,
         "1points": 1,
         "2points": 2,
+        # "wortschatzliste_einfach-gut_a2-2_englisch_clean": 2,
         "3points": 3,
+        # "wortschatzliste_einfach-gut_a2-1_englisch_clean": 3,
         "4points": 4,
+        "wortschatzliste_einfach-gut_a1-2_englisch_clean": 4,
         "5points": 5,
+        "wortschatzliste_einfach-gut_a1-1_englisch_clean": 5,
     }
 
     original_vocab = pd.DataFrame()

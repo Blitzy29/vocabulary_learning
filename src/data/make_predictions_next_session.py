@@ -17,7 +17,7 @@ def make_predictions_next_session_from_scratch(
 
     # Create dataset_new_session
     make_dataset.create_dataset_new_session(
-        historical_data_path, vocab_path, dataset_predictions_path
+        dataset_predictions_path, historical_data_path, vocab_path
     )
 
     # Take model

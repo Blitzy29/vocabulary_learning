@@ -4398,7 +4398,7 @@ id_vocab,german_word,english_word,score_before,score_before_other_language,langu
 2226.0,das Turnier,the tournament,0.0,0.0,english,0.0,,2.0,das Turnier the tournament das Turnier,,False,2021-01-19 14:50:07.489582
 1152.0,einladen,to invite,0.0,3.0,english,1.0,to invite,3.0,,,,2021-01-19 14:50:17.183840
 345.0,das Arbeitszimmer,the study,5.0,-3.0,english,1.0,the study,3.0,,,,2021-01-19 14:50:20.665017
-258.0,effektiv,effective,0.0,2.0,german,0.0,effizient,4.0,,260,True,2021-01-19 14:50:24.176176
+258.0,effektiv,effective,0.0,2.0,german,0.0,effizient,4.0,,260.0,True,2021-01-19 14:50:24.176176
 2119.0,der Prinz,the prince,0.0,0.0,english,1.0,the prince,2.0,,,,2021-01-19 14:50:31.351498
 279.0,lautstark,vocal,-1.0,-2.0,english,1.0,vocal,5.0,,,,2021-01-19 14:50:37.425178
 1409.0,vielleicht,maybe,1.0,3.0,german,1.0,vielleicht,3.0,,,,2021-01-19 14:50:43.279166
@@ -4409,7 +4409,7 @@ id_vocab,german_word,english_word,score_before,score_before_other_language,langu
 1045.0,die Mathematik,the mathematics,0.0,0.0,german,0.0,die Mathemetik,6.0,die Mathematik,,False,2021-01-19 14:51:26.557162
 2159.0,der Seher,the seer,0.0,0.0,english,0.0,the,6.0,the seer der Seher the seer,,False,2021-01-19 14:51:38.339249
 197.0,die Spezialität,the specialty,-2.0,2.0,german,0.0,die Specialität,5.0,die Spezialität the specialty,,False,2021-01-19 14:51:50.875422
-2156.0,die Enkelin,the grand-daughter,0.0,0.0,german,0.0,die Tochter,6.0,die Enkelin the grand-daughter die Enkelin,696,True,2021-01-19 14:52:02.616972
+2156.0,die Enkelin,the grand-daughter,0.0,0.0,german,0.0,die Tochter,6.0,die Enkelin the grand-daughter die Enkelin,696.0,True,2021-01-19 14:52:02.616972
 335.0,die Schildkröte,the turtle,-3.0,1.0,german,0.0,die Schildkörte,5.0,die Schildkröte die Schildkröte,,False,2021-01-19 14:52:23.301756
 683.0,aber,but,0.0,1.0,german,1.0,aber,2.0,,,,2021-01-19 14:52:37.961531
 98.0,der Film,the movie,4.0,1.0,german,1.0,der Film,3.0,,,,2021-01-19 14:52:40.610946
@@ -4420,3 +4420,13 @@ id_vocab,german_word,english_word,score_before,score_before_other_language,langu
 2244.0,der Turm,the tower,0.0,0.0,english,1.0,the tower,6.0,,,,2021-01-19 14:53:00.266741
 358.0,die Ampel,the traffic light,0.0,-1.0,german,0.0,der Ampfel,3.0,die Ampel the traffic light die Ampel,,False,2021-01-19 14:53:06.936616
 425.0,der Schwamm,the sponge,-3.0,0.0,german,0.0,,1.0,der Schwamm der Schwamm the sponge,,False,2021-01-19 14:53:17.399040
+162.0,die Suppe,the soup,0.0,5.0,english,1.0,the soup,5.0,,,,2021-01-19 21:55:42.247660
+2300.0,also,well,0.0,0.0,english,0.0,auch,2.0,also well also well,,False,2021-01-19 21:55:47.698173
+265.0,einsinken,to sink in,-2.0,1.0,english,1.0,to sink in,4.0,,,,2021-01-19 21:55:56.225126
+2578.0,zu Fuß,on foot,0.0,0.0,german,0.0,am Fuss,4.0,zu Fuß on foot zu Fuß,,False,2021-01-19 21:56:00.840391
+2242.0,die Cranberry,the cranberry,0.0,0.0,german,0.0,,3.0,die Cranberry the cranberry die Cranberry,,False,2021-01-19 21:56:13.424540
+2447.0,verbinden,to connect,0.0,0.0,german,0.0,connectieren,3.0,verbinden to connect verbinden,,False,2021-01-19 21:56:31.521180
+2369.0,sollen,to be supposed to,0.0,0.0,german,0.0,,2.0,sollen to be supposed to sollen,,False,2021-01-19 21:56:42.239309
+2685.0,minus,minus,0.0,0.0,german,1.0,minus,2.0,,,,2021-01-19 21:56:50.245395
+2714.0,das Halsweh,the sore throat,0.0,0.0,english,0.0,,2.0,the sore throat das Halsweh das Halsweh the sore throat,,False,2021-01-19 21:56:52.655460
+2468.0,so,so,0.0,0.0,german,1.0,so,1.0,,,,2021-01-19 21:57:05.734459
