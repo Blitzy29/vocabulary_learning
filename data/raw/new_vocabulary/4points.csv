@@ -1,0 +1,234 @@
+German,English,Score,SucceedSession,Succeed,TrySession,Retry
+allein,alone,4,FALSE,FALSE,FALSE,01/01/2022
+andere,other,4,FALSE,FALSE,FALSE,01/01/2022
+anrufen,to phone,4,FALSE,FALSE,FALSE,01/01/2022
+April,April,4,FALSE,FALSE,FALSE,01/01/2022
+arbeiten,to work,4,FALSE,FALSE,FALSE,01/01/2022
+August,August,4,FALSE,FALSE,FALSE,01/01/2022
+backen,to bake,4,FALSE,FALSE,FALSE,01/01/2022
+beginnen,to begin,4,FALSE,FALSE,FALSE,01/01/2022
+bequem,convenient,4,FALSE,FALSE,FALSE,01/01/2022
+bezahlen,to pay,4,FALSE,FALSE,FALSE,01/01/2022
+bis Später,see you later,4,FALSE,FALSE,FALSE,01/01/2022
+blau,blue,4,FALSE,FALSE,FALSE,01/01/2022
+blind,blind,4,FALSE,FALSE,FALSE,01/01/2022
+dann,then,4,FALSE,FALSE,FALSE,01/01/2022
+das Alphabet,the alphabet,4,FALSE,FALSE,FALSE,01/01/2022
+das Beispiel,the example,4,FALSE,FALSE,FALSE,01/01/2022
+das Brot,the bread,4,FALSE,FALSE,FALSE,01/01/2022
+das Büro,the office,4,FALSE,FALSE,FALSE,01/01/2022
+das Camping,the camping,4,FALSE,FALSE,FALSE,01/01/2022
+das Ethik,the ethique,4,FALSE,FALSE,FALSE,01/01/2022
+das Geld,the money,4,FALSE,FALSE,FALSE,01/01/2022
+das Handtuch,the towel,4,FALSE,FALSE,FALSE,01/01/2022
+das Holz,the wood,4,FALSE,FALSE,FALSE,01/01/2022
+das Hotel,the hotel,4,FALSE,FALSE,FALSE,01/01/2022
+das Insekt,the insect,4,FALSE,FALSE,FALSE,01/01/2022
+das Kino,the cinema,4,FALSE,FALSE,FALSE,01/01/2022
+das Kreuz,the cross,4,FALSE,FALSE,FALSE,01/01/2022
+das Leben,the life,4,FALSE,FALSE,FALSE,01/01/2022
+das Material,the material,4,FALSE,FALSE,FALSE,01/01/2022
+das Meer,the sea,4,FALSE,FALSE,FALSE,01/01/2022
+das Mehl,the flour,4,FALSE,FALSE,FALSE,01/01/2022
+das Metall,the metal,4,FALSE,FALSE,FALSE,01/01/2022
+das Obst,the fruit,4,FALSE,FALSE,FALSE,01/01/2022
+das Omelette,the omelette,4,FALSE,FALSE,FALSE,01/01/2022
+das Praktikum,the internship,4,FALSE,FALSE,FALSE,01/01/2022
+das Produkt,the product,4,FALSE,FALSE,FALSE,01/01/2022
+das Pronomen,the pronoun,4,FALSE,FALSE,FALSE,01/01/2022
+das Protokoll,the protocol,4,FALSE,FALSE,FALSE,01/01/2022
+das Radio,the radio,4,FALSE,FALSE,FALSE,01/01/2022
+das Recht,the right,4,FALSE,FALSE,FALSE,01/01/2022
+das Restaurant,the restaurant,4,FALSE,FALSE,FALSE,01/01/2022
+das Rezept,the recipe,4,FALSE,FALSE,FALSE,01/01/2022
+das Schiff,the ship,4,FALSE,FALSE,FALSE,01/01/2022
+das Schlafzimmer,the bedroom,4,FALSE,FALSE,FALSE,01/01/2022
+das Sofa,the sofa,4,FALSE,FALSE,FALSE,01/01/2022
+das Sonderangebot,the special offer,4,FALSE,FALSE,FALSE,01/01/2022
+das Stück,the piece,4,FALSE,FALSE,FALSE,01/01/2022
+das Telefon,the telephone,4,FALSE,FALSE,FALSE,01/01/2022
+das TischTennis,the table tennis,4,FALSE,FALSE,FALSE,01/01/2022
+das Wohnzimmer,the living room,4,FALSE,FALSE,FALSE,01/01/2022
+das Wort,the word,4,FALSE,FALSE,FALSE,01/01/2022
+das Zebra,the zebra,4,FALSE,FALSE,FALSE,01/01/2022
+denken,to think,4,FALSE,FALSE,FALSE,01/01/2022
+der Arm,the arm,4,FALSE,FALSE,FALSE,01/01/2022
+der Bär,the bear,4,FALSE,FALSE,FALSE,01/01/2022
+der Berg,the mountain,4,FALSE,FALSE,FALSE,01/01/2022
+der Ei,the egg,4,FALSE,FALSE,FALSE,01/01/2022
+der Elefant,the elephant,4,FALSE,FALSE,FALSE,01/01/2022
+der Fisch,the fish,4,FALSE,FALSE,FALSE,01/01/2022
+der Fluss,the river,4,FALSE,FALSE,FALSE,01/01/2022
+der Friseur,the hairdresser,4,FALSE,FALSE,FALSE,01/01/2022
+der Fuss,the foot,4,FALSE,FALSE,FALSE,01/01/2022
+der Fussball,the football,4,FALSE,FALSE,FALSE,01/01/2022
+der Geist,the ghost,4,FALSE,FALSE,FALSE,01/01/2022
+der Grossvater,the grand-father,4,FALSE,FALSE,FALSE,01/01/2022
+der Hals,the neck,4,FALSE,FALSE,FALSE,01/01/2022
+der Herbst,the autumn,4,FALSE,FALSE,FALSE,01/01/2022
+der Himmel,the sky,4,FALSE,FALSE,FALSE,01/01/2022
+der Historiker,the historian,4,FALSE,FALSE,FALSE,01/01/2022
+der Hund,the dog,4,FALSE,FALSE,FALSE,01/01/2022
+der Journalist,the journalist,4,FALSE,FALSE,FALSE,01/01/2022
+der Käfer,the cockroach,4,TRUE,FALSE,TRUE,01/01/2022
+der Kalender,the calendar,4,FALSE,FALSE,FALSE,01/01/2022
+der Konflikt,the conflict,4,FALSE,FALSE,FALSE,01/01/2022
+der Kopf,the head,4,FALSE,FALSE,FALSE,01/01/2022
+der Küchenchef,the cook,4,FALSE,FALSE,FALSE,01/01/2022
+der Kunststoff,the plastic,4,FALSE,FALSE,FALSE,01/01/2022
+der Laptop,the laptop,4,FALSE,FALSE,FALSE,01/01/2022
+der Leopard,the leopard,4,FALSE,FALSE,FALSE,01/01/2022
+der Löwe,the lion,4,FALSE,FALSE,FALSE,01/01/2022
+der Maler,the painter,4,FALSE,FALSE,FALSE,01/01/2022
+der Mann,the man,4,FALSE,FALSE,FALSE,01/01/2022
+der Mensch,the human,4,FALSE,FALSE,FALSE,01/01/2022
+der Nachmittag,the afternoon,4,FALSE,FALSE,FALSE,01/01/2022
+der Praktikant,the intern,4,FALSE,FALSE,FALSE,01/01/2022
+der Regenschirm,the umbrella,4,TRUE,FALSE,TRUE,01/01/2022
+der Reis,the rice,4,FALSE,FALSE,FALSE,01/01/2022
+der Schlüssel,the key,4,TRUE,FALSE,TRUE,01/01/2022
+der Seher,the seer,4,FALSE,FALSE,FALSE,01/01/2022
+der Sohn,the son,4,FALSE,FALSE,FALSE,01/01/2022
+der Teppich,the carpet,4,FALSE,FALSE,FALSE,01/01/2022
+der Tiger,the tiger,4,FALSE,FALSE,FALSE,01/01/2022
+der Vater,the father,4,FALSE,FALSE,FALSE,01/01/2022
+der Veteran,the veteran,4,FALSE,FALSE,FALSE,01/01/2022
+der Wald,the forest,4,FALSE,FALSE,FALSE,01/01/2022
+der Wurst,the sausage,4,FALSE,FALSE,FALSE,01/01/2022
+der Zucker,the sugar,4,FALSE,FALSE,FALSE,01/01/2022
+der Zug,the train,4,FALSE,FALSE,FALSE,01/01/2022
+Deutsch,German,4,FALSE,FALSE,FALSE,01/01/2022
+Dezember,December,4,FALSE,FALSE,FALSE,01/01/2022
+die Banane,the banana,4,FALSE,FALSE,FALSE,01/01/2022
+die Bibliothek,the library,4,FALSE,FALSE,FALSE,01/01/2022
+die Blume,the flower,4,FALSE,FALSE,FALSE,01/01/2022
+die Chemie,the chemistry,4,FALSE,FALSE,FALSE,01/01/2022
+die Couch,the couch,4,FALSE,FALSE,FALSE,01/01/2022
+die Dinge,the thing,4,FALSE,FALSE,FALSE,01/01/2022
+die Ehefrau,the wife,4,FALSE,FALSE,FALSE,01/01/2022
+die Enkelin,the grand-daughter,4,FALSE,FALSE,FALSE,01/01/2022
+die Ente,the duck,4,FALSE,FALSE,FALSE,01/01/2022
+die Farbe,the color,4,FALSE,FALSE,FALSE,01/01/2022
+die Ferien,the holidays,4,FALSE,FALSE,FALSE,01/01/2022
+die Flagge,the flag,4,FALSE,FALSE,FALSE,01/01/2022
+die Flasche,the bottle,4,FALSE,FALSE,FALSE,01/01/2022
+die Fliege,the fly,4,FALSE,FALSE,FALSE,01/01/2022
+die Fotografie,the photography,4,FALSE,FALSE,FALSE,01/01/2022
+die Frau,the woman,4,FALSE,FALSE,FALSE,01/01/2022
+die Freundin,the girlfriend,4,FALSE,FALSE,FALSE,01/01/2022
+die Garage,the garage,4,FALSE,FALSE,FALSE,01/01/2022
+die Gruppe,the group,4,FALSE,FALSE,FALSE,01/01/2022
+die Hexe,the witch,4,TRUE,FALSE,TRUE,01/01/2022
+die Himbeere,the raspberry,4,FALSE,FALSE,FALSE,01/01/2022
+die Hose,the pants,4,FALSE,FALSE,FALSE,01/01/2022
+die Identität,the identity,4,FALSE,FALSE,FALSE,01/01/2022
+die Jugend,the youth,4,FALSE,FALSE,FALSE,01/01/2022
+die Katze,the cat,4,FALSE,FALSE,FALSE,01/01/2022
+die Kosmetik,the make-up,4,TRUE,FALSE,TRUE,01/01/2022
+die Küche,the kitchen,4,FALSE,FALSE,FALSE,01/01/2022
+die Kuh,the cow,4,FALSE,FALSE,FALSE,01/01/2022
+die Kumquat,the kumquat,4,FALSE,FALSE,FALSE,01/01/2022
+die Lampe,the lamp,4,FALSE,FALSE,FALSE,01/01/2022
+die Maus,the mouse,4,FALSE,FALSE,FALSE,01/01/2022
+die Möbel,the furniture,4,FALSE,FALSE,FALSE,01/01/2022
+die Möglichkeit,the possibility,4,FALSE,FALSE,FALSE,01/01/2022
+die Oma,the grandma,4,FALSE,FALSE,FALSE,01/01/2022
+die Pflanze,the plant,4,FALSE,FALSE,FALSE,01/01/2022
+die Philosophie,the philosophy,4,FALSE,FALSE,FALSE,01/01/2022
+die Qualifikation,the qualification,4,FALSE,FALSE,FALSE,01/01/2022
+die Reise,the travel,4,FALSE,FALSE,FALSE,01/01/2022
+die Rose,the rose,4,FALSE,FALSE,FALSE,01/01/2022
+die rote Karte,the red card,4,FALSE,FALSE,FALSE,01/01/2022
+die Sauce,the sauce,4,FALSE,FALSE,FALSE,01/01/2022
+die Schokolade,the chocolate,4,FALSE,FALSE,FALSE,01/01/2022
+die Seife,the soap,4,FALSE,FALSE,FALSE,01/01/2022
+die SMS,the SMS,4,FALSE,FALSE,FALSE,01/01/2022
+die Socke,the sock,4,FALSE,FALSE,FALSE,01/01/2022
+die Spezialität,the specialty,4,FALSE,FALSE,FALSE,01/01/2022
+die Spinne,the spider,4,TRUE,FALSE,TRUE,01/01/2022
+die Sprache,the language,4,FALSE,FALSE,FALSE,01/01/2022
+die Stadt,the city,4,FALSE,FALSE,FALSE,01/01/2022
+die Stimme,the voice,4,FALSE,FALSE,FALSE,01/01/2022
+die Terrasse,the terrace,4,FALSE,FALSE,FALSE,01/01/2022
+die Theorie,the theory,4,FALSE,FALSE,FALSE,01/01/2022
+die Tochter,the daughter,4,FALSE,FALSE,FALSE,01/01/2022
+die Tomate,the tomato,4,FALSE,FALSE,FALSE,01/01/2022
+die Tradition,the tradition,4,FALSE,FALSE,FALSE,01/01/2022
+die Wohnung,the flat,4,FALSE,FALSE,FALSE,01/01/2022
+die Zahl,the number,4,FALSE,FALSE,FALSE,01/01/2022
+die Zeitung,the newspaper,4,FALSE,FALSE,FALSE,01/01/2022
+diskutieren,to discuss,4,FALSE,FALSE,FALSE,01/01/2022
+einmal,once,4,FALSE,FALSE,FALSE,01/01/2022
+erste,first (adj.),4,FALSE,FALSE,FALSE,01/01/2022
+falsch,wrong,4,FALSE,FALSE,FALSE,01/01/2022
+Februar,February,4,FALSE,FALSE,FALSE,01/01/2022
+fotografieren,to photograph,4,FALSE,FALSE,FALSE,01/01/2022
+Freitag,Friday,4,FALSE,FALSE,FALSE,01/01/2022
+frisch,fresh,4,FALSE,FALSE,FALSE,01/01/2022
+fühlen,to feel,4,FALSE,FALSE,FALSE,01/01/2022
+ganz,whole,4,TRUE,FALSE,TRUE,01/01/2022
+geben,to give,4,FALSE,FALSE,FALSE,01/01/2022
+gelb,yellow,4,FALSE,FALSE,FALSE,01/01/2022
+gerade,just,4,FALSE,FALSE,FALSE,01/01/2022
+gesund,healthy,4,FALSE,FALSE,FALSE,01/01/2022
+golden,golden,4,FALSE,FALSE,FALSE,01/01/2022
+gross,big,4,FALSE,FALSE,FALSE,01/01/2022
+Himmel,Heaven,4,FALSE,FALSE,FALSE,01/01/2022
+hinzufügen,to add,4,FALSE,FALSE,FALSE,01/01/2022
+jemand,someone,4,FALSE,FALSE,FALSE,01/01/2022
+Juni,June,4,FALSE,FALSE,FALSE,01/01/2022
+kalt,cold,4,FALSE,FALSE,FALSE,01/01/2022
+klein,small,4,FALSE,FALSE,FALSE,01/01/2022
+knipsen,to push,4,FALSE,FALSE,FALSE,01/01/2022
+langsam,slow,4,FALSE,FALSE,FALSE,01/01/2022
+laufen,to run,4,FALSE,FALSE,FALSE,01/01/2022
+lecker,delicious,4,TRUE,FALSE,TRUE,01/01/2022
+ledig,single,4,FALSE,FALSE,FALSE,01/01/2022
+leicht,light,4,FALSE,FALSE,FALSE,01/01/2022
+lesen,to read,4,FALSE,FALSE,FALSE,01/01/2022
+letzte,last,4,FALSE,FALSE,FALSE,01/01/2022
+mehrere,several,4,FALSE,FALSE,FALSE,01/01/2022
+müde,tired,4,FALSE,FALSE,FALSE,01/01/2022
+neu,new,4,FALSE,FALSE,FALSE,01/01/2022
+perfekt,perfect,4,FALSE,FALSE,FALSE,01/01/2022
+pikant,spicy,4,FALSE,FALSE,FALSE,01/01/2022
+rennen,to sprint,4,FALSE,FALSE,FALSE,01/01/2022
+reservieren,to reserve,4,FALSE,FALSE,FALSE,01/01/2022
+richtig,correct,4,FALSE,FALSE,FALSE,01/01/2022
+rosa,pink,4,FALSE,FALSE,FALSE,01/01/2022
+rot,red,4,FALSE,FALSE,FALSE,01/01/2022
+sauer,sour,4,FALSE,FALSE,FALSE,01/01/2022
+schlafen,to sleep,4,FALSE,FALSE,FALSE,01/01/2022
+schnell,fast,4,FALSE,FALSE,FALSE,01/01/2022
+schon,already,4,FALSE,FALSE,FALSE,01/01/2022
+September,September,4,FALSE,FALSE,FALSE,01/01/2022
+sichtbar,visible,4,FALSE,FALSE,FALSE,01/01/2022
+Sonntag,Sunday,4,FALSE,FALSE,FALSE,01/01/2022
+sortieren,to sort,4,FALSE,FALSE,FALSE,01/01/2022
+spass,fun,4,FALSE,FALSE,FALSE,01/01/2022
+spät,late,4,FALSE,FALSE,FALSE,01/01/2022
+spenden,to donate,4,TRUE,FALSE,TRUE,01/01/2022
+sprechen,to speak,4,FALSE,FALSE,FALSE,01/01/2022
+stark,strong,4,FALSE,FALSE,FALSE,01/01/2022
+stimmen,to vote,4,FALSE,FALSE,FALSE,01/01/2022
+stoppen,to stop,4,FALSE,FALSE,FALSE,01/01/2022
+tanzen,to dance,4,FALSE,FALSE,FALSE,01/01/2022
+tausend,thousand,4,FALSE,FALSE,FALSE,01/01/2022
+telefonieren,to telephone,4,FALSE,FALSE,FALSE,01/01/2022
+teuer,expensive,4,FALSE,FALSE,FALSE,01/01/2022
+traurig,sad,4,FALSE,FALSE,FALSE,01/01/2022
+treffen,to meet,4,FALSE,FALSE,FALSE,01/01/2022
+umkämpfen,to beat,4,FALSE,FALSE,FALSE,01/01/2022
+vegetarier,vegetarian,4,FALSE,FALSE,FALSE,01/01/2022
+verstehen,to understand,4,FALSE,FALSE,FALSE,01/01/2022
+voll,full,4,FALSE,FALSE,FALSE,01/01/2022
+vor,before,4,TRUE,FALSE,TRUE,01/01/2022
+vorgestern,the day before yesterday,4,FALSE,FALSE,FALSE,01/01/2022
+warm,warm,4,FALSE,FALSE,FALSE,01/01/2022
+warum,why,4,FALSE,FALSE,FALSE,01/01/2022
+welche,which,4,FALSE,FALSE,FALSE,01/01/2022
+wichtig,important,4,FALSE,FALSE,FALSE,01/01/2022
+wild,wild,4,FALSE,FALSE,FALSE,01/01/2022
+wirklich,really,4,FALSE,FALSE,FALSE,01/01/2022
+wo,where,4,FALSE,FALSE,FALSE,01/01/2022
+zeigen,to show,4,FALSE,FALSE,FALSE,01/01/2022

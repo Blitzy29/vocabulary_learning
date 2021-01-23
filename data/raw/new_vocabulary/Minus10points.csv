@@ -1,0 +1,165 @@
+German,English,Score,SucceedSession,Succeed,TrySession,Retry
+tätig,active,-10,FALSE,FALSE,FALSE,01/01/2022
+herum,around,-10,FALSE,FALSE,FALSE,01/01/2022
+unten,below,-10,FALSE,FALSE,TRUE,01/01/2022
+neben,besides,-10,FALSE,FALSE,TRUE,01/01/2022
+daneben,besides that,-10,FALSE,FALSE,FALSE,01/01/2022
+staubig,dusty,-10,FALSE,FALSE,FALSE,01/01/2022
+ewig,eternally,-10,FALSE,FALSE,TRUE,01/01/2022
+ausgezeichnet,excellent,-10,FALSE,FALSE,FALSE,01/01/2022
+ausser,except,-10,FALSE,FALSE,FALSE,01/01/2022
+ausgestorben,extinct,-10,FALSE,FALSE,FALSE,01/01/2022
+günstig,favorable,-10,FALSE,FALSE,FALSE,01/01/2022
+sachte,gentle,-10,FALSE,FALSE,FALSE,01/01/2022
+gerne,gladly,-10,FALSE,FALSE,FALSE,01/01/2022
+grossartig,great,-10,FALSE,FALSE,FALSE,01/01/2022
+höchst,highly,-10,FALSE,FALSE,FALSE,01/01/2022
+riesig,huge,-10,FALSE,FALSE,FALSE,01/01/2022
+falls,in case,-10,FALSE,FALSE,FALSE,01/01/2022
+damit,in order to,-10,FALSE,FALSE,FALSE,01/01/2022
+weiter so,keep it up,-10,FALSE,FALSE,FALSE,01/01/2022
+freundlich,kind,-10,FALSE,FALSE,FALSE,01/01/2022
+weitere,more,-10,FALSE,FALSE,FALSE,01/01/2022
+meiste,most,-10,FALSE,FALSE,FALSE,01/01/2022
+eins nach dem anderen,one by one,-10,FALSE,FALSE,FALSE,01/01/2022
+gefreut,pleased,-10,FALSE,FALSE,FALSE,01/01/2022
+scheinbar,seemingly,-10,FALSE,FALSE,FALSE,01/01/2022
+irgendwie,somehow,-10,FALSE,FALSE,FALSE,01/01/2022
+das Abkommen,the agreement,-10,FALSE,FALSE,FALSE,01/01/2022
+der Dachboden,the attic,-10,FALSE,FALSE,FALSE,01/01/2022
+die Rechnung,the bill,-10,FALSE,FALSE,FALSE,01/01/2022
+die Stillzeit,the breastfeeding period,-10,FALSE,FALSE,FALSE,01/01/2022
+die Beule,the bump,-10,FALSE,FALSE,FALSE,01/01/2022
+die Kuchen,the cake,-10,FALSE,FALSE,FALSE,01/01/2022
+die Pappe,the cardboard,-10,FALSE,FALSE,FALSE,01/01/2022
+der Mangold,the chard,-10,FALSE,FALSE,FALSE,01/01/2022
+das Küken,the chick,-10,FALSE,FALSE,FALSE,01/01/2022
+die Vergleich,the comparison,-10,FALSE,FALSE,FALSE,01/01/2022
+der Wickel,the compress,-10,FALSE,FALSE,FALSE,01/01/2022
+die Bedingung,the condition,-10,FALSE,FALSE,FALSE,01/01/2022
+der Glückwunch,the congratulations,-10,FALSE,FALSE,FALSE,01/01/2022
+die Folgerung,the consequence,-10,FALSE,FALSE,FALSE,01/01/2022
+der Beitrag,the contribution,-10,FALSE,FALSE,TRUE,01/01/2022
+der Briefwechsel,the correspondence,-10,FALSE,FALSE,FALSE,01/01/2022
+der Kraulstil,the crawl,-10,FALSE,FALSE,FALSE,01/01/2022
+der Kunde,the customer,-10,FALSE,FALSE,FALSE,01/01/2022
+die Daten,the data,-10,FALSE,FALSE,FALSE,01/01/2022
+die Lust,the desire,-10,FALSE,FALSE,FALSE,01/01/2022
+die Verzweiflung,the despair,-10,FALSE,FALSE,TRUE,01/01/2022
+die Richtung,the direction,-10,FALSE,FALSE,FALSE,01/01/2022
+die Entfernung,the distance,-10,FALSE,FALSE,FALSE,01/01/2022
+die Erziehung,the education,-10,FALSE,FALSE,TRUE,01/01/2022
+die Unterhaltung,the entertainment,-10,FALSE,FALSE,FALSE,01/01/2022
+die Ausrüstung,the equipment,-10,FALSE,FALSE,FALSE,01/01/2022
+das Ereignis,the event,-10,FALSE,FALSE,FALSE,01/01/2022
+die Übertreibung,the exaggeration,-10,FALSE,FALSE,FALSE,01/01/2022
+die Ausnahme,the exception,-10,FALSE,FALSE,FALSE,01/01/2022
+die Übung,the exercise,-10,FALSE,FALSE,TRUE,01/01/2022
+die Verlängerung,the extra-time,-10,FALSE,FALSE,FALSE,01/01/2022
+die Gefriertruhe,the freezer,-10,FALSE,FALSE,FALSE,01/01/2022
+die Häufigkeit,the frequency,-10,FALSE,FALSE,FALSE,01/01/2022
+das Spiegelei,the fried egg,-10,FALSE,FALSE,FALSE,01/01/2022
+die Ziege,the goat,-10,FALSE,FALSE,FALSE,01/01/2022
+der Gruss,the greeting,-10,FALSE,FALSE,FALSE,01/01/2022
+der Schinken,the ham,-10,FALSE,FALSE,FALSE,01/01/2022
+der Kater,the hangover,-10,FALSE,FALSE,FALSE,01/01/2022
+die Höhe,the height,-10,FALSE,FALSE,TRUE,01/01/2022
+der Schluckauf,the hiccup,-10,FALSE,FALSE,FALSE,01/01/2022
+"jo höher die Zahl ist, desto bsser ist die Note","the higher the number, the better the grade",-10,FALSE,FALSE,FALSE,01/01/2022
+der Hausbau,the house construction,-10,FALSE,FALSE,FALSE,01/01/2022
+der Vorfall,the incident,-10,FALSE,FALSE,TRUE,01/01/2022
+die Mitteilung,the information,-10,FALSE,FALSE,FALSE,01/01/2022
+die Verletzung,the injury,-10,FALSE,FALSE,FALSE,01/01/2022
+der Dolmetscher,the interpreter,-10,FALSE,FALSE,FALSE,01/01/2022
+die Topinambur,the Jerusalem artichoke,-10,FALSE,FALSE,TRUE,01/01/2022
+der Schmuck,the jewelry,-10,FALSE,FALSE,FALSE,01/01/2022
+der Lauch,the leek,-10,FALSE,FALSE,FALSE,01/01/2022
+die Linse,the lens,-10,FALSE,FALSE,FALSE,01/01/2022
+die Fastenzeit,the Lent,-10,FALSE,FALSE,FALSE,01/01/2022
+das Glied,the limb,-10,FALSE,FALSE,FALSE,01/01/2022
+der Ort,the location,-10,FALSE,FALSE,FALSE,01/01/2022
+der Standort,the location,-10,FALSE,FALSE,FALSE,01/01/2022
+die Zusammenkunft,the meeting,-10,FALSE,FALSE,FALSE,01/01/2022
+die Bewegung,the movement,-10,FALSE,FALSE,TRUE,01/01/2022
+die Verneinung,the negation,-10,FALSE,FALSE,FALSE,01/01/2022
+der Täter,the offender,-10,FALSE,FALSE,TRUE,01/01/2022
+der Eierkuchen,the pancake,-10,FALSE,FALSE,FALSE,01/01/2022
+die Vergangenheit,the past,-10,FALSE,FALSE,FALSE,01/01/2022
+das Gebäck,the pastry,-10,FALSE,FALSE,FALSE,01/01/2022
+der Kugelschreiber,the pen,-10,FALSE,FALSE,FALSE,01/01/2022
+der Stift,the pin,-10,FALSE,FALSE,FALSE,01/01/2022
+das Töpfchen,the potty,-10,FALSE,FALSE,FALSE,01/01/2022
+die Leistung,the power,-10,FALSE,FALSE,FALSE,01/01/2022
+die Hochrechnung,the projection,-10,FALSE,FALSE,TRUE,01/01/2022
+der Anteil,the proportion,-10,FALSE,FALSE,FALSE,01/01/2022
+die Aufnahme,the reception,-10,FALSE,FALSE,FALSE,01/01/2022
+die Ablehnung,the refusal,-10,FALSE,FALSE,FALSE,01/01/2022
+die Beziehung,the relationship,-10,FALSE,FALSE,FALSE,01/01/2022
+das Heilmittel,the remedy,-10,FALSE,FALSE,FALSE,01/01/2022
+der Verleih,the rental shop,-10,FALSE,FALSE,FALSE,01/01/2022
+der Wunsch,the request,-10,FALSE,FALSE,FALSE,01/01/2022
+der Felsen,the rock,-10,FALSE,FALSE,FALSE,01/01/2022
+der Beutel,the sachet,-10,FALSE,FALSE,FALSE,01/01/2022
+die Schere,the scissors,-10,FALSE,FALSE,FALSE,01/01/2022
+das Schaf,the sheep,-10,FALSE,FALSE,FALSE,01/01/2022
+das Geschäft,the shop,-10,FALSE,FALSE,FALSE,01/01/2022
+die Gesellschaft,the society,-10,FALSE,FALSE,FALSE,01/01/2022
+der Zauberspruch,the spell,-10,FALSE,FALSE,FALSE,01/01/2022
+das Eichhörnchen,the squirrel,-10,FALSE,FALSE,FALSE,01/01/2022
+der Tacker,the stapler,-10,FALSE,FALSE,FALSE,01/01/2022
+das Fach,the subject,-10,FALSE,FALSE,FALSE,01/01/2022
+der Badeanzug,the swimsuit,-10,FALSE,FALSE,FALSE,01/01/2022
+der Mieter,the tenant,-10,FALSE,FALSE,FALSE,01/01/2022
+das Gleis,the track,-10,FALSE,FALSE,FALSE,01/01/2022
+die Wahrheit,the truth,-10,FALSE,FALSE,FALSE,01/01/2022
+die Wahlbeteiligung,the turnout,-10,FALSE,FALSE,TRUE,01/01/2022
+der Reichtum,the wealth,-10,FALSE,FALSE,FALSE,01/01/2022
+das Gewicht,the weight,-10,FALSE,FALSE,TRUE,01/01/2022
+daher,therefore,-10,FALSE,FALSE,FALSE,01/01/2022
+davon,thereof,-10,FALSE,FALSE,FALSE,01/01/2022
+dünn,thin,-10,FALSE,FALSE,FALSE,01/01/2022
+beraten,to advise,-10,FALSE,FALSE,FALSE,01/01/2022
+festnehmen,to arrest,-10,FALSE,FALSE,FALSE,01/01/2022
+leihen,to borrow,-10,FALSE,FALSE,TRUE,01/01/2022
+verbrennen,to burn,-10,FALSE,FALSE,FALSE,01/01/2022
+stornieren,to cancel,-10,FALSE,FALSE,FALSE,01/01/2022
+betrügen,to cheat,-10,FALSE,FALSE,FALSE,01/01/2022
+zumachen,to close up,-10,FALSE,FALSE,FALSE,01/01/2022
+beschwören,to conjure,-10,FALSE,FALSE,FALSE,01/01/2022
+verbrauchen,to consume,-10,FALSE,FALSE,FALSE,01/01/2022
+zurechtkommen,to cope,-10,FALSE,FALSE,FALSE,01/01/2022
+erstellen,to create,-10,FALSE,FALSE,FALSE,01/01/2022
+beherrschen,to dominate,-10,FALSE,FALSE,FALSE,01/01/2022
+verdienen,to earn,-10,FALSE,FALSE,TRUE,01/01/2022
+austauschen,to exchange,-10,FALSE,FALSE,FALSE,01/01/2022
+herausfinden,to find out,-10,FALSE,FALSE,FALSE,01/01/2022
+zwingen,to force,-10,FALSE,FALSE,TRUE,01/01/2022
+verzeihen,to forgive,-10,FALSE,FALSE,TRUE,01/01/2022
+zögern,to hesitate,-10,FALSE,FALSE,FALSE,01/01/2022
+verstecken,to hide,-10,FALSE,FALSE,FALSE,01/01/2022
+verbessern,to improve,-10,FALSE,FALSE,FALSE,01/01/2022
+treten,to kick,-10,FALSE,FALSE,FALSE,01/01/2022
+verwalten,to manage,-10,FALSE,FALSE,FALSE,01/01/2022
+legen,to place,-10,FALSE,FALSE,TRUE,01/01/2022
+auftauchen,to pop up,-10,FALSE,FALSE,FALSE,01/01/2022
+anbieten,to provide,-10,FALSE,FALSE,TRUE,01/01/2022
+weiterführen,to pursue,-10,FALSE,FALSE,FALSE,01/01/2022
+stellen,to put,-10,FALSE,FALSE,FALSE,01/01/2022
+erhalten,to receive,-10,FALSE,FALSE,FALSE,01/01/2022
+trennen,to separate,-10,FALSE,FALSE,FALSE,01/01/2022
+dienen,to serve,-10,FALSE,FALSE,FALSE,01/01/2022
+nähen,to sew,-10,FALSE,FALSE,FALSE,01/01/2022
+verbringen,to spend,-10,FALSE,FALSE,FALSE,01/01/2022
+stechen,to sting,-10,FALSE,FALSE,FALSE,01/01/2022
+lutschen,to suck,-10,FALSE,FALSE,TRUE,01/01/2022
+ertragen,to suffer,-10,FALSE,FALSE,TRUE,01/01/2022
+wechseln,to switch,-10,FALSE,FALSE,FALSE,01/01/2022
+mitnehmen,to take along,-10,FALSE,FALSE,FALSE,01/01/2022
+reissen,to tear,-10,FALSE,FALSE,FALSE,01/01/2022
+werfen,to throw,-10,FALSE,FALSE,FALSE,01/01/2022
+verwenden,to utilize,-10,FALSE,FALSE,FALSE,01/01/2022
+unerträglich,unbearable,-10,FALSE,FALSE,TRUE,01/01/2022
+einzigartig,unique,-10,FALSE,FALSE,FALSE,01/01/2022
+schwach,weak,-10,FALSE,FALSE,TRUE,01/01/2022
+Was machst du beruflich?,What is your work?,-10,FALSE,FALSE,FALSE,01/01/2022
+gern geschehen,you are welcome,-10,FALSE,FALSE,FALSE,01/01/2022

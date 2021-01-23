@@ -1,0 +1,82 @@
+German,English,Score,SucceedSession,Succeed,TrySession,Retry
+wegen,because of,1,FALSE,FALSE,FALSE,01/01/2022
+zwischen,between,1,FALSE,FALSE,FALSE,01/01/2022
+kreativ,creative,1,FALSE,FALSE,FALSE,01/01/2022
+effektiv,effective,1,FALSE,FALSE,FALSE,01/01/2022
+effizient,efficient,1,FALSE,FALSE,FALSE,01/01/2022
+Guten Rutsch,Happy New Year (before),1,FALSE,FALSE,TRUE,01/01/2022
+schwer,hard,1,FALSE,FALSE,FALSE,01/01/2022
+unbequem,inconvenient,1,FALSE,FALSE,FALSE,01/01/2022
+verloren,lost,1,FALSE,FALSE,FALSE,01/01/2022
+luxuriös,luxurious,1,FALSE,FALSE,FALSE,01/01/2022
+monatlich,monthly,1,TRUE,FALSE,TRUE,01/01/2022
+in der Nähe,near,1,TRUE,FALSE,TRUE,01/01/2022
+ausserhalb,outside,1,FALSE,FALSE,FALSE,01/01/2022
+respektvoll,respectful,1,FALSE,FALSE,FALSE,01/01/2022
+die Passionsfrucht,the passion fruit,1,FALSE,FALSE,TRUE,01/01/2022
+der Unfall,the accident,1,FALSE,FALSE,FALSE,01/01/2022
+die Luft,the air,1,FALSE,FALSE,FALSE,01/01/2022
+die Atmosphäre,the atmosphere,1,FALSE,FALSE,FALSE,01/01/2022
+der Autor,the author,1,FALSE,FALSE,FALSE,01/01/2022
+der Biber,the beaver,1,FALSE,FALSE,FALSE,01/01/2022
+der Alk,the booze,1,FALSE,FALSE,FALSE,01/01/2022
+das Zentrum,the centre,1,FALSE,FALSE,FALSE,01/01/2022
+die Schokoladenmousse,the chocolate mousse,1,FALSE,FALSE,FALSE,01/01/2022
+der Gast,the client,1,FALSE,FALSE,FALSE,01/01/2022
+die Konstellation,the constellation,1,FALSE,FALSE,FALSE,01/01/2022
+die Kultur,the culture,1,FALSE,FALSE,FALSE,01/01/2022
+die Osterglocke,the daffodil,1,FALSE,FALSE,FALSE,01/01/2022
+der Tod,the death,1,FALSE,FALSE,FALSE,01/01/2022
+der Unterschied,the difference,1,FALSE,FALSE,FALSE,01/01/2022
+der Nachteil,the disadvantage,1,FALSE,FALSE,FALSE,01/01/2022
+die Feder,the feather,1,FALSE,FALSE,FALSE,01/01/2022
+das Tor,the goal,1,FALSE,FALSE,FALSE,01/01/2022
+die Note,the grade,1,FALSE,FALSE,FALSE,01/01/2022
+die Garantie,the guarantee,1,TRUE,FALSE,TRUE,01/01/2022
+die Haselnuss,the hazelnut,1,FALSE,FALSE,FALSE,01/01/2022
+die Hitze,the heat,1,FALSE,FALSE,FALSE,01/01/2022
+die Geschichte,the history,1,FALSE,FALSE,FALSE,01/01/2022
+das Krakenhaus,the hospital,1,FALSE,FALSE,FALSE,01/01/2022
+die Hausnummer,the house number,1,TRUE,FALSE,TRUE,01/01/2022
+die Hyäne,the hyena,1,FALSE,FALSE,FALSE,01/01/2022
+der Einwohner,the inhabitant,1,FALSE,FALSE,FALSE,01/01/2022
+die Einladung,the invitation,1,FALSE,FALSE,FALSE,01/01/2022
+die Kiwi,the kiwi,1,FALSE,FALSE,FALSE,01/01/2022
+das Lama,the llama,1,FALSE,FALSE,FALSE,01/01/2022
+die Melone,the melon,1,FALSE,FALSE,FALSE,01/01/2022
+der Mund,the mouth,1,FALSE,FALSE,FALSE,01/01/2022
+das Netzwerk,the network,1,FALSE,FALSE,FALSE,01/01/2022
+die Nase,the nose,1,FALSE,FALSE,FALSE,01/01/2022
+die Nuss,the nut,1,TRUE,FALSE,TRUE,01/01/2022
+die Altstadt,the old town,1,FALSE,FALSE,FALSE,01/01/2022
+das Papier,the paper,1,FALSE,FALSE,FALSE,01/01/2022
+die Partnersuche,the partner search,1,FALSE,FALSE,FALSE,01/01/2022
+der Planet,the planet,1,FALSE,FALSE,FALSE,01/01/2022
+die Pflaume,the plum,1,FALSE,FALSE,FALSE,01/01/2022
+der Polizeisprecher,the police spokesman,1,FALSE,FALSE,FALSE,01/01/2022
+die Position,the position,1,FALSE,FALSE,FALSE,01/01/2022
+der Ersatz,the replacement,1,FALSE,FALSE,FALSE,01/01/2022
+die Wissenschaftler,the scientist,1,FALSE,FALSE,FALSE,01/01/2022
+der Löffel,the spoon,1,FALSE,FALSE,FALSE,01/01/2022
+die Süsskartoffel,the sweet potato,1,FALSE,FALSE,FALSE,01/01/2022
+die Taktik,the tactic,1,TRUE,FALSE,TRUE,01/01/2022
+der Tempel,the temple,1,FALSE,FALSE,FALSE,01/01/2022
+die Fahrkarte,the ticket,1,FALSE,FALSE,FALSE,01/01/2022
+die Windmühle,the windmill,1,FALSE,FALSE,FALSE,01/01/2022
+durst,thirsty,1,FALSE,FALSE,FALSE,01/01/2022
+ändern,to change,1,FALSE,FALSE,FALSE,01/01/2022
+konzentrieren,to concentrate,1,FALSE,FALSE,FALSE,01/01/2022
+löschen,to delete,1,FALSE,FALSE,FALSE,01/01/2022
+verdoppeln,to double,1,FALSE,FALSE,FALSE,01/01/2022
+träumen,to dream,1,FALSE,FALSE,FALSE,01/01/2022
+abtrocknen,to dry off,1,FALSE,FALSE,FALSE,01/01/2022
+einladen,to invite,1,FALSE,FALSE,FALSE,01/01/2022
+lösen,to loose,1,FALSE,FALSE,FALSE,01/01/2022
+entfernen,to remove,1,FALSE,FALSE,FALSE,01/01/2022
+mieten,to rent,1,FALSE,FALSE,FALSE,01/01/2022
+unterstützen,to support,1,FALSE,FALSE,FALSE,01/01/2022
+übersetzen,to translate,1,FALSE,FALSE,FALSE,01/01/2022
+anmachen,to turn on,1,FALSE,FALSE,FALSE,01/01/2022
+tolerant,tolerant,1,FALSE,FALSE,FALSE,01/01/2022
+tonal,tonal,1,FALSE,FALSE,FALSE,01/01/2022
+der Cousin,the cousin,1,FALSE,FALSE,FALSE,01/01/2022

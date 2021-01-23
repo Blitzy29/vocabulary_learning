@@ -1,0 +1,43 @@
+German,English,Score,SucceedSession,Succeed,TrySession,Retry
+the Heiligabend,Christmas Eve,-7,FALSE,FALSE,FALSE,01/01/2022
+herzlich,cordial,-7,FALSE,FALSE,FALSE,01/01/2022
+insbesondere,especially,-7,FALSE,FALSE,FALSE,01/01/2022
+wenig,little,-7,FALSE,FALSE,FALSE,01/01/2022
+zwingend,mandatory,-7,FALSE,FALSE,FALSE,01/01/2022
+die Bejahung,the affirmation,-7,TRUE,FALSE,TRUE,01/01/2022
+die Aufmerksamkeit,the attention,-7,FALSE,FALSE,FALSE,01/01/2022
+die Markise,the awning,-7,FALSE,FALSE,FALSE,01/01/2022
+der Verkehr,the circulation,-7,FALSE,FALSE,FALSE,01/01/2022
+der Grad,the degree,-7,FALSE,FALSE,FALSE,01/01/2022
+die Ableitung,the derivation,-7,FALSE,FALSE,FALSE,01/01/2022
+die Wüste,the desert,-7,FALSE,FALSE,FALSE,01/01/2022
+das Design,the design,-7,FALSE,FALSE,FALSE,01/01/2022
+der Endiviensalat,the endive,-7,FALSE,FALSE,FALSE,01/01/2022
+der Liebling,the favourite,-7,FALSE,FALSE,FALSE,01/01/2022
+der Finger,the finger,-7,FALSE,FALSE,TRUE,01/01/2022
+der Blumentopf,the flowerpot,-7,FALSE,FALSE,FALSE,01/01/2022
+die Stachelbeere,the gooseberry,-7,FALSE,FALSE,FALSE,01/01/2022
+die Reineclaude,the greengage,-7,FALSE,FALSE,TRUE,01/01/2022
+der Haartrockner,the hairdryer,-7,FALSE,FALSE,FALSE,01/01/2022
+die Hängematte,the hammock,-7,FALSE,FALSE,FALSE,01/01/2022
+der Hügel,the hill,-7,FALSE,FALSE,FALSE,01/01/2022
+die Stube,the lounge,-7,FALSE,FALSE,FALSE,01/01/2022
+die Litschi,the lychee,-7,FALSE,FALSE,FALSE,01/01/2022
+die Hochzeit,the marriage,-7,FALSE,FALSE,FALSE,01/01/2022
+der Teil,the part,-7,FALSE,FALSE,FALSE,01/01/2022
+das Rührei,the scrambled egg,-7,FALSE,FALSE,FALSE,01/01/2022
+die Einstellung,the setting,-7,FALSE,FALSE,FALSE,01/01/2022
+die Geschwister,the siblings,-7,FALSE,FALSE,FALSE,01/01/2022
+das Schweigen,the silence,-7,FALSE,FALSE,FALSE,01/01/2022
+die Lösung,the solution,-7,FALSE,FALSE,FALSE,01/01/2022
+der übersetzer,the translator,-7,FALSE,FALSE,FALSE,01/01/2022
+die Brunnenkresse,the watercress,-7,FALSE,FALSE,FALSE,01/01/2022
+dabei sein,to be there,-7,FALSE,FALSE,FALSE,01/01/2022
+föhnen,to blow-dry,-7,FALSE,FALSE,FALSE,01/01/2022
+sich beschweren,to complain,-7,FALSE,FALSE,FALSE,01/01/2022
+entscheiden,to decide,-7,FALSE,FALSE,FALSE,01/01/2022
+anhalten,to halt,-7,FALSE,FALSE,FALSE,01/01/2022
+verlassen,to leave,-7,FALSE,FALSE,FALSE,01/01/2022
+lügen,to lie,-7,FALSE,FALSE,FALSE,01/01/2022
+verbieten,to prohibit,-7,FALSE,FALSE,FALSE,01/01/2022
+Nun!,Well!,-7,FALSE,FALSE,FALSE,01/01/2022

@@ -1,0 +1,66 @@
+German,English,Score,SucceedSession,Succeed,TrySession,Retry
+vorsichtig,cautious,-3,FALSE,FALSE,FALSE,01/01/2022
+geweiht,consecrated,-3,FALSE,FALSE,FALSE,01/01/2022
+sogar,even,-3,FALSE,FALSE,FALSE,01/01/2022
+vor A bis B,from A to B,-3,FALSE,FALSE,FALSE,01/01/2022
+frustrierend,frustrating,-3,FALSE,FALSE,FALSE,01/01/2022
+Kapiert?,Geddit?,-3,FALSE,FALSE,FALSE,01/01/2022
+fleissig,hard-working,-3,FALSE,FALSE,FALSE,01/01/2022
+wie geht es dir?,how are you?,-3,FALSE,FALSE,FALSE,01/01/2022
+unschuldig,innocent,-3,FALSE,FALSE,FALSE,01/01/2022
+vernünftig,reasonable,-3,FALSE,FALSE,FALSE,01/01/2022
+schüchtern,shy,-3,FALSE,FALSE,TRUE,01/01/2022
+die Mandel,the almond,-3,FALSE,FALSE,FALSE,01/01/2022
+der Ahn,the ancestor,-3,FALSE,FALSE,FALSE,01/01/2022
+das Auswärtsspiel,the away game,-3,FALSE,FALSE,FALSE,01/01/2022
+der Ball,the ball,-3,FALSE,FALSE,FALSE,01/01/2022
+die rote Bete,the beetroot,-3,FALSE,FALSE,FALSE,01/01/2022
+der Körper,the body,-3,FALSE,FALSE,FALSE,01/01/2022
+der Knopf,the button,-3,FALSE,FALSE,TRUE,01/01/2022
+die Höhle,the cave,-3,FALSE,FALSE,TRUE,01/01/2022
+die Zichorie,the chicory,-3,FALSE,FALSE,FALSE,01/01/2022
+der Chef,the chief,-3,FALSE,FALSE,FALSE,01/01/2022
+das Kühlhaus,the cold store,-3,FALSE,FALSE,FALSE,01/01/2022
+der Ecke,the corner,-3,FALSE,FALSE,FALSE,01/01/2022
+der Kuckuck,the cuckoo,-3,FALSE,FALSE,FALSE,01/01/2022
+die Verteilung,the distribution,-3,FALSE,FALSE,TRUE,01/01/2022
+die Begegnung,the encounter,-3,FALSE,FALSE,FALSE,01/01/2022
+das Ende,the end,-3,FALSE,FALSE,FALSE,01/01/2022
+die Prüfung,the examination,-3,FALSE,FALSE,FALSE,01/01/2022
+das Gesicht,the face,-3,FALSE,FALSE,FALSE,01/01/2022
+der Nebel,the fog,-3,FALSE,FALSE,TRUE,01/01/2022
+der Vordergrund,the foreground,-3,FALSE,FALSE,TRUE,01/01/2022
+das Geschenk,the gift,-3,FALSE,FALSE,FALSE,01/01/2022
+die Hölle,the hell,-3,FALSE,FALSE,FALSE,01/01/2022
+das Nilpferd,the hippopotamus,-3,FALSE,FALSE,FALSE,01/01/2022
+das Einkommen,the income,-3,FALSE,FALSE,FALSE,01/01/2022
+die Mandarine,the mandarin,-3,FALSE,FALSE,FALSE,01/01/2022
+das Mittelalter,the Middle Ages,-3,FALSE,FALSE,FALSE,01/01/2022
+das Freibad,the outdoor pool,-3,FALSE,FALSE,FALSE,01/01/2022
+der Pfirsich,the peach,-3,FALSE,FALSE,FALSE,01/01/2022
+der Beweis,the proof,-3,FALSE,FALSE,FALSE,01/01/2022
+die Quittung,the receipt,-3,FALSE,FALSE,FALSE,01/01/2022
+der Schiedrichter,the referee,-3,FALSE,FALSE,FALSE,01/01/2022
+das Restaurierung,the restoration,-3,FALSE,FALSE,FALSE,01/01/2022
+das Wiedersehen,the reunion,-3,FALSE,FALSE,FALSE,01/01/2022
+das Nashorn,the rhino,-3,FALSE,FALSE,FALSE,01/01/2022
+der Rhabarber,the rhubarb,-3,FALSE,FALSE,FALSE,01/01/2022
+der Hahn,the rooster,-3,FALSE,FALSE,FALSE,01/01/2022
+der Schal,the scarf,-3,FALSE,FALSE,TRUE,01/01/2022
+der Verkäufer,the seller,-3,FALSE,FALSE,FALSE,01/01/2022
+die Schalotte,the shallot,-3,FALSE,FALSE,FALSE,01/01/2022
+der Geschmack,the taste,-3,FALSE,FALSE,FALSE,01/01/2022
+der Kamm,the towel,-3,FALSE,FALSE,FALSE,01/01/2022
+die Schildkröte,the turtle,-3,FALSE,FALSE,FALSE,01/01/2022
+der Blick,the view,-3,FALSE,FALSE,FALSE,01/01/2022
+die Jugendherberge,the youth hostel,-3,FALSE,FALSE,FALSE,01/01/2022
+ärgern,to annoy,-3,FALSE,FALSE,TRUE,01/01/2022
+wegbringen,to bring away,-3,FALSE,FALSE,TRUE,01/01/2022
+fortsetzen,to continue,-3,FALSE,FALSE,FALSE,01/01/2022
+aufstehen,to get up,-3,TRUE,FALSE,TRUE,01/01/2022
+wissen,to realize,-3,FALSE,FALSE,FALSE,01/01/2022
+sich erinnern,to remember,-3,FALSE,FALSE,FALSE,01/01/2022
+erinnern,to remind,-3,FALSE,FALSE,FALSE,01/01/2022
+leiden,to suffer,-3,FALSE,FALSE,TRUE,01/01/2022
+nachdenken,to think about,-3,FALSE,FALSE,FALSE,01/01/2022
+gekümmert,worried about,-3,FALSE,FALSE,FALSE,01/01/2022

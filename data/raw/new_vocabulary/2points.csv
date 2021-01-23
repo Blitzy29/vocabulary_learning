@@ -1,0 +1,69 @@
+German,English,Score,SucceedSession,Succeed,TrySession,Retry
+zu Hause,at home,2,FALSE,FALSE,FALSE,01/01/2022
+tief,deep,2,FALSE,FALSE,FALSE,01/01/2022
+betrunken,drunk,2,FALSE,FALSE,FALSE,01/01/2022
+emotional,emotional,2,FALSE,FALSE,FALSE,01/01/2022
+überall,everywhere,2,FALSE,FALSE,FALSE,01/01/2022
+Französisch,French,2,FALSE,FALSE,FALSE,01/01/2022
+ab A,from A,2,FALSE,FALSE,FALSE,01/01/2022
+von oben,from above,2,FALSE,FALSE,FALSE,01/01/2022
+lustig,fun,2,FALSE,FALSE,FALSE,01/01/2022
+März,March,2,FALSE,FALSE,FALSE,01/01/2022
+Oktober,October,2,FALSE,FALSE,FALSE,01/01/2022
+beruflich,professional,2,FALSE,FALSE,FALSE,01/01/2022
+das Ziel,the aim,2,FALSE,FALSE,FALSE,01/01/2022
+die Antwort,the answer,2,FALSE,FALSE,FALSE,01/01/2022
+die Armee,the army,2,TRUE,FALSE,TRUE,01/01/2022
+das Getränk,the drink,2,FALSE,FALSE,TRUE,01/01/2022
+der Keller,the basement,2,FALSE,FALSE,FALSE,01/01/2022
+die Glocke,the bell,2,FALSE,FALSE,FALSE,01/01/2022
+die Zensur,the censorship,2,FALSE,FALSE,FALSE,01/01/2022
+das Jahrhundert,the century,2,TRUE,FALSE,TRUE,01/01/2022
+die Kombination,the combination,2,TRUE,FALSE,TRUE,01/01/2022
+kämmen,to comb,2,FALSE,FALSE,TRUE,01/01/2022
+der Würfel,the dice,2,FALSE,FALSE,FALSE,01/01/2022
+die Folge,the episode,2,FALSE,FALSE,FALSE,01/01/2022
+der Garten,the garden,2,FALSE,FALSE,FALSE,01/01/2022
+der Goalkeeper,the goalkeeper,2,FALSE,FALSE,FALSE,01/01/2022
+der Halt,the halt,2,FALSE,FALSE,FALSE,01/01/2022
+die Gesundheit,the health,2,FALSE,FALSE,FALSE,01/01/2022
+der Urlaub,the holiday,2,FALSE,FALSE,FALSE,01/01/2022
+die Herberge,the hostel,2,FALSE,FALSE,FALSE,01/01/2022
+tschüß,bye,2,FALSE,FALSE,FALSE,01/01/2022
+das Känguru,the kangaroo,2,FALSE,FALSE,FALSE,01/01/2022
+das Glück,the luck,2,FALSE,FALSE,FALSE,01/01/2022
+die Mango,the mango,2,FALSE,FALSE,FALSE,01/01/2022
+der Affe,the monkey,2,FALSE,FALSE,TRUE,01/01/2022
+die Meinung,the opinion,2,FALSE,FALSE,FALSE,01/01/2022
+der Gegner,the opponent,2,TRUE,FALSE,TRUE,01/01/2022
+der Pass,the pass,2,FALSE,FALSE,FALSE,01/01/2022
+die Nudel,the pasta,2,FALSE,FALSE,FALSE,01/01/2022
+der Pinguin,the penguin,2,FALSE,FALSE,FALSE,01/01/2022
+interessant,interesting,2,FALSE,FALSE,TRUE,01/01/2022
+die Physalis,the physalis,2,FALSE,FALSE,FALSE,01/01/2022
+der Teller,the plate,2,FALSE,FALSE,FALSE,01/01/2022
+der Rotkohl,the red cabbage,2,FALSE,FALSE,FALSE,01/01/2022
+der Rest,the rest,2,FALSE,FALSE,FALSE,01/01/2022
+der Ring,the ring,2,FALSE,FALSE,FALSE,01/01/2022
+das Zimmer,the room,2,FALSE,FALSE,FALSE,01/01/2022
+der Lachs,the salmon,2,FALSE,FALSE,FALSE,01/01/2022
+das Hemd,the shirt,2,FALSE,FALSE,FALSE,01/01/2022
+der Schrimp,the shrimp,2,FALSE,FALSE,FALSE,01/01/2022
+der Storck,the stork,2,FALSE,FALSE,FALSE,01/01/2022
+der Tisch,the table,2,FALSE,FALSE,FALSE,01/01/2022
+der Tourist,the tourist,2,FALSE,FALSE,FALSE,01/01/2022
+der Mond,the moon,2,FALSE,FALSE,FALSE,01/01/2022
+die Trophäe,the trophy,2,FALSE,FALSE,FALSE,01/01/2022
+der Werwolf,the werewolf,2,TRUE,FALSE,TRUE,01/01/2022
+der Weisskohl,the white cabbage,2,TRUE,FALSE,TRUE,01/01/2022
+die Zucchini,the zucchini,2,FALSE,FALSE,FALSE,01/01/2022
+kämpfen,to fight,2,TRUE,FALSE,TRUE,01/01/2022
+passieren,to happen,2,FALSE,FALSE,FALSE,01/01/2022
+heiraten,to marry,2,TRUE,FALSE,TRUE,01/01/2022
+renovieren,to renovate,2,TRUE,FALSE,TRUE,01/01/2022
+brillieren,to shine,2,FALSE,FALSE,FALSE,01/01/2022
+arbeitlos,unemployed,2,TRUE,FALSE,TRUE,01/01/2022
+violett,violet,2,FALSE,FALSE,FALSE,01/01/2022
+windstill,windless,2,FALSE,FALSE,FALSE,01/01/2022
+windig,windy,2,FALSE,FALSE,FALSE,01/01/2022
+der Streik,the strike,2,FALSE,FALSE,FALSE,01/01/2022

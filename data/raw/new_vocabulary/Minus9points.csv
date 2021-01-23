@@ -1,0 +1,58 @@
+German,English,Score,SucceedSession,Succeed,TrySession,Retry
+aller guten Dinge sind drei,all good things come in threes,-9,FALSE,FALSE,FALSE,01/01/2022
+gar,at all,-9,FALSE,FALSE,FALSE,01/01/2022
+verlobt,engaged,-9,FALSE,FALSE,FALSE,01/01/2022
+flüssig,liquid,-9,FALSE,FALSE,FALSE,01/01/2022
+irreführend,misleading,-9,FALSE,FALSE,FALSE,01/01/2022
+die Werbung,the advertisement,-9,TRUE,FALSE,TRUE,01/01/2022
+der Sessel,the armchair,-9,FALSE,FALSE,FALSE,01/01/2022
+die Panne,the breakdown,-9,FALSE,FALSE,TRUE,01/01/2022
+das Brustschwimmen,the breaststroke,-9,FALSE,FALSE,TRUE,01/01/2022
+die Sache,the case,-9,FALSE,FALSE,FALSE,01/01/2022
+der Sellerie,the celery,-9,FALSE,FALSE,FALSE,01/01/2022
+die Kastanie,the chestnut,-9,FALSE,FALSE,FALSE,01/01/2022
+der Schnittlauch,the chives,-9,FALSE,FALSE,TRUE,01/01/2022
+die Wahl,the choice,-9,TRUE,FALSE,TRUE,01/01/2022
+der Mut,the courage,-9,FALSE,FALSE,FALSE,01/01/2022
+die Johannisbeere,the currant,-9,FALSE,FALSE,FALSE,01/01/2022
+das Reh,the deer,-9,FALSE,FALSE,FALSE,01/01/2022
+der Rand,the edge,-9,FALSE,FALSE,FALSE,01/01/2022
+der Notruf,the emergency call,-9,FALSE,FALSE,FALSE,01/01/2022
+die Ausflug,the excursion,-9,FALSE,FALSE,FALSE,01/01/2022
+die Erläuterung,the explanation,-9,FALSE,FALSE,FALSE,01/01/2022
+der Bruch,the facture,-9,FALSE,FALSE,FALSE,01/01/2022
+der Fenchel,the fennel,-9,FALSE,FALSE,FALSE,01/01/2022
+die Wohngemeinschaft,the flat share,-9,FALSE,FALSE,TRUE,01/01/2022
+die Heizung,the heater,-9,FALSE,FALSE,FALSE,01/01/2022
+der Feldsalat,the lamb's lettuce,-9,FALSE,FALSE,FALSE,01/01/2022
+das Hauptgericht,the main course,-9,FALSE,FALSE,FALSE,01/01/2022
+das Mauspad,the mouse pad,-9,FALSE,FALSE,FALSE,01/01/2022
+die Kette,the necklace,-9,FALSE,FALSE,FALSE,01/01/2022
+das Nasenbluten,the nosebleed,-9,FALSE,FALSE,TRUE,01/01/2022
+die Packung,the pack,-9,FALSE,FALSE,FALSE,01/01/2022
+die Pastinake,the parsnip,-9,FALSE,FALSE,FALSE,01/01/2022
+die Vorbereitung,the preparation,-9,FALSE,FALSE,FALSE,01/01/2022
+die Gegenwart,the present,-9,FALSE,FALSE,FALSE,01/01/2022
+die Öffentliche Verkehrsmittel,the public transports,-9,FALSE,FALSE,FALSE,01/01/2022
+der Rettich,the radish,-9,FALSE,FALSE,FALSE,01/01/2022
+die Fernbedienung,the remote,-9,FALSE,FALSE,FALSE,01/01/2022
+die Probe,the sample,-9,FALSE,FALSE,FALSE,01/01/2022
+die Scherbe,the shard,-9,FALSE,FALSE,FALSE,01/01/2022
+die Zuckerschoten,the snow peas,-9,FALSE,FALSE,TRUE,01/01/2022
+die Geschwindigkeit,the speed,-9,FALSE,FALSE,FALSE,01/01/2022
+die Ausbildung,the training,-9,FALSE,FALSE,FALSE,01/01/2022
+der Wert,the value,-9,FALSE,FALSE,FALSE,01/01/2022
+das Sternzeichen,the zodiacal sign,-9,FALSE,FALSE,FALSE,01/01/2022
+freuen,to be looking forward,-9,FALSE,FALSE,FALSE,01/01/2022
+reichen,to be sufficient,-9,FALSE,FALSE,FALSE,01/01/2022
+verschenken,to give away,-9,FALSE,FALSE,FALSE,01/01/2022
+mitteilen,to inform,-9,FALSE,FALSE,FALSE,01/01/2022
+messen,to measure,-9,FALSE,FALSE,FALSE,01/01/2022
+besetzen,to occupy,-9,FALSE,FALSE,FALSE,01/01/2022
+veranstalten,to organize,-9,FALSE,FALSE,TRUE,01/01/2022
+schützen,to protect,-9,FALSE,FALSE,FALSE,01/01/2022
+regnen,to rain,-9,FALSE,FALSE,FALSE,01/01/2022
+schiessen,to shoot,-9,FALSE,FALSE,FALSE,01/01/2022
+siegen,to triumph,-9,FALSE,FALSE,FALSE,01/01/2022
+wünschen,to wish,-9,FALSE,FALSE,FALSE,01/01/2022
+was für,what kind of,-9,FALSE,FALSE,FALSE,01/01/2022

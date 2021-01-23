@@ -1,0 +1,43 @@
+German,English,Score,SucceedSession,Succeed,TrySession,Retry
+wieder,another time,-6,FALSE,FALSE,FALSE,01/01/2022
+schwierig,difficult,-6,FALSE,FALSE,FALSE,01/01/2022
+leise,discrete,-6,FALSE,FALSE,TRUE,01/01/2022
+fälligkeit,due date,-6,FALSE,FALSE,FALSE,01/01/2022
+zurzeit,for now,-6,FALSE,FALSE,FALSE,01/01/2022
+zum Geburtstag viel Glück,happy birthday,-6,FALSE,FALSE,FALSE,01/01/2022
+abseits,offside,-6,FALSE,FALSE,TRUE,01/01/2022
+sonst,otherwise,-6,FALSE,FALSE,FALSE,01/01/2022
+still,silent,-6,FALSE,FALSE,FALSE,01/01/2022
+die Landwirtschaft,the agriculture,-6,FALSE,FALSE,FALSE,01/01/2022
+der Termin,the appointment,-6,FALSE,FALSE,FALSE,01/01/2022
+die Ankunft,the arrival,-6,FALSE,FALSE,FALSE,01/01/2022
+der Künstler,the artist,-6,FALSE,FALSE,FALSE,01/01/2022
+die Brombeere,the blackberry,-6,FALSE,FALSE,FALSE,01/01/2022
+die Sternfrucht,the carambola,-6,FALSE,FALSE,FALSE,01/01/2022
+der Ton,the clay,-6,FALSE,FALSE,FALSE,01/01/2022
+der Schrank,the cupboard,-6,FALSE,FALSE,FALSE,01/01/2022
+der Zweifel,the doubt,-6,FALSE,FALSE,FALSE,01/01/2022
+die Feige,the fig,-6,FALSE,FALSE,FALSE,01/01/2022
+die Mitbewohner,the flatmate,-6,FALSE,FALSE,FALSE,01/01/2022
+das Erdgeschoss,the ground floor,-6,TRUE,FALSE,TRUE,01/01/2022
+das Lachen,the laugh,-6,FALSE,FALSE,FALSE,01/01/2022
+der Musikgeschmak,the musical taste,-6,FALSE,FALSE,FALSE,01/01/2022
+das Ergebnis,the outcome,-6,FALSE,FALSE,FALSE,01/01/2022
+die Petersilie,the parsley,-6,FALSE,FALSE,FALSE,01/01/2022
+die Erbse,the pea,-6,TRUE,FALSE,TRUE,01/01/2022
+der Grund,the reason,-6,TRUE,FALSE,TRUE,01/01/2022
+die rote Beeren,the red berries,-6,FALSE,FALSE,FALSE,01/01/2022
+die Schwarzwurzel,the salsify,-6,FALSE,FALSE,FALSE,01/01/2022
+der Sauerampfer,the sorrel,-6,FALSE,FALSE,FALSE,01/01/2022
+die Vorspeise,the starter,-6,FALSE,FALSE,FALSE,01/01/2022
+der Magen,the stomach,-6,FALSE,FALSE,FALSE,01/01/2022
+der Weizen,the wheat,-6,FALSE,FALSE,FALSE,01/01/2022
+gelten,to apply,-6,FALSE,FALSE,FALSE,01/01/2022
+sich freuen,to be pleased,-6,FALSE,FALSE,FALSE,01/01/2022
+sterben,to die,-6,FALSE,FALSE,TRUE,01/01/2022
+sich vorstellen,to imagine,-6,FALSE,FALSE,FALSE,01/01/2022
+beschenken,to make a present,-6,FALSE,FALSE,FALSE,01/01/2022
+verpassen,to miss,-6,FALSE,FALSE,FALSE,01/01/2022
+bekommen,to obtain,-6,FALSE,FALSE,FALSE,01/01/2022
+schwimmbecken,to pool,-6,FALSE,FALSE,TRUE,01/01/2022
+üben,to practice,-6,FALSE,FALSE,FALSE,01/01/2022

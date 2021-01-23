@@ -1,0 +1,153 @@
+German,English,Score,SucceedSession,Succeed,TrySession,Retry
+aber,but,5,False,False,False,2022-01-01
+alt,old,5,False,False,False,2022-01-01
+anziehen,to put a clothe on,5,False,False,False,2022-01-01
+attraktiv,attractive,5,False,False,False,2022-01-01
+auf Wiedersehen,goodbye,5,False,False,False,2022-01-01
+ausmachen,to turn off,5,False,False,False,2022-01-01
+bis Bald,bye for now,5,False,False,False,2022-01-01
+bitte,please,5,False,False,False,2022-01-01
+bitte sehr,you're welcome,5,False,False,False,2022-01-01
+danke,thank you,5,False,False,False,2022-01-01
+das Bier,the beer,5,False,False,False,2022-01-01
+das Café,the café,5,False,False,False,2022-01-01
+das Eis,the ice,5,False,False,False,2022-01-01
+das Essen,the meal,5,False,False,False,2022-01-01
+das Gemüse,the vegetables,5,False,False,False,2022-01-01
+das Kind,the kid,5,False,False,False,2022-01-01
+das Kleid,the dress,5,False,False,False,2022-01-01
+das Lotto,the lottery,5,False,False,False,2022-01-01
+das Mädchen,the girl,5,False,False,False,2022-01-01
+das Öl,the oil,5,False,False,False,2022-01-01
+das Organ,the organ,5,False,False,False,2022-01-01
+das Pferd,the horse,5,False,False,False,2022-01-01
+das Salz,the salt,5,False,False,False,2022-01-01
+das Schwein,the pig,5,False,False,False,2022-01-01
+das Tier,the animal,5,False,False,False,2022-01-01
+das Wasser,the water,5,False,False,False,2022-01-01
+das Wissen,the knowledge,5,False,False,False,2022-01-01
+der Apfel,the apple,5,False,False,False,2022-01-01
+der Arkitekt,the architect,5,False,False,False,2022-01-01
+der Arzt,the doctor,5,False,False,False,2022-01-01
+der Aufgabe,the task,5,False,False,False,2022-01-01
+der Bruder,the brother,5,False,False,False,2022-01-01
+der Computer,the computer,5,False,False,False,2022-01-01
+der Enkel,the grand-son,5,False,False,False,2022-01-01
+der Freund,the boyfriend,5,False,False,False,2022-01-01
+der Junge,the boy,5,False,False,False,2022-01-01
+der Käse,the cheese,5,False,False,False,2022-01-01
+der Kellner,the waiter,5,False,False,False,2022-01-01
+der Körper,the body,5,False,False,False,2022-01-01
+der Kühlschrank,the fridge,5,False,False,False,2022-01-01
+der Lehrer,the teacher,5,False,False,False,2022-01-01
+der Mantel,the coat,5,False,False,False,2022-01-01
+der Mechatroniker,the mechanic,5,False,False,False,2022-01-01
+der Opa,the grandpa,5,False,False,False,2022-01-01
+der Orangensaft,the orange juice,5,False,False,False,2022-01-01
+der Partner,the partner,5,False,False,False,2022-01-01
+der Prinz,the prince,5,False,False,False,2022-01-01
+der Pullover,the pull-over,5,False,False,False,2022-01-01
+der Schauspieler,the actor,5,False,False,False,2022-01-01
+der Sekretär,the secretary,5,False,False,False,2022-01-01
+der Sohn,the son,5,False,False,False,2022-01-01
+der Sommer,the summer,5,False,False,False,2022-01-01
+der Statistiker,the statistician,5,False,False,False,2022-01-01
+der Stern,the star,5,False,False,False,2022-01-01
+der Student,the student,5,False,False,False,2022-01-01
+der Stuhl,the chair,5,False,False,False,2022-01-01
+der Tee,the tea,5,False,False,False,2022-01-01
+der Vogel,the bird,5,False,False,False,2022-01-01
+der Wein,the wine,5,False,False,False,2022-01-01
+der Winter,the winter,5,False,False,False,2022-01-01
+Deutschland,Germany,5,False,False,False,2022-01-01
+die Angst,the fear,5,False,False,False,2022-01-01
+die Antwort,the answer,5,False,False,False,2022-01-01
+die Aussage,the statement,5,False,False,False,2022-01-01
+die Bluse,the blouse,5,False,False,False,2022-01-01
+die Frage,the question,5,False,False,False,2022-01-01
+die Gewinnzahl,the winning number,5,False,False,False,2022-01-01
+die Grossmutter,the grand-mother,5,False,False,False,2022-01-01
+die Jacke,the jacket,5,False,False,False,2022-01-01
+die Kartoffel,the potato,5,False,False,False,2022-01-01
+die Kirche,the church,5,False,False,False,2022-01-01
+die Milch,the milk,5,False,False,False,2022-01-01
+die Moral,the morality,5,False,False,False,2022-01-01
+die Mutter,the mother,5,False,False,False,2022-01-01
+die Schwester,the sister,5,False,False,False,2022-01-01
+die Strumpfhose,the hoose,5,False,False,False,2022-01-01
+die Suppe,the soup,5,False,False,False,2022-01-01
+die Tür,the door,5,False,False,False,2022-01-01
+die Zeit,the time,5,False,False,False,2022-01-01
+Dienstag,Tuesday,5,False,False,False,2022-01-01
+Donnerstag,Thursday,5,False,False,False,2022-01-01
+durst,thirsty,5,False,False,False,2022-01-01
+Englisch,English,5,False,False,False,2022-01-01
+entschuldigung,excuse-me,5,False,False,False,2022-01-01
+es tut mir leid,I'm sorry,5,False,False,False,2022-01-01
+essen,to eat,5,False,False,False,2022-01-01
+fantastisch,fantastic,5,False,False,False,2022-01-01
+fertig,ready,5,False,False,False,2022-01-01
+frei,free,5,False,False,False,2022-01-01
+fressen,to eat (animal),5,False,False,False,2022-01-01
+gehen,to go,5,False,False,False,2022-01-01
+genau,I agree,5,False,False,False,2022-01-01
+geschieden,divorced,5,False,False,False,2022-01-01
+glauben,to believe,5,False,False,False,2022-01-01
+grau,grey,5,False,False,False,2022-01-01
+gut,good,5,False,False,False,2022-01-01
+Gute Nacht,good night,5,False,False,False,2022-01-01
+Guten Abend,good evening,5,False,False,False,2022-01-01
+Guten Morgen,good morning,5,False,False,False,2022-01-01
+Guten Tag,good day,5,False,False,False,2022-01-01
+haben,to have,5,False,False,False,2022-01-01
+hässlich,ugly,5,False,False,False,2022-01-01
+heissen,to be named,5,False,False,False,2022-01-01
+heute,today,5,False,False,False,2022-01-01
+hoch,up,5,False,False,False,2022-01-01
+hören,to listen,5,False,False,False,2022-01-01
+hunger,hungry,5,False,False,False,2022-01-01
+interessant,interesting,5,False,False,False,2022-01-01
+jetzt,now,5,False,False,False,2022-01-01
+kennen,to know,5,False,False,False,2022-01-01
+klar,clear,5,False,False,False,2022-01-01
+kommen,to come,5,False,False,False,2022-01-01
+kurz,short,5,False,False,False,2022-01-01
+lang,long,5,False,False,False,2022-01-01
+leer,empty,5,False,False,False,2022-01-01
+leider,unfortunately,5,False,False,False,2022-01-01
+lernen,to learn,5,False,False,False,2022-01-01
+mag,like,5,False,False,False,2022-01-01
+Mittwoch,Wednesday,5,False,False,False,2022-01-01
+Montag,Monday,5,False,False,False,2022-01-01
+nein,no,5,False,False,False,2022-01-01
+normal,normal,5,False,False,False,2022-01-01
+orange,orange,5,False,False,False,2022-01-01
+prima,fine,5,False,False,False,2022-01-01
+rund,round,5,False,False,False,2022-01-01
+sagen,to say,5,False,False,False,2022-01-01
+sauber,clean,5,False,False,False,2022-01-01
+schwarz,black,5,False,False,False,2022-01-01
+schwimmen,to swim,5,False,False,False,2022-01-01
+schwul,gay lovers,5,False,False,False,2022-01-01
+sehen,to see,5,False,False,False,2022-01-01
+sein,to be,5,False,False,False,2022-01-01
+spielen,to play,5,False,False,False,2022-01-01
+stehen,to stand up,5,False,False,False,2022-01-01
+studieren,to study,5,False,False,False,2022-01-01
+süss,sweet,5,False,False,False,2022-01-01
+toll,formidable,5,False,False,False,2022-01-01
+tragen,to wear,5,False,False,False,2022-01-01
+trinken,to drink,5,False,False,False,2022-01-01
+tschüss,bye,5,False,False,False,2022-01-01
+überall,everywhere,5,False,False,False,2022-01-01
+und,and,5,False,False,False,2022-01-01
+vielleicht,maybe,5,False,False,False,2022-01-01
+Was machst du beruflich?,What is your work?,5,False,False,False,2022-01-01
+waschen,to wash,5,False,False,False,2022-01-01
+weil,because,5,False,False,False,2022-01-01
+weiss,white,5,False,False,False,2022-01-01
+wie geht es dir?,how are you?,5,False,False,False,2022-01-01
+wilkommen,welcome,5,False,False,False,2022-01-01
+wo,where,5,False,False,False,2022-01-01
+zusammen,together,5,False,False,False,2022-01-01
+zweite,second,5,False,False,False,2022-01-01

@@ -1,0 +1,53 @@
+German,English,Score,SucceedSession,Succeed,TrySession,Retry
+hinten,behind,-4,FALSE,FALSE,FALSE,01/01/2022
+wolkig,cloudy,-4,FALSE,FALSE,FALSE,01/01/2022
+glücklich,happy,-4,FALSE,FALSE,TRUE,01/01/2022
+vorn,in the front,-4,TRUE,FALSE,TRUE,01/01/2022
+drinnen,inside,-4,FALSE,FALSE,FALSE,01/01/2022
+statt,instead of,-4,TRUE,FALSE,TRUE,01/01/2022
+ruhig,quiet,-4,FALSE,FALSE,FALSE,01/01/2022
+der Spargel,the asparagus,-4,FALSE,FALSE,FALSE,01/01/2022
+die Wandtafel,the blackboard,-4,FALSE,FALSE,FALSE,01/01/2022
+die schwarze Johannisbeere,the blackcurrant,-4,FALSE,FALSE,FALSE,01/01/2022
+die Ruhe,the calm,-4,FALSE,FALSE,FALSE,01/01/2022
+die Kardone,the cardoon,-4,FALSE,FALSE,FALSE,01/01/2022
+die Erkältung,the cold,-4,FALSE,FALSE,FALSE,01/01/2022
+die Dattek,the date,-4,FALSE,FALSE,FALSE,01/01/2022
+das Geburtsdatum,the date of birth,-4,FALSE,FALSE,FALSE,01/01/2022
+das Geschirr,the dishes,-4,FALSE,FALSE,FALSE,01/01/2022
+der Zwerg,the dwarf,-4,FALSE,FALSE,TRUE,01/01/2022
+die E-Mail,the email,-4,FALSE,FALSE,FALSE,01/01/2022
+das Auge,the eye,-4,FALSE,FALSE,FALSE,01/01/2022
+das Fax,the fax,-4,FALSE,FALSE,FALSE,01/01/2022
+die Zukunft,the future,-4,FALSE,FALSE,FALSE,01/01/2022
+die Erdkunde,the geography,-4,FALSE,FALSE,FALSE,01/01/2022
+der Hase,the hare,-4,FALSE,FALSE,FALSE,01/01/2022
+die Strumpfhose,the hoose,-4,FALSE,FALSE,FALSE,01/01/2022
+der Sprung,the jump,-4,FALSE,FALSE,FALSE,01/01/2022
+der Fehler,the mistake,-4,FALSE,FALSE,FALSE,01/01/2022
+das Denkmal,the monument,-4,FALSE,FALSE,FALSE,01/01/2022
+der Film,the movie,-4,FALSE,FALSE,FALSE,01/01/2022
+die Musik,the music,-4,FALSE,FALSE,FALSE,01/01/2022
+der Bleistift,the pencil,-4,FALSE,FALSE,FALSE,01/01/2022
+die Körperpflege,the personal hygiene,-4,FALSE,FALSE,FALSE,01/01/2022
+die Haustier,the pet,-4,FALSE,FALSE,FALSE,01/01/2022
+das Flugzeug,the plane,-4,FALSE,FALSE,FALSE,01/01/2022
+die Quitte,the quince,-4,FALSE,FALSE,TRUE,01/01/2022
+die Regel,the rule,-4,FALSE,FALSE,FALSE,01/01/2022
+das Geheimnis,the secret,-4,FALSE,FALSE,FALSE,01/01/2022
+der Schuh,the shoe,-4,FALSE,FALSE,FALSE,01/01/2022
+der Stürmer,the striker,-4,FALSE,FALSE,FALSE,01/01/2022
+das Arbeitszimmer,the study,-4,FALSE,FALSE,FALSE,01/01/2022
+der Sonnenschein,the sunshine,-4,FALSE,FALSE,FALSE,01/01/2022
+die Zahnbürste,the toothbrush,-4,FALSE,FALSE,TRUE,01/01/2022
+die Ampel,the traffic light,-4,FALSE,FALSE,FALSE,01/01/2022
+blenden,to blind,-4,FALSE,FALSE,FALSE,01/01/2022
+zählen,to count,-4,FALSE,FALSE,FALSE,01/01/2022
+herunterladen,to download,-4,FALSE,FALSE,FALSE,01/01/2022
+sich verlieben,to fall in love,-4,FALSE,FALSE,FALSE,01/01/2022
+gießen,to pour,-4,FALSE,FALSE,FALSE,01/01/2022
+vorstellen,to present,-4,FALSE,FALSE,TRUE,01/01/2022
+anstehen,to queue,-4,FALSE,FALSE,TRUE,01/01/2022
+besuchen,to visit,-4,FALSE,FALSE,FALSE,01/01/2022
+gegenüber,towards,-4,FALSE,FALSE,FALSE,01/01/2022
+ob,whether,-4,FALSE,FALSE,FALSE,01/01/2022

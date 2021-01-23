@@ -1,0 +1,107 @@
+German,English,Score,SucceedSession,Succeed,TrySession,Retry
+noch,again,3,FALSE,FALSE,FALSE,01/01/2022
+tragen,to wear,3,FALSE,FALSE,TRUE,01/01/2022
+der Fotoapparat,the camera,3,FALSE,FALSE,FALSE,01/01/2022
+langweilig,boring,3,FALSE,FALSE,FALSE,01/01/2022
+das Weihnachten,Christmas,3,FALSE,FALSE,FALSE,01/01/2022
+umsteigen,to change trains,3,FALSE,FALSE,FALSE,01/01/2022
+bunt,colorful,3,FALSE,FALSE,FALSE,01/01/2022
+schade,too bad,3,FALSE,FALSE,TRUE,01/01/2022
+einfach,easy,3,FALSE,FALSE,FALSE,01/01/2022
+prima,fine,3,FALSE,FALSE,FALSE,01/01/2022
+gratis,free (money),3,FALSE,FALSE,FALSE,01/01/2022
+hunger,hungry,3,FALSE,FALSE,FALSE,01/01/2022
+die Scheibe,the slice,3,FALSE,FALSE,FALSE,01/01/2022
+laut,loud,3,FALSE,FALSE,FALSE,01/01/2022
+die Avocado,the avocado,3,FALSE,FALSE,FALSE,01/01/2022
+oft,often,3,FALSE,FALSE,FALSE,01/01/2022
+altmodisch,old-fashioned,3,FALSE,FALSE,FALSE,01/01/2022
+draussen,outside,3,FALSE,FALSE,FALSE,01/01/2022
+möglich,possible,3,FALSE,FALSE,FALSE,01/01/2022
+praktisch,practical,3,FALSE,FALSE,FALSE,01/01/2022
+der Balkon,the balcony,3,FALSE,FALSE,FALSE,01/01/2022
+fertig,ready,3,FALSE,FALSE,FALSE,01/01/2022
+der Khaki,the khaki,3,FALSE,FALSE,FALSE,01/01/2022
+schminken,to make up,3,FALSE,FALSE,FALSE,01/01/2022
+seltsam,strange,3,FALSE,FALSE,FALSE,01/01/2022
+überrascht,surprised,3,TRUE,FALSE,TRUE,01/01/2022
+der Anrufer,the caller,3,FALSE,FALSE,FALSE,01/01/2022
+die Artischocke,the artichoke,3,TRUE,FALSE,TRUE,01/01/2022
+die Tasche,the bag,3,FALSE,FALSE,FALSE,01/01/2022
+das Blut,the blood,3,FALSE,FALSE,FALSE,01/01/2022
+der Junge,the boy,3,FALSE,FALSE,FALSE,01/01/2022
+hoch,high,3,FALSE,FALSE,TRUE,01/01/2022
+das Schloss,the castle,3,FALSE,FALSE,FALSE,01/01/2022
+die Clementine,the clementine,3,TRUE,FALSE,TRUE,01/01/2022
+der Euro,the euro,3,FALSE,FALSE,FALSE,01/01/2022
+der Kollege,the colleague,3,FALSE,FALSE,FALSE,01/01/2022
+das Comicbuch,the comic book,3,FALSE,FALSE,FALSE,01/01/2022
+die Firma,the company,3,FALSE,FALSE,FALSE,01/01/2022
+der Ursprung,the origin,3,FALSE,FALSE,FALSE,01/01/2022
+die Ecke,the corner,3,FALSE,FALSE,FALSE,01/01/2022
+die Cranberry,the cranberry,3,TRUE,FALSE,TRUE,01/01/2022
+schwül,humide,3,FALSE,FALSE,TRUE,01/01/2022
+der Ehemann,the husband,3,FALSE,FALSE,FALSE,01/01/2022
+der Strom,the electricity,3,FALSE,FALSE,FALSE,01/01/2022
+das Gefühl,the feeling,3,FALSE,FALSE,FALSE,01/01/2022
+die Kunst,the art,3,FALSE,FALSE,TRUE,01/01/2022
+der Fuchs,the fox,3,FALSE,FALSE,FALSE,01/01/2022
+der Gorilla,the gorilla,3,FALSE,FALSE,FALSE,01/01/2022
+die Uhr,the watch,3,FALSE,FALSE,FALSE,01/01/2022
+der Enkel,the grand-son,3,FALSE,FALSE,FALSE,01/01/2022
+der Hut,the hat,3,TRUE,FALSE,TRUE,01/01/2022
+der Winter,the winter,3,FALSE,FALSE,FALSE,01/01/2022
+das Kind,the kid,3,FALSE,FALSE,FALSE,01/01/2022
+das Bein,the leg,3,TRUE,FALSE,TRUE,01/01/2022
+der Wolf,the wolf,3,FALSE,FALSE,FALSE,01/01/2022
+der Zuhörer,the listener,3,FALSE,FALSE,FALSE,01/01/2022
+die Literatur,the literature,3,FALSE,FALSE,FALSE,01/01/2022
+die Milch,the milk,3,FALSE,FALSE,FALSE,01/01/2022
+die Reisetasche,the travel bag,3,FALSE,FALSE,FALSE,01/01/2022
+die Motivation,the motivation,3,FALSE,FALSE,FALSE,01/01/2022
+modern,modern,3,FALSE,FALSE,FALSE,01/01/2022
+das Notizbuch,the notebook,3,FALSE,FALSE,FALSE,01/01/2022
+der Orangensaft,the orange juice,3,FALSE,FALSE,FALSE,01/01/2022
+kochen,to cook,3,FALSE,FALSE,FALSE,01/01/2022
+der Penalty,the penalty,3,FALSE,FALSE,TRUE,01/01/2022
+verheiratet,married,3,FALSE,FALSE,FALSE,01/01/2022
+die Geldbörse,the purse,3,FALSE,FALSE,TRUE,01/01/2022
+die Kartoffel,the potato,3,FALSE,FALSE,FALSE,01/01/2022
+der Turm,the tower,3,FALSE,FALSE,FALSE,01/01/2022
+fressen,to eat (animal),3,FALSE,FALSE,FALSE,01/01/2022
+der Salat,the salad,3,FALSE,FALSE,FALSE,01/01/2022
+der Sekretär,the secretary,3,FALSE,FALSE,FALSE,01/01/2022
+die Socken,the socks,3,FALSE,FALSE,FALSE,01/01/2022
+der Spinat,the spinach,3,FALSE,FALSE,FALSE,01/01/2022
+die Briefmarke,the stamp,3,FALSE,FALSE,FALSE,01/01/2022
+der Fernseher,the television,3,FALSE,FALSE,FALSE,01/01/2022
+die Toilette,the toilet,3,FALSE,FALSE,FALSE,01/01/2022
+das Turnier,the tournament,3,TRUE,FALSE,TRUE,01/01/2022
+der Käse,the cheese,3,FALSE,FALSE,TRUE,01/01/2022
+der Ingenieur,the engineer,3,FALSE,FALSE,FALSE,01/01/2022
+der Baum,the tree,3,FALSE,FALSE,FALSE,01/01/2022
+der Ventilator,the ventilator,3,TRUE,FALSE,TRUE,01/01/2022
+das Fenster,the window,3,FALSE,FALSE,FALSE,01/01/2022
+das Mädchen,the girl,3,FALSE,FALSE,TRUE,01/01/2022
+der Joghurt,the yoghurt,3,FALSE,FALSE,FALSE,01/01/2022
+Englisch,English,3,FALSE,FALSE,FALSE,01/01/2022
+glauben,to believe,3,FALSE,FALSE,FALSE,01/01/2022
+sich erkälten,to catch a cold,3,FALSE,FALSE,FALSE,01/01/2022
+korrigieren,to correct,3,FALSE,FALSE,FALSE,01/01/2022
+das Café,the café,3,FALSE,FALSE,FALSE,01/01/2022
+deklinieren,to decline,3,FALSE,FALSE,FALSE,01/01/2022
+morgen,tomorrow,3,FALSE,FALSE,FALSE,01/01/2022
+entschuldigung,excuse-me,3,FALSE,FALSE,FALSE,01/01/2022
+hören,to listen,3,FALSE,FALSE,FALSE,01/01/2022
+leben,to live,3,TRUE,FALSE,TRUE,01/01/2022
+verlieren,to lose,3,FALSE,FALSE,FALSE,01/01/2022
+das Boot,the boat,3,FALSE,FALSE,FALSE,01/01/2022
+sehen,to see,3,FALSE,FALSE,FALSE,01/01/2022
+rauchen,to smoke,3,FALSE,FALSE,FALSE,01/01/2022
+überraschen,to surprise,3,FALSE,FALSE,FALSE,01/01/2022
+nehmen,to take,3,FALSE,FALSE,FALSE,01/01/2022
+vergessen,to forget,3,FALSE,FALSE,FALSE,01/01/2022
+genau,I agree,3,FALSE,FALSE,FALSE,01/01/2022
+übermorgen,the day after tomorrow,3,FALSE,FALSE,FALSE,01/01/2022
+der Opa,the grandpa,3,FALSE,FALSE,FALSE,01/01/2022
+das Lotto,the lottery,3,FALSE,FALSE,FALSE,01/01/2022

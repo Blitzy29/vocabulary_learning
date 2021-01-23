@@ -1,0 +1,56 @@
+German,English,Score,SucceedSession,Succeed,TrySession,Retry
+uralt,ancient,-5,FALSE,FALSE,FALSE,01/01/2022
+bis Bald,bye for now,-5,FALSE,FALSE,FALSE,01/01/2022
+verdammt,damn,-5,FALSE,FALSE,FALSE,01/01/2022
+geschieden,divorced,-5,FALSE,FALSE,FALSE,01/01/2022
+das Ostern,Easter,-5,FALSE,FALSE,FALSE,01/01/2022
+gleich,equal,-5,FALSE,FALSE,FALSE,01/01/2022
+fett,fat,-5,FALSE,FALSE,FALSE,01/01/2022
+beeindruckend,impressive,-5,FALSE,FALSE,FALSE,01/01/2022
+sich,itself,-5,FALSE,FALSE,FALSE,01/01/2022
+verrückt,mad,-5,FALSE,FALSE,FALSE,01/01/2022
+stumm,mute,-5,FALSE,FALSE,FALSE,01/01/2022
+perfide,perfidious,-5,FALSE,FALSE,FALSE,01/01/2022
+höflich,polite,-5,FALSE,FALSE,FALSE,01/01/2022
+bald,soon,-5,FALSE,FALSE,FALSE,01/01/2022
+die Bürste,the brush,-5,FALSE,FALSE,TRUE,01/01/2022
+das Gebäude,the building,-5,FALSE,FALSE,TRUE,01/01/2022
+der Rechner,the calculator,-5,FALSE,FALSE,FALSE,01/01/2022
+die Dose,the can,-5,FALSE,FALSE,FALSE,01/01/2022
+der Jubel,the cheer,-5,FALSE,FALSE,FALSE,01/01/2022
+das Huhn,the chicken,-5,FALSE,FALSE,FALSE,01/01/2022
+die Wirtschaft,the economy,-5,FALSE,FALSE,TRUE,01/01/2022
+die Gartenbohne,the French bean,-5,FALSE,FALSE,FALSE,01/01/2022
+der Spasse,the fun,-5,FALSE,FALSE,FALSE,01/01/2022
+die Traube,the grape,-5,FALSE,FALSE,FALSE,01/01/2022
+der Posteingang,the inbox,-5,FALSE,FALSE,FALSE,01/01/2022
+die Flexion,the inflection,-5,FALSE,FALSE,FALSE,01/01/2022
+das Gesetz,the law (G.),-5,FALSE,FALSE,FALSE,01/01/2022
+das Feuerzeug,the lighter,-5,FALSE,FALSE,FALSE,01/01/2022
+die Mangostanfrucht,the mangosteen,-5,FALSE,FALSE,FALSE,01/01/2022
+das Mitglied,the member,-5,FALSE,FALSE,FALSE,01/01/2022
+der Pilz,the mushrooms,-5,FALSE,FALSE,FALSE,01/01/2022
+die Stelle,the place,-5,FALSE,FALSE,FALSE,01/01/2022
+die Armut,the poverty,-5,TRUE,FALSE,TRUE,01/01/2022
+der Beruf,the profession,-5,FALSE,FALSE,FALSE,01/01/2022
+der Kürbis,the pumpkin,-5,TRUE,FALSE,TRUE,01/01/2022
+der Satz des Pythagoras,the Pythagora's theorem,-5,FALSE,FALSE,FALSE,01/01/2022
+der Satz,the sentence,-5,FALSE,FALSE,FALSE,01/01/2022
+der Laden,the store,-5,FALSE,FALSE,FALSE,01/01/2022
+der Sonnenbrand,the sunburn,-5,FALSE,FALSE,FALSE,01/01/2022
+der Anhänger,the supporter,-5,FALSE,FALSE,FALSE,01/01/2022
+der Dorn,the thorn,-5,FALSE,FALSE,FALSE,01/01/2022
+der Dreh,the twist,-5,FALSE,FALSE,FALSE,01/01/2022
+das Waschen,the washing,-5,FALSE,FALSE,FALSE,01/01/2022
+das Arbeitplatz,the workplace,-5,FALSE,FALSE,FALSE,01/01/2022
+sich die Zähne putzen,to brush one's teeth,-5,TRUE,FALSE,TRUE,01/01/2022
+berechnen,to calculate,-5,FALSE,FALSE,FALSE,01/01/2022
+feiern,to celebrate,-5,FALSE,FALSE,FALSE,01/01/2022
+wählen,to choose,-5,FALSE,FALSE,FALSE,01/01/2022
+säubern,to clean,-5,FALSE,FALSE,FALSE,01/01/2022
+schliessen,to close,-5,FALSE,FALSE,FALSE,01/01/2022
+schneiden,to cut,-5,FALSE,FALSE,FALSE,01/01/2022
+aussteigen,to get out,-5,FALSE,FALSE,FALSE,01/01/2022
+bleiben,to remain,-5,FALSE,FALSE,FALSE,01/01/2022
+verdrängen,to replace,-5,FALSE,FALSE,FALSE,01/01/2022
+unterrichten,to teach,-5,FALSE,FALSE,FALSE,01/01/2022
