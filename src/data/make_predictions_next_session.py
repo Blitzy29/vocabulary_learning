@@ -68,7 +68,7 @@ def make_and_save_predictions_next_session(
     dataset_predictions = model.preprocessing_inference(next_session_features_dataset)
     predictions = model.predict(dataset=dataset_predictions, target_present=False)
 
-    predictions = pd.concat([dataset_to_keep, predictions], axis=1)
+    predictions = pd.concat([dataset_to_keep, predictions[["y_pred", "y_proba"]]], axis=1)
 
     probas_next_session = (
         predictions[["id_vocab", "language_asked", "y_proba"]]
