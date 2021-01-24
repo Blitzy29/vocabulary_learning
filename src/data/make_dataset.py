@@ -325,3 +325,35 @@ def create_historical_data_new_session_features(
     )
 
     return historical_data_new_session_features
+
+
+def create_folds_for_hyperparameters_tuning(nb_sessions, nb_folds, nb_sessions_valid, dataset_hyperoptim):
+
+    list_train_dataset = []
+    list_valid_dataset = []
+
+    for i_fold in range(nb_folds):
+        sessions_train = list(range(nb_sessions))[
+                         : (nb_sessions - i_fold * nb_sessions_valid - nb_sessions_valid)
+                         ]
+
+        sessions_valid = list(range(nb_sessions))[
+                         (nb_sessions - i_fold * nb_sessions_valid - nb_sessions_valid): (
+                                 nb_sessions - i_fold * nb_sessions_valid
+                         )
+                         ]
+
+        dataset_hyperoptim_train = dataset_hyperoptim[
+            dataset_hyperoptim["id_session"].isin(sessions_train)
+        ]
+        dataset_hyperoptim_valid = dataset_hyperoptim[
+            dataset_hyperoptim["id_session"].isin(sessions_valid)
+        ]
+
+        list_train_dataset.append(dataset_hyperoptim_train)
+        list_valid_dataset.append(dataset_hyperoptim_valid)
+
+    for i in range(len(list_train_dataset)):
+        print(len(list_train_dataset[i]), len(list_valid_dataset[i]))
+
+    return list_train_dataset, list_valid_dataset

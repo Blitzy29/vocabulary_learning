@@ -76,24 +76,40 @@ def get_binary_classification_results(dataset, model_name="model", save_folder="
     true_negative = len(dataset[(dataset["y_true"] == 0) & (dataset["y_pred"] == 0)])
     binary_classification_results["true_negative"] = true_negative
 
-    recall = true_positive / (true_positive + false_negative)
+    if (true_positive + false_negative) > 0:
+        recall = true_positive / (true_positive + false_negative)
+        miss_rate = false_negative / (true_positive + false_negative)
+    else:
+        recall = None
+        miss_rate = None
     binary_classification_results["recall"] = recall
-    miss_rate = false_negative / (true_positive + false_negative)
     binary_classification_results["miss_rate"] = miss_rate
 
-    fall_out = false_positive / (false_positive + true_negative)
+    if (false_positive + true_negative) > 0:
+        fall_out = false_positive / (false_positive + true_negative)
+        specificity = true_negative / (false_positive + true_negative)
+    else:
+        fall_out = None
+        specificity = None
     binary_classification_results["fall_out"] = fall_out
-    specificity = true_negative / (false_positive + true_negative)
     binary_classification_results["specificity"] = specificity
 
-    precision = true_positive / (true_positive + false_positive)
+    if (true_positive + false_positive) > 0:
+        precision = true_positive / (true_positive + false_positive)
+        false_discovery_rate = false_positive / (true_positive + false_positive)
+    else:
+        precision = None
+        false_discovery_rate = None
     binary_classification_results["precision"] = precision
-    false_discovery_rate = false_positive / (true_positive + false_positive)
     binary_classification_results["false_discovery_rate"] = false_discovery_rate
 
-    false_omission_rate = false_negative / (false_negative + true_negative)
+    if (false_negative + true_negative) > 0:
+        false_omission_rate = false_negative / (false_negative + true_negative)
+        negative_predictive_value = true_negative / (false_negative + true_negative)
+    else:
+        false_omission_rate = None
+        negative_predictive_value = None
     binary_classification_results["false_omission_rate"] = false_omission_rate
-    negative_predictive_value = true_negative / (false_negative + true_negative)
     binary_classification_results["negative_predictive_value"] = negative_predictive_value
 
     accuracy = (true_positive + true_negative) / total_population
@@ -102,15 +118,31 @@ def get_binary_classification_results(dataset, model_name="model", save_folder="
     prevalence = (true_positive + false_negative) / total_population
     binary_classification_results["prevalence"] = prevalence
 
-    positive_likelihood_ratio = recall / fall_out
+    if fall_out:
+        positive_likelihood_ratio = recall / fall_out
+    else:
+        positive_likelihood_ratio = None
     binary_classification_results["positive_likelihood_ratio"] = positive_likelihood_ratio
-    negative_likelihood_ratio = miss_rate / specificity
+
+    if specificity:
+        negative_likelihood_ratio = miss_rate / specificity
+    else:
+        negative_likelihood_ratio = None
     binary_classification_results["negative_likelihood_ratio"] = negative_likelihood_ratio
 
-    diagnostic_odds_ratio = positive_likelihood_ratio / negative_likelihood_ratio
+    if negative_likelihood_ratio:
+        diagnostic_odds_ratio = positive_likelihood_ratio / negative_likelihood_ratio
+    else:
+        diagnostic_odds_ratio = None
     binary_classification_results["diagnostic_odds_ratio"] = diagnostic_odds_ratio
 
-    f1_score = 2 * precision * recall / (precision + recall)
+    if (precision is not None) & (recall is not None):
+        if (precision + recall) > 0:
+            f1_score = 2 * precision * recall / (precision + recall)
+        else:
+            f1_score = None
+    else:
+        f1_score = None
     binary_classification_results["f1_score"] = f1_score
 
     logit_roc_auc = metrics.roc_auc_score(dataset["y_true"], dataset["y_pred"])

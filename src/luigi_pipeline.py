@@ -11,7 +11,7 @@ import src.data.make_dataset as make_dataset
 from src.data.make_historical_features import create_historical_features
 from src.data.make_vocab_features import create_vocab_features
 
-from src.models.logistic_regression import ModelLogisticRegression
+from src.models.gradient_boosting import ModelGradientBoosting
 
 from src.data.make_predictions_next_session import (
     make_and_save_predictions_next_session,
@@ -228,8 +228,8 @@ class SplitDatasetIntoTrainValidTest(luigi.Task):
 
 # Task 6: Train model
 
-class TrainLogisticRegressionModel(luigi.Task):
-    name = luigi.Parameter(default="train logistic regression model")
+class TrainGradientBoostingModel(luigi.Task):
+    name = luigi.Parameter(default="train gradient boosting model")
     folder_name = luigi.Parameter(default="test_")
 
     def requires(self):
@@ -237,7 +237,7 @@ class TrainLogisticRegressionModel(luigi.Task):
 
     def output(self):
         return luigi.LocalTarget(
-            "data/pipeline/{}_{}/06_train_logistic_regression_model.txt".format(
+            "data/pipeline/{}_{}/06_train_gradient_boosting_model.txt".format(
                 self.folder_name, today
             )
         )
@@ -249,10 +249,9 @@ class TrainLogisticRegressionModel(luigi.Task):
         with open(path_dataset_train, "rb") as input_file:
             dataset_train = dill.load(input_file)
 
-        model = ModelLogisticRegression()
+        model = ModelGradientBoosting()
         dataset_train = model.preprocessing_training(dataset_train)
         model.train(dataset_train)
-        model.plot_coefficients()
 
         path_dataset_valid = "data/pipeline/{}_{}/{}".format(
             self.folder_name, today, "valid_dataset.pkl"
@@ -323,7 +322,7 @@ class MakePredictions(luigi.Task):
 
     def requires(self):
         return (
-            TrainLogisticRegressionModel(folder_name=self.folder_name),
+            TrainGradientBoostingModel(folder_name=self.folder_name),
             CreateNewSessionFeaturesDataset(folder_name=self.folder_name),
         )
 
