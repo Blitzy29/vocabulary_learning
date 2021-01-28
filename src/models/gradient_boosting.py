@@ -220,7 +220,7 @@ class ModelGradientBoosting:
 
         eval_set = [(train[self.vardict["into_model"]], train[self.vardict["target"]])]
         eval_names = ['train']
-        if valid:
+        if valid is not None:
             eval_set += [(valid[self.vardict["into_model"]], valid[self.vardict["target"]])]
             eval_names += ['valid']
 
