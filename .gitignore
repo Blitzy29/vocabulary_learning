@@ -89,6 +89,7 @@ target/
 /data/raw/20201017/
 /data/raw/20201105/
 /data/raw/Attachments-GermanEnglish/
+/data/raw/other_lists/
 
 # exclude models
 /models/*
