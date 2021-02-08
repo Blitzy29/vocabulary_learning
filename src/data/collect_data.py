@@ -531,7 +531,7 @@ def info_vocab(test=True, test_name='test'):
 
 def info_vocab_direct(vocab, model_name, show_plot, save_plot, save_folder):
 
-    words_left = vocab[(vocab["english_proba"] < 0.9) | (vocab["german_proba"] < 0.9)]
+    words_left = vocab[(vocab["english_proba"] < 0.5) | (vocab["german_proba"] < 0.5)]
 
     print(
         "{}/{} words are considered as known.".format(
