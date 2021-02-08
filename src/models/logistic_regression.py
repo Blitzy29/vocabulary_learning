@@ -28,7 +28,7 @@ class ModelLogisticRegression:
         self.version = 'logistic_regression__' + datetime.datetime.today().strftime("%Y%m%d")
 
         self.global_config = {
-            'show_plot': False,
+            'show_plot': True,
             'save_plot': True
         }
 
@@ -36,18 +36,18 @@ class ModelLogisticRegression:
 
         self.scaler = StandardScaler()
         self.impute_missing_variables = dict()
-        self.sampling = 'SMOTE'
-        self.dimension_reduction = PCA(
-            n_components=4
-        )
-        self.feature_selection = None  # 'Recursive Feature Elimination'
+        self.sampling = None  # 'SMOTE'
+        self.dimension_reduction = None  # PCA(n_components=4)
+        self.feature_selection = 'Recursive Feature Elimination'
+        self.feature_selection_n = 11
 
         # https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
         # ?highlight=logistic#sklearn.linear_model.LogisticRegression.decision_function
         self.model_config = {
-            'penalty': 'l1',
+            'penalty': 'l2',
             'solver': 'liblinear',
-            'C': 0.23357214690901212,
+            'C': 10,
+            'max_iter': 10000,
             'random_state': 0,
             'verbose': 1
         }
@@ -195,8 +195,8 @@ class ModelLogisticRegression:
 
         if self.feature_selection == 'Recursive Feature Elimination':
 
-            logreg = LogisticRegression()
-            rfe = RFE(estimator=logreg, n_features_to_select=None, verbose=0)
+            logreg = LogisticRegression(**self.model_config)
+            rfe = RFE(estimator=logreg, n_features_to_select=self.feature_selection_n, verbose=0)
             rfe = rfe.fit(X_train, y_train)
 
             if self.global_config['show_plot']:
