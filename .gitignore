@@ -91,7 +91,10 @@ target/
 /data/raw/Attachments-GermanEnglish/
 
 # exclude models
-/models/
+/models/*
+!/models/dummy_classifier__20201016__model.pkl
+!/models/gradient_boosting__20210128__model.pkl
+!/models/logistic_regression__20210131__model.pkl
 
 # Mac OS-specific storage files
 .DS_Store
