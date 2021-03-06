@@ -1,54 +1,54 @@
 id_vocab,german,english,score_german_english,score_english_german,try_session_german_english,try_session_english_german
 1,hässlich,ugly,6,4,False,False
 2,das Organ,the organ,3,3,False,False
-3,süss,sweet,4,2,True,False
+3,süss,sweet,5,3,True,False
 4,der Mensch,the human,4,2,False,False
-5,anziehen,to put a clothe on,3,3,False,False
+5,anziehen,to put a clothe on,2,3,False,False
 6,heissen,to be named,6,1,False,False
-7,arbeiten,to work,3,6,False,False
+7,arbeiten,to work,4,6,False,False
 8,der Kellner,the waiter,4,2,False,False
 9,Deutsch,German,4,5,False,False
 10,auf Wiedersehen,goodbye,5,5,False,False
 11,beginnen,to begin,3,6,False,False
 12,September,September,6,3,False,False
-13,der Herbst,the autumn,6,5,False,False
-14,der Historiker,the historian,5,4,False,True
-15,Himmel,Heaven,3,5,False,True
-16,das Mehl,the flour,7,6,False,False
+13,der Herbst,the autumn,6,6,False,False
+14,der Historiker,the historian,5,5,False,False
+15,Himmel,Heaven,3,6,False,True
+16,das Mehl,the flour,7,7,False,False
 17,das Sonderangebot,the special offer,4,7,False,False
-18,reservieren,to reserve,7,3,False,False
+18,reservieren,to reserve,7,4,False,False
 19,der Himmel,the sky,3,2,False,False
 20,die SMS,the SMS,3,-4,False,False
 21,sauber,clean,4,4,False,False
-22,die Tür,the door,4,3,False,False
+22,die Tür,the door,4,4,False,False
 23,oft,often,4,3,False,False
 24,der Fernseher,the television,6,3,False,False
 25,seltsam,strange,5,1,False,False
 26,der Khaki,the khaki,3,4,False,False
 27,der Joghurt,the yoghurt,3,7,False,False
 28,leben,to live,6,4,False,False
-29,der Kollege,the colleague,7,4,False,False
-30,die Kirche,the church,3,5,False,True
+29,der Kollege,the colleague,7,5,False,False
+30,die Kirche,the church,3,5,False,False
 31,das Ziel,the aim,3,6,False,False
 32,emotional,emotional,2,1,False,False
-33,die Zucchini,the zucchini,5,2,False,False
-34,der Urlaub,the holiday,6,3,False,False
-35,die Herberge,the hostel,2,7,False,False
-36,der Garten,the garden,4,3,False,True
-37,der Pass,the pass,3,5,False,False
-38,es tut mir leid,I'm sorry,2,6,False,False
-39,der Halt,the halt,7,6,False,True
+33,die Zucchini,the zucchini,6,2,False,False
+34,der Urlaub,the holiday,6,4,False,False
+35,die Herberge,the hostel,3,7,True,False
+36,der Garten,the garden,4,3,False,False
+37,der Pass,the pass,4,5,False,False
+38,es tut mir leid,I'm sorry,3,6,False,False
+39,der Halt,the halt,8,6,False,False
 40,März,March,3,4,False,False
 41,der Tempel,the temple,4,5,False,False
 42,die Konstellation,the constellation,4,5,False,False
 43,die Geschichte,the history,1,-2,False,False
 44,die Position,the position,4,4,False,False
-45,die Luft,the air,4,1,False,True
+45,die Luft,the air,4,1,False,False
 46,die Garantie,the guarantee,5,4,False,False
 47,löschen,to delete,6,5,False,False
 48,der Tod,the death,4,3,False,False
-49,die Note,the grade,7,8,False,True
-50,das Schwein,the pig,6,3,False,False
+49,die Note,the grade,6,8,False,False
+50,das Schwein,the pig,7,3,True,False
 51,überfahren,to run over,5,-2,False,False
 52,der Cousin,the cousin,5,10,False,False
 53,geduldig,patient,2,-4,False,False
@@ -56,17 +56,17 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 55,die Überschwemmung,the flood,2,-3,False,False
 56,ständig,constant,1,0,False,False
 57,sich lohnen,to be worth it,-3,-3,False,False
-58,der Strömung,the flow,6,-5,False,False
+58,der Strömung,the flow,7,-5,False,False
 59,aushalten,to withstand,-3,-2,False,False
 60,lachen,to laugh,3,-1,False,False
-61,währen,to last,3,-3,False,False
+61,währen,to last,4,-3,True,False
 62,die Gabe,the gift,-1,4,False,False
 63,der Pfeffer,the pepper,2,-1,False,False
 64,besondere,special,1,1,False,False
 65,die Präposition,the preposition,4,5,False,False
-66,der Geruchssin,the sense of smell,4,-1,False,False
+66,der Geruchssin,the sense of smell,4,-2,False,False
 67,die Übersetzung,the translation,7,-1,False,False
-68,reiten,to ride,6,-2,False,False
+68,reiten,to ride,7,-2,False,False
 69,das Pokal,the cup,3,-5,False,False
 70,die Flanke,the flank,3,3,False,False
 71,beachten,to pay attention,0,0,False,False
@@ -77,26 +77,26 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 76,das Sprichwort,the proverb,3,3,False,False
 77,die Hymne,the anthem,3,5,False,False
 78,nah,close,-1,3,False,False
-79,die Regierung,the government,4,5,True,False
+79,die Regierung,the government,4,5,False,False
 80,selten,rarely,3,1,False,False
 81,der Vordergrund,the foreground,-2,-2,False,False
 82,der Stern,the star,3,4,False,False
-83,die Mandel,the almond,5,-1,False,False
+83,die Mandel,the almond,5,0,False,False
 84,das Nashorn,the rhino,5,0,False,False
 85,der Hahn,the rooster,2,7,False,False
 86,erinnern,to remind,0,1,False,False
-87,die rote Bete,the beetroot,5,1,False,False
-88,der Ahn,the ancestor,6,2,False,False
+87,die rote Bete,the beetroot,5,2,False,False
+88,der Ahn,the ancestor,7,2,False,False
 89,der Kamm,the towel,7,2,False,False
-90,ärgern,to annoy,1,2,False,False
+90,ärgern,to annoy,2,2,False,False
 91,hinten,behind,1,0,False,False
-92,die Zahnbürste,the toothbrush,5,-6,False,False
+92,die Zahnbürste,the toothbrush,6,-6,False,False
 93,die Erkältung,the cold,2,0,False,False
-94,die Kardone,the cardoon,2,5,False,False
+94,die Kardone,the cardoon,2,6,False,False
 95,statt,instead of,2,6,False,False
 96,die Dattek,the date,3,2,False,False
 97,vorstellen,to present,1,2,False,False
-98,der Film,the movie,1,5,False,False
+98,der Film,the movie,0,5,False,False
 99,der Zwerg,the dwarf,4,3,False,False
 100,sich verlieben,to fall in love,1,0,False,False
 101,die Bürste,the brush,3,6,False,False
@@ -109,8 +109,8 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 108,schneiden,to cut,5,3,False,False
 109,der Kürbis,the pumpkin,4,3,False,False
 110,verdrängen,to replace,-6,-3,False,False
-111,verpassen,to miss,3,2,True,False
-112,beschenken,to make a present,0,-2,False,False
+111,verpassen,to miss,3,2,False,False
+112,beschenken,to make a present,0,-1,False,True
 113,der Magen,the stomach,2,4,False,False
 114,leise,discrete,0,-1,False,False
 115,die Landwirtschaft,the agriculture,4,-3,False,False
@@ -120,16 +120,16 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 119,die Erbse,the pea,6,3,False,False
 120,gelten,to apply,3,2,False,False
 121,das Rührei,the scrambled egg,4,2,False,False
-122,die Lösung,the solution,2,5,False,False
+122,die Lösung,the solution,2,6,False,False
 123,die Markise,the awning,5,4,False,False
 124,die Brunnenkresse,the watercress,-2,-3,False,False
 125,zwingend,mandatory,0,5,False,False
 126,die Reineclaude,the greengage,3,3,False,False
-127,die Ableitung,the derivation,-3,1,False,False
+127,die Ableitung,the derivation,-2,1,False,False
 128,wenig,little,2,3,False,False
-129,der übersetzer,the translator,2,-2,False,False
+129,der übersetzer,the translator,3,-2,False,False
 130,herzlich,cordial,0,2,False,False
-131,unterhalten,to entertain,-2,0,False,False
+131,unterhalten,to entertain,-3,0,False,False
 132,vorgedrungen,advanced,1,-3,False,False
 133,schmutzig,dirty,2,-1,False,False
 134,unterwegs,on the road,1,-1,False,False
@@ -138,14 +138,14 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 137,abmelden,to sign out,-1,2,False,False
 138,der Grünkohl,the kale,-1,-3,False,False
 139,die Masche,the mesh,8,4,False,False
-140,wandern,to hike,5,3,False,False
-141,flüssig,liquid,3,0,True,False
-142,die Ausflug,the excursion,6,-1,False,False
+140,wandern,to hike,5,4,False,False
+141,flüssig,liquid,3,0,False,False
+142,die Ausflug,the excursion,7,0,True,False
 143,die Fernbedienung,the remote,3,0,False,False
 144,die Heizung,the heater,-1,2,False,False
 145,die Erläuterung,the explanation,2,0,False,False
 146,messen,to measure,4,4,False,False
-147,das Nasenbluten,the nosebleed,6,-4,False,False
+147,das Nasenbluten,the nosebleed,5,-4,False,False
 148,schiessen,to shoot,-1,-1,False,False
 149,die Ausbildung,the training,3,1,False,False
 150,regnen,to rain,2,2,False,False
@@ -156,15 +156,15 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 155,das Gebäck,the pastry,8,1,False,False
 156,höchst,highly,4,0,False,False
 157,der Dachboden,the attic,3,-1,False,False
-158,das Töpfchen,the potty,2,4,False,False
+158,das Töpfchen,the potty,2,5,False,False
 159,der Tacker,the stapler,0,3,False,False
 160,der Beutel,the sachet,2,0,False,False
 161,der Opa,the grandpa,1,4,False,False
-162,die Suppe,the soup,1,5,False,False
+162,die Suppe,the soup,1,6,False,False
 163,der Kühlschrank,the fridge,3,2,False,False
-164,Englisch,English,0,1,False,False
+164,Englisch,English,0,2,False,False
 165,Dienstag,Tuesday,3,1,False,False
-166,die Frage,the question,4,2,False,False
+166,die Frage,the question,4,3,False,False
 167,Guten Abend,good evening,4,-1,False,False
 168,der Statistiker,the statistician,7,5,False,False
 169,nein,no,0,0,False,False
@@ -176,39 +176,39 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 175,waschen,to wash,2,2,False,False
 176,der Vogel,the bird,3,1,False,False
 177,die Antwort,the answer,0,1,False,False
-178,Was machst du beruflich?,What is your work?,-1,1,False,False
+178,Was machst du beruflich?,What is your work?,-2,1,False,False
 179,gut,good,1,2,False,False
-180,grau,grey,1,2,False,False
+180,grau,grey,1,3,False,False
 181,die Maus,the mouse,2,0,False,False
 182,vegetarier,vegetarian,1,1,False,False
-183,die Socke,the sock,4,3,False,False
-184,golden,golden,2,4,True,False
+183,die Socke,the sock,4,4,False,False
+184,golden,golden,2,5,False,False
 185,spenden,to donate,2,1,False,False
 186,warum,why,3,1,False,False
-187,die Banane,the banana,4,3,False,False
-188,das Wort,the word,4,0,False,False
-189,die Dinge,the thing,3,-3,False,False
+187,die Banane,the banana,4,4,False,False
+188,das Wort,the word,4,1,False,False
+189,die Dinge,the thing,3,-2,False,False
 190,die Seife,the soap,1,1,False,False
 191,die Spinne,the spider,2,3,False,False
-192,der Sohn,the son,1,3,False,True
+192,der Sohn,the son,1,3,False,False
 193,der Mann,the man,2,4,False,False
 194,die Hose,the pants,1,4,False,False
 195,wichtig,important,2,1,False,False
-196,das Kino,the cinema,3,3,False,False
+196,das Kino,the cinema,4,3,False,False
 197,die Spezialität,the specialty,2,-3,False,False
 198,die Küche,the kitchen,0,0,False,False
 199,die Stadt,the city,1,3,False,False
 200,der Zucker,the sugar,4,3,False,False
-201,hunger,hungry,2,1,False,False
-202,modern,modern,3,3,False,False
+201,hunger,hungry,2,2,False,False
+202,modern,modern,4,3,False,False
 203,der Spinat,the spinach,3,3,False,False
 204,das Bein,the leg,2,0,False,False
-205,die Firma,the company,1,1,False,False
+205,die Firma,the company,2,1,False,False
 206,das Blut,the blood,1,-2,False,False
 207,einfach,easy,2,1,False,False
 208,die Kunst,the art,0,-1,False,False
 209,der Ursprung,the origin,2,1,False,False
-210,langweilig,boring,0,0,False,False
+210,langweilig,boring,1,0,False,False
 211,das Gefühl,the feeling,5,-3,False,False
 212,altmodisch,old-fashioned,0,-4,False,False
 213,der Fotoapparat,the camera,4,-2,False,False
@@ -218,99 +218,99 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 217,gratis,free (money),0,3,False,False
 218,die Ecke,the corner,2,1,False,False
 219,der Ventilator,the ventilator,-2,4,False,False
-220,sehen,to see,2,2,False,False
+220,sehen,to see,3,2,False,False
 221,der Rest,the rest,3,-3,False,False
 222,die Meinung,the opinion,0,3,False,False
 223,die Gesundheit,the health,0,0,False,False
 224,der Lachs,the salmon,2,2,False,False
 225,passieren,to happen,3,2,False,False
 226,zu Hause,at home,4,2,False,False
-227,der Ring,the ring,1,0,False,True
-228,das Getränk,the drink,2,1,False,False
+227,der Ring,the ring,2,0,False,False
+228,das Getränk,the drink,4,1,False,False
 229,der Schrimp,the shrimp,1,-1,False,False
 230,das Jahrhundert,the century,2,-2,False,False
-231,ab A,from A,1,2,False,False
+231,ab A,from A,1,3,False,False
 232,windig,windy,2,0,False,False
-233,violett,violet,2,1,False,False
-234,renovieren,to renovate,0,4,False,False
+233,violett,violet,3,1,False,False
+234,renovieren,to renovate,0,5,False,False
 235,überall,everywhere,1,1,False,False
 236,die Zensur,the censorship,2,-1,False,False
-237,tief,deep,3,-2,False,False
+237,tief,deep,4,-2,False,False
 238,beruflich,professional,0,2,False,False
 239,brillieren,to shine,0,-1,False,False
-240,der Gegner,the opponent,3,2,False,False
+240,der Gegner,the opponent,3,1,False,True
 241,die Pflaume,the plum,1,-1,False,False
-242,der Unterschied,the difference,0,-2,False,False
-243,der Mund,the mouth,2,2,False,False
+242,der Unterschied,the difference,1,-2,False,False
+243,der Mund,the mouth,3,2,False,False
 244,die Osterglocke,the daffodil,1,1,False,False
 245,in der Nähe,near,-1,0,False,False
 246,übersetzen,to translate,1,0,False,False
 247,Guten Rutsch,Happy New Year (before),0,-1,False,False
 248,der Ersatz,the replacement,0,0,False,False
 249,die Atmosphäre,the atmosphere,3,5,False,False
-250,die Kultur,the culture,1,-1,False,False
+250,die Kultur,the culture,2,-1,False,False
 251,verdoppeln,to double,1,1,False,False
 252,die Nuss,the nut,2,-3,False,False
-253,das Netzwerk,the network,5,0,False,False
+253,das Netzwerk,the network,5,-1,False,False
 254,die Feder,the feather,2,-3,False,False
 255,die Taktik,the tactic,3,0,False,False
 256,zwischen,between,2,0,False,False
 257,das Papier,the paper,4,3,False,False
 258,effektiv,effective,2,-1,False,False
-259,lösen,to loose,1,-1,False,False
+259,lösen,to loose,1,-2,False,False
 260,effizient,efficient,3,2,False,False
-261,der Beginn,the beginning,4,0,False,False
+261,der Beginn,the beginning,5,0,False,False
 262,der Tropfen,the drop,-1,-2,False,False
-263,das Ufer,the shore,-4,-1,False,False
+263,das Ufer,the shore,-5,-1,False,False
 264,der Ritt,the ride,-2,-2,False,False
-265,einsinken,to sink in,-1,1,False,False
+265,einsinken,to sink in,-1,2,False,False
 266,chaotisch,chaotic,0,-2,False,False
-267,die Mirabelle,the mirabelle,3,2,False,False
+267,die Mirabelle,the mirabelle,3,1,False,False
 268,Ungar,Hungary,1,-1,False,False
-269,betreten,to enter,0,0,False,False
+269,betreten,to enter,-1,0,False,False
 270,das Spielzeug,the toy,-1,-2,False,False
 271,das Universum,the universe,1,-1,False,False
 272,rechts aussen,extreme right,0,-3,False,False
 273,tun,to do,3,1,False,False
 274,die Arbeitsstelle,the job,-2,-4,False,False
 275,die Abwesenheit,the absence,0,-2,False,False
-276,der Schimpanse,the chimpanzee,1,-1,False,True
-277,die Umweltpolitik,the environmental policy,-1,2,False,False
+276,der Schimpanse,the chimpanzee,1,-1,False,False
+277,die Umweltpolitik,the environmental policy,0,2,False,False
 278,ausgeben,to spend,-1,-2,False,False
-279,lautstark,vocal,0,-2,False,False
+279,lautstark,vocal,1,-2,True,False
 280,gebrochen,broken,-1,-2,False,False
 281,bergauf,uphill,2,-2,False,False
 282,der Bildschirm,the screen,1,-1,False,False
 283,das Schnäppchen,the bargain,-1,-1,False,False
 284,angeln,to fish,-1,0,False,False
-285,die Freundlichkeit,the kindness,-1,-4,False,True
+285,die Freundlichkeit,the kindness,-1,-4,False,False
 286,der Bart,the beard,-2,-1,False,False
 287,am Anfang,at the beginning,2,-1,False,False
 288,der Vorgang,the process,-2,-2,False,False
 289,sterbend,dying,-2,-1,False,False
 290,permanent,permanent,2,0,False,False
 291,einzahlen,to deposit,-2,-3,False,False
-292,kündigen,to terminate,-2,-3,False,False
+292,kündigen,to terminate,-3,-3,False,False
 293,der Diebstahl,the theft,-5,-1,False,False
 294,gegensätzlich,opposite,-1,-3,False,False
-295,der Geruch,the smell,0,3,False,True
+295,der Geruch,the smell,0,4,False,False
 296,der Vulkanausbruch,the volcanic eruption,3,-1,False,False
-297,die Krankheit,the disease,3,2,False,False
+297,die Krankheit,the disease,4,2,True,False
 298,die Wanderung,the hike,1,0,False,False
 299,die Aussage,the statement,0,0,False,False
-300,der Staat,the state,2,1,False,False
-301,der Mitspieler,the co-player,-2,-1,True,False
+300,der Staat,the state,2,0,False,False
+301,der Mitspieler,the co-player,-2,-1,False,False
 302,das Orchester,the orchestra,4,-2,False,False
-303,das Kätzchen,the kitten,3,1,False,False
+303,das Kätzchen,the kitten,4,1,False,False
 304,das Interesse,the interest,6,-3,False,False
 305,der Torhüter,the goalkeeper,-1,-1,False,False
-306,salonfähig,acceptable,-1,-3,False,False
-307,der Markt,the market,1,-1,False,False
+306,salonfähig,acceptable,0,-3,False,False
+307,der Markt,the market,1,0,False,False
 308,oben,above,0,-1,False,False
 309,der Schnabel,the beak,-3,0,False,False
 310,die Nachricht,the message,2,-1,False,False
-311,die Opfergabe,the offering,0,-2,False,False
-312,folgen,to follow,4,2,False,True
+311,die Opfergabe,the offering,0,-3,False,False
+312,folgen,to follow,4,2,False,False
 313,ein bisschen,a bit,0,0,False,False
 314,der Preis,the price,2,2,False,False
 315,die Offenheit,the openness,-2,0,False,False
@@ -323,57 +323,57 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 322,frustrierend,frustrating,5,0,False,False
 323,der Verkäufer,the seller,1,-3,False,False
 324,das Freibad,the outdoor pool,0,-2,False,False
-325,der Kuckuck,the cuckoo,2,-1,False,True
+325,der Kuckuck,the cuckoo,2,-1,False,False
 326,der Beweis,the proof,-1,-2,False,False
 327,das Mittelalter,the Middle Ages,2,-1,False,False
 328,die Quittung,the receipt,-1,2,False,False
 329,das Einkommen,the income,5,6,False,False
-330,wie geht es dir?,how are you?,5,2,False,False
+330,wie geht es dir?,how are you?,6,2,False,False
 331,wissen,to realize,0,-1,False,False
 332,der Schal,the scarf,3,4,False,False
 333,leiden,to suffer,-1,-5,False,False
-334,aufstehen,to get up,0,-3,False,False
+334,aufstehen,to get up,0,-4,False,False
 335,die Schildkröte,the turtle,1,-4,False,False
 336,der Blick,the view,1,0,False,False
-337,die Begegnung,the encounter,0,-4,False,False
+337,die Begegnung,the encounter,-1,-4,False,False
 338,fleissig,hard-working,-1,-4,False,False
 339,das Gesicht,the face,1,-1,False,False
 340,sich erinnern,to remember,3,-1,False,False
 341,die Quitte,the quince,-2,-2,False,False
 342,anstehen,to queue,-3,-2,False,False
-343,der Fehler,the mistake,4,2,False,False
+343,der Fehler,the mistake,5,2,False,False
 344,das Geheimnis,the secret,1,-2,False,False
 345,das Arbeitszimmer,the study,6,-3,False,False
-346,der Schuh,the shoe,3,-2,False,False
+346,der Schuh,the shoe,4,-2,False,False
 347,das Auge,the eye,2,0,False,False
 348,blenden,to blind,-1,0,False,False
-349,die Erdkunde,the geography,-1,-1,True,False
-350,ob,whether,-2,-1,False,False
+349,die Erdkunde,the geography,-1,-1,False,False
+350,ob,whether,-2,0,False,True
 351,die Ruhe,the calm,1,0,False,False
 352,das Flugzeug,the plane,-1,-1,False,False
-353,die Körperpflege,the personal hygiene,0,-2,False,False
+353,die Körperpflege,the personal hygiene,0,-3,False,False
 354,die schwarze Johannisbeere,the blackcurrant,-2,-3,False,False
 355,wolkig,cloudy,1,0,False,False
-356,der Sprung,the jump,0,0,False,False
-357,vorn,in the front,0,-1,False,False
+356,der Sprung,the jump,1,0,False,False
+357,vorn,in the front,0,-2,False,False
 358,die Ampel,the traffic light,-1,-1,False,False
 359,glücklich,happy,5,3,False,False
-360,zählen,to count,0,0,False,False
-361,die Dose,the can,3,1,False,False
+360,zählen,to count,0,-1,False,False
+361,die Dose,the can,4,1,False,False
 362,die Mangostanfrucht,the mangosteen,-1,-3,False,False
-363,der Beruf,the profession,3,-3,False,True
+363,der Beruf,the profession,4,-3,False,False
 364,geschieden,divorced,2,-3,False,False
 365,der Laden,the store,1,3,False,False
 366,bis Bald,bye for now,-2,2,False,False
 367,das Gebäude,the building,-1,-1,False,False
-368,die Traube,the grape,-3,-2,False,False
+368,die Traube,the grape,-4,-2,False,False
 369,bleiben,to remain,-2,3,False,False
-370,das Mitglied,the member,-1,-2,False,False
+370,das Mitglied,the member,-1,-3,False,False
 371,unterrichten,to teach,1,2,False,False
-372,der Anhänger,the supporter,-1,-2,False,False
-373,feiern,to celebrate,1,0,False,False
-374,das Arbeitplatz,the workplace,4,-6,False,False
-375,höflich,polite,-4,-1,False,False
+372,der Anhänger,the supporter,-1,-2,True,False
+373,feiern,to celebrate,1,1,False,False
+374,das Arbeitplatz,the workplace,5,-6,False,False
+375,höflich,polite,-5,-1,True,False
 376,die Stelle,the place,-2,1,False,False
 377,der Dorn,the thorn,-1,0,False,False
 378,der Satz,the sentence,0,0,False,False
@@ -387,58 +387,58 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 386,die rote Beeren,the red berries,-1,-3,False,False
 387,der Musikgeschmak,the musical taste,5,-4,False,False
 388,üben,to practice,0,6,False,False
-389,die Vorspeise,the starter,0,-1,False,False
+389,die Vorspeise,the starter,1,-1,False,False
 390,die Feige,the fig,3,-2,False,False
-391,das Lachen,the laugh,3,-1,False,False
+391,das Lachen,the laugh,2,-1,False,False
 392,die Ankunft,the arrival,-5,-1,False,False
-393,bekommen,to obtain,-1,-4,False,False
-394,der Termin,the appointment,0,2,False,False
+393,bekommen,to obtain,-1,-5,False,False
+394,der Termin,the appointment,-1,2,False,False
 395,zurzeit,for now,-2,0,False,False
 396,der Künstler,the artist,0,2,False,False
 397,das Ergebnis,the outcome,0,-4,False,False
-398,der Zweifel,the doubt,-1,-4,False,True
+398,der Zweifel,the doubt,-1,-4,False,False
 399,der Weizen,the wheat,2,-3,False,False
-400,die Sternfrucht,the carambola,-1,-3,False,False
+400,die Sternfrucht,the carambola,-2,-3,False,False
 401,verlassen,to leave,-2,-2,False,False
 402,dabei sein,to be there,0,0,False,False
-403,die Aufmerksamkeit,the attention,2,-2,True,False
+403,die Aufmerksamkeit,the attention,2,-2,False,False
 404,der Grad,the degree,0,0,False,False
-405,lügen,to lie,2,-3,False,False
+405,lügen,to lie,2,-2,False,False
 406,entscheiden,to decide,3,3,False,False
-407,der Haartrockner,the hairdryer,-2,-3,False,False
-408,das Design,the design,3,-2,False,False
+407,der Haartrockner,the hairdryer,-2,-4,False,False
+408,das Design,the design,3,-3,False,True
 409,die Stube,the lounge,-2,-3,False,False
 410,der Hügel,the hill,1,-3,False,False
 411,insbesondere,especially,1,-2,False,False
 412,die Hängematte,the hammock,0,0,False,False
-413,anhalten,to halt,0,0,False,False
+413,anhalten,to halt,-1,0,False,False
 414,der Endiviensalat,the endive,0,-2,False,False
 415,der Verkehr,the circulation,1,-3,False,False
 416,Nun!,Well!,-3,3,False,False
-417,föhnen,to blow-dry,-5,-1,True,False
+417,föhnen,to blow-dry,-5,-1,False,False
 418,der Teil,the part,0,0,False,False
-419,die Litschi,the lychee,0,2,False,False
+419,die Litschi,the lychee,1,2,True,False
 420,sich beschweren,to complain,0,0,False,False
-421,der Wahnsinn,the madness,3,-2,False,False
-422,die Tiefe,the depth,3,-1,False,False
-423,aufreissen,to tear open,-2,-1,True,False
+421,der Wahnsinn,the madness,4,-2,False,False
+422,die Tiefe,the depth,5,-1,False,False
+423,aufreissen,to tear open,-3,-1,False,False
 424,die Sammlung,the collection,5,1,False,False
 425,der Schwamm,the sponge,0,-4,False,False
 426,fast,almost,2,2,False,False
 427,aufhören,to cease,-2,-1,False,False
 428,sofort,immediately,-2,3,False,False
 429,das Streichholz,the match,4,0,False,False
-430,sich streiten,to quarrel,0,-1,False,False
-431,die Rübe,the turnip,-4,-1,False,False
+430,sich streiten,to quarrel,0,-2,False,True
+431,die Rübe,the turnip,-4,-2,False,True
 432,der Stock,the floor,1,-2,False,False
-433,gelingen,to succeed,-2,-2,False,False
+433,gelingen,to succeed,-1,-2,False,False
 434,passen,to go well,0,-1,False,False
-435,darauf,thereon,0,2,False,False
+435,darauf,thereon,1,2,False,False
 436,sich bedanken,to say thank you,0,-1,False,False
 437,wach,awake,-2,0,False,False
 438,die Lauchzwiebel,the spring onion,2,-1,False,False
 439,Bekannte,the friends,-1,-1,False,False
-440,unpraktisch,impractical,2,1,False,False
+440,unpraktisch,impractical,2,2,False,True
 441,das Sternzeichen,the zodiacal sign,3,-4,False,False
 442,mitteilen,to inform,-3,-1,False,False
 443,der Schnittlauch,the chives,-1,-2,False,False
@@ -447,19 +447,19 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 446,die Sache,the case,-1,1,False,False
 447,die Öffentliche Verkehrsmittel,the public transports,-4,-2,False,False
 448,der Rettich,the radish,0,0,False,False
-449,der Notruf,the emergency call,3,3,False,False
+449,der Notruf,the emergency call,4,3,True,False
 450,veranstalten,to organize,-3,-2,False,False
 451,besetzen,to occupy,2,2,False,False
 452,das Reh,the deer,3,0,False,False
-453,schützen,to protect,2,4,False,False
-454,freuen,to be looking forward,-2,0,False,False
+453,schützen,to protect,3,4,False,False
+454,freuen,to be looking forward,-2,1,False,True
 455,die Zuckerschoten,the snow peas,1,-4,False,False
 456,irreführend,misleading,-3,-1,False,False
-457,der Rand,the edge,0,-1,False,False
+457,der Rand,the edge,1,-1,False,False
 458,wünschen,to wish,0,-3,False,False
 459,verschenken,to give away,-2,-3,False,False
 460,der Feldsalat,the lamb's lettuce,-2,-1,False,False
-461,davon,thereof,0,1,False,False
+461,davon,thereof,1,1,False,False
 462,ausgezeichnet,excellent,-1,0,False,False
 463,legen,to place,2,-1,False,False
 464,auftauchen,to pop up,-5,3,False,False
@@ -468,115 +468,115 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 467,das Heilmittel,the remedy,-2,-2,False,False
 468,der Zauberspruch,the spell,-1,-4,False,False
 469,eins nach dem anderen,one by one,1,-1,False,False
-470,die Vergleich,the comparison,3,-3,False,False
-471,der Standort,the location,-1,-2,False,False
-472,das Abkommen,the agreement,-3,-3,False,False
-473,beschwören,to conjure,-2,-2,False,False
+470,die Vergleich,the comparison,3,-2,False,False
+471,der Standort,the location,-1,-1,False,True
+472,das Abkommen,the agreement,-4,-3,False,False
+473,beschwören,to conjure,-3,-2,False,False
 474,die Häufigkeit,the frequency,-1,-3,False,False
-475,leihen,to borrow,-2,-4,False,False
+475,leihen,to borrow,-3,-4,False,False
 476,der Vorfall,the incident,0,-1,False,False
 477,daneben,besides that,-2,-3,False,False
-478,die Beziehung,the relationship,-5,-2,False,False
-479,der Felsen,the rock,0,-2,False,False
+478,die Beziehung,the relationship,-6,-2,False,False
+479,der Felsen,the rock,1,-2,False,False
 480,verzeihen,to forgive,-2,-1,False,False
 481,der Käse,the cheese,2,-2,False,False
-482,die Strumpfhose,the hoose,0,0,True,False
-483,das Essen,the meal,3,4,False,False
-484,fressen,to eat (animal),0,1,False,False
+482,die Strumpfhose,the hoose,0,0,False,False
+483,das Essen,the meal,4,4,False,False
+484,fressen,to eat (animal),1,1,False,False
 485,lernen,to learn,2,2,False,False
 486,einmal,once,0,-1,False,False
 487,das Kreuz,the cross,1,1,False,False
-488,rosa,pink,1,2,False,False
+488,rosa,pink,2,2,False,False
 489,der Fuss,the foot,0,0,False,False
 490,der Berg,the mountain,2,1,False,False
 491,der Ingenieur,the engineer,1,-1,False,False
-492,der Winter,the winter,2,1,False,False
+492,der Winter,the winter,2,2,False,True
 493,fertig,ready,1,2,False,False
 494,nehmen,to take,0,0,False,False
 495,die Socken,the socks,1,1,False,False
 496,der Weisskohl,the white cabbage,0,0,False,False
-497,Oktober,October,4,2,True,False
-498,kämpfen,to fight,1,-1,False,True
+497,Oktober,October,5,2,False,False
+498,kämpfen,to fight,1,-1,False,False
 499,die Physalis,the physalis,1,-1,False,False
 500,die Glocke,the bell,2,0,False,False
 501,wegen,because of,-2,0,False,False
-502,luxuriös,luxurious,3,-1,True,False
-503,der Löffel,the spoon,2,0,False,False
+502,luxuriös,luxurious,3,-1,False,False
+503,der Löffel,the spoon,3,0,False,False
 504,die Hyäne,the hyena,2,0,False,False
 505,die Melone,the melon,1,-1,False,False
-506,ausziehen,to take off,0,-2,False,False
+506,ausziehen,to take off,-1,-2,False,False
 507,belohnen,to reward,-2,-3,False,False
 508,die Tollwut,the rabies,-1,-2,False,False
 509,verwirklichen,to achieve,-1,-1,False,False
 510,bügeln,to iron,0,-2,False,False
-511,demzufolge,consequently,-2,-2,False,True
+511,demzufolge,consequently,-2,-3,False,False
 512,der Bon,the voucher,-1,0,False,False
 513,ankommen,to arrive,-2,-1,False,False
 514,streiten,to argue,-1,0,False,False
 515,ernst,serious,0,-1,False,False
-516,das Frühstück,the breakfast,0,-2,False,False
+516,das Frühstück,the breakfast,1,-3,True,False
 517,einsteigen,to get on,-1,1,False,False
-518,ähnlich,similar,-1,-3,False,True
-519,knien,to kneel,-1,-1,True,False
+518,ähnlich,similar,-1,-3,False,False
+519,knien,to kneel,-1,-1,False,False
 520,die Absicht,the intention,-4,0,False,False
 521,die Jugendherberge,the youth hostel,2,-1,False,False
-522,die Prüfung,the examination,0,1,False,False
-523,Kapiert?,Geddit?,3,-1,False,False
+522,die Prüfung,the examination,0,3,False,False
+523,Kapiert?,Geddit?,4,-1,False,False
 524,das Kühlhaus,the cold store,0,0,False,False
 525,der Schiedrichter,the referee,1,-3,False,False
-526,die Musik,the music,1,-1,False,False
+526,die Musik,the music,2,-1,False,False
 527,gießen,to pour,-3,-3,False,False
 528,die Zukunft,the future,1,0,False,False
 529,das Denkmal,the monument,1,1,False,False
 530,besuchen,to visit,-3,-1,False,False
 531,perfide,perfidious,2,1,False,False
-532,uralt,ancient,3,-1,False,False
+532,uralt,ancient,3,-2,False,False
 533,die Gartenbohne,the French bean,0,0,False,False
 534,aussteigen,to get out,2,2,False,False
 535,die Wirtschaft,the economy,1,1,False,False
 536,die Schwarzwurzel,the salsify,-3,-2,False,False
-537,der Schrank,the cupboard,3,0,False,True
-538,die Petersilie,the parsley,-2,2,False,True
+537,der Schrank,the cupboard,3,0,False,False
+538,die Petersilie,the parsley,-2,3,False,False
 539,schwimmbecken,to pool,0,-3,False,False
-540,abseits,offside,2,2,True,False
-541,die Stachelbeere,the gooseberry,0,-3,False,False
+540,abseits,offside,2,3,False,False
+541,die Stachelbeere,the gooseberry,0,-4,False,False
 542,die Wüste,the desert,1,6,False,False
 543,das Schweigen,the silence,-2,-3,False,False
 544,die Bejahung,the affirmation,0,-4,False,False
 545,der Liebling,the favourite,2,-2,False,False
 546,die Heidelbeere,the blueberry,-1,0,False,False
 547,der Muskelkater,the sore muscles,-2,-1,False,False
-548,wem,who,-1,0,True,False
+548,wem,who,-1,0,False,False
 549,der Knoblauch,the garlic,3,-3,False,False
 550,der Rüssel,the trunk,-1,0,False,False
-551,die Kastanie,the chestnut,0,-1,False,False
-552,der Sessel,the armchair,0,0,False,False
-553,das Hauptgericht,the main course,1,0,False,False
+551,die Kastanie,the chestnut,0,-2,False,False
+552,der Sessel,the armchair,0,-1,False,False
+553,das Hauptgericht,the main course,2,0,False,False
 554,die Vorbereitung,the preparation,-1,-1,False,False
 555,die Gegenwart,the present,0,0,False,False
-556,neben,besides,0,-2,False,True
+556,neben,besides,0,-2,False,False
 557,weiter so,keep it up,-4,0,False,False
-558,das Schaf,the sheep,-1,-2,False,False
+558,das Schaf,the sheep,-2,-1,False,True
 559,der Schluckauf,the hiccup,-2,-2,False,False
 560,ewig,eternally,-3,2,False,False
 563,benutzen,to use,0,-1,False,False
-568,verstehen,to understand,0,-1,False,False
-574,klein,small,1,0,False,False
+568,verstehen,to understand,0,1,False,True
+574,klein,small,2,0,False,False
 575,müde,tired,2,1,False,False
 577,der Reis,the rice,4,0,False,False
-583,schlafen,to sleep,3,1,False,False
+583,schlafen,to sleep,3,2,False,False
 596,die Wohnung,the flat,-1,0,False,False
-603,die Möbel,the furniture,1,2,False,False
+603,die Möbel,the furniture,2,2,True,False
 605,der Partner,the partner,0,1,False,False
 608,das Stück,the piece,1,-2,False,False
 609,schnell,fast,4,2,False,False
 612,die Hausnummer,the house number,1,-3,False,False
 613,die Sprache,the language,2,2,False,False
 614,die Zeitung,the newspaper,2,3,False,False
-615,die Pflanze,the plant,3,1,True,False
+615,die Pflanze,the plant,3,1,False,False
 625,frisch,fresh,0,1,False,False
-635,zeigen,to show,0,2,False,False
-636,der Sport,the sport,2,3,False,False
+635,zeigen,to show,1,2,False,False
+636,der Sport,the sport,3,3,False,False
 643,der Lehrer,the teacher,2,0,False,False
 645,ganz,whole,-1,1,False,False
 652,die Übung,the exercise,0,-2,False,False
@@ -589,14 +589,14 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 667,die Kirsche,the cherry,0,0,False,False
 670,ledig,single,0,2,False,False
 672,die Mango,the mango,2,0,False,False
-676,trinken,to drink,3,1,False,False
-680,die Frau,the woman,1,1,False,False
-682,leider,unfortunately,1,5,False,False
+676,trinken,to drink,3,2,False,False
+680,die Frau,the woman,2,1,False,False
+682,leider,unfortunately,2,5,False,False
 683,aber,but,1,1,False,False
 687,das Wörterbuch,the dictionary,4,-1,False,False
-690,dann,then,1,1,False,False
+690,dann,then,2,2,False,True
 696,die Tochter,the daughter,0,2,False,False
-700,spät,late,2,2,False,False
+700,spät,late,2,3,False,False
 701,wo,where,1,4,False,False
 703,der Euro,the euro,1,4,False,False
 707,haben,to have,3,0,False,False
@@ -605,12 +605,12 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 716,sitzen,to sit,1,-1,False,False
 726,das Glas,the glass,4,1,False,False
 733,welche,which,6,1,False,False
-736,kalt,cold,2,5,False,True
+736,kalt,cold,3,5,False,False
 757,die Flasche,the bottle,2,2,False,False
 760,falsch,wrong,1,2,False,False
 765,kurz,short,3,1,False,False
-773,die Kartoffel,the potato,2,0,False,False
-774,kochen,to cook,1,4,False,False
+773,die Kartoffel,the potato,3,0,True,False
+774,kochen,to cook,1,5,False,True
 775,beide,both,1,2,False,False
 776,der Bruder,the brother,1,1,False,False
 777,die Nudel,the pasta,0,0,False,False
@@ -619,7 +619,7 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 789,morgen,tomorrow,2,5,False,False
 795,und,and,2,1,False,False
 800,übermorgen,the day after tomorrow,1,2,False,False
-803,der Bleistift,the pencil,2,-1,False,False
+803,der Bleistift,the pencil,2,-2,False,False
 807,der Kunde,the customer,0,-2,False,False
 811,essen,to eat,1,0,False,False
 826,die Schwester,the sister,3,2,False,False
@@ -629,65 +629,65 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 847,das Obst,the fruit,2,-2,False,False
 848,manchmal,sometimes,5,0,False,False
 849,bitte,please,0,4,False,False
-850,gehen,to go,4,0,True,False
+850,gehen,to go,4,0,False,False
 851,der Tisch,the table,2,1,False,False
 853,die Terrasse,the terrace,0,-1,False,False
-855,das Büro,the office,2,1,False,False
+855,das Büro,the office,2,2,False,False
 858,der Teppich,the carpet,2,-1,False,False
-866,der Fisch,the fish,3,3,False,False
+866,der Fisch,the fish,4,3,False,False
 870,das Wasser,the water,2,0,False,False
 877,lang,long,3,0,False,False
 878,lesen,to read,0,4,False,False
 879,die Schokolade,the chocolate,3,2,False,False
 880,das Salz,the salt,1,-1,False,False
-882,das Erdgeschoss,the ground floor,1,-1,False,False
+882,das Erdgeschoss,the ground floor,2,-1,False,False
 884,jetzt,now,3,0,False,False
 887,das Gemüse,the vegetables,0,-2,False,False
 888,danke,thank you,4,1,False,False
 890,die Geschwister,the siblings,0,-1,False,False
-894,teuer,expensive,1,1,False,False
+894,teuer,expensive,1,2,False,False
 895,die Zeit,the time,2,0,False,False
 896,die Seite,the page,0,2,False,False
-899,die Himbeere,the raspberry,1,-1,False,False
+899,die Himbeere,the raspberry,2,-1,False,False
 900,die Tomate,the tomato,4,1,False,False
 901,der Tee,the tea,2,0,False,False
 903,neu,new,2,3,False,False
 905,die Toilette,the toilet,3,1,False,False
 914,richtig,correct,3,1,False,False
 916,der Stuhl,the chair,1,-1,False,False
-918,das Geld,the money,2,3,False,False
+918,das Geld,the money,2,4,False,False
 919,die Tasche,the bag,-2,0,False,False
-923,der Schlüssel,the key,3,4,False,False
+923,der Schlüssel,the key,3,3,False,False
 926,der Saft,the juice,-1,3,False,False
-939,die Mutter,the mother,3,2,False,False
-951,die Milch,the milk,4,0,False,False
-961,vorgestern,the day before yesterday,1,0,False,False
-964,verheiratet,married,1,2,False,False
+939,die Mutter,the mother,4,3,False,True
+951,die Milch,the milk,4,1,False,False
+961,vorgestern,the day before yesterday,1,1,False,False
+964,verheiratet,married,1,3,False,False
 965,lecker,delicious,1,3,False,False
 968,das Beispiel,the example,3,1,False,False
 969,grillen,to grill,2,1,False,False
-977,heute,today,2,1,False,False
-978,das Bier,the beer,3,3,False,False
+977,heute,today,2,2,False,False
+978,das Bier,the beer,4,3,False,False
 980,das Zentrum,the centre,1,6,False,False
-986,die Zahl,the number,0,-1,False,False
+986,die Zahl,the number,0,0,False,False
 990,die Form,the form,2,0,False,False
-996,das Fenster,the window,3,1,False,False
-999,laut,loud,1,1,False,False
+996,das Fenster,the window,3,1,False,True
+999,laut,loud,1,2,False,False
 1001,der Computer,the computer,0,1,False,False
 1002,die Kiwi,the kiwi,0,-3,False,False
 1005,vor,before,0,1,False,False
-1007,interessant,interesting,1,1,False,False
-1009,der Wein,the wine,1,-1,False,False
+1007,interessant,interesting,1,0,False,True
+1009,der Wein,the wine,1,-2,False,False
 1022,der Schnee,the snow,1,0,False,False
 1023,der Westen,the west,0,-2,False,False
 1024,der Mantel,the coat,3,0,False,False
-1030,der Arm,the arm,3,0,False,False
-1035,der Kalender,the calendar,3,-1,False,True
+1030,der Arm,the arm,3,1,False,False
+1035,der Kalender,the calendar,3,-1,False,False
 1036,trocken,dry,1,0,False,False
 1045,die Mathematik,the mathematics,0,-1,False,False
 1046,der Teller,the plate,1,3,False,False
 1053,blau,blue,2,4,False,False
-1057,berichten,to report,-1,-3,False,False
+1057,berichten,to report,-2,-3,False,False
 1059,treffen,to meet,0,1,False,False
 1064,korrigieren,to correct,1,1,False,False
 1066,das Hemd,the shirt,-1,1,False,False
@@ -700,16 +700,16 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 1117,der Arzt,the doctor,0,-1,False,False
 1119,das Rezept,the recipe,0,1,False,False
 1127,die Werkstatt,the workshop,-1,-1,False,False
-1129,heiraten,to marry,1,3,False,False
-1152,einladen,to invite,1,3,False,False
+1129,heiraten,to marry,2,3,True,False
+1152,einladen,to invite,1,4,False,False
 1153,fangen,to catch,-2,-1,False,False
-1155,schlecht,bad,2,-1,False,False
+1155,schlecht,bad,2,-2,False,False
 1157,die Blume,the flower,1,-1,False,False
 1166,der Koffer,the suitcase,-1,-2,False,False
 1175,die Bibliothek,the library,0,-2,False,False
-1177,der Baum,the tree,0,-1,False,False
+1177,der Baum,the tree,0,0,False,True
 1182,der Student,the student,1,0,False,False
-1190,Dezember,December,0,1,False,False
+1190,Dezember,December,0,2,False,False
 1191,zweite,second,1,1,False,False
 1193,wählen,to choose,0,0,False,False
 1195,der Zug,the train,2,0,False,False
@@ -718,10 +718,10 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 1210,blöd,stupid,-2,-1,False,False
 1216,warm,warm,0,0,False,False
 1217,das Rathaus,the city hall,0,1,False,False
-1221,das Café,the café,0,1,False,False
+1221,das Café,the café,1,1,False,False
 1224,gelb,yellow,3,1,False,False
-1225,die Bluse,the blouse,3,0,False,False
-1228,bezahlen,to pay,1,3,False,True
+1225,die Bluse,the blouse,4,0,False,False
+1228,bezahlen,to pay,2,3,False,False
 1231,der Rücken,the back,-1,0,False,False
 1234,glauben,to believe,3,1,False,False
 1247,das Hotel,the hotel,2,1,False,False
@@ -730,20 +730,20 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 1260,der Körper,the body,3,0,False,False
 1261,kennen,to know,0,1,False,False
 1265,der Sommer,the summer,1,3,False,False
-1271,der Tourist,the tourist,2,0,False,False
+1271,der Tourist,the tourist,2,-1,False,False
 1278,April,April,0,4,False,False
 1283,das Kleid,the dress,3,1,False,False
 1288,das Radio,the radio,2,3,False,False
-1290,die Grippe,the flu,0,0,False,True
+1290,die Grippe,the flu,0,0,False,False
 1292,probieren,to try,2,3,False,False
 1295,studieren,to study,2,4,False,False
-1298,verdienen,to earn,-1,-2,False,False
+1298,verdienen,to earn,-2,-2,False,False
 1300,anfangen,to start,-2,1,False,False
 1302,schwarz,black,3,0,False,False
 1305,voll,full,1,5,False,False
 1314,das Schiff,the ship,1,0,False,False
 1317,die Einladung,the invitation,2,5,False,False
-1331,der Kopf,the head,1,2,True,False
+1331,der Kopf,the head,2,2,True,False
 1333,denken,to think,3,0,False,False
 1338,rauchen,to smoke,0,6,False,False
 1339,praktisch,practical,0,3,False,False
@@ -753,25 +753,25 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 1350,das Fieber,the fever,2,-2,False,False
 1358,die Nase,the nose,0,1,False,False
 1366,August,August,2,1,False,False
-1375,der Schmerz,the pain,-1,0,True,False
+1375,der Schmerz,the pain,-1,0,False,False
 1376,das Praktikum,the internship,0,-1,False,False
 1380,das Telefon,the telephone,3,-1,False,False
-1382,sonnig,sunny,3,0,False,False
+1382,sonnig,sunny,3,1,False,False
 1384,backen,to bake,1,1,False,False
 1387,tanzen,to dance,2,3,False,False
-1391,fühlen,to feel,1,1,False,False
+1391,fühlen,to feel,2,1,True,False
 1396,letzte,last,1,-1,False,False
-1400,der Hund,the dog,4,1,False,False
+1400,der Hund,the dog,5,1,False,False
 1402,die Jacke,the jacket,2,2,False,False
-1409,vielleicht,maybe,3,2,False,False
+1409,vielleicht,maybe,3,3,False,False
 1413,der Finger,the finger,1,2,False,False
 1419,die Gruppe,the group,0,2,False,False
-1422,rund,round,4,2,True,False
+1422,rund,round,4,3,False,True
 1427,geben,to give,1,1,False,False
 2092,weiss,white,0,0,False,False
 2093,leer,empty,0,0,False,False
 2094,ausmachen,to turn off,0,0,False,False
-2095,der Orangensaft,the orange juice,1,0,True,False
+2095,der Orangensaft,the orange juice,1,0,False,False
 2096,Guten Tag,good day,0,0,False,False
 2097,spielen,to play,0,0,False,False
 2098,das Lotto,the lottery,0,0,False,False
@@ -781,7 +781,7 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2102,orange,orange,0,0,False,False
 2103,das Pferd,the horse,0,0,False,False
 2104,attraktiv,attractive,0,0,False,False
-2105,schwimmen,to swim,0,1,False,True
+2105,schwimmen,to swim,0,1,False,False
 2106,der Junge,the boy,0,0,False,False
 2107,Deutschland,Germany,0,0,False,False
 2108,die Grossmutter,the grand-mother,0,0,False,False
@@ -792,12 +792,12 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2113,prima,fine,0,0,False,False
 2114,Gute Nacht,good night,0,0,False,False
 2115,die Gewinnzahl,the winning number,0,0,False,False
-2116,wilkommen,welcome,0,1,False,True
+2116,wilkommen,welcome,0,1,False,False
 2117,die Moral,the morality,0,0,False,False
 2118,das Tier,the animal,0,0,False,False
 2119,der Prinz,the prince,1,0,False,False
 2120,bitte sehr,you're welcome,0,0,False,False
-2121,hoch,up,-1,0,True,False
+2121,hoch,up,-1,0,False,False
 2122,die Angst,the fear,0,0,False,False
 2123,sagen,to say,0,0,False,False
 2124,klar,clear,0,0,False,False
@@ -808,21 +808,21 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2129,der Veteran,the veteran,0,0,False,False
 2130,das Material,the material,0,0,False,False
 2131,tausend,thousand,0,0,False,False
-2132,die Sauce,the sauce,1,0,True,False
+2132,die Sauce,the sauce,1,0,False,False
 2133,die Flagge,the flag,0,0,False,False
-2134,das Pronomen,the pronoun,1,0,True,False
+2134,das Pronomen,the pronoun,1,-1,False,False
 2135,das Camping,the camping,0,0,False,False
 2136,die Fliege,the fly,0,0,False,False
-2137,der Laptop,the laptop,0,0,False,False
+2137,der Laptop,the laptop,0,1,False,False
 2138,die Qualifikation,the qualification,0,0,False,False
-2139,perfekt,perfect,0,0,False,False
+2139,perfekt,perfect,0,1,False,False
 2140,sprechen,to speak,0,0,False,False
 2141,gesund,healthy,0,0,False,False
 2142,stimmen,to vote,0,0,False,False
 2143,sichtbar,visible,0,0,False,False
 2144,hinzufügen,to add,0,0,False,False
-2145,sauer,sour,0,1,False,True
-2146,die Hexe,the witch,0,0,False,False
+2145,sauer,sour,0,1,False,False
+2146,die Hexe,the witch,0,-1,False,False
 2147,die Ente,the duck,0,0,False,False
 2148,umkämpfen,to beat,0,0,False,False
 2149,der Elefant,the elephant,0,0,False,False
@@ -835,33 +835,33 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2156,die Enkelin,the grand-daughter,0,-1,False,False
 2157,der Bär,the bear,0,0,False,False
 2158,die Philosophie,the philosophy,0,0,False,False
-2159,der Seher,the seer,-1,0,False,False
+2159,der Seher,the seer,-1,1,False,True
 2160,das Zebra,the zebra,0,0,False,False
-2161,die Rose,the rose,0,0,False,False
+2161,die Rose,the rose,0,-1,False,False
 2162,die Jugend,the youth,0,0,False,False
 2163,das Omelette,the omelette,0,0,False,False
-2164,der Kunststoff,the plastic,0,0,False,False
+2164,der Kunststoff,the plastic,-1,0,False,False
 2165,die Theorie,the theory,0,0,False,False
 2166,der Regenschirm,the umbrella,0,0,False,False
 2167,der Käfer,the cockroach,0,0,False,False
 2168,das Metall,the metal,0,0,False,False
 2169,rennen,to sprint,0,0,False,False
 2170,die Stimme,the voice,0,0,False,False
-2171,die Couch,the couch,0,0,False,False
+2171,die Couch,the couch,0,-1,False,False
 2172,das Holz,the wood,0,0,False,False
 2173,das Ethik,the ethique,0,0,False,False
-2174,laufen,to run,-1,0,True,False
+2174,laufen,to run,-1,0,False,False
 2175,diskutieren,to discuss,0,0,False,False
-2176,der Praktikant,the intern,0,-1,False,True
+2176,der Praktikant,the intern,0,-1,False,False
 2177,die Möglichkeit,the possibility,0,0,False,False
 2178,die Katze,the cat,0,0,False,False
 2179,erste,first (adj.),0,0,False,False
 2180,spass,fun,0,0,False,False
 2181,die Freundin,the girlfriend,0,0,False,False
-2182,der Geist,the ghost,0,0,False,False
+2182,der Geist,the ghost,0,-1,False,False
 2183,mehrere,several,0,0,False,False
-2184,das Protokoll,the protocol,-1,0,True,False
-2185,die Ehefrau,the wife,0,0,False,False
+2184,das Protokoll,the protocol,-1,0,False,False
+2185,die Ehefrau,the wife,2,0,False,False
 2186,die Kosmetik,the make-up,0,0,False,False
 2187,der Grossvater,the grand-father,0,0,False,False
 2188,der Wurst,the sausage,0,0,False,False
@@ -869,15 +869,15 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2190,bis Später,see you later,0,0,False,False
 2191,das TischTennis,the table tennis,0,0,False,False
 2192,allein,alone,0,0,False,False
-2193,der Löwe,the lion,0,1,False,True
+2193,der Löwe,the lion,0,2,False,True
 2194,die Identität,the identity,0,0,False,False
 2195,traurig,sad,0,0,False,False
-2196,das Alphabet,the alphabet,1,0,True,False
+2196,das Alphabet,the alphabet,1,0,False,False
 2197,pikant,spicy,0,0,False,False
 2198,Juni,June,0,0,False,False
 2199,der Leopard,the leopard,0,0,False,False
 2200,schon,already,0,0,False,False
-2201,das Produkt,the product,0,1,False,True
+2201,das Produkt,the product,0,1,False,False
 2202,knipsen,to push,0,0,False,False
 2203,bequem,convenient,0,0,False,False
 2204,die Kumquat,the kumquat,0,0,False,False
@@ -889,7 +889,7 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2210,die Chemie,the chemistry,0,0,False,False
 2211,der Friseur,the hairdresser,0,0,False,False
 2212,die Kuh,the cow,0,0,False,False
-2213,wild,wild,0,0,False,False
+2213,wild,wild,0,-1,False,False
 2214,die rote Karte,the red card,0,0,False,False
 2215,der Küchenchef,the cook,0,0,False,False
 2216,das Leben,the life,0,0,False,False
@@ -897,7 +897,7 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2218,sortieren,to sort,0,0,False,False
 2219,die Tradition,the tradition,0,0,False,False
 2220,die Literatur,the literature,0,0,False,False
-2221,das Notizbuch,the notebook,0,0,False,False
+2221,das Notizbuch,the notebook,0,-1,False,False
 2222,das Boot,the boat,0,0,False,False
 2223,der Hut,the hat,0,0,False,False
 2224,deklinieren,to decline,0,0,False,False
@@ -908,12 +908,12 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2229,das Schloss,the castle,0,0,False,False
 2230,bunt,colorful,0,0,False,False
 2231,die Geldbörse,the purse,0,0,False,False
-2232,überraschen,to surprise,0,0,False,False
+2232,überraschen,to surprise,1,0,False,False
 2233,die Briefmarke,the stamp,0,0,False,False
-2234,der Fuchs,the fox,0,0,False,False
+2234,der Fuchs,the fox,1,0,False,False
 2235,verlieren,to lose,0,0,False,False
 2236,schwül,humide,0,0,False,False
-2237,der Penalty,the penalty,1,0,True,False
+2237,der Penalty,the penalty,1,1,False,False
 2238,überrascht,surprised,0,0,False,False
 2239,die Artischocke,the artichoke,0,0,False,False
 2240,die Clementine,the clementine,0,0,False,False
@@ -923,22 +923,22 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2244,der Turm,the tower,1,0,False,False
 2245,der Anrufer,the caller,0,0,False,False
 2246,möglich,possible,0,0,False,False
-2247,schminken,to make up,0,0,False,False
-2248,das Comicbuch,the comic book,0,0,False,False
+2247,schminken,to make up,-1,0,True,False
+2248,das Comicbuch,the comic book,0,1,False,False
 2249,die Avocado,the avocado,0,0,False,False
 2250,der Zuhörer,the listener,0,0,False,False
-2251,der Strom,the electricity,0,0,False,False
+2251,der Strom,the electricity,-1,0,False,False
 2252,der Ehemann,the husband,0,0,False,False
-2253,die Wohnungssuche,the search for housing,0,0,False,False
-2254,woher,where … from,0,-1,False,True
+2253,die Wohnungssuche,the search for housing,0,-1,False,False
+2254,woher,where … from,0,-1,False,False
 2255,der Fußball,the football,0,0,False,False
-2256,er,he,0,1,False,True
+2256,er,he,0,1,False,False
 2257,schön,beautiful,0,0,False,False
 2258,willkommen,to welcome,0,0,False,False
 2259,liebe,dear,0,0,False,False
 2260,der Keller,the celler,0,0,False,False
 2261,das Lebensmittel,the groceries,0,0,False,False
-2262,das Foto,the photo,1,0,True,False
+2262,das Foto,the photo,3,0,False,False
 2263,die Wohnungsanzeige,the flat advertisement,0,0,False,False
 2264,sie,they,0,0,False,False
 2265,unterstreichen,to emphasize,0,0,False,False
@@ -968,16 +968,16 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2289,der Supermarkt,the supermarket,0,0,False,False
 2290,müssen,to have to,0,0,False,False
 2291,die Mittagspause,the lunchtime,0,0,False,False
-2292,wie,how,0,0,False,False
+2292,wie,how,0,1,False,False
 2293,die Person,the person,0,0,False,False
 2294,finden,to find,0,0,False,False
 2295,das Lammfleisch,the lamb meat,0,0,False,False
-2296,die Badewanne,the bathtub,0,0,False,False
+2296,die Badewanne,the bathtub,0,-1,False,False
 2297,viel,many,0,0,False,False
 2298,die Anmeldung,the registration,0,0,False,False
-2299,das Jahr,the year,0,1,False,True
+2299,das Jahr,the year,0,1,False,False
 2300,also,well,-1,0,False,False
-2301,schauen,to look,0,0,False,False
+2301,schauen,to look,0,-1,False,True
 2302,ja,yes,0,0,False,False
 2303,putzen,to clean,0,0,False,False
 2304,die Hausaufgabe,the homework,0,0,False,False
@@ -998,14 +998,14 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2319,erklären,to explain,0,0,False,False
 2320,etwas,something,0,0,False,False
 2321,die Landkarte,the map,0,0,False,False
-2322,die Woche,the week,0,0,False,False
+2322,die Woche,the week,1,0,False,False
 2323,der Kugelschreiber,the ball,0,0,False,False
-2324,helfen,to help,0,0,False,False
+2324,helfen,to help,0,-1,False,False
 2325,die E-mail,the email,0,0,False,False
 2326,der Morgen,the morning,0,0,False,False
 2327,der Einkaufszettel,the shopping list,0,0,False,False
 2328,maximal,maximal,0,0,False,False
-2329,die Marmelade,the jam,0,-1,False,True
+2329,die Marmelade,the jam,0,-1,False,False
 2330,der Familienname,the surname,0,0,False,False
 2331,das Heimatland,the home country,0,0,False,False
 2332,der Samstag,Saturday,0,0,False,False
@@ -1021,7 +1021,7 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2342,das Elektrogerät,the electronic device,0,0,False,False
 2343,mittags,at midday,0,0,False,False
 2344,das Haus,the house,0,0,False,False
-2345,der Juni,the june,0,0,False,False
+2345,der Juni,the june,-1,0,False,False
 2346,halb,half past,0,0,False,False
 2347,direkt,direct,0,0,False,False
 2348,hören,to hear,0,0,False,False
@@ -1034,15 +1034,15 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2355,die Spülmaschine,the dishwasher,0,0,False,False
 2356,das Hochhaus,the high,0,0,False,False
 2357,der Tag,the day,0,0,False,False
-2358,der Gast,the guest,-1,0,True,False
+2358,der Gast,the guest,-1,0,False,False
 2359,hell,light,0,0,False,False
 2360,der Quadratmeter,the squaremetre,0,0,False,False
-2361,weiter,further,0,-1,False,True
-2362,die Handynummer,the mobile number,0,0,False,False
+2361,weiter,further,0,-1,False,False
+2362,die Handynummer,the mobile number,0,-1,False,False
 2363,die Arbeit,the work,0,0,False,False
 2364,das Brötchen,the bread roll,0,0,False,False
 2365,die Sprachschule,the language school,0,0,False,False
-2366,ruhig,peaceful,-1,0,True,False
+2366,ruhig,peaceful,-1,0,False,False
 2367,was,what,0,0,False,False
 2368,der Becher,the container,0,0,False,False
 2369,sollen,to be supposed to,0,-1,False,False
@@ -1051,13 +1051,13 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2372,das WC,the WC,0,0,False,False
 2373,die Diele,the hallway,0,0,False,False
 2374,die Babynahrung,the baby food,0,0,False,False
-2375,diese,this,0,0,False,False
+2375,diese,this,0,-1,False,False
 2376,der Bauernhof,the farm,0,0,False,False
 2377,die Kaffeemaschine,the coffee machine,0,0,False,False
 2378,das Einfamilienhaus,the detached hosue,0,0,False,False
 2379,Tschüss,bye,0,0,False,False
 2380,noch,also,0,0,False,False
-2381,das Pfund,the pound,0,0,False,False
+2381,das Pfund,the pound,0,-1,False,False
 2382,gemeinsam,together,0,0,False,False
 2383,das Gerät,the appliance,0,0,False,False
 2384,fragen,to ask,0,0,False,False
@@ -1087,21 +1087,21 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2408,das Kilo,the kilo,0,0,False,False
 2409,die Immobilie,the property,0,0,False,False
 2410,die Grammatik,the grammar,0,0,False,False
-2411,das Wochenende,the weekend,0,0,False,False
+2411,das Wochenende,the weekend,0,-1,False,False
 2412,antworten,to answer,0,0,False,False
-2413,nur,only,0,-1,False,True
+2413,nur,only,0,-1,False,False
 2414,der Kleiderschrank,the wardrobe,0,0,False,False
 2415,der Pudding,the pudding,0,0,False,False
 2416,circa,around,0,0,False,False
 2417,die Stunde,the hour,0,0,False,False
-2418,der Stundenplan,the schedule,-1,0,True,False
+2418,der Stundenplan,the schedule,-1,0,False,False
 2419,die Bohne,the bean,0,0,False,False
 2420,die Liste,the list,0,0,False,False
 2421,ohne,without,0,0,False,False
 2422,verwitwet,widowed,0,0,False,False
 2423,das Bett,the bed,0,0,False,False
 2424,planen,to plan,0,0,False,False
-2425,bei,at,0,0,False,False
+2425,bei,at,1,0,False,False
 2426,das Buch,the book,0,0,False,False
 2427,das Haustier,the pet,0,0,False,False
 2428,das Fleisch,the meat,0,0,False,False
@@ -1116,56 +1116,56 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2437,der Feiertag,the public holiday,0,0,False,False
 2438,der Freitag,Friday,0,0,False,False
 2439,ein,a,0,0,False,False
-2440,endlich,finally,0,-1,False,True
+2440,endlich,finally,0,-1,False,False
 2441,hallo,hello,0,0,False,False
 2442,billig,cheap,0,0,False,False
 2443,gepflegt,looked after,0,0,False,False
 2444,die Information,the information,0,0,False,False
-2445,der Apfelsaft,the apple juice,0,1,False,True
-2446,das Heft,the booklet,-1,0,True,False
+2445,der Apfelsaft,the apple juice,1,1,False,False
+2446,das Heft,the booklet,-1,0,False,False
 2447,verbinden,to connect,0,-1,False,False
 2448,das Bad,the bath,0,0,False,False
 2449,der Abend,the evening,0,0,False,False
-2450,immer,always,0,0,False,False
+2450,immer,always,1,0,False,False
 2451,der Zettel,the note,0,0,False,False
 2452,super,super,0,0,False,False
 2453,das Rindfleisch,the beef,0,0,False,False
 2454,einkaufen,to shop,0,0,False,False
 2455,die Packung,the packaging,0,0,False,False
-2456,ungemütlich,uncomfortable,0,-1,False,True
+2456,ungemütlich,uncomfortable,0,-1,False,False
 2457,Herr,Mr,0,0,False,False
 2458,gern,very much,0,0,False,False
 2459,der Honig,the honey,0,0,False,False
 2460,machen,to make,0,0,False,False
 2461,das Milchprodukt,the dairy product,0,0,False,False
-2462,wunderschön,very beautiful,0,-1,False,True
+2462,wunderschön,very beautiful,0,-1,False,False
 2463,mehr,more,0,0,False,False
 2464,der Alltag,the everyday,0,0,False,False
 2465,das Badezimmer,the bathroom,0,0,False,False
 2466,der Raum,the room,0,0,False,False
 2467,der Nachname,the last name,0,0,False,False
-2468,so,so,0,1,False,False
-2469,die Schwiegertochter,the step-daughter,-1,0,True,False
+2468,so,so,1,1,False,False
+2469,die Schwiegertochter,the step-daughter,0,0,False,False
 2470,die Birne,the pear,0,0,False,False
 2471,unser,our,0,0,False,False
 2472,der Cent,the cent,0,0,False,False
 2473,sonstiges,other,0,0,False,False
-2474,auf,on,-1,0,True,False
+2474,auf,on,-1,0,False,False
 2475,gestern,yesterday,0,0,False,False
 2476,das Bild,the image,0,0,False,False
 2477,dein,your,0,0,False,False
 2478,der Dialog,the dialogue,0,0,False,False
 2479,der Tipp,the tip,0,0,False,False
-2480,du,you,0,1,False,True
+2480,du,you,0,1,False,False
 2481,das Blatt,the sheet,0,0,False,False
-2482,mit,with,0,1,False,True
+2482,mit,with,0,1,False,False
 2483,suchen,to look for,0,0,False,False
 2484,der Projektor,the projector,0,0,False,False
 2485,singen,to sing,0,0,False,False
 2486,anrufen,to call,0,0,False,False
 2487,das Regal,the shelves,0,0,False,False
 2488,für,for,0,0,False,False
-2489,gemütlich,comfortable,0,-1,False,True
+2489,gemütlich,comfortable,0,-1,False,False
 2490,einige,a few,0,0,False,False
 2491,dunkel,dark,0,0,False,False
 2492,früh,early,0,0,False,False
@@ -1175,22 +1175,22 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2496,erst,first,0,0,False,False
 2497,groß,big,0,0,False,False
 2498,die Entschuldigung,the apology,0,0,False,False
-2499,das Geschäft,the business,-1,0,True,False
+2499,das Geschäft,the business,-1,0,False,False
 2500,der Mittwoch,Wednesday,0,0,False,False
 2501,hängen,to hang,0,0,False,False
-2502,fernsehen,to watch television,-1,0,True,False
+2502,fernsehen,to watch television,-1,0,False,False
 2503,anmelden,to register,0,0,False,False
 2504,die Erdbeere,the strawberry,0,0,False,False
 2505,das Kinderzimmer,the child's room,0,0,False,False
-2506,der Herd,the stove,0,0,False,False
+2506,der Herd,the stove,-1,0,False,False
 2507,werden,to become,0,0,False,False
 2508,spazieren,to walk,0,0,False,False
 2509,schade,shame,0,0,False,False
-2510,die Zwiebel,the onion,0,0,False,False
+2510,die Zwiebel,the onion,0,-1,False,False
 2511,mein,my,0,0,False,False
 2512,der Kursteilnehmer,the course participant,0,0,False,False
 2513,zu,to,0,0,False,False
-2514,buchstabieren,to spell,1,0,True,False
+2514,buchstabieren,to spell,1,0,False,False
 2515,kosten,to cost,0,0,False,False
 2516,knifflig,tricky,0,0,False,False
 2517,das Wiedersehen,the good bye,0,0,False,False
@@ -1199,19 +1199,19 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2520,unbedingt,definitely,0,0,False,False
 2521,draußen,outside,0,0,False,False
 2522,der Keks,the biscuit,0,0,False,False
-2523,das Ei,the egg,0,1,False,True
-2524,der Kaffee,the coffee,0,-1,False,True
+2523,das Ei,the egg,1,1,False,False
+2524,der Kaffee,the coffee,0,-1,False,False
 2525,bis,until,0,0,False,False
-2526,die Angabe,the detail,0,0,False,False
+2526,die Angabe,the detail,-2,0,True,False
 2527,vergleichen,to compare,0,0,False,False
 2528,nach,after,0,0,False,False
 2529,morgens,in the mornings,0,0,False,False
 2530,die Miete,the rent,0,0,False,False
-2531,der Schwiegervater,the step-father,0,0,False,False
+2531,der Schwiegervater,the step-father,-1,0,False,False
 2532,der Plan,the plan,0,0,False,False
-2533,breit,wide,-1,0,True,False
+2533,breit,wide,-1,0,False,False
 2534,insgesamt,in total,0,0,False,False
-2535,der Kursraum,the classroom,0,-1,False,True
+2535,der Kursraum,the classroom,0,-1,False,False
 2536,man,one,0,0,False,False
 2537,langsam,slowly,0,0,False,False
 2538,die Waschmaschine,the washing machine,0,0,False,False
@@ -1220,7 +1220,7 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2541,die Sahne,the cream,0,0,False,False
 2542,das Kind,the child,0,0,False,False
 2543,das Schweinefleisch,the pork,0,0,False,False
-2544,der Radiergummi,the eraser,0,0,False,False
+2544,der Radiergummi,the eraser,-1,-1,False,False
 2545,alles,everything,0,0,False,False
 2546,zeichnen,to draw,0,0,False,False
 2547,der Vorname,the forename,0,0,False,False
@@ -1231,19 +1231,19 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2552,die Eltern,the parents,0,0,False,False
 2553,die Uhr,the clock,0,0,False,False
 2554,die Nebenkosten,the additional costs,0,0,False,False
-2555,ordnen,to order,0,-1,False,True
+2555,ordnen,to order,0,-1,False,False
 2556,baden,to bath,0,0,False,False
 2557,supergut,very good,0,0,False,False
 2558,können,to be able to,0,0,False,False
 2559,abends,in the evenings,0,0,False,False
-2560,die Monatsmiete,the monthly rent,0,0,False,False
+2560,die Monatsmiete,the monthly rent,1,0,False,False
 2561,pro,per,0,0,False,False
-2562,die Karte,the card,0,1,False,True
+2562,die Karte,the card,0,1,False,False
 2563,der Flur,the corridor,0,0,False,False
 2564,stehen,to stand,0,0,False,False
 2565,ich,I,0,0,False,False
 2566,der Gruß,the greeting,0,0,False,False
-2567,die Mandarine,the mandarine,0,1,False,True
+2567,die Mandarine,the mandarine,1,1,False,False
 2568,toll,great,0,0,False,False
 2569,frühstücken,to breakfast,0,0,False,False
 2570,das Land,the country,0,0,False,False
@@ -1267,7 +1267,7 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2588,Mai,May,0,0,False,False
 2589,anbei,attached,0,0,False,False
 2590,die Natur,the nature,0,0,False,False
-2591,das Konzert,the concert,0,0,False,False
+2591,das Konzert,the concert,0,1,False,True
 2592,der Stadtwald,the city forest,0,0,False,False
 2593,die Stirn,the forehead,0,0,False,False
 2594,der Seehund,the seal,0,0,False,False
@@ -1277,12 +1277,12 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2598,der Verband,the association,0,0,False,False
 2599,das Schwimmbad,the swimming pool,0,0,False,False
 2600,besten,best,0,0,False,False
-2601,lustig,funny,0,0,False,False
+2601,lustig,funny,1,1,False,True
 2602,das Weihnachten,the Christmas,0,0,False,False
 2603,reparieren,to repair,0,0,False,False
 2604,das Wiederhören,the,0,0,False,False
 2605,mitbringen,to bring with,0,0,False,False
-2606,der Sportschuh,the trainer,-1,0,True,False
+2606,der Sportschuh,the trainer,-1,0,False,False
 2607,freundlich,friendly,0,0,False,False
 2608,prüfen,to check,0,0,False,False
 2609,raten,to advise,0,0,False,False
@@ -1290,15 +1290,15 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2611,die Hausfrau,the housewife,0,0,False,False
 2612,geboren sein,to be born,0,0,False,False
 2613,das Haar,the hair,0,0,False,False
-2614,die Unterschrift,the signature,1,0,True,False
+2614,die Unterschrift,the signature,1,0,False,False
 2615,die Einzelfahrkarte,the single ticket,0,0,False,False
 2616,der Besuch,the visit,0,0,False,False
 2617,gerade,at the moment,0,0,False,False
-2618,die Farbe,the colour,1,0,True,False
-2619,Juli,July,1,0,True,False
+2618,die Farbe,the colour,1,0,False,False
+2619,Juli,July,1,0,False,False
 2620,der Brief,the letter,0,0,False,False
 2621,der Schüler,the schoolchild,0,0,False,False
-2622,der Betreff,the subject line,-1,0,True,False
+2622,der Betreff,the subject line,-1,0,False,False
 2623,der Osten,the east,0,0,False,False
 2624,das T-shirt,the T-shirt,0,0,False,False
 2625,der Taxifahrer,the taxi driver,0,0,False,False
@@ -1309,8 +1309,8 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2630,später,later,0,0,False,False
 2631,das Pflaster,the plaster,0,0,False,False
 2632,der Zeh,the toe,0,0,False,False
-2633,der Ski,the ski,0,1,False,True
-2634,die Strickjacke,the cardigan,0,0,False,False
+2633,der Ski,the ski,1,1,True,False
+2634,die Strickjacke,the cardigan,0,-1,False,False
 2635,der Geburtstag,the birthday,0,0,False,False
 2636,der Orthopäde,the orthopaedist,0,0,False,False
 2637,warten,to wait,0,0,False,False
@@ -1320,14 +1320,14 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2641,das Altenpflegeheim,the old people's home,0,0,False,False
 2642,der Parkplatz,the car park,0,0,False,False
 2643,überhaupt,at all,0,0,False,False
-2644,der Automechaniker,the car mechanic,-1,0,True,False
+2644,der Automechaniker,the car mechanic,-1,0,False,False
 2645,sowieso,anyway,0,0,False,False
 2646,günstig,good value,0,0,False,False
 2647,das Computerprogramm,the computer programme,0,0,False,False
 2648,das Jobcenter,the job centre,0,0,False,False
 2649,installieren,to install,0,0,False,False
 2650,die Postkarte,the postcard,0,0,False,False
-2651,der Moment,the moment,0,-1,False,True
+2651,der Moment,the moment,0,-1,False,False
 2652,die Kleidung,the clothing,0,0,False,False
 2653,die Minute,the minute,0,0,False,False
 2654,halten,to stop,0,0,False,False
@@ -1341,7 +1341,7 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2662,der Koch,the chef,0,0,False,False
 2663,der Metzger,the butcher,0,0,False,False
 2664,unter,under,0,0,False,False
-2665,sein,his,0,0,False,False
+2665,sein,his,0,-1,False,True
 2666,die Deutschlandkarte,the map of Germany,0,0,False,False
 2667,die Kopfschmerzen,the headache,0,0,False,False
 2668,dreimal,three times,0,0,False,False
@@ -1359,8 +1359,8 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2680,extra,extra,0,0,False,False
 2681,die Bauchschmerzen,the stomach ache,0,0,False,False
 2682,das Kleidungsstück,the item of clothing,0,0,False,False
-2683,positiv,positive,0,1,False,True
-2684,die Praktikumsbetreuerin,the internship supervisor,0,0,False,False
+2683,positiv,positive,0,1,False,False
+2684,die Praktikumsbetreuerin,the internship supervisor,0,-1,False,False
 2685,minus,minus,0,1,False,False
 2686,der Informationsschalter,the information desk,0,0,False,False
 2687,die Post,the post office,0,0,False,False
@@ -1391,19 +1391,19 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2712,der Frühling,the spring,0,0,False,False
 2713,nachfragen,to ask about,0,0,False,False
 2714,das Halsweh,the sore throat,-1,0,False,False
-2715,die Volkshochschule,the adult education centre,0,0,False,False
+2715,die Volkshochschule,the adult education centre,-1,0,True,False
 2716,der Süden,the south,0,0,False,False
 2717,das Ferienhaus,the holiday home,0,0,False,False
 2718,uns,us,0,0,False,False
 2719,der Feierabend,the finishing time,0,0,False,False
-2720,die Feier,the celebration,0,0,False,False
+2720,die Feier,the celebration,0,-1,False,False
 2721,das Auto,the car,0,0,False,False
 2722,der Hausmann,the househusband,0,0,False,False
 2723,die Reparatur,the repair,0,0,False,False
 2724,die Braut,the bride,0,0,False,False
 2725,der März,the march,0,0,False,False
 2726,eng,tight,0,0,False,False
-2727,kreativ,people,0,0,False,False
+2727,kreativ,people,-1,0,False,False
 2728,dürfen,to be allowed to,0,0,False,False
 2729,der Fußballspieler,the football player,0,0,False,False
 2730,genauso,equally,0,0,False,False
@@ -1411,11 +1411,11 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2732,die Hochzeitsfeier,the wedding party,0,0,False,False
 2733,die Sprechstundenhilfe,the receptionist,0,0,False,False
 2734,öffentlich,public,0,0,False,False
-2735,der Stress,the stress,0,1,False,True
+2735,der Stress,the stress,0,1,False,False
 2736,der Briefteil,the part of letter,0,0,False,False
 2737,der Traumberuf,the dream job,0,0,False,False
 2738,der Bus,the bus,0,0,False,False
-2739,der Mechaniker,the mechanic,0,0,False,False
+2739,der Mechaniker,the mechanic,0,1,False,False
 2740,die Kreuzung,the crossroads,0,0,False,False
 2741,lila,purple,0,0,False,False
 2742,der Nachbar,the neighbour,0,0,False,False
@@ -1425,7 +1425,7 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2746,der Stadtplan,the city map,0,0,False,False
 2747,der Flughafen,the airport,0,0,False,False
 2748,der Intercity,the intercity,0,0,False,False
-2749,der Bahnhof,the train station,0,0,False,False
+2749,der Bahnhof,the train station,-1,0,False,False
 2750,die Pflege,the care,0,0,False,False
 2751,der Sekt,the sparking wine,0,0,False,False
 2752,eben,even,0,0,False,False
@@ -1433,18 +1433,18 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2754,Hustensaft,cough syrup,0,0,False,False
 2755,das Weihnachtsgeschenk,the Christmas present,0,0,False,False
 2756,verschieden,different,0,0,False,False
-2757,die Praxis,the practice,0,-1,False,True
+2757,die Praxis,the practice,0,-1,False,False
 2758,das Osterei,the easter egg,0,0,False,False
 2759,der Bäcker,the baker,0,0,False,False
 2760,die Straßenbahn,the tram,0,0,False,False
-2761,der Rentner,the pensioner,0,-1,False,True
+2761,der Rentner,the pensioner,0,-1,False,False
 2762,heiß,hot,0,0,False,False
 2763,die Parkgebühr,the parking fee,0,0,False,False
 2764,das Motorrad,the motorcycle,0,0,False,False
 2765,die Oma,the Grandma,0,0,False,False
-2766,die Tageskarte,the day ticket,0,0,False,False
+2766,die Tageskarte,the day ticket,0,-1,False,False
 2767,der Empfänger,the recipient,0,0,False,False
-2768,ihm,him,0,0,False,False
+2768,ihm,him,-1,0,False,False
 2769,steigen,to climb,0,0,False,False
 2770,nass,wet,0,0,False,False
 2771,stressig,stressful,0,0,False,False
@@ -1456,11 +1456,11 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2777,der Jogginganzug,the tracksuit,0,0,False,False
 2778,die Gitarre,the guitar,0,0,False,False
 2779,der Hauptbahnhof,the main train station,0,0,False,False
-2780,der Bescheid,the notice,0,0,False,False
+2780,der Bescheid,the notice,-1,0,False,False
 2781,die Kasse,the cash register,0,0,False,False
 2782,wiederkommen,to come again,0,0,False,False
 2783,die Reise,the journey,0,0,False,False
-2784,der Luftballon,the air balloon,0,0,False,False
+2784,der Luftballon,the air balloon,0,-1,False,False
 2785,schenken,to gift,0,0,False,False
 2786,samstags,on saturdays,0,0,False,False
 2787,das Hobby,the hobby,0,0,False,False
@@ -1471,14 +1471,14 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2792,braun,brown,0,0,False,False
 2793,online,online,0,0,False,False
 2794,der Techniker,the technician,0,0,False,False
-2795,die Ankunftszeit,the arrival time,0,-1,False,True
+2795,die Ankunftszeit,the arrival time,0,-1,False,False
 2796,die Weihnachtsfeier,the Christmas party,0,0,False,False
 2797,räumen,to clear,0,0,False,False
 2798,schneien,to snow,0,0,False,False
-2799,der Papa,the dad,1,0,True,False
+2799,der Papa,the dad,1,0,False,False
 2800,das Modell,the model,0,0,False,False
 2801,hageln,hail,0,0,False,False
-2802,der Dienst,the service,0,-1,False,True
+2802,der Dienst,the service,0,-1,False,False
 2803,bestimmt,certainly,0,0,False,False
 2804,klingeln,to ring,0,0,False,False
 2805,die Krankenkasse,the health insurance,0,0,False,False
@@ -1497,9 +1497,9 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2818,der Pullover,the jumper,0,0,False,False
 2819,lieben,to love,0,0,False,False
 2820,die Jeans,the jeans,0,0,False,False
-2821,der Körperteil,the body part,-1,0,True,False
-2822,die Mama,the mum,-1,0,True,False
-2823,die Salbe,the ointment,-1,0,True,False
+2821,der Körperteil,the body part,-1,0,False,False
+2822,die Mama,the mum,-1,0,False,False
+2823,die Salbe,the ointment,-2,0,False,False
 2824,der Erwachsene,the adult,0,0,False,False
 2825,aufwachsen,to grow up,0,0,False,False
 2826,stellen,to set,0,0,False,False
@@ -1508,32 +1508,32 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2829,das Medikament,the medicine,0,0,False,False
 2830,das Fest,the party,0,0,False,False
 2831,beige,beige,0,0,False,False
-2832,der Ellbogen,the elbow,0,0,False,False
+2832,der Ellbogen,the elbow,-1,0,False,False
 2833,meisten,most,0,0,False,False
 2834,das Kaufhaus,the department store,0,0,False,False
-2835,typisch,typical,0,0,False,False
+2835,typisch,typical,1,0,False,False
 2836,wechseln,to change,0,0,False,False
 2837,das Verkehrsmittel,the means of transport,0,0,False,False
 2838,sicher,secure,0,0,False,False
-2839,der Husten,the cough,0,0,False,False
+2839,der Husten,the cough,-1,0,True,False
 2840,pünktlich,on time,0,0,False,False
-2841,das Oktoberfest,the Octoberfest,0,-1,False,True
-2842,der Wintermantel,the winter coat,0,-1,False,True
-2843,die Sprechstunde,the consultation hours,0,0,False,False
+2841,das Oktoberfest,the Octoberfest,1,-1,False,False
+2842,der Wintermantel,the winter coat,0,-1,False,False
+2843,die Sprechstunde,the consultation hours,-1,0,False,False
 2844,die Bank,the bank,0,0,False,False
-2845,der Prospekt,the prospect,1,0,True,False
+2845,der Prospekt,the prospect,1,0,False,False
 2846,der Glückstag,the lucky day,0,0,False,False
 2847,das Standesamt,the registry office,0,0,False,False
 2848,dritte,third,0,0,False,False
-2849,die Besserung,the recovery,0,0,False,False
+2849,die Besserung,the recovery,0,-1,False,False
 2850,die Vorsorge,the provision,0,0,False,False
 2851,der Schokoladenkuchen,the chocolate cake,0,0,False,False
 2852,die Anrede,the speech,0,0,False,False
-2853,das Knie,the knee,0,-1,False,True
+2853,das Knie,the knee,0,-1,False,False
 2854,der Führerschein,the driver's license,0,0,False,False
 2855,der Wetterbericht,the weather report,0,0,False,False
 2856,Dank,Thanks,0,0,False,False
-2857,das Entschuldigungsschreiben,the letter of apology,-1,0,True,False
+2857,das Entschuldigungsschreiben,the letter of apology,-1,0,False,False
 2858,die Universität,the university,0,0,False,False
 2859,wohin,where to,0,0,False,False
 2860,die Verfügung,the availability,0,0,False,False
@@ -1542,34 +1542,34 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2863,vorbei,past,0,0,False,False
 2864,zurück,return,0,0,False,False
 2865,der Wechsel,the change,0,0,False,False
-2866,das Taxi,the taxi,0,0,False,False
+2866,das Taxi,the taxi,1,0,False,False
 2867,vorne,at the front,0,0,False,False
 2868,aufregen,to get excited,0,0,False,False
 2869,der Musiklehrer,the music teacher,0,0,False,False
 2870,gucken,to watch,0,0,False,False
-2871,geradeaus,straight ahead,-1,0,True,False
+2871,geradeaus,straight ahead,-1,0,False,False
 2872,das Fahrrad,the bicycle,0,0,False,False
-2873,die Himmelsrichtung,the compass point,0,0,False,False
+2873,die Himmelsrichtung,the compass point,-1,0,False,False
 2874,froh,glad,0,0,False,False
 2875,die Achtung,the caution,0,0,False,False
 2876,die Praxisgemeinschaft,the joint practice,0,0,False,False
 2877,die Linie,the line,0,0,False,False
 2878,servieren,to serve,0,0,False,False
-2879,das Krankenhaus,the hospital,0,1,False,True
+2879,das Krankenhaus,the hospital,0,1,False,False
 2880,der Osterhase,the easter bunny,0,0,False,False
 2881,die Geburtstagstorte,the birthday cake,0,0,False,False
-2882,bilden,to form,0,0,False,False
+2882,bilden,to form,0,-1,False,True
 2883,das Eis,the ice cream,0,0,False,False
 2884,wehtun,to hurt,0,0,False,False
 2885,halbtags,halfdays,0,0,False,False
-2886,nichts,nothing,-1,0,True,False
+2886,nichts,nothing,-1,0,False,False
 2887,Januar,January,0,0,False,False
 2888,der Nacken,the neck,0,0,False,False
 2889,regelmäßig,regularly,0,0,False,False
 2890,die Schulter,the shoulder,0,0,False,False
 2891,der Patient,the patient,0,0,False,False
 2892,unglücklich,unhappy,0,0,False,False
-2893,die Krankmeldung,the sick note,0,0,False,False
+2893,die Krankmeldung,the sick note,0,-1,False,False
 2894,packen,to pack,0,0,False,False
 2895,die Mobilität,the mobility,0,0,False,False
 2896,der Nachtdienst,the night shift,0,0,False,False
@@ -1577,19 +1577,19 @@ id_vocab,german,english,score_german_english,score_english_german,try_session_ge
 2898,die Notfallsprechstunde,the emergency consultation,0,0,False,False
 2899,die Tablette,the tablet,0,0,False,False
 2900,der Reporter,the reporter,0,0,False,False
-2901,der Februar,February,1,0,True,False
-2902,die Kantine,the cantine,0,0,False,False
+2901,der Februar,February,1,0,False,False
+2902,die Kantine,the cantine,0,-1,False,True
 2903,das Kraftfahrzeug,the motor vehicle,0,0,False,False
 2904,der Hals,the throat,0,0,False,False
 2905,reden,to talk,0,0,False,False
-2906,der Bürokaufmann,the office administrator,-1,0,True,False
-2907,der Weihnachtsbaum,the Christmas tree,0,0,False,False
+2906,der Bürokaufmann,the office administrator,-1,0,False,False
+2907,der Weihnachtsbaum,the Christmas tree,0,-1,False,False
 2908,der Zahn,the tooth,0,0,False,False
 2909,der Rock,the skirt,0,0,False,False
 2910,rechnen,to calculate,0,0,False,False
 2911,der Hausarzt,the GP,0,0,False,False
-2912,der Kassierer,the cashier,0,-1,False,True
-2913,der Fahrgast,the passenger,0,0,False,False
+2912,der Kassierer,the cashier,0,-1,False,False
+2913,der Fahrgast,the passenger,0,-1,False,False
 2914,die Kauffrau,the business woman,0,0,False,False
 2915,erkälten,to get a cold,0,0,False,False
 2916,atmen,to breathe,0,0,False,False
