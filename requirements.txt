@@ -23,7 +23,7 @@ cmd2==1.4.0
 colorama==0.4.3
 colorlog==4.7.2
 coverage==5.1
-cryptography==3.2.1
+cryptography==3.3.2
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
