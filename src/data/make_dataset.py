@@ -11,15 +11,26 @@ from src.data.get_dataset import get_vocab
 from src.data.make_vocab_features import create_vocab_features
 
 
-def create_dataset(historical_data_path, vocab_path, dataset_path):
+def create_dataset(list_couple_historical_data_all_vocab_path, dataset_path):
 
-    historical_data = get_dataset.get_historical_data(historical_data_path)
-    historical_data = create_historical_features(historical_data)
+    dataset = pd.DataFrame()
+    (max_id_session, max_id_historical_data) = (0, 0)
 
-    vocab = get_vocab(vocab_path, list_columns="all")
-    vocab = create_vocab_features(vocab)
+    for (historical_data_path, all_vocab_path) in list_couple_historical_data_all_vocab_path:
 
-    dataset = merge_feature_datasets(historical_data, vocab)
+        historical_data = get_dataset.get_historical_data(historical_data_path)
+        historical_data = create_historical_features(historical_data)
+
+        all_vocab = get_vocab(all_vocab_path, list_columns="all")
+        all_vocab = create_vocab_features(all_vocab)
+
+        i_dataset = merge_feature_datasets(historical_data, all_vocab)
+        i_dataset['id_session'] += max_id_session
+        i_dataset['id_historical_data'] += max_id_historical_data
+
+        dataset = dataset.append(i_dataset)
+        max_id_session = max(dataset['id_session']) + 1
+        max_id_historical_data = max(dataset['id_historical_data']) + 1
 
     vardict = get_vardict()
     dataset = transform_type(dataset, vardict)

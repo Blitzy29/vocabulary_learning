@@ -60,7 +60,7 @@ def get_vocab(vocab_path="data/raw/german_english.csv", list_columns=None):
     return vocab
 
 
-def get_all_vocab(all_vocab_path="data/raw/all_vocab.csv", list_columns=None):
+def get_all_vocab(all_vocab_path="data/official/all_vocab.csv", list_columns=None):
 
     all_vocab = pd.read_csv(all_vocab_path)
 

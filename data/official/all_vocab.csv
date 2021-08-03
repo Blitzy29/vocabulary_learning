@@ -1,0 +1,4965 @@
+id_vocab,german,english
+1,frühstücken,to breakfast
+2,das Wiedersehen,the good bye
+3,die Information,the information
+4,sollen,to be supposed to
+5,die Kartoffel,the potato
+6,der Müll,the rubbish
+7,der Supermarkt,the supermarket
+8,der Freund,the friend
+9,stehen,to stand
+10,die Wand,the wall
+11,die Traumwohnung,the dream flat
+12,langsam,slowly
+13,die Möhre,the carrot
+14,oder,or
+15,das Büro,the office
+16,der Becher,the container
+17,die Dose,the jar
+18,das Wohnzimmer,the living room
+19,der Sport,the sport
+20,das Lebensmittel,the groceries
+21,danke,thank you
+22,das Rindfleisch,the beef
+23,die Frau,the woman
+24,die Mandarine,the mandarine
+25,die Kontrolle,the control
+26,alles,everything
+27,das Zentrum,the centre
+28,das Bett,the bed
+29,der Mann,the man
+30,der Couscous,the couscous
+31,die Milch,the milk
+32,laut,loud
+33,das Schweinefleisch,the pork
+34,das Geschäft,the business
+35,die Stunde,the hour
+36,der Hunger,the hunger
+37,die Cola,the cola
+38,groß,big
+39,die Antwort,the answer
+40,die Melone,the melon
+41,das Schlafzimmer,the bedroom
+42,der Alltag,the everyday
+43,werden,to become
+44,dann,then
+45,der Stundenplan,the schedule
+46,der Freitag,Friday
+47,die Tasche,the bag
+48,der Familienstand,the marital status
+49,neben,next to
+50,das Getränk,the drink
+51,sofort,straight away
+52,vorstellen,to introduce
+53,müde,tired
+54,die Woche,the week
+55,der Deutschkurs,the German course
+56,das Pfund,the pound
+57,verwitwet,widowed
+58,der Salat,the salad
+59,kurz,short
+60,die Packung,the packaging
+61,die Postleitzahl,the postcode
+62,für,for
+63,breit,wide
+64,die Mutter,the mother
+65,die Dusche,the shower
+66,das Wochenende,the weekend
+67,aufstehen,to get up
+68,die Sonne,the sun
+69,das Geld,the money
+70,der Rucksack,the backpack
+71,verbinden,to connect
+72,der Schluss,the decision
+73,vor,before
+74,der Feiertag,the public holiday
+75,schmecken,to taste
+76,das Heft,the booklet
+77,die Telefonnummer,the telephone number
+78,die Uhr,the clock
+79,ganz,whole
+80,wohnen,to live
+81,nicht,not
+82,der Juni,the june
+83,die Straße,the street
+84,die Stadt,the city
+85,kaufen,to buy
+86,das Kilo,the kilo
+87,das Gemüse,the vegetables
+88,der Balkon,the balcony
+89,mögen,to like
+90,warum,why
+91,Deutsch,German
+92,das Wörterbuch,the dictionary
+93,beginnen,to start
+94,der Satz,the sentence
+95,schön,beautiful
+96,der Projektor,the projector
+97,übermorgen,the day after tomorrow
+98,die Kichererbse,the chickpea
+99,die Kaffeemaschine,the coffee machine
+100,die Bohne,the bean
+101,das Foto,the photo
+102,dein,your
+103,die Babynahrung,the baby food
+104,streichen,to paint
+105,das Gramm,the gram
+106,die Möbel,the furniture
+107,ungemütlich,uncomfortable
+108,das Obst,the fruit
+109,die Hauptsache,the main thing
+110,die Tür,the door
+111,das Mehrfamilienhaus,the apartment building
+112,leider,unfortunately
+113,der Donnerstag,Thursday
+114,unser,our
+115,heißen,to be called
+116,insgesamt,in total
+117,der Sonntag,Sunday
+118,ja,yes
+119,baden,to bath
+120,möbliert,furnished
+121,durch,through
+122,der Tisch,the table
+123,der Herd,the stove
+124,die Terrasse,the terrace
+125,der Teppich,the carpet
+126,gepflegt,looked after
+127,die Heizung,the heating
+128,der Kursteilnehmer,the course participant
+129,fragen,to ask
+130,sonstiges,other
+131,der Vorname,the forename
+132,gestern,yesterday
+133,der Fisch,the fish
+134,jeder,every
+135,die Liste,the list
+136,da,there
+137,der Euro,the euro
+138,der Kuchen,the cake
+139,das Fenster,the window
+140,der Morgen,the morning
+141,jetzt,now
+142,das Frühstück,the breakfast
+143,die Nudel,the pasta
+144,der Joghurt,the yoghurt
+145,mindestens,at least
+146,bitte,please
+147,der Dialog,the dialogue
+148,wenn,if
+149,ich,I
+150,singen,to sing
+151,das Gespräch,the interview
+152,die Karte,the card
+153,die Form,the form
+154,der Lehrer,the teacher
+155,hängen,to hang
+156,bisschen,a little
+157,klein,small
+158,abends,in the evenings
+159,Tschüss,bye
+160,schlafen,to sleep
+161,das Kind,the child
+162,die Nacht,the night
+163,der Saft,the juice
+164,richtig,correct
+165,gut,good
+166,die Immobilie,the property
+167,die Adresse,the address
+168,die Idee,the idea
+169,der Computer,the computer
+170,interessant,interesting
+171,machen,to make
+172,das Kursbuch,the course book
+173,die Limonade,the lemonade
+174,die Mengenangabe,the amount
+175,was,what
+176,nur,only
+177,erklären,to explain
+178,gleich,the same
+179,die Nebenkosten,the additional costs
+180,das Milchprodukt,the dairy product
+181,der Schwiegervater,the step-father
+182,der Obstsalat,the fruit salad
+183,der Spaß,the fun
+184,der Fußball,the football
+185,vorgestern,the day before yesterday
+186,zu Fuß,on foot
+187,essen,to eat
+188,der Garten,the garden
+189,alt,old
+190,die Grammatik,the grammar
+191,die Pause,the break
+192,die Schokolade,the chocolate
+193,endlich,finally
+194,dunkel,dark
+195,lecker,delicious
+196,die Sprachschule,the language school
+197,und,and
+198,das Brötchen,the bread roll
+199,der Liter,the litre
+200,das Elektrogerät,the electronic device
+201,die Waschmaschine,the washing machine
+202,schnell,fast
+203,pro,per
+204,die Wohnung,the flat
+205,der Besichtigungstermin,the appointment
+206,die Pflanze,the plant
+207,hell,light
+208,neu,new
+209,der Bruder,the brother
+210,das Fleisch,the meat
+211,der Keks,the biscuit
+212,nach,after
+213,die Aussage,the statement
+214,der Samstag,Saturday
+215,die Schwester,the sister
+216,besser,better
+217,die Toilette,the toilet
+218,maximal,maximal
+219,hässlich,ugly
+220,wunderschön,very beautiful
+221,putzen,to clean
+222,spülen,to rinse
+223,die Zeitung,the newspaper
+224,planen,to plan
+225,liegen,to lie
+226,der Monat,the month
+227,das Bad,the bath
+228,das Gerät,the appliance
+229,weiter,further
+230,die Mittagspause,the lunchtime
+231,meistens,mostly
+232,das Wort,the word
+233,über,about
+234,geschieden,divorced
+235,das Bild,the image
+236,bis,until
+237,der Tipp,the tip
+238,der Kaffee,the coffee
+239,frei,free
+240,der Schlüssel,the key
+241,hier,here
+242,einige,a few
+243,sich,oneself
+244,die Wohnungssuche,the search for housing
+245,der Tee,the tea
+246,zeigen,to show
+247,der Vater,the father
+248,der Stuhl,the chair
+249,toll,great
+250,vergleichen,to compare
+251,die Lampe,the lamp
+252,das Ei,the egg
+253,buchstabieren,to spell
+254,die Kaution,the deposit
+255,modern,modern
+256,der Kugelschreiber,the ball
+257,trinken,to drink
+258,antworten,to answer
+259,manchmal,sometimes
+260,schreiben,to write
+261,die Seite,the page
+262,der Papierkorb,the waste paper bin
+263,heute,today
+264,der Pilz,the mushroom
+265,draußen,outside
+266,der Text,the text
+267,der Altbau,the old building
+268,die Musik,the music
+269,der Apfelsaft,the apple juice
+270,das Glas,the glass
+271,die Eltern,the parents
+272,die Erbse,the pea
+273,super,super
+274,der Schrank,the cupboard
+275,in,in
+276,kochen,to cook
+277,die Traube,the grape
+278,das Familienfoto,the family photo
+279,der Einkaufszettel,the shopping list
+280,das WC,the WC
+281,haben,to have
+282,kosten,to cost
+283,mein,my
+284,der Dienstag,Tuesday
+285,man,one
+286,lesen,to read
+287,sonst,otherwise
+288,der Familienname,the surname
+289,liebsten,favourite
+290,der Markt,the market
+291,die Birne,the pear
+292,beide,both
+293,der Zettel,the note
+294,der Gast,the guest
+295,das Papier,the paper
+296,der Fernseher,the television
+297,immer,always
+298,der Nachname,the last name
+299,der Keller,the celler
+300,der Ort,the place
+301,das Sofa,the sofa
+302,erst,first
+303,mit,with
+304,der Abend,the evening
+305,der Kurs,the course
+306,die Miete,the rent
+307,zahlen,to count
+308,so,so
+309,spät,late
+310,die Orange,the orange
+311,mehr,more
+312,frisch,fresh
+313,der Kindergarten,the nursery
+314,der Unterricht,the lesson
+315,verstehen,to understand
+316,die Tomate,the tomato
+317,die E-mail,the email
+318,unterstreichen,to emphasize
+319,Herr,Mr
+320,das Haus,the house
+321,ledig,single
+322,die Flasche,the bottle
+323,die Mango,the mango
+324,zu,to
+325,die Frage,the question
+326,finden,to find
+327,die Angabe,the detail
+328,der Nachmittag,the afternoon
+329,brauchen,to need
+330,die Marmelade,the jam
+331,welche,which
+332,wer,who
+333,der Zucker,the sugar
+334,kalt,cold
+335,lassen,to leave
+336,knifflig,tricky
+337,waschen,to wash
+338,der Quadratmeter,the squaremetre
+339,nie,never
+340,wünschen,to wish
+341,supergut,very good
+342,das Jahr,the year
+343,die Küche,the kitchen
+344,die Badewanne,the bathtub
+345,die Kirsche,the cherry
+346,das Badezimmer,the bathroom
+347,der Kühlschrank,the fridge
+348,halb,half past
+349,der Pudding,the pudding
+350,der Käse,the cheese
+351,nett,nice
+352,der Spitzer,the pencil sharpener
+353,die Diele,the hallway
+354,die Familie,the family
+355,wie,how
+356,die Person,the person
+357,können,to be able to
+358,wo,where
+359,nein,no
+360,etwas,something
+361,fernsehen,to watch television
+362,hinten,behind
+363,das Brot,the bread
+364,grillen,to grill
+365,viel,many
+366,die Tasse,the cup
+367,das Lammfleisch,the lamb meat
+368,früh,early
+369,ein,a
+370,wegziehen,to move away
+371,das Buch,the book
+372,die Garage,the garage
+373,dringend,urgent
+374,ordnen,to order
+375,das Spiel,the game
+376,er,he
+377,der Mittag,the midday
+378,ersetzen,to replace
+379,zeichnen,to draw
+380,der Bauernhof,the farm
+381,das Obergeschoss,the upper floor
+382,das Reihenhaus,the terraced house
+383,schmal,narrow
+384,telefonieren,to telephone
+385,nachts,at night
+386,das Computerspiel,the computer game
+387,vormittags,in the morning
+388,natürlich,of course
+389,die Paprika,the pepper
+390,die Schwägerin,the sister-in-law
+391,die Arbeit,the work
+392,der Wein,the wine
+393,die Monatsmiete,the monthly rent
+394,oft,often
+395,schade,shame
+396,die Geschwister,the siblings
+397,die Hausnummer,the house number
+398,die Firma,the company
+399,ihr,her
+400,der Reis,the rice
+401,das Haustier,the pet
+402,der Sohn,the son
+403,die Hilfe,the help
+404,die Kiwi,the kiwi
+405,der Film,the film
+406,der Cent,the cent
+407,die Erdbeere,the strawberry
+408,fertig,finished
+409,anmelden,to register
+410,die Schule,the school
+411,die Schwiegertochter,the step-daughter
+412,anrufen,to call
+413,der Kontakt,the contact
+414,das Erdgeschoss,the ground floor
+415,der Name,the name
+416,teuer,expensive
+417,der Gruß,the greeting
+418,die Himbeere,the raspberry
+419,ohne,without
+420,das Arbeitszimmer,the workroom
+421,der Honig,the honey
+422,der Radiergummi,the eraser
+423,sie,they
+424,der Verkäufer,the salesperson
+425,die Sprache,the language
+426,das Olivenöl,the olive oil
+427,das Hochhaus,the high
+428,die Landkarte,the map
+429,grün,green
+430,die Entschuldigung,the apology
+431,verheiratet,married
+432,das Beispiel,the example
+433,der Sessel,the armchair
+434,bekommen,to receive
+435,die Banane,the banana
+436,ruhig,peaceful
+437,wann,when
+438,das Bistro,the bistro
+439,die Pizza,the pizza
+440,morgen,tomorrow
+441,das Bier,the beer
+442,die Sache,the thing
+443,die Blaubeere,the blueberry
+444,liebe,dear
+445,die Hausaufgabe,the homework
+446,aber,but
+447,dazu,in addition
+448,genau,exactly
+449,gehen,to go
+450,circa,around
+451,das Sonderangebot,the special offer
+452,die Aufgabe,the task
+453,der Flur,the corridor
+454,das Angebot,the offer
+455,bei,at
+456,die Zwiebel,the onion
+457,das Land,the country
+458,noch,also
+459,wichtig,important
+460,der Kleiderschrank,the wardrobe
+461,tun,to do
+462,das Einfamilienhaus,the detached hosue
+463,auf,on
+464,der Partner,the partner
+465,suchen,to look for
+466,die Zitrone,the lemon
+467,kommen,to come from
+468,der Plan,the plan
+469,woher,where … from
+470,die Tafel,the blackboard
+471,das Salz,the salt
+472,das Regal,the shelves
+473,das Heimatland,the home country
+474,der Bleistift,the pencil
+475,unbedingt,definitely
+476,der Kunde,the customer
+477,diese,this
+478,direkt,direct
+479,der Kursraum,the classroom
+480,die Wohnungsanzeige,the flat advertisement
+481,der Montag,Monday
+482,nehmen,to take
+483,denn,because
+484,hallo,hello
+485,die Anzeige,the advert
+486,der Preis,the price
+487,das Wasser,the water
+488,das Stück,the piece
+489,das Blatt,the sheet
+490,benutzen,to use
+491,die Größe,the size
+492,helfen,to help
+493,wissen,to know
+494,der Mittwoch,Wednesday
+495,die Tochter,the daughter
+496,die Spülmaschine,the dishwasher
+497,nachmittags,in the afternoons
+498,arbeiten,to work
+499,das Kinderzimmer,the child's room
+500,falsch,wrong
+501,die Anmeldung,the registration
+502,gemeinsam,together
+503,wir,we
+504,hören,to hear
+505,billig,cheap
+506,der Wohnort,the place of residence
+507,spazieren,to walk
+508,einmal,once again
+509,das Mehl,the flour
+510,schauen,to look
+511,gern,very much
+512,die Handynummer,the mobile number
+513,der Apfel,the apple
+514,morgens,in the mornings
+515,der Tag,the day
+516,einkaufen,to shop
+517,müssen,to have to
+518,sehr,very
+519,das Übungsbuch,the exercise book
+520,gemütlich,comfortable
+521,willkommen,to welcome
+522,lang,long
+523,das Problem,the problem
+524,die Übung,the exercise
+525,sitzen,to sit
+526,die Sahne,the cream
+527,geöffnet,open
+528,mittags,at midday
+529,der Raum,the room
+530,die Zeit,the time
+531,die Zahl,the number
+532,es,it
+533,also,well
+534,du,you
+535,das Viertel,the quarter to
+536,gefallen,to please
+537,bestimmt,certainly
+538,der Kassenbon,the receipt
+539,die Ruhe,the quiet
+540,unglücklich,unhappy
+541,vorne,at the front
+542,die Reise,the journey
+543,kreativ,people
+544,geradeaus,straight ahead
+545,die Ankunftszeit,the arrival time
+546,beige,beige
+547,rechnen,to calculate
+548,denken,to think
+549,das Ostern,the Easter
+550,fahren,to travel
+551,die Grippe,the flu
+552,das Schwimmbad,the swimming pool
+553,die Sprechstunde,the consultation hours
+554,extra,extra
+555,das Kleid,the dress
+556,die Ampel,the traffic lights
+557,zwischen,between
+558,wählen,to choose
+559,anziehen,to dress
+560,die Gesundheitskarte,the health insurance card
+561,tanzen,to dance
+562,eben,even
+563,der Husten,the cough
+564,der Mantel,the coat
+565,der Hase,the rabbit
+566,typisch,typical
+567,die Unterschrift,the signature
+568,servieren,to serve
+569,die Bauchschmerzen,the stomach ache
+570,die Orientierung,the orientation
+571,Juli,July
+572,die Kreuzung,the crossroads
+573,das Kino,the cinema
+574,die Jeans,the jeans
+575,der Reporter,the reporter
+576,die Praxis,the practice
+577,der Nacken,the neck
+578,dreimal,three times
+579,vorbei,past
+580,der Frühling,the spring
+581,das Hobby,the hobby
+582,der Krankenpfleger,the nurse
+583,die Inselrundfahrt,the island tour
+584,der Kopf,the head
+585,wiederkommen,to come again
+586,das Gebäude,the building
+587,der März,the march
+588,fangen,to catch
+589,halten,to stop
+590,vergessen,to forget
+591,der Besuch,the visit
+592,der Nachbar,the neighbour
+593,die Lösung,the solution
+594,gegenüber,opposite
+595,verdienen,to earn
+596,die Kirche,the church
+597,außerplanmäßig,unscheduled
+598,das Bürgerbüro,the local city office
+599,die Deutschlandkarte,the map of Germany
+600,das Altenpflegeheim,the old people's home
+601,das Motorrad,the motorcycle
+602,die Gitarre,the guitar
+603,online,online
+604,die Himmelsrichtung,the compass point
+605,das Westdeutschland,the West Germany
+606,die Tageskarte,the day ticket
+607,der Einkaufsbummel,the shopping spree
+608,der Führerschein,the driver's license
+609,der Moment,the moment
+610,selten,rarely
+611,der Arzt,the doctor
+612,ausfüllen,to fill out
+613,die Position,the police station
+614,positiv,positive
+615,die Praktikumsbetreuerin,the internship supervisor
+616,das Ohr,the ear
+617,das Gleis,the platform
+618,der Mund,the mouth
+619,der Tourist,the tourist
+620,der Sekt,the sparking wine
+621,der Körper,the body
+622,freundlich,friendly
+623,stundenlang,for hours
+624,November,November
+625,voll,full
+626,der Urlaub,the holiday
+627,wechseln,to change
+628,der Glückstag,the lucky day
+629,sowieso,anyway
+630,der Stadtplan,the city map
+631,besten,best
+632,meisten,most
+633,die Bushaltestelle,the bus stop
+634,der Luftballon,the air balloon
+635,grau,grey
+636,krank,ill
+637,das Kaufhaus,the department store
+638,das Fieber,the fever
+639,der Erwachsene,the adult
+640,die Natur,the nature
+641,das Kraftfahrzeug,the motor vehicle
+642,der Automechaniker,the car mechanic
+643,kaputt,broken
+644,packen,to pack
+645,fallen,to fall
+646,die Haltestelle,the stop
+647,das Fest,the party
+648,die Krankenkasse,the health insurance
+649,die Stirn,the forehead
+650,der Geburtstag,the birthday
+651,der Nachtdienst,the night shift
+652,das Weihnachten,the Christmas
+653,regelmäßig,regularly
+654,blau,blue
+655,überall,everywhere
+656,das Computersystem,the computer system
+657,die Bluse,the blouse
+658,der Taxifahrer,the taxi driver
+659,fühlen,to feel
+660,die Notfallsprechstunde,the emergency consultation
+661,die Bank,the bank
+662,der Seehund,the seal
+663,der Hauptbahnhof,the main train station
+664,der Feierabend,the finishing time
+665,der Strand,the beach
+666,erkälten,to get a cold
+667,die Suppe,the soup
+668,der Informationsschalter,the information desk
+669,atmen,to breathe
+670,trocken,dry
+671,der Jogginganzug,the tracksuit
+672,die Minute,the minute
+673,das Geschenk,the present
+674,der Wetterbericht,the weather report
+675,freuen,to be happy
+676,der Norden,the north
+677,das Medikament,the medicine
+678,der Weg,the path
+679,der Briefteil,the part of letter
+680,der Parkplatz,the car park
+681,später,later
+682,die Pflege,the care
+683,langweilig,boring
+684,wollen,to want
+685,gucken,to watch
+686,die Mobilität,the mobility
+687,die Einladung,the invitation
+688,die Leute,the people
+689,eng,tight
+690,verstanden,understood
+691,studieren,to study
+692,letzte,last
+693,die Untersuchung,the examination
+694,probieren,to try
+695,nächster,next
+696,die Hose,the trousers
+697,bald,soon
+698,unterrichten,to teach
+699,das Eis,the ice cream
+700,der Osten,the east
+701,der Weihnachtsmann,the Santa claus
+702,das Studium,the course of study
+703,beruflich,professionally
+704,der Sommer,the summer
+705,das Osterei,the easter egg
+706,die Krankheit,the illness
+707,die Fahrkarte,the travel ticket
+708,die Tablette,the tablet
+709,das Ferienhaus,the holiday home
+710,die Weihnachtsfeier,the Christmas party
+711,der Arm,the arm
+712,der Osterhase,the easter bunny
+713,froh,glad
+714,halbtags,halfdays
+715,das Hemd,the shirt
+716,der Intercity,the intercity
+717,der Bürokaufmann,the office administrator
+718,ihm,him
+719,das Café,the café
+720,die Kasse,the cash register
+721,der Westen,the west
+722,der Prospekt,the prospect
+723,der Beruf,the career
+724,die Salbe,the ointment
+725,der Koch,the chef
+726,der Wechsel,the change
+727,der Traumberuf,the dream job
+728,die Ordnung,the order
+729,das Konzert,the concert
+730,die Mode,the fashion
+731,schwanger,pregnant
+732,der Schnupfen,the to sniff
+733,installieren,to install
+734,der Schal,the scarf
+735,der Finger,the finger
+736,der Schatz,the treasure
+737,heiß,hot
+738,der Februar,February
+739,die Linie,the line
+740,wohin,where to
+741,geboren sein,to be born
+742,das Telefon,the telephone
+743,das Krankenhaus,the hospital
+744,schlecht,bad
+745,vielleicht,maybe
+746,der Herbst,the autumn
+747,der Hausarzt,the GP
+748,mitbringen,to bring with
+749,das Restaurant,the restaurant
+750,Dank,Thanks
+751,das Gesicht,the face
+752,der Bescheid,the notice
+753,die Straßenbahn,the tram
+754,das Wetter,the weather
+755,der Park,the park
+756,der Ellbogen,the elbow
+757,reden,to talk
+758,der Roman,the novel
+759,links,left
+760,das Datum,the date
+761,der Winter,the winter
+762,Mai,May
+763,früher,earlier
+764,der Wochenmarkt,the weekly market
+765,die Hand,the hand
+766,das Verkehrsmittel,the means of transport
+767,umtauschen,to exchange
+768,die Schulter,the shoulder
+769,die Oma,the Grandma
+770,der Wintermantel,the winter coat
+771,die Ausbildung,the education
+772,feiern,to celebrate
+773,das Wiederhören,the
+774,klingeln,to ring
+775,die Mama,the mum
+776,der Verband,the association
+777,der Rentner,the pensioner
+778,der Arbeitstag,the work day
+779,Januar,January
+780,fotografieren,to photograph
+781,der Schuh,the shoe
+782,der Orthopäde,the orthopaedist
+783,warten,to wait
+784,praktisch,practical
+785,Hustensaft,cough syrup
+786,die Vorsorge,the provision
+787,lila,purple
+788,verzögern,to hesitate
+789,die Insel,the island
+790,die Apotheke,the pharmacy
+791,der Chef,the boss
+792,wieder,again
+793,lieben,to love
+794,die Gartenparty,the garden party
+795,der Fußballspieler,the football player
+796,regnen,to rain
+797,aufregen,to get excited
+798,das Fahrrad,the bicycle
+799,das Paar,the pair
+800,die Socke,the sock
+801,der Fahrgast,the passenger
+802,rund,round
+803,der Bauch,the stomach
+804,das Auto,the car
+805,das Jobcenter,the job centre
+806,prüfen,to check
+807,der Flughafen,the airport
+808,die Praxisgemeinschaft,the joint practice
+809,nachfragen,to ask about
+810,das Radio,the radio
+811,bezahlen,to pay
+812,scheinen,to shine
+813,der Student,the student
+814,der Tropfen,the drops
+815,bauen,to build
+816,einladen,to invite
+817,das Oktoberfest,the Octoberfest
+818,pünktlich,on time
+819,die Kauffrau,the business woman
+820,bringen,to bring
+821,der Zug,the train
+822,die Nase,the nose
+823,fast,nearly
+824,der Techniker,the technician
+825,gültig,valid
+826,das Weihnachtsgeschenk,the Christmas present
+827,der Patient,the patient
+828,rechts,right
+829,schneien,to snow
+830,der Schmerz,the pain
+831,stressig,stressful
+832,bilden,to form
+833,die Braut,the bride
+834,das Modell,the model
+835,dritte,third
+836,dürfen,to be allowed to
+837,nebelig,foggy
+838,backen,to bake
+839,die Erkältung,the cold
+840,das Hotel,the hotel
+841,Dezember,December
+842,raten,to advise
+843,der Dienst,the service
+844,reparieren,to repair
+845,heiraten,to marry
+846,der Hals,the throat
+847,nass,wet
+848,Oktober,October
+849,die Strickjacke,the cardigan
+850,rot,red
+851,die Krankmeldung,the sick note
+852,lustig,funny
+853,zweimal,twice
+854,der Schienenersatzverkehr,the replacement bus service
+855,der Rock,the skirt
+856,die Bewegung,the movement
+857,die Polizei,the police
+858,der Strumpf,the stocking
+859,der Brief,the letter
+860,das Meer,the ocean
+861,die Hochzeit,the wedding
+862,dauern,to last
+863,der Körperteil,the body part
+864,zurück,return
+865,blöd,stupid
+866,das Halsweh,the sore throat
+867,per,by
+868,korrigieren,to correct
+869,die Feier,the celebration
+870,dafür,for that
+871,passen,to fit
+872,zweite,second
+873,der Anzug,the suit
+874,die Hochzeitsfeier,the wedding party
+875,berichten,to report
+876,die Regionalbahn,the regional train
+877,die Sprechstundenhilfe,the receptionist
+878,unter,under
+879,hageln,hail
+880,die Besserung,the recovery
+881,der Sportschuh,the trainer
+882,der Weihnachtsbaum,the Christmas tree
+883,schwarz,black
+884,das Kleidungsstück,the item of clothing
+885,der Papa,the dad
+886,die Geburtstagstorte,the birthday cake
+887,der Empfänger,the recipient
+888,die Kleidung,the clothing
+889,der Baum,the tree
+890,der Kellner,the waiter
+891,sein,his
+892,der Rücken,the back
+893,der Bahnhof,the train station
+894,der Mechaniker,the mechanic
+895,glauben,to believe
+896,die Achtung,the caution
+897,die Farbe,the colour
+898,der Pullover,the jumper
+899,der Schüler,the schoolchild
+900,das Pflaster,the plaster
+901,einverstanden,agreed
+902,die Reparatur,the repair
+903,geben,to give
+904,gerade,at the moment
+905,der Mond,the moon
+906,süß,sweet
+907,das Entschuldigungsschreiben,the letter of apology
+908,das Knie,the knee
+909,sicher,secure
+910,der Schnee,the snow
+911,die Postkarte,the postcard
+912,die Mathematik,the mathematics
+913,das Tennis,the tennis
+914,der Meter,the metre
+915,die Universität,the university
+916,die Kopfschmerzen,the headache
+917,das Auge,the eye
+918,uns,us
+919,günstig,good value
+920,die Kantine,the cantine
+921,das Computerprogramm,the computer programme
+922,das Wartezimmer,the waiting room
+923,der Koffer,the suitcase
+924,steigen,to climb
+925,die Einzelfahrkarte,the single ticket
+926,der Ski,the ski
+927,September,September
+928,das Taxi,the taxi
+929,verschieden,different
+930,der Zahn,the tooth
+931,das Sprechzimmer,the consultation room
+932,stellen,to set
+933,der Stadtwald,the city forest
+934,das Rezept,the recipe
+935,gegenseitig,mutual
+936,die Parkgebühr,the parking fee
+937,glücklich,happy
+938,organisieren,to organise
+939,die Gruppe,the group
+940,das Bein,the leg
+941,der Kassierer,the cashier
+942,der Bus,the bus
+943,warm,warm
+944,die Post,the post office
+945,minus,minus
+946,besuchen,to visit
+947,schenken,to gift
+948,zurzeit,currently
+949,die Hausfrau,the housewife
+950,der Hausmann,the househusband
+951,die Klamotten,the clothes
+952,das Schiff,the ship
+953,räumen,to clear
+954,der Ingenieur,the engineer
+955,August,August
+956,der Fahrer,the driver
+957,das Praktikum,the internship
+958,die Brust,the chest
+959,die Werkstatt,the workshop
+960,der Bäcker,the baker
+961,die Volkshochschule,the adult education centre
+962,der Metzger,the butcher
+963,der Hund,the dog
+964,bewölkt,cloudy
+965,überhaupt,at all
+966,der Kollege,the colleague
+967,die Mütze,the hat
+968,der Pizzafahrer,the pizza driver
+969,der Handschuh,the glove
+970,die Spezialität,the speciality
+971,tragen,to wear
+972,die Bibliothek,the library
+973,unregelmäßig,infrequent
+974,wehtun,to hurt
+975,der Schneemann,the snowman
+976,das Mittagessen,the lunch
+977,furchtbar,terrible
+978,der Zeh,the toe
+979,die Kurzstrecke,the short
+980,flexibel,flexible
+981,der Musiklehrer,the music teacher
+982,anbei,attached
+983,die Blume,the flower
+984,der Schokoladenkuchen,the chocolate cake
+985,das T-shirt,the T-shirt
+986,öffentlich,public
+987,der Süden,the south
+988,die Anrede,the speech
+989,gelb,yellow
+990,bleiben,to stay
+991,April,April
+992,der Betreff,the subject line
+993,einfach,easy
+994,treffen,to meet
+995,die Jahreszeit,the season
+996,der Teller,the plate
+997,das Haar,the hair
+998,stark,strong
+999,die Ärztin,the female doctor
+1000,die Verfügung,the availability
+1001,sonnig,sunny
+1002,aufwachsen,to grow up
+1003,der Unglückstag,the unlucky day
+1004,samstags,on saturdays
+1005,der Grad,the degrees
+1006,der Stress,the stress
+1007,rauchen,to smoke
+1008,der Kalender,the calendar
+1009,das Rathaus,the city hall
+1010,schicken,to send
+1011,nichts,nothing
+1012,braun,brown
+1013,die Jacke,the jacket
+1014,die Pizzeria,the pizzeria
+1015,das Standesamt,the registry office
+1016,die Ansage,the announcement
+1017,die Gesundheit,the health
+1018,genauso,equally
+1019,ausziehen,to move out
+1020,der Ansprechpartner,the contact person
+1021,drucken,to print
+1022,die Mitteilung,the notification
+1023,die Empfehlung,the recommendation
+1024,der Informatiker,the IT technician
+1025,abschließen,to complete
+1026,das Programm,the programme
+1027,hoch,high
+1028,zuzüglich,plus
+1029,die Berufsausbildung,the professional training
+1030,drehen,to turn
+1031,gesondert,separate
+1032,unternehmen,to undertake
+1033,die Struktur,the structure
+1034,das Thema,the topic
+1035,die Verspätung,the delay
+1036,der Trick,the trick
+1037,planmäßig,on schedule
+1038,der Kellerzugang,the cellar entrance
+1039,entschuldigen,to excuse
+1040,die Nachricht,the message
+1041,das Lehrmaterial,the teaching material
+1042,der Hausmeister,the caretaker
+1043,besonders,especially
+1044,Newsletter,newsletter
+1045,die Radtour,the cycling tour
+1046,genehmigen,to approve
+1047,die Zulassungsstelle,the admission office
+1048,nötig,necessary
+1049,die Umwelt,the environment
+1050,das Stellenangebot,the job offer
+1051,der Autounfall,the car accident
+1052,defekt,defective
+1053,die Stellensuche,the job search
+1054,entsorgen,to dispose of
+1055,ähnlich,similar
+1056,oben,at the top
+1057,genug,enough
+1058,sympathisch,kind
+1059,Grundschule,primary school
+1060,ob,whether
+1061,die Arbeitserlaubnis,the work permit
+1062,starten,to begin
+1063,das Theater,the theatre
+1064,der Regenschirm,the umbrella
+1065,das Internet,the Internet
+1066,der Ehepartner,the spouse
+1067,vollständig,complete
+1068,die Strafe,the penalty
+1069,der Lebenslauf,the CV
+1070,die Veranstaltung,the event
+1071,zuverlässig,reliable
+1072,ordnungsgerecht,properly
+1073,das Reiseziel,the travel destination
+1074,das Material,the material
+1075,das Enkelkind,the grandchild
+1076,abstellen,to turn off
+1077,der Mitbewohner,the roommate
+1078,männlich,male
+1079,der Mitarbeiter,the employee
+1080,löschen,to delete
+1081,kündigen,to terminate
+1082,der Antrag,the application
+1083,die Wirtschaft,the economy
+1084,aufschließen,to unlock
+1085,das Semester,the term
+1086,der Kinderwagen,the baby buggy
+1087,die Abmeldung,the deregistration
+1088,das Training,the training
+1089,sorgen,to care
+1090,losfahren,to drive away
+1091,die Wohngemeinschaft,the flat share
+1092,die Kommode,the dresser
+1093,verlieben,to fall in love
+1094,umschreiben,to re-write
+1095,der Enkel,the grandson
+1096,das Ausländeramt,the immigration office
+1097,der Ausweis,the ID
+1098,die Option,the option
+1099,die Beschwerde,the complaint
+1100,der Test,the test
+1101,der Restaurantfachmann,the restaurant specialist
+1102,die Unterlagen,the documents
+1103,die Hinfahrt,the journey there
+1104,nah,close
+1105,flirten,to flirt
+1106,der Automat,the vending machine
+1107,die Rückfahrt,the return journey
+1108,die Büroorganisation,the office administration
+1109,unterschreiben,to sign
+1110,der Bäckereifachverkäufer,the baker's assistant
+1111,der Angehörige,the relative
+1112,bedanken,to thank
+1113,das Würstchen,the sausage
+1114,das Finanzamt,the tax office
+1115,einziehen,to move in
+1116,der Vermieter,the landlord
+1117,seit,since
+1118,das Altglas,the waste glass
+1119,kürzen,to shorten
+1120,empfehlen,to recommend
+1121,handwerklich,manual
+1122,der Lebenspartner,the life partner
+1123,die Strecke,the route
+1124,Hof,yard
+1125,spezial,special
+1126,die Staatsangehörigkeit,the nationality
+1127,fehlen,to miss
+1128,ausfallen,to be cancelled
+1129,die Temperatur,the temperature
+1130,die Hausverwaltung,the property management
+1131,informieren,to inform
+1132,der Zugang,the entry
+1133,anbieten,to offer
+1134,mailen,to mail
+1135,die Hausreinigung,the house cleaning
+1136,die Hausordnung,the house rules
+1137,das Forum,the forum
+1138,die Verbindung,the connection
+1139,Gassi gehen,to walk the dog
+1140,zuständig,responsible
+1141,miserabel,miserable
+1142,die Ecke,the corner
+1143,der Verbraucherzähler,the consumption meter
+1144,die Überraschung,the surprise
+1145,die Theorie,the theory
+1146,eindecken,to inundate
+1147,die Energie,the energy
+1148,darum,therefore
+1149,der Zähler,the meter
+1150,abfahren,to depart
+1151,jemand,someone
+1152,verrückt,crazy
+1153,ausblenden,to fade out
+1154,das Symbol,the symbol
+1155,die Überschrift,the heading
+1156,passieren,to happen
+1157,das Abitur,the A-level
+1158,der Stellplatz,the parking space
+1159,vereinbaren,to arrange
+1160,verlieren,to lose
+1161,der Fahrkartenschalter,the ticket office
+1162,das Muster,the pattern
+1163,der Lebensweg,the journey through life
+1164,schonen,to treat with care
+1165,das Geburtsdatum,the date of birth
+1166,der Tippfehler,the typing error
+1167,drüben,over there
+1168,die Reinigungsarbeiten,the cleaning jobs
+1169,der Auszubildende,the trainee
+1170,alle,all
+1171,das Prüfungstraining,the exam training
+1172,lückenlos,seamless
+1173,die Müllabfuhr,the garbage disposal
+1174,die Übersiedlung,the relocation
+1175,chatten,to chat
+1176,weiterhin,still
+1177,trainieren,to train
+1178,unterwegs,en route
+1179,fortgeschritten,advanced
+1180,der Vorschlag,the suggestion
+1181,die Rolle,the role
+1182,der Modedesigner,the fashion designer
+1183,der Leser,the reader
+1184,entscheiden,to decide
+1185,der Umzug,the move
+1186,der Arbeitsplatz,the workplace
+1187,beenden,to end
+1188,afrikanisch,African
+1189,vorhanden,available
+1190,die Arbeitsvermittlung,the employment service
+1191,buchen,to book
+1192,speichern,to save
+1193,mitnehmen,to take with
+1194,die Kenntnisse,the knowledge
+1195,die Station,the station
+1196,die Laufbahn,the career path
+1197,der Glascontainer,the bottle bank
+1198,der Integrationskurs,the integration course
+1199,die Vorkenntnisse,the prior knowledge
+1200,der Teil,the part
+1201,das Geschlecht,the gender
+1202,diskutieren,to discuss
+1203,bearbeiten,to edit
+1204,abmelden,to deregister
+1205,die Einweihungsparty,the housewarming party
+1206,sinken,to decrease
+1207,die Reisemöglichkeit,the travel option
+1208,die Kneipe,the pub
+1209,der Frisör,the hairdresser
+1210,das Berufsinformationszentrum,the career information centre
+1211,der Flohmarkt,the flea market
+1212,der Hausbewohner,the house resident
+1213,die Nähe,the proximity
+1214,die Zeitschrift,the magazine
+1215,der Wunsch,the wish
+1216,erfolgen,to take place
+1217,die Decke,the ceiling
+1218,einrichten,to furnish
+1219,liefern,to supply
+1220,die Architektur,the architecture
+1221,die Geburtsurkunde,the birth certificate
+1222,die Eheschließung,the marriage
+1223,das Pech,the bad luck
+1224,die Lehre,the apprenticeship
+1225,hochladen,to upload
+1226,reichlich,abundant
+1227,der Eintritt,the entrance
+1228,die Nachbarschaft,the neighbourhood
+1229,unprofessionell,unprofessional
+1230,die Kinokarte,the cinema ticket
+1231,trennen,to separate
+1232,die Arbeitsagentur,the employment agency
+1233,das Einwohnermeldeamt,the registration office
+1234,umsteigen,to change trains
+1235,der Abschluss,the degree
+1236,die Abfahrt,the departure
+1237,unsympathisch,unkind
+1238,schwarzfahren,to fare-dodge
+1239,die Abendkasse,the box office
+1240,der Neffe,the nephew
+1241,das Beratungsgespräch,the consultation
+1242,schaffen,to succeed
+1243,wenig,little
+1244,der Fahrradständer,the bicycle stand
+1245,die Rente,the retirement
+1246,legen,to lay
+1247,beachten,to consider
+1248,das Flugzeug,the plane
+1249,hoffen,to hope
+1250,das Chaos,the chaos
+1251,das Team,the team
+1252,wohl,probably
+1253,unzufrieden,unsatisfied
+1254,der Benutzername,the user name
+1255,die Welt,the world
+1256,bedeuten,to mean
+1257,das Dokument,the document
+1258,der Anfänger,the beginner
+1259,das Kurzprogramm,the short program
+1260,der Geburtsort,the place of birth
+1261,rhythmisch,rhythmical
+1262,die Richtung,the direction
+1263,dass,that
+1264,der Reisepass,the passport
+1265,das Kulturcafé,the culture café
+1266,persönlich,personal
+1267,ausführen,to execute
+1268,die Wettervorhersage,the weather forecast
+1269,das Arbeitslosengeld,the unemployment benefit
+1270,abgeben,to submit
+1271,fliegen,to fly
+1272,leidtun,to be sorry
+1273,der Antragsteller,the applicant
+1274,die Kursgebühr,the course fee
+1275,tauschen,to swap
+1276,zuhören,to listen
+1277,der Nachtisch,the dessert
+1278,der Realschulabschluss,the secondary school certificate
+1279,der Lichtbildausweis,the photo ID
+1280,der Fernbus,the long-distance bus
+1281,privat,private
+1282,herunterladen,to download
+1283,ablehnen,to refuse
+1284,klicken,to click
+1285,die Mittelschule,the secondary school
+1286,der Bildungsweg,the course of education
+1287,der Senior,the senior
+1288,mittlere,middle
+1289,das Ausland,the abroad
+1290,der Lieferant,the supplier
+1291,zuletzt,recently
+1292,die App,the app
+1293,die Kleinmöbel,the small pieces of furniture
+1294,wiederholen,to repeat
+1295,kaufmännisch,business
+1296,tippen,to type
+1297,der Umzugskarton,the moving box
+1298,kostenlos,free of charge
+1299,deshalb,hence
+1300,das Amtsdeutsch,the official German
+1301,die Weiterbildung,the further training
+1302,die Verabredung,the meet up
+1303,das Familienbuch,the family register
+1304,die Berufsschule,the vocational college
+1305,das Ende,the end
+1306,die Politik,the politics
+1307,notieren,to note
+1308,der Bereich,the area
+1309,die Fitness,the fitness
+1310,mitkommen,to come along
+1311,schwierig,difficult
+1312,aufrufen,to call up
+1313,Vorbereitung,preparation
+1314,umziehen,to move
+1315,die Geburt,the birth
+1316,das Berufsfeld,the field of work
+1317,mitmachen,to participate
+1318,die Vollzeitstelle,the full-time job
+1319,das Straßenfest,the street party
+1320,einsteigen,to board
+1321,der Kommentar,the comment
+1322,die Voraussetzung,the requirement
+1323,das Holz,the wood
+1324,verschlafen,to oversleep
+1325,die Kommunikation,the communication
+1326,das Kindergeld,the child allowance
+1327,die Einbauküche,the built-in kitchen
+1328,berufstätig,employed
+1329,gehören,to belong
+1330,der Treffpunkt,the venue
+1331,die Integration,the integration
+1332,der Ausbildungsplatz,the training place
+1333,das Autofahren,the to drive a car
+1334,zufrieden,satisfied
+1335,das Schild,the sign
+1336,der Anschlusszug,the connecting train
+1337,der Biomüll,the biowaste
+1338,ankommen,to arrive
+1339,nervös,nervous
+1340,begründen,to justify
+1341,die Einwurfzeit,the time slot for putting out rubbish
+1342,die Wohnungsbesichtigung,the flat viewing
+1343,das Treppenhaus,the stairway
+1344,ausgeben,to spend
+1345,der Makler,the broker
+1346,aktuell,current
+1347,herein,within
+1348,ankreuzen,to mark with a cross
+1349,enthalten,to contain
+1350,der Personalausweis,the personal ID
+1351,kompakt,compact
+1352,nachschauen,to look up
+1353,die Küchenhilfe,the kitchen assistant
+1354,mich,me
+1355,jobben,to do casual work
+1356,die Reservierung,the booking
+1357,die Behörde,the authorities
+1358,fliehen,to flee
+1359,dabei,thereby
+1360,ablesen,to read from
+1361,der Veranstaltungstipp,the event tip
+1362,der Einzug,the move in
+1363,der Regen,the rain
+1364,die Schulzeit,the school days
+1365,die Vase,the vase
+1366,sorgfältig,thoroughly
+1367,googeln,to google
+1368,zeitweise,occasionally
+1369,die Fernwärme,the remote heating
+1370,hoffentlich,hopefully
+1371,die Berufsberatung,the career guidance
+1372,gebraucht,used
+1373,statt,instead
+1374,die Dauer,the duration
+1375,die Tiefgarage,the underground garage
+1376,das Familienmitglied,the family member
+1377,das Geburtsland,the country of birth
+1378,beeilen,to hurry
+1379,städtisch,urban
+1380,aussteigen,to get out
+1381,der Briefkasten,the mailbox
+1382,die Teilzeit,the part-time
+1383,die Webseite,the website
+1384,erforderlich,required
+1385,die Ablesung,the reading
+1386,die Tonne,the barrel
+1387,der Mieter,the tenant
+1388,die Terminplanung,the scheduling
+1389,der Cousin,the cousin
+1390,das Smartphone,the smartphone
+1391,das Zertifikat,the certificate
+1392,das Zeitmanagement,the time management
+1393,üben,to practice
+1394,das Spielzeug,the toy
+1395,der Tischler,the carpenter
+1396,das Kennwort,the password
+1397,die Störung,the disruption
+1398,das Prost,the Cheers!
+1399,professionell,professional
+1400,beantragen,to apply for
+1401,die Familienkasse,the family class
+1402,der Restmüll,the residual waste
+1403,das Volleyball,the volleyball
+1404,erreichen,to reach
+1405,international,international
+1406,weiblich,female
+1407,die Prüfung,the exam
+1408,das Yoga,the yoga
+1409,die Datei,the file
+1410,der Serviceschalter,the service counter
+1411,wegen,due to
+1412,das Gas,the gas
+1413,die Aufenthaltserlaubnis,the residence permit
+1414,das Bahnfahren,the rail travel
+1415,die Beratung,the counselling
+1416,nämlich,namely
+1417,die Vorlage,the template
+1418,der Spiegel,the mirror
+1419,übernehmen,to assume
+1420,die Treppe,the stairs
+1421,der Grund,the ground
+1422,die Startseite,the homepage
+1423,die Ankunft,the arrival
+1424,der Zoo,the zoo
+1425,vermieten,to let
+1426,der Aushilfsjob,the temporary job
+1427,melden,to notify
+1428,die Situation,the situation
+1429,die Ausländerbehörde,the immigration authorities
+1430,die Vollzeit,the full-time
+1431,die Kategorie,the category
+1432,die Biotonne,the biowaste container
+1433,die Schwiegereltern,the parents-in-law
+1434,herausfinden,to find out
+1435,hingehen,to go there
+1436,die Stelle,the position
+1437,der Bezirk,the district
+1438,Spaziergang,walk
+1439,der Beinbruch,the leg fracture
+1440,die Hausregel,the house rule
+1441,abholen,to collect
+1442,die Teilzeitstelle,the part-time job
+1443,der Aufenthalt,the stay
+1444,die Nichte,the niece
+1445,der Schaffner,the conductor
+1446,der Geburtsname,the name at birth
+1447,preiswert,inexpensive
+1448,das Brett,the board
+1449,genießen,to enjoy
+1450,der Schornsteinfeger,the chimney sweep
+1451,ständig,constant
+1452,der Schnupperkurs,the taster course
+1453,die Verspannung,the tension
+1454,der Tierpfleger,the zookeeper
+1455,angeben,to indicate
+1456,das Fach,the subject
+1457,der Ausflug,the excursion
+1458,die Besprechung,the meeting
+1459,griechisch,Greek
+1460,die Regel,the rule
+1461,die Glatze,the bald head
+1462,das Kleingeld,the small change
+1463,der Daumen,the thumb
+1464,aufheben,to cancel
+1465,der Kontoinhaber,the account holder
+1466,einzahlen,to pay in
+1467,folgen,to follow
+1468,weglaufen,to run away
+1469,der Gürtel,the belt
+1470,der Dieb,the thief
+1471,der Arbeitsschutz,the occupational safety
+1472,die Mathearbeit,the maths test
+1473,unterhalten,to entertain
+1474,das Ehepaar,the married couple
+1475,konzentrieren,to concentrate
+1476,begleichen,to settle
+1477,die Klasse,the class
+1478,das Gericht,the meal
+1479,das Freizeitangebot,the leisure opportunities
+1480,das Gymnasium,the Grammar school
+1481,das Sekretariat,the secretary's office
+1482,die Akupunktur,the acupuncture
+1483,hübsch,pretty
+1484,die Gabel,the fork
+1485,massieren,to massage
+1486,manche,some
+1487,die Kundenreferenz,the customer reference
+1488,die Mehrfachsteckdose,the power strip
+1489,die Sicherheit,the security
+1490,der Vegetarier,the vegetarian
+1491,ungarisch,Hungarian
+1492,der Zahlungsempfänger,the payee
+1493,der Zeitungsartikel,the newspaper article
+1494,reizen,to irritate
+1495,der Teenager,the teenager
+1496,das Tattoo,the tattoo
+1497,die Vorschrift,the regulation
+1498,die Accessoires,the accessories
+1499,übrigens,by the way
+1500,das Verhalten,the behaviour
+1501,glatt,smooth
+1502,der Jugendliche,the youth
+1503,die Maus,the mouse
+1504,das Protokoll,the protocol
+1505,die Anweisung,the instruction
+1506,telefonisch,by telephone
+1507,die Badesachen,the swimwear
+1508,die Realschule,the secondary modern school
+1509,der Polizist,the policeman
+1510,das Konto,the account
+1511,der Kopfhörer,the headphones
+1512,formell,formula
+1513,die Tischdecke,the tablecloth
+1514,kopieren,to copy
+1515,die Chemie,the chemistry
+1516,der Löffel,the spoon
+1517,das Personalbüro,the personnel office
+1518,die Hautpflege,the skin care
+1519,der Pfennig,the penny
+1520,monatlich,monthly
+1521,basteln,to do crafts
+1522,vermeiden,to avoid
+1523,knackig,crispy
+1524,die Grillzange,the barbecue tong
+1525,das Schaubild,the diagram
+1526,der Bankschalter,the bank counter
+1527,lockig,curly
+1528,befriedigend,satisfactory
+1529,der Boden,the floor
+1530,das Hausmittel,the home remedy
+1531,blond,blond
+1532,während,during
+1533,frittieren,to fry
+1534,die Rückenmuskulatur,the back muscles
+1535,die Schwellung,the swelling
+1536,gestalten,to design
+1537,laufen,to run
+1538,der Poetry-Slam,the poetry slam
+1539,die Nachbereitung,the follow-up
+1540,abheben,to withdraw
+1541,klagen,to sue
+1542,das Diplom,the diploma
+1543,das Girokonto,the current account
+1544,der Arbeitsauftrag,the work order
+1545,verbessern,to improve
+1546,die Nachhilfe,the private tuition
+1547,das Camping,the camping
+1548,der Reichtum,the wealth
+1549,entspannen,to relax
+1550,der Kumpel,the mate
+1551,das Schach,the chess
+1552,die Überwachungskamera,the CCTV
+1553,der BIC,the BIC
+1554,eröffnen,to open
+1555,das Hauptgericht,the main meal
+1556,gewinnen,to win
+1557,das Online-Banking,the online banking
+1558,die Überweisung,the transfer
+1559,die Kundenbetreuung,the customer support
+1560,dünn,thin
+1561,der Tänzer,the dancer
+1562,darin,in it
+1563,aggressiv,aggressive
+1564,der Respekt,the respect
+1565,verabschieden,to adopt
+1566,das Hufeisen,the horseshoe
+1567,engagieren,to engage
+1568,der Bildschirm,the screen
+1569,olympisch,olympic
+1570,heraussuchen,to pick out
+1571,der Überfall,the robbery
+1572,der Elternabend,the parent's evening
+1573,die Werbeagentur,the marketing agency
+1574,erwarten,to wait for
+1575,das Feuerzeug,the lighter
+1576,das Spielfeld,the playing field
+1577,der Internetzugang,the internet access
+1578,verbringen,to spend time
+1579,normal,normal
+1580,der Sieg,the victory
+1581,verboten,to forbid
+1582,das Sparkonto,the savings account
+1583,streng,strict
+1584,der Außendienst,the sales representatives
+1585,der Modeschmuck,the fashion jewellry
+1586,die Aubergine,the aubergine
+1587,die Meditation,the meditation
+1588,gestreift,striped
+1589,die Eingabe,the input
+1590,die Leidenschaft,the passion
+1591,anerkannt,recognised
+1592,das Glück,the luck
+1593,die Sportart,the type of sport
+1594,der Arbeitgeber,the employer
+1595,der Entwurf,the draft
+1596,unfair,unfair
+1597,einfarbig,monochromatic
+1598,der Elternsprechtag,the parent-teacher day
+1599,das Mädchen,the girl
+1600,der Feuerlöscher,the fire extinguisher
+1601,unterstützen,support
+1602,die Parfümerie,the perfumery
+1603,daheim,at home
+1604,die Tischdekoration,the table decoration
+1605,scharf,spicy
+1606,leihen,to lend
+1607,die Gastronomie,the gastronomy
+1608,der Kontoauszug,the account statement
+1609,das Volleyballspiel,the volley ball game
+1610,stoßen,to encounter
+1611,das Marketing,the marketing
+1612,die Entspannung,the relaxation
+1613,die Versicherung,the insurance
+1614,die Pflicht,the duty
+1615,der Saal,the hall
+1616,der Vokabeltest,the vocabulary test
+1617,werfen,to throw
+1618,dagegen,in contrast
+1619,das Besteck,the cutlery
+1620,die Schulform,the type of school
+1621,mitschreiben,to take notes
+1622,der Bericht,the report
+1623,der Veranstaltungshinweis,the event information
+1624,die Fachhochschulreife,the technical college certificate
+1625,plötzlich,suddenly
+1626,betreffen,to relate to
+1627,hochlegen,to elevate
+1628,die Girocard,the girocard
+1629,die Angst,the fear
+1630,trotzdem,despite
+1631,der Nulltarif,the zero tariff rate
+1632,wandern,to hike
+1633,der Zeuge,the witness
+1634,umfangreich,comprehensive
+1635,die Currywurst,the currywurst
+1636,irgendwo,somewhere
+1637,der Knöchel,the knuckle
+1638,die Kerze,the candle
+1639,wirklich,really
+1640,überweisen,to transfer
+1641,das Fast Food,the fast food
+1642,die Kamera,the camera
+1643,entlang,along
+1644,indirekt,indirect
+1645,die Uniform,the uniform
+1646,die Dame,the lady
+1647,der Versicherungsnehmer,the policy holder
+1648,der Täter,the culprit
+1649,der Eiswürfel,the ice cube
+1650,die Haut,the skin
+1651,die Note,the mark
+1652,der Muskel,the muscle
+1653,freiwillig,voluntary
+1654,die Tagesordnung,the daily schedule
+1655,jederzeit,anytime
+1656,die Umfrage,the survey
+1657,niemand,nobody
+1658,braten,to roast
+1659,die Steuer,the tax
+1660,der Integrationsverein,the integration association
+1661,belegen,to prove
+1662,die Flipflops,the flip flops
+1663,das Tier,the animal
+1664,die Münze,the coin
+1665,die Krawatte,the tie
+1666,gefährden,to endanger
+1667,verteilen,to distribute
+1668,die Vergangenheit,the past
+1669,die Grillsoße,the barbecue sauce
+1670,gepunktet,spotty
+1671,der Englischlehrer,the English teacher
+1672,stehlen,to steal
+1673,die Kundennummer,the customer number
+1674,die Vermeidung,the avoidance
+1675,die Elektrik,the electrics
+1676,das Modegeschäft,the fashion shop
+1677,jeweils,respectively
+1678,die Abteilung,the department
+1679,der Verwendungszweck,the purpose
+1680,schieben,to shut
+1681,die Rechnung,the bill
+1682,zurückgeben,to return
+1683,der Wanderschuh,the hiking shoes
+1684,die Haarpflege,the hair care
+1685,damals,back then
+1686,der Beauftragte,the agent
+1687,folgend,following
+1688,bunt,colourful
+1689,der Interviewpartner,the interview partner
+1690,der Laptop,the laptop
+1691,die Basis,the basis
+1692,jährlich,annually
+1693,das Sparschwein,the piggy bank
+1694,stärken,to strengthen
+1695,die Physik,the physics
+1696,das Navigationsgerät,the navigation device
+1697,das Freizeitvergnügen,the pastime
+1698,spätestens,at the latest
+1699,der Vortrag,the presentation
+1700,der Schrei,the scream
+1701,die Verabschiedung,the approval
+1702,die Armut,the poverty
+1703,die Kreditkarte,the credit card
+1704,der Sportverein,the sports club
+1705,der Anrufer,the caller
+1706,die Gebühr,the fee
+1707,das Lieblingsfach,the favourite subject
+1708,der Rechnungsbetrag,the invoice amount
+1709,fit,fit
+1710,hinfallen,to fall over
+1711,das Küchengerät,the kitchen appliance
+1712,holen,to fetch
+1713,die Shorts,the shorts
+1714,der Brandfall,the case of fire
+1715,reich,rich
+1716,die Schuhgröße,the shoe size
+1717,der Geldautomat,the cash machine
+1718,die Gesamtschule,the comprehensive school
+1719,die Erdkunde,the geography
+1720,die Bestellnummer,the order number
+1721,die Rückfrage,the query
+1722,der Pilot,the pilot
+1723,segeln,to sail
+1724,kontrollieren,to monitor
+1725,die Zucchini,the zucchini
+1726,der Korb,the basket
+1727,die Kosmetiktasche,the cosmetic bag
+1728,das Kleeblatt,the cloverleaf
+1729,die Taste,the button
+1730,der Berufswunsch,the career aspiration
+1731,der Sportunterricht,the sports lessons
+1732,der Toaster,the toaster
+1733,die Kontonummer,the account number
+1734,der Ausgleich,the balance
+1735,deutlich,clearly
+1736,egal,equal
+1737,der Appetit,the appetite
+1738,die TAN,the TAN
+1739,das Bargeld,the cash
+1740,der Fotograf,the photographer
+1741,das Gipsbein,the leg in plaster
+1742,der Grill,the barbecue
+1743,die Band,the band
+1744,überlasten,to overload
+1745,der Bart,the beard
+1746,das Vanilleeis,the vanilla ice cream
+1747,das Bundesland,the federal state
+1748,die Aktivität,the activity
+1749,der Versuch,the attempt
+1750,der Brand,the fire
+1751,erlauben,to allow
+1752,der Chor,the choir
+1753,die Vorlesung,the lecture
+1754,mitfahren,to travel with
+1755,die Rechnungsnummer,the invoice number
+1756,die Broschüre,the brochure
+1757,der Blick,the view
+1758,der Schnurrbart,the moustache
+1759,der Ohrring,the earring
+1760,die Innenstadt,the city centre
+1761,herrlich,delightful
+1762,der Ratschlag,the piece of advice
+1763,verschreiben,to prescribe
+1764,vegetarisch,vegetarian
+1765,das Make-up,the make up
+1766,die Massage,the massage
+1767,das Kreditinstitut,the credit institute
+1768,das Kompliment,the compliment
+1769,die Süßigkeiten,the sweets
+1770,die Alternative,the alternative
+1771,das Halbjahr,the half-year
+1772,bereit,ready
+1773,der Werbeflyer,the flyer
+1774,der Babysitter,the babysitter
+1775,drücken,to press
+1776,der Junge,the boy
+1777,brennen,to burn
+1778,teilnehmen,to take part
+1779,die Teilnahmebescheinigung,the participation certificate
+1780,das Geschirr,the crockery
+1781,der Rettungswagen,the ambulance
+1782,die Elektronik,the electronics
+1783,bummeln,to stroll
+1784,interessieren,to interest
+1785,der PIN,the PIN
+1786,traurig,sad
+1787,das Steak,the steak
+1788,reagieren,to react
+1789,asiatisch,asian
+1790,erledigen,to manage to
+1791,die Übelkeit,the nausea
+1792,nähen,to sew
+1793,die Geschichte,the history
+1794,das Schulsystem,the school system
+1795,außer,apart from
+1796,das Open-Air-Konzert,the open air concert
+1797,die IBAN,the IBAN
+1798,mobil,portable
+1799,gesundheitlich,hygienic
+1800,der Snack,the snack
+1801,aufpassen,to watch out
+1802,die Gemüselasagne,the vegetable lasagne
+1803,bar,in cash
+1804,träumen,to dream
+1805,der Tanzkurs,the dance class
+1806,der Personalleiter,the head of personnel
+1807,der Arbeitsbeginn,the start of work
+1808,die Teilnahme,the participation
+1809,das Mineralwasser,the mineral water
+1810,die Kunst,the art
+1811,die Fachhochschule,the technical college
+1812,der Babyartikel,the baby items
+1813,die Therapie,the therapy
+1814,anfordern,to request
+1815,schlank,slim
+1816,hiermit,hierwith
+1817,die Brandbekämpfung,the fire fighting
+1818,betätigen,to operate
+1819,die Personalabteilung,the personnel department
+1820,die Lust,the desire
+1821,lösen,to solve
+1822,der Kabelsalat,the cable tangle
+1823,die Kostenerstattung,the reimbursement of costs
+1824,nutzen,useage
+1825,der Stiefel,the boot
+1826,überfallen,to attack
+1827,kariert,checkered
+1828,der Unterschied,the difference
+1829,der Rat,the advice
+1830,das Schnäppchen,the deal
+1831,die Hektik,the rush
+1832,der Fluss,the river
+1833,die Bankkarte,the bank card
+1834,turnen,to do gymnastics
+1835,das Messer,the knife
+1836,kompliziert,complicated
+1837,kommunizieren,to communicate
+1838,ungenügend,unsatisfactory
+1839,die Behandlung,the treatment
+1840,das Überweisungsformular,the bank transfer form
+1841,das Gold,the gold
+1842,unbürokratisch,unbureaucratic
+1843,vorbeikommen,to drop by
+1844,der Fahrradhelm,the cycle helmet
+1845,die Geldbörse,the purse
+1846,das Silber,the silver
+1847,nachher,afterwards
+1848,die Meinung,the opinion
+1849,der Arbeitsvertrag,the work contract
+1850,die Regie,the management
+1851,selber,by oneself
+1852,der Brandmelder,the fire alarm
+1853,der Wecker,the alarm
+1854,schlafengehen,to go to sleep
+1855,bewahren,to save from
+1856,schick,chic
+1857,nennen,to name
+1858,das Basketball,the basketball
+1859,die Gymnastik,the gymnastics
+1860,die Filiale,the branch
+1861,der Anruf,the call
+1862,bereitstellen,to make ready
+1863,die Grafik,the graphics
+1864,dick,fat
+1865,schlagen,to hit
+1866,die Spielwaren,the toys
+1867,die Biologie,the biology
+1868,die Freizeit,the free time
+1869,kühlen,to cool
+1870,der Duft,the smell
+1871,der Aufzug,the lift
+1872,die Naturkosmetik,the natural cosmetics
+1873,hierzu,hereto
+1874,erstatten,to compensate
+1875,eingeben,to input
+1876,die Schmerztablette,the pain medication
+1877,abschalten,to switch off
+1878,die Gulaschsuppe,the goulash soup
+1879,der Sozialpädagoge,the social education worker
+1880,kennzeichnen,to mark
+1881,surfen,to surf
+1882,die Kraft,the power
+1883,die Ausrüstung,the equipment
+1884,der Sportplatz,the sports field
+1885,die Freizeitaktivität,the free time activities
+1886,die Schulpflicht,the compulsory school attendance
+1887,eigen,own
+1888,der Vorteil,the advantage
+1889,das Teelicht,the tea light
+1890,der Tango,the tango
+1891,formulieren,to formulate
+1892,gemischt,mixed
+1893,der Grafiker,the graphic designer
+1894,umknicken,to fold over
+1895,das Pilates,the pilates
+1896,der Vertrieb,the sales
+1897,empfindlich,sensitive
+1898,die Religion,the religious studies
+1899,das Sportergebnis,the sports result
+1900,stecken,to put
+1901,die Kostenübernahme,the cost transfer
+1902,fantastisch,fantastic
+1903,die Flamme,the flame
+1904,der Ofen,the oven
+1905,ärgern,to annoy
+1906,damit,so that
+1907,der Einlass,the admission
+1908,gesund,healthy
+1909,der Grillplatz,the barbecue area
+1910,bargeldlos,cashless
+1911,der Laden,the premises
+1912,die Kontoverbindung,the account connection
+1913,ausgezeichnet,excellent
+1914,der Gegensatz,the contrast
+1915,die Buchhaltung,the accountant
+1916,der Schafskäse,the feta cheese
+1917,vorbereiten,to prepare
+1918,anhaben,to be wearing
+1919,normalerweise,normally
+1920,die Umkleide,the changing room
+1921,das Schnitzel,the schnitzel
+1922,das Handgelenk,the wrist
+1923,vermitteln,to procure
+1924,ausmachen,to account for
+1925,das Duschgel,the shower gel
+1926,weggehen,to go away
+1927,schlachten,to slaughter
+1928,die Grillkohle,the barbecue coal
+1929,höflich,polite
+1930,der Schmuck,the jewellry
+1931,die Pfanne,the pan
+1932,das Schaufenster,the shop window
+1933,die Nebenwirkung,the side effect
+1934,die Lieblingsfarbe,the favourite colour
+1935,der Brandschutz,the fire prevention
+1936,der Klassenlehrer,the class teacher
+1937,der Versicherungstarif,the insurance tariff
+1938,die Klassenarbeit,the classwork
+1939,die Steckdose,the socket
+1940,der Bankkaufmann,the banker
+1941,verlegen,to reschedule
+1942,das Gedicht,the poem
+1943,die Kindertagesstätte,the nursery school
+1944,wunderbar,wonderful
+1945,der Schulleiter,the headteacher
+1946,die Bankleitzahl,the sort code
+1947,die Unterwäsche,the underwear
+1948,die Wärmflasche,the hot water bottle
+1949,die Apfelschorle,the apple spritzer
+1950,das Abgas,the exhaust gas
+1951,betreten,to enter
+1952,der Protest,the protest
+1953,die Zimmerlautstärke,the room volume
+1954,der Mauerfall,the fall of the Berlin wall
+1955,beliebt,popular
+1956,die Auswahl,the selection
+1957,unglaublich,unbelievable
+1958,aufschreiben,to write down
+1959,der Tierschutz,the animal protection
+1960,berechtigt,justified
+1961,das Ergebnis,the result
+1962,aufteilen,to divide
+1963,hart,hard
+1964,die Detektivgeschichte,the detective story
+1965,falls,in case
+1966,spannend,exciting
+1967,widerrufen,disclaimer
+1968,das Handgepäck,the hand luggage
+1969,die Mehrkosten,the extra costs
+1970,der Meerblick,the seaview
+1971,die Anprobe,the fitting room
+1972,die Statistik,the statistics
+1973,dramatisch,dramatic
+1974,die Erde,the earth
+1975,die Artikelnummer,the item number
+1976,tatsächlich,actual
+1977,die Sauberkeit,the cleanliness
+1978,das Lagerfeuer,the campfire
+1979,der Kaffeefilter,the coffee filter
+1980,verschmutzen,to contaminate
+1981,der Verbraucher,the consumer
+1982,die Umweltverschmutzung,the environmental pollution
+1983,die Kindheit,the childhood
+1984,wegschmeißen,to chuck out
+1985,die Gewohnheit,the habit
+1986,die Solarenergie,the solar energy
+1987,der Wertstoff,the recyclable material
+1988,die Erinnerung,the memory
+1989,das Zelt,the tent
+1990,vermischen,to mix
+1991,die Taschenlampe,the torch
+1992,irgendwann,at some point
+1993,der Wirbelsturm,the hurricane
+1994,das Altpapier,the waste paper
+1995,das Meerschweinchen,the guinea pig
+1996,demokratisch,democratic
+1997,die NATO,the NATO
+1998,die Wandertour,the walking tour
+1999,der Mauerbau,the building of the wall
+2000,einlegen,to insert
+2001,die Ruhezeit,the rest period
+2002,der Bürger,the citizen
+2003,das Gepäck,the luggage
+2004,die Freude,the joy
+2005,stinken,to stink
+2006,umgehen,to go round
+2007,lieferbar,in stock
+2008,die Konservendose,the preserving jars
+2009,die Pappe,the cardboard
+2010,die Alliierte,the ally
+2011,gründen,to establish
+2012,befragen,to consult
+2013,fristlos,without notice
+2014,befestigen,to secure
+2015,das Taschenmesser,the pocket knife
+2016,einfallen,to occur
+2017,die Beschimpfung,the swear
+2018,treu,faithful
+2019,recyceln,to recycle
+2020,die Retoure,the return order
+2021,schießen,to shoot
+2022,die Gepäckausgabe,the baggage reclaim
+2023,verwerten,to exploit
+2024,die Herstellung,the manufacture
+2025,die DVD,the DVD
+2026,die Luft,the air
+2027,der Zuschlag,the fees
+2028,die Krippe,the crib
+2029,der Nationalsozialismus,the national socialism
+2030,historisch,historical
+2031,verhaften,to arrest
+2032,die Rücksendung,the return delivery
+2033,der Sondermüll,the hazardous waste
+2034,schädigen,to damage
+2035,die Euroeinführung,the introduction of the Euro
+2036,der Bewohner,the resident
+2037,der Sonnenschirm,the parasol
+2038,der Kauf,the purchase
+2039,die Niederlage,the defeat
+2040,zurückschicken,to send back
+2041,die Komödie,the comedy
+2042,das Kriegsende,the end of war
+2043,die Migration,the migration
+2044,die Demonstration,the demonstration
+2045,stören,to disturb
+2046,verdrängen,to suppress
+2047,der Kandidat,the candidate
+2048,der Verstoß,the violation
+2049,die Zigarettenkippe,the cigarette butts
+2050,der Sieger,the winner
+2051,der Flüchtling,the refugee
+2052,portofrei,postage paid
+2053,die Ausnahme,the exception
+2054,schmutzig,dirty
+2055,sinnlos,meaningless
+2056,beobachten,to observe
+2057,die Nachkriegszeit,the post-war years
+2058,zugeben,to admit
+2059,die Arbeitslosigkeit,the unemployment
+2060,einhalten,to comply
+2061,eher,rather
+2062,das Altöl,the waste oil
+2063,die Staatsgründung,the formation of a state
+2064,der Ärger,the trouble
+2065,die Einwanderung,the immigration
+2066,der Gegenstand,the object
+2067,angenehm,pleasant
+2068,eventuell,possible
+2069,die Serie,the series
+2070,unentschieden,undecided
+2071,anfangs,initially
+2072,wiedervereinigen,to re-unify
+2073,produzieren,to produce
+2074,das Metall,the metal
+2075,der Deckel,the lid
+2076,der Zoll,the customs
+2077,erwähnen,to mention
+2078,behalten,to keep
+2079,das Autorennen,the motor racing
+2080,die Übertragung,the transmission
+2081,das Gepäckband,the luggage belt
+2082,die Chemikalie,the chemicals
+2083,einsperren,to confine
+2084,bohren,to drill
+2085,das Weltall,the space
+2086,total,totally
+2087,umgehend,immediately
+2088,die Übernachtung,the overnight stay
+2089,die Besatzungszone,the occupied zone
+2090,die Reiseplanung,the travel planning
+2091,die Wolke,the cloud
+2092,klug,clever
+2093,der Krimi,the crime thriller
+2094,versandkostenfrei,free of shipping costs
+2095,die Sorge,the worry
+2096,die Eierschale,the egg shell
+2097,schützen,to protect
+2098,die Passkontrolle,the passport control
+2099,der Schiedsrichter,the referee
+2100,der Fan,the fan
+2101,der Katalog,the catalogue
+2102,die Notunterkunft,the emergency accommodation
+2103,der Flug,the flight
+2104,das Alter,the age
+2105,sauer,sour
+2106,das Doppelbett,the double bed
+2107,beschweren,to complain
+2108,die Kundenbefragung,the customer survey
+2109,das Reisebüro,the travel agency
+2110,die Arbeitskraft,the workforce
+2111,protestieren,to protest
+2112,die Zahlung,the payment
+2113,die Bundesrepublik,the federal republic
+2114,der Bürgerkrieg,the civil war
+2115,der Schaden,the damages
+2116,die Verschwendung,the waste
+2117,die Nachnahme,the cash on delivery
+2118,die Sammelstelle,the collection point
+2119,die Amtssprache,the official language
+2120,der Klimawandel,the climate change
+2121,die Talkshow,the talk show
+2122,die Demokratie,the democracy
+2123,das Herz,the heart
+2124,die Soap,the soap opera
+2125,der Check-in-Schalter,the check-in desk
+2126,das Verständnis,the understanding
+2127,verschieben,to postpone
+2128,das Doppelzimmer,the double room
+2129,objektiv,objective
+2130,das Naturprodukt,the natural product
+2131,die Mülltonne,the rubbish bin
+2132,die Unterhaltung,the entertainment
+2133,fördern,to promote
+2134,das Stipendium,the scholarship
+2135,mitreden,to have a say
+2136,unverbindlich,non-binding
+2137,der Mord,the murder
+2138,entspannend,relaxing
+2139,der Zuschauer,the viewer
+2140,begeistern,to inspire
+2141,doppelt,doubled
+2142,musikalisch,musical
+2143,die Zeitverschwendung,the waste of time
+2144,das Inlineskaten,the inline skating
+2145,die Begleitperson,the accompanying person
+2146,der Paketdienst,the parcel service
+2147,die Industrie,the industry
+2148,retten,to rescue
+2149,die Instandhaltung,the maintenance
+2150,schalten,to switch
+2151,verpflichten,to compel
+2152,einschlafen,to fall asleep
+2153,belasten,to pollute
+2154,gestattet sein,to be permitted
+2155,der Camper,the camper
+2156,giftig,toxic
+2157,der Biergarten,the beer garden
+2158,der Lärm,the noise
+2159,der Verlierer,the loser
+2160,das Callcenter,the call centre
+2161,vergleichbar,comparable
+2162,kuscheln,to cuddle
+2163,merken,to realise
+2164,trüb,gloomy
+2165,der Wohnwagen,the caravan
+2166,das Erdbeben,the earthquake
+2167,der Kritiker,the critic
+2168,der Spielfilm,the feature film
+2169,der Turm,the tower
+2170,exotisch,exotic
+2171,offenbar,obvious
+2172,der Reiseplan,the itinerary
+2173,der Pilotenstreik,the pilot strike
+2174,das Paket,the parcel
+2175,das Golf,the golf
+2176,das Shopping,the shopping
+2177,die Kündigung,the termination
+2178,die Leichtathletik,the athletics
+2179,der Datenschutz,the data protection
+2180,anschauen,to look at
+2181,die Hauptstadt,the capital city
+2182,die Langeweile,the boredom
+2183,bereits,already
+2184,anfassen,to touch
+2185,die Mehrheit,the majority
+2186,der Kommissar,the commissioner
+2187,anheben,to raise
+2188,die Rücksicht,the consideration
+2189,die Umgebung,the surroundings
+2190,wasserdicht,waterproof
+2191,umdrehen,to turn around
+2192,das Lager,the warehouse
+2193,der Umweltschutz,the environmental protection
+2194,der Zeitraum,the time frame
+2195,die Fremdsprache,the foreign language
+2196,zurücklassen,to leave behind
+2197,das Visum,the visa
+2198,das Jahrhundert,the century
+2199,umweltfreundlich,environmentally friendly
+2200,der Stern,the star
+2201,hämmern,to hammer
+2202,die Belastung,the pollution
+2203,die Beleidigung,the insult
+2204,verärgert,annoyed
+2205,der Werktag,the working day
+2206,jahrelang,for years
+2207,die Erderwärmung,the global warming
+2208,der Ausgang,the exit
+2209,der Auswanderer,the emigrant
+2210,verstoßen,to violate
+2211,die Halbpension,the half-board
+2212,das Rätsel,the puzzle
+2213,das Picknick,the picnic
+2214,massiv,solid
+2215,die Öffnung,the opening
+2216,der Sperrmüll,the bulky waste
+2217,überlegen,to think about
+2218,reiten,to ride
+2219,die Minderheit,the minority
+2220,die Bestellhotline,the order hotline
+2221,die Einsteigezeit,the boarding time
+2222,das Mittelfeld,the mid-field
+2223,der Sonnenuntergang,the sunset
+2224,doof,dumb
+2225,herstellen,to manufacture
+2226,das Einzelzimmer,the single room
+2227,der Nachteil,the disadvantage
+2228,das Unwetter,the thunderstorm
+2229,der Pool,the pool
+2230,die Energiesparlampe,the energy efficient bulb
+2231,die Muttersprache,the native language
+2232,die Dienstreise,the business trip
+2233,die Dokumentation,the documentary
+2234,erfolgreich,successful
+2235,völlig,completely
+2236,die Chips,the crisps
+2237,das Asyl,the asylum
+2238,die Anzeigetafel,the bulletin board
+2239,kundenfreundlich,customer friendly
+2240,das Hostel,the hostel
+2241,das Paradies,the paradise
+2242,der Gemeinschaftsraum,the common room
+2243,der Bezahlvorgang,the payment process
+2244,das Gefühl,the feeling
+2245,die Erlaubnis,the permission
+2246,ärgerlich,annoying
+2247,das Trinkwasser,the drinking water
+2248,der Kaufvertrag,the sales contract
+2249,der Schadstoff,the hazardous substance
+2250,zustimmen,to agree
+2251,der Staat,the state
+2252,das Klima,the climate
+2253,ankündigen,to announce
+2254,verschwenden,to disappear
+2255,die Auswanderung,the emigration
+2256,übernachten,to stay overnight
+2257,die Schlange,the snake
+2258,der Tote,the dead people
+2259,die Zerstörung,the destruction
+2260,streiten,to argue
+2261,einstellen,to set up
+2262,der Gutschein,the voucher
+2263,der Retourenschein,the return order slip
+2264,die Rangliste,the league table
+2265,die Fluggesellschaft,the airline
+2266,der Planet,the planet
+2267,das Aluminium,the aluminium
+2268,die Mülltrennung,the waste separation
+2269,erhöhen,to increase
+2270,die Leine,the rope
+2271,der Handball,the hand ball
+2272,das Jahrzehnt,the decade
+2273,die Windel,the nappy
+2274,naschen,to snack
+2275,das Widerrufsrecht,the right of revocation
+2276,der Paketbote,the parcel carrier
+2277,die Lautsprecherdurchsage,the tannoy announcement
+2278,ungesund,unhealthy
+2279,der Eiskunstlauf,the ice skating
+2280,weshalb,which is why
+2281,die Atmung,the breathing
+2282,motiviert,motivated
+2283,die Obstschale,the fruit skin
+2284,der Wanderer,the hiker
+2285,sinnvoll,meaningful
+2286,der Skisport,the ski sport
+2287,dicht,thick
+2288,deswegen,that is why
+2289,obwohl,although
+2290,das Zusammenleben,the life together
+2291,der Horrorfilm,the horror film
+2292,die Kaufbestätigung,the purchase confirmation
+2293,der Hörer,the listener
+2294,die Runde,the round
+2295,erinnern,to remember
+2296,vereinigen,to unite
+2297,heizen,to heat
+2298,das Gehalt,the salary
+2299,die Bordkarte,the boarding pass
+2300,der Mietspiegel,the rent index
+2301,die Naturkatastrophe,the natural disaster
+2302,wütend,angry
+2303,das Streichholz,the match
+2304,die Regierung,the government
+2305,verlängern,to extend
+2306,fristgerecht,punctual
+2307,das Eishockey,the ice hockey
+2308,wegwerfen,to throw away
+2309,zerstören,to destroy
+2310,füttern,to feed
+2311,anprobieren,to try on
+2312,das Tor,the goal
+2313,das Plastik,the plastic
+2314,die Qualität,the quality
+2315,der Förster,the woodsman
+2316,das Hochwasser,the high-tide
+2317,der Widerspruch,the contradiction
+2318,beschimpfen,to insult
+2319,der Schalter,the desk
+2320,die Versandkostenpauschale,the flat shipping rate
+2321,der Astronaut,the astronaut
+2322,der Sonnenschein,the sunshine
+2323,das Onlineshopping,the online shopping
+2324,die Phase,the phase
+2325,die Versandkosten,the shipping fee
+2326,der Spieler,the player
+2327,lüften,to air
+2328,der Leuchtturm,the lighthouse
+2329,sparsam,economical
+2330,der Haushalt,the household
+2331,die Mieterhöhung,the rent increase
+2332,das Porto,the postage
+2333,der Fußballclub,the football club
+2334,das Radrennen,the cycling race
+2335,das Urteil,the judgement
+2336,eskalieren,to escalate
+2337,beleidigen,to offend
+2338,der Gegenvorschlag,the counterproposal
+2339,der Eierkarton,the egg box
+2340,fair,fair
+2341,die Sonnenterrasse,the sun terrace
+2342,das Elektroauto,the electric car
+2343,der Anstoß,the stimulus
+2344,der Zutritt,the access
+2345,der Tagesablauf,the daily routine
+2346,annulliert,cancelled
+2347,der Wind,the wind
+2348,verpacken,to package
+2349,kaum,hardly
+2350,der Torwart,the goalee
+2351,der Richter,the judge
+2352,der Bankeinzug,the direct debit
+2353,gesetzlich,legal
+2354,politisch,political
+2355,die Lage,the site
+2356,entsprechen,to correspond to
+2357,die Modernisierung,the modernisation
+2358,der Milchkarton,the milk carton
+2359,entwickeln,to develop
+2360,führen,to lead
+2361,versprechen,to promise
+2362,der Bundeskanzler,the federal chancellor
+2363,beschädigt,damaged
+2364,die Lieferung,the delivery
+2365,entstehen,to result
+2366,irgendwie,somehow
+2367,erleben,to experience
+2368,die Teilung,the division
+2369,die Absage,the cancellation
+2370,der Versand,the shipping
+2371,sortieren,to sort
+2372,die Art,the type
+2373,der Onlineshop,the online shop
+2374,der Flugbegleiter,the flight attendant
+2375,die Weltmeisterschaft,the World cup
+2376,der Alkohol,the alcohol
+2377,das Energiesparhaus,the energy efficient house
+2378,der Jude,the jew
+2379,schädlich,harmful
+2380,die Quizshow,the quiz show
+2381,der Tsunami,the tsunami
+2382,der Krieg,the war
+2383,zurückfahren,to go back
+2384,das Boxen,the boxing
+2385,die Ergänzung,the addition
+2386,romantisch,romantic
+2387,akzeptieren,to accept
+2388,lebhaft,lively
+2389,die Ware,the goods
+2390,ehemalig,former
+2391,die Kosmetik,the cosmetics
+2392,das Gate,the gate
+2393,atmungsaktiv,breathable
+2394,der Betrag,the sum
+2395,vorhersagen,to predict
+2396,das Gewürz,the spice
+2397,der Sack,the sack
+2398,der Zeichentrickfilm,the animated film
+2399,das Impressum,the imprint
+2400,ebenso,as well
+2401,der Campingplatz,the campsite
+2402,aktiv,active
+2403,besiegen,to conquer
+2404,die Deutsche Demokratische Republik,the German democratic republic
+2405,zappen,to channel surf
+2406,die Jugendherberge,the youth hostel
+2407,neugierig,curious
+2408,der Kunststoff,the synthetic material
+2409,streiken,to strike
+2410,der Experte,the expert
+2411,ehrlich,honest
+2412,festkleben,to stick
+2413,die Lieferbedingung,the delivery conditions
+2414,der Durchschnitt,the average
+2415,die Aufregung,the commotion
+2416,der Konflikt,the conflict
+2417,der Mietvertrag,the rental contract
+2418,die Europäische Union,the European union
+2419,die Grenze,the border
+2420,emotional,emotional
+2421,der Waschraum,the laundry room
+2422,das Balkongeländer,the balcony railing
+2423,die Wiedervereinigung,the reunification
+2424,der Nebel,the fog
+2425,die Republik,the republic
+2426,das Unrecht,the unjust
+2427,der Blumentopf,the flower pot
+2428,die Lieblingsbeschäftigung,the favourite pastime
+2429,die Übernachtung mit Frühstück,the overnight stay with breakfast
+2430,biologisch,biological
+2431,meckern,to whinge
+2432,die Frist,the deadline
+2433,die Diskussion,the discussion
+2434,sauber,clean
+2435,landen,to land
+2436,der Kommentator,the commentator
+2437,verlaufen,to continue
+2438,miterleben,to experience with
+2439,aufmerksam,attentive
+2440,andauernd,lasting
+2441,anstrengend,tiring
+2442,durchlässig,permeable
+2443,das Abwasser,the sewage
+2444,die Matratze,the mattress
+2445,erleichtern,to relieve
+2446,wegräumen,to clear away
+2447,voraussichtlich,provisionally
+2448,das Stadion,the stadium
+2449,der Papiermüll,the paper waste
+2450,daneben,besides
+2451,der PC,the PC
+2452,förmlich,formal
+2453,die Abwicklung,the settlement
+2454,parken,to park
+2455,angewöhnen,to get used to
+2456,das Getreide,the grain
+2457,das Büromaterial,the office stationary
+2458,die Bevölkerung,the population
+2459,beilegen,to enclose
+2460,die Haselnuss,the hazelnut
+2461,PS,HP
+2462,das,sport utility vehicle
+2463,der Freundeskreis,the circle of friends
+2464,inzwischen,meanwhile
+2465,überraschen,to surprise
+2466,die Bürozeit,the office hours
+2467,die Fähigkeit,the ability
+2468,betrunken,drunk
+2469,die Energieverschwendung,the waste of energy
+2470,unnötig,unnecessary
+2471,der Kilometer,the kilometre
+2472,der Scheinwerfer,the headlight
+2473,die Unfallgefahr,the risk of accident
+2474,der Anbau,the cultivation
+2475,behaupten,to claim
+2476,die Pflegekraft,the carer
+2477,die Vertragsnummer,the contract number
+2478,die Vergütung,the remuneration
+2479,der Konferenzraum,the conference room
+2480,das Nahrungsmittel,the foodstuff
+2481,der Zusatzstoff,the additives
+2482,übereinstimmen,to correspond
+2483,der Strom,the electricity
+2484,die Formulierung,the wording
+2485,dran sein,to be for it
+2486,abnehmen,to lose weight
+2487,der Versicherungsberater,the insurance advisor
+2488,die Stromkosten,the electricity costs
+2489,ausschlafen,to sleep in
+2490,der Abteilungsleiter,the division manager
+2491,tropfen,to drip
+2492,die Berufstätigkeit,the professional activity
+2493,die Tiefkühlpizza,the frozen pizza
+2494,die Fahrerseite,the driver's side
+2495,der Geschäftsführer,the managing director
+2496,kippen,to tilt
+2497,ärztlich,medical
+2498,der Pflegehelfer,the nursing assistant
+2499,vorschreiben,to stipulate
+2500,gleichzeitig,at the same time
+2501,das Einkommen,the income
+2502,einseitig,one-sided
+2503,der Empfang,the reception
+2504,das Autoteil,the car part
+2505,das Kochbuch,the cookery book
+2506,die Energiekosten,the energy costs
+2507,abdrehen,to change course
+2508,die Überschwemmung,the flood
+2509,die Speise,the dish
+2510,unbefristet,indefinite
+2511,individuell,individual
+2512,regeln,to control
+2513,lenken,to steer
+2514,der Kratzer,the scratch
+2515,versorgen,to provide for
+2516,die Fotokopie,the photocopy
+2517,der Büroraum,the office space
+2518,zusätzlich,additional
+2519,ausstellen,to issue
+2520,die Bearbeitung,the processing
+2521,das Catering,the catering
+2522,die Anlage,the system
+2523,präsentieren,to present
+2524,das Bioprodukt,the organic produce
+2525,das Berufsleben,the professional life
+2526,bremsen,to brake
+2527,der Oldtimer,the vintage car
+2528,frustriert,frustrated
+2529,vertragen,to tolerate
+2530,das Gesundheitszeugnis,the health certificate
+2531,leiden,to suffer
+2532,eigenverantwortlich,independent
+2533,das Heimweh,the home sickness
+2534,einbrechen,to break in
+2535,tierisch,animalistic
+2536,anfahren,to bump into
+2537,die Gemeinsamkeit,the common feature
+2538,der Kopierer,the copying machine
+2539,das Eiweiß,the protein
+2540,überglücklich,overjoyed
+2541,intern,internal
+2542,die Festanstellung,the full-time position
+2543,anmachen,to turn on
+2544,der Straßenrand,the roadside
+2545,der Milchzucker,the milk sugar
+2546,die Assistenz,the assistance
+2547,enttäuschen,to disappoint
+2548,der Nährstoff,the nutrient
+2549,die Zuverlässigkeit,the reliability
+2550,der Diabetiker,the diabetic
+2551,das Herkunftsland,the country of origin
+2552,der Zeitpunkt,the point in time
+2553,der Einbruch,the burglary
+2554,der Anfang,the beginning
+2555,das Briefpapier,the letter paper
+2556,drinnen,inside
+2557,die Zusammenarbeit,the cooperation
+2558,die Kommunikationsstärke,the strong communication skills
+2559,der Reinigungsvertrag,the cleaning contract
+2560,regulieren,to regulate
+2561,irgendwer,anyone
+2562,das Benzin,the petrol
+2563,der Verbrauch,the use
+2564,garantieren,to guarantee
+2565,anrechnen,to charge
+2566,färben,to colour
+2567,die Betriebswirtschaft,the business administration
+2568,der Motorradfahrer,the motocyclist
+2569,der Sinn,the meaning
+2570,der Außenspiegel,the wing mirror
+2571,die Qualifikation,the qualification
+2572,bisher,until now
+2573,wohlfühlen,to feel comfortable
+2574,der Posteingang,the inbox
+2575,langfristig,long-term
+2576,der Büroalltag,the office life
+2577,vereinbar,compatible
+2578,die Aufteilung,the allocation
+2579,der Zeitmangel,the lack of time
+2580,die Stoßstange,the bumper
+2581,der Autofahrer,the car driver
+2582,erkundigen,to enquire
+2583,der Schadensfall,the damage claim
+2584,zaubern,to conjure
+2585,kümmern,to take care of
+2586,die Windschutzscheibe,the windscreen
+2587,der Quark,the quark
+2588,der Sportwagen,the sports car
+2589,der Bachelor,the Bachelor's degree
+2590,der Umgang,the handling
+2591,rasieren,to shave
+2592,das Bewerbungsschreiben,the letter of application
+2593,die Reihe,the row
+2594,die Haftpflicht,the liability
+2595,das Nummernschild,the number plate
+2596,die Handlung,the conduct
+2597,die Reinigungsfirma,the cleaning company
+2598,moralisch,morally
+2599,die Überstunde,the overtime
+2600,die Geduld,the patience
+2601,die Kontaktdaten,the contact details
+2602,die Bedingung,the condition
+2603,die Berufserfahrung,the job experience
+2604,industriell,industrial
+2605,der Hügel,the hill
+2606,soweit,so far as
+2607,zufällig,incidental
+2608,die Teamfähigkeit,the ability to work in a team
+2609,der Sachbearbeiter,the administrative assistant
+2610,entnehmen,to take from
+2611,die Beglaubigung,the certification
+2612,der Manager,the manager
+2613,der Sturm,the storm
+2614,die Autoversicherung,the car insurance
+2615,allergisch,allergic
+2616,der Frieden,the peace
+2617,rückwärts,backwards
+2618,irgendwelche,any
+2619,bedenklich,questionable
+2620,das Werkzeug,the work tools
+2621,hilfsbereit,ready to help
+2622,vegan,vegan
+2623,der Neuwagen,the new vehicle
+2624,die Heizkosten,the heating costs
+2625,das Fax,the fax
+2626,die Berufsbezeichnung,the job description
+2627,das Niveau,the level
+2628,verletzen,to injure
+2629,der König,the king
+2630,zumachen,to close
+2631,der Esser,the eater
+2632,bewusst,conscious
+2633,zusammenstoßen,to collide
+2634,nachdenklich,thoughtful
+2635,das Übersetzungsbüro,the translation agency
+2636,der Freiwillige,the volunteer
+2637,mitdenken,to follow a thought
+2638,der Frust,the frustration
+2639,die Rückscheibe,the rear window
+2640,der Diebstahl,the theft
+2641,die Teilkaskoversicherung,the partial coverage insurance
+2642,die Weiterleitung,the forwarding
+2643,reduzieren,to reduce
+2644,die Telekommunikation,the telecommunication
+2645,der Straßenverkehr,the traffic
+2646,der Kofferraum,the car boot
+2647,verursachen,to cause
+2648,das Fertiggericht,the ready meal
+2649,die Kaskoversicherung,the hull insurance
+2650,die Stellenanzeige,the job advertisement
+2651,die Allergie,the allergy
+2652,der Altenpfleger,the geriatric nurse
+2653,der Motor,the motor
+2654,der Einbrecher,the burglar
+2655,absichtlich,intentional
+2656,die Arbeitsweise,the working method
+2657,der Verzehr,the consumption
+2658,zusammenarbeiten,to work together
+2659,das Original,the original
+2660,das Eintrittsdatum,the entry date
+2661,festlegen,to determine
+2662,der Hagel,the hail
+2663,der Bekannte,the acquaintance
+2664,spezialisieren,to specialise
+2665,die Anerkennung,the recognition
+2666,traditionsreich,steeped in tradition
+2667,ansteckend,infectious
+2668,die Weise,the manner
+2669,fix,fixed
+2670,übersetzen,to translate
+2671,abhängig,dependent
+2672,der Hartweizen,the durum wheat
+2673,der Versicherungsschutz,the insurance cover
+2674,die Verstärkung,the enhancement
+2675,das Ziel,the aim
+2676,die Fantasie,the phantasy
+2677,die Erstellung,the creation
+2678,rutschen,to slide
+2679,das Führungszeugnis,the certificate of good conduct
+2680,der Sachschaden,the property damage
+2681,die Zusatzqualifikation,the additional qualifications
+2682,der Gedanke,the thought
+2683,glutenfrei,gluten-free
+2684,abdecken,to cover
+2685,die Studie,the study
+2686,die Massentierhaltung,the livestock farming
+2687,die Enttäuschung,the disappointment
+2688,kulinarisch,culinary
+2689,der Gebrauchtwagen,the used vehicle
+2690,abheften,to file away
+2691,weiterhelfen,to help out
+2692,das Steuerberatungsbüro,the tax consultancy firm
+2693,einparken,to pull in
+2694,quietschen,to screech
+2695,vorsichtig,careful
+2696,geduldig,patient
+2697,mehrmals,multiple times
+2698,kommunikativ,communicative
+2699,insofern,provided
+2700,der Zeitungsbericht,the report in the newspaper
+2701,der Wasserhahn,the tap
+2702,die Privatnummer,the private number
+2703,fließend,fluent
+2704,allerdings,however
+2705,das Schreiben,the correspondence
+2706,die Ernährung,the nutrition
+2707,die Fortbildung,the further education
+2708,das Dorf,the village
+2709,zusammenstellen,to put together
+2710,laktosefrei,lactose-free
+2711,schneiden,to cut
+2712,krachen,to crash
+2713,der Trend,the trend
+2714,die Erklärung,the explanation
+2715,fordern,to demand
+2716,das Dach,the roof
+2717,stinksauer,furious
+2718,seitdem,since then
+2719,versichern,to insure
+2720,schwingen,to swing
+2721,die Haftpflichtversicherung,the liability insurance
+2722,der Handwerker,the workman
+2723,finanziell,financial
+2724,der Geschmack,the taste
+2725,die Übersetzung,the translation
+2726,versehentlich,accidental
+2727,die Anstellung,the employment
+2728,die Hülsenfrucht,the pulse
+2729,die Formalität,the formality
+2730,beurteilen,to evaluate
+2731,benötigen,to require
+2732,amtlich,official
+2733,der Steuerberater,the tax consultant
+2734,die Million,the million
+2735,der Schläger,the bat
+2736,die Umschulung,the re-training
+2737,fleischfrei,meat-free
+2738,optimistisch,optimistic
+2739,die Vollkaskoversicherung,the full comprehensive insurance
+2740,der Millionär,the millionaire
+2741,der Selbstständige,the self-employed person
+2742,übergeben,to be sick
+2743,die Arbeitszeit,the working hours
+2744,ausparken,to reverse out
+2745,der Maschinenbau,the engineering
+2746,die Kopie,the copy
+2747,der Veganer,the vegan
+2748,zunehmen,to gain weight
+2749,erkennen,to recognise
+2750,der Wert,the value
+2751,bio,organic
+2752,die Annahme,the acceptance
+2753,die Zusatzversicherung,the additional insurance
+2754,abwechslungsreich,varied
+2755,der Urlaubstag,the paid leave
+2756,grundsätzlich,basically
+2757,leistungsgerecht,performance-based
+2758,die Gehaltsvorstellung,the desired salary
+2759,ungeduldig,impatient
+2760,gewährleisten,to ensure
+2761,verurteilen,to judge
+2762,der Auszug,the extract
+2763,die Mentalität,the mentality
+2764,berufen,to appoint
+2765,umso,all the
+2766,überzeugen,to convince
+2767,ausgewogen,balanced
+2768,englischsprachig,in English
+2769,der Sprachnachweis,the language certificate
+2770,zügig,swift
+2771,einschreiben,to inscribe
+2772,der Sales Manager,the sales manager
+2773,mittelständisch,middle-class
+2774,der Stromanbieter,the electricity provider
+2775,der Blinker,the indicator
+2776,die Probezeit,the probationary period
+2777,bloß,purely
+2778,die Laune,the mood
+2779,bescheinigen,to certify
+2780,die Wärme,the warmth
+2781,die Motorhaube,the bonnet
+2782,der Föhn,the hairdryer
+2783,der Firmensitz,the registered office
+2784,achten,to be careful
+2785,der Döner,the kebab
+2786,die Automarke,the car make
+2787,die Institution,the institution
+2788,der Unfall,the accident
+2789,vorbeigehen,to walk past
+2790,der Hauptgrund,the main reason
+2791,senden,to broadcast
+2792,der Reifen,the tyre
+2793,der Büroassistent,the office assistant
+2794,das Finanzwesen,the finance
+2795,der Personenschaden,the personal injury
+2796,die Herausforderung,the challenge
+2797,wahr,true
+2798,das Vertragsende,the contract end
+2799,der Kamm,the comb
+2800,das Besprechungszimmer,the meeting room
+2801,die Nuss,the nut
+2802,der Terminkalender,the appointment calendar
+2803,durchschnittlich,average
+2804,meistern,to master
+2805,das Rücklicht,the tail light
+2806,problemlos,unproblematic
+2807,der Freizeitausgleich,the time off in lieu
+2808,gekocht,cooked
+2809,sanft,gently
+2810,das Arbeitsleben,the working life
+2811,der Akku,the battery
+2812,die Probefrist,the trial period
+2813,die Sozialabgabe,the social security contributions
+2814,der Schichtplan,the shift plan
+2815,die Qualitätssicherung,the quality assurance
+2816,der Gesamtpreis,the total price
+2817,der Wagen,the vehicle
+2818,die Textilfirma,the textile company
+2819,der Einzelhandel,the retail
+2820,der Arbeitsablauf,the workflow
+2821,die Kundenunterlagen,the customer records
+2822,föhnen,to hair dry
+2823,renovieren,to renovate
+2824,quer,across
+2825,die Gesellschaft,the society
+2826,diesbezüglich,in this regard
+2827,vernachlässigen,to neglect
+2828,der Probedurchlauf,the dry-run
+2829,gezielt,targeted
+2830,die Gehaltsabrechnung,the payslip
+2831,der Sekundarabschluss,the secondary qualification
+2832,zimperlich,finicky
+2833,der Werkvertrag,the service contract
+2834,das Konferenzzentrum,the conference centre
+2835,einwöchig,one-week
+2836,auseinander,apart
+2837,der Verkauf,the sale
+2838,die Stolperkante,the trip hazard
+2839,der Gesamtbetrag,the total amount
+2840,die Fertigungstechnik,the manufacturing technology
+2841,ideal,ideal
+2842,anpflanzen,to plant
+2843,die Weiterentwicklung,the further development
+2844,der Fachtext,the specialist text
+2845,die Durchsetzung,the implementation
+2846,die Marktstudie,the market study
+2847,die LED,the LED
+2848,der Außenseiter,the outsider
+2849,der Eilzuschlag,the urgency fee
+2850,der Fernfahrer,the long-haul truck driver
+2851,die Inventur,the inventory
+2852,die Spedition,the haulage
+2853,der Hersteller,the manufacturer
+2854,die KV,the HI
+2855,absehen,to foresee
+2856,das Hotelbuchungsportal,the hotel booking portal
+2857,die Suite,the suite
+2858,der Jahresurlaub,the annual leave
+2859,der Kongress,the congress
+2860,die Skala,the scale
+2861,der Gasthof,the guest house
+2862,die Reaktion,the reaction
+2863,das Accessoire,the accessory
+2864,das Weihnachtsgeschäft,the Christmas sales
+2865,die Vertretung,the representation
+2866,die Motivation,the motivation
+2867,unverschuldet,undeserved
+2868,beruhigen,to calm
+2869,der Beifahrersitz,the front passenger seat
+2870,ergreifen,to grip
+2871,das Vorhaben,the intention
+2872,anstreben,to strive
+2873,die Zufriedenheit,the satisfaction
+2874,das Vorjahr,the previous year
+2875,die Vorstandssitzung,the board meeting
+2876,altmodisch,old-fashioned
+2877,wegschicken,to send away
+2878,das Partnerland,the partner country
+2879,das Suchsymbol,the search symbol
+2880,das Konfliktverhalten,the conflict behaviour
+2881,der Betrieb,the operation
+2882,die UV,the accident insurance
+2883,die Kundenzufriedenheit,the customer satisfaction
+2884,unterfordert,not challenged enough
+2885,das Zimmermädchen,the maid
+2886,psychisch,psychological
+2887,premium,premium
+2888,der Urlaubsantrag,the time off request
+2889,geeignet,suitable
+2890,wischen,to wipe
+2891,untersuchen,to examine
+2892,das Messegelände,the trade fair grounds
+2893,der Dampf,the steam
+2894,besetzen,to occupy
+2895,die Kompetenz,the competency
+2896,ergeben,to yield
+2897,fahrbar,mobile
+2898,die Kollektion,the collection
+2899,berufssprachlich,business language
+2900,das Arbeitsverhältnis,the working relationship
+2901,pflegebedürftig,in need of care
+2902,die Hotelkategorie,the hotel category
+2903,der Firmenkunde,the company client
+2904,die Aufzeichnung,the recording
+2905,die Übersicht,the overview
+2906,der Coach,the coach
+2907,das Verbindungsstück,the connecting piece
+2908,der Flipchart,the flip chart
+2909,die Fortzahlung,the continued payment
+2910,die Sanitäranlage,the sanitary facility
+2911,die Aufforderung,the prompt
+2912,die Errichtung,the establishment
+2913,Verbesserungsprozess),process)
+2914,die Moderationskarte,the cue card
+2915,freinehmen,to take leave
+2916,die Frühschicht,the early shift
+2917,das Projekt,the project
+2918,die Orthopädie,the orthopaedics
+2919,das Heizungsrohr,the heating pipe
+2920,die Verantwortung,the responsibility
+2921,die Arbeitsverhinderung,the work disability
+2922,die Arbeitskleidung,the work clothes
+2923,die Mikrowelle,the microwave
+2924,der Arbeitsschutzschuh,the protective footwear
+2925,die Wahrscheinlichkeit,the probability
+2926,sicherlich,surely
+2927,die Mahnung,the reminder letter
+2928,der Rahmen,the frame
+2929,geschäftlich,commercial
+2930,schweben,to float
+2931,relevant,relevant
+2932,die Beförderung,the promotion
+2933,geradewegs,straightaway
+2934,geschehen,happened
+2935,die Kurpackung,the cure package
+2936,übrig,remaining
+2937,das Menü,the menu
+2938,der Ausschnitt,the section
+2939,die Dropbox,the dropbox
+2940,verschließen,to seal
+2941,anschaffen,to acquire
+2942,die Bewirtung,the hospitality
+2943,beeinträchtigend,detrimental
+2944,das Laboratorium,the laboratory
+2945,diagnostisch,diagnostic
+2946,das Transportschiff,the transport ship
+2947,konsequent,consistent
+2948,die Anleitung,the guidance
+2949,festgehalten,held tight
+2950,langweilen,to be bored
+2951,der Start,the start
+2952,akzeptabel,acceptable
+2953,die Kappe,the cap
+2954,die Kalenderfunktion,the calendar function
+2955,umbenennen,to rename
+2956,jetzig,present-day
+2957,der Straßenbau,the road works
+2958,das Kalenderjahr,the calendar year
+2959,die Konferenz,the conference
+2960,die Schichtarbeit,the shift work
+2961,die Kopfverletzung,the head injury
+2962,entgeltlich,for a fee
+2963,der Rest,the remainder
+2964,die Buchführung,the accounting
+2965,der Chat,the chat
+2966,begleiten,to accompany
+2967,das Geschäftsgeheimnis,the trade secret
+2968,verschiffen,to ship
+2969,das Bestellformular,the order form
+2970,überarbeiten,to re-work
+2971,die Betriebsstätte,the business premises
+2972,die Bedienungsanleitung,the operating instructions
+2973,die Entwicklung,the development
+2974,die Arbeitsleistung,the work performance
+2975,das Controlling,the controlling
+2976,der Sonderwunsch,the special request
+2977,die Produktionskosten,the production costs
+2978,der Besprechungspunkt,the point of discussion
+2979,die Sicherheitsvorschrift,the safety rule
+2980,die Verbesserung,the improvement
+2981,die Frohnatur,the cheerful nature
+2982,nachlesen,to read up on
+2983,zweiteilig,in two parts
+2984,die Führungsqualität,the leadership quality
+2985,nachfolgend,subsequent
+2986,beschließen,to resolve
+2987,sichergehen,to play safe
+2988,finanzieren,to finance
+2989,einheitlich,standard
+2990,die RV,the pension insurance
+2991,das Lieblingsstofftier,the favourite stuffed animal
+2992,die Projektplanung,the project planning
+2993,beitragen,to contribute
+2994,der Angebotspreis,the promotional price
+2995,erheblich,considerable
+2996,die Autobahn,the motorway
+2997,der Heizkörper,the radiator
+2998,konservativ,conservative
+2999,der Abschnitt,the paragraph
+3000,die Hard Skills,the hard skills
+3001,der Anhang,the attachment
+3002,das Gastgewerbe,the hospitality industry
+3003,der Internetauftritt,the online presence
+3004,freihalten,to keep clear
+3005,der Overall,the overalls
+3006,der KVP,the cip
+3007,die Schulungsmaßnahme,the training measure
+3008,der Firmentransporter,the company transporter
+3009,der Beitrag,the contribution
+3010,der Materialschrank,the storage cupboard
+3011,die Anzahl,the quantity
+3012,der Fotokopierer,the photo copier
+3013,das Baubüro,the site office
+3014,der Exot,the exotic person
+3015,leidig,tiresome
+3016,der Außentermin,the external appointment
+3017,hellgrau,light green
+3018,zerkratzt,scratched
+3019,das Maß,the extent
+3020,der Industriemeister,the industrial foreman
+3021,der Werbeslogan,the advertising slogan
+3022,wettbewerbsfähig,competitive
+3023,lauten,to sound
+3024,losschießen,to go ahead
+3025,die Ausbildungsart,the type of qualification
+3026,die Verhandlung,the negotiation
+3027,verschicken,to despatch
+3028,der Hotelkaufmann,the hotel manager
+3029,die Schutzausrüstung,the safety equipment
+3030,kausal,causal
+3031,die Ausbildungsstelle,the training institute
+3032,handeln,to trade
+3033,frühlingsgrün,spring green
+3034,die Energieeffizienzklasse,the energy efficiency class
+3035,die Schüchternheit,the shyness
+3036,das Telefonat,the telephone call
+3037,die Internetbewerbung,the internet job application
+3038,die Vereinbarung,the agreement
+3039,die Elektrotechnik,the electro-technology
+3040,die Artischocke,the artichoke
+3041,die Vertragsänderung,the contract amendment
+3042,die Informatik,the information technology
+3043,das Messehotel,the conference hotel
+3044,das Instrument,the instrument
+3045,die Lieferschwierigkeit,the delivery difficulty
+3046,die Ortsbegehung,the site visit
+3047,dunkelblau,dark blue
+3048,betriebswirtschaftlich,economic
+3049,veraltet,outdated
+3050,das Lektorat,the proofreading
+3051,die Arbeitsunfähigkeit,the inability to work
+3052,das Achtel,the eighth
+3053,der Automobilzulieferer,the automotive supplier
+3054,extrem,extreme
+3055,heutzutage,nowadays
+3056,die Auftragserteilung,the order placement
+3057,das Stillschweigen,the silence
+3058,das Privatleben,the private life
+3059,komplex,complex
+3060,der Auslandsvertrieb,the distribution abroad
+3061,das Heim,the home
+3062,rentenversichert,covered by pension insurance
+3063,die Ausbildungsform,the form of training
+3064,die These,the thesis
+3065,der Wellnessbereich,the wellness area
+3066,der Standard,the standard
+3067,einrasten,to lock into place
+3068,anhören,to listen to
+3069,der Hängeschrank,the hanging cabinet
+3070,schwach,weak
+3071,das Rührei,the scrambled egg
+3072,die Hoffnung,the hope
+3073,die Robotik,the robotics
+3074,der Eindruck,the impression
+3075,das Sparbuch,the savings book
+3076,die Kapazität,the capacity
+3077,monoton,monotonous
+3078,die Essensausteilung,the food distribution
+3079,verneinen,to deny
+3080,ausstrahlen,to radiate
+3081,der Mietautoservice,the car rental service
+3082,siezen,to use the ‘Sie’ form
+3083,ablaufen,to expire
+3084,der Dolmetscher,the interpreter
+3085,der Kalbsbraten,the roast veal
+3086,gutmachen,to make it up
+3087,die Handtasche,the handbag
+3088,das Baddesign,the bathroom design
+3089,orientieren,to orient
+3090,einleiten,to initiate
+3091,die Pausenregelung,the break regulation
+3092,der Machospruch,the macho-talk
+3093,das Gewerbegebiet,the industrial estate
+3094,schätzen,to estimate
+3095,der Ersthelfer,the first aider
+3096,das Rohr,the pipe
+3097,die Einverständniserklärung,the Einverständniserklärungen declaration of consent
+3098,die Messe,the trade fair
+3099,das Konfliktgespräch,the conflict discussion
+3100,die Stationsschwester,the ward nurse
+3101,die Leistungsschau,the exhibition
+3102,die Innovation,the innovation
+3103,die HR,the hr
+3104,die Sprachkenntnis,the language skill
+3105,das Audit,the audit
+3106,die Jobbörse,the online job market
+3107,die Nähmaschine,the sewing machine
+3108,die Fahrgemeinschaft,the car sharing
+3109,vermeidbar,avoidable
+3110,der Berufskraftfahrer,the professional driver
+3111,das Kissen,the cushion
+3112,die Garantieleistung,the warranty coverage
+3113,aufstemmen,to prise open
+3114,das Wasserrohr,the water pipe
+3115,die Wegbeschreibung,the description of the route
+3116,der Besucher,the visitor
+3117,die Klinik,the clinic
+3118,die Ausgabe,the issue
+3119,die Lohnsteuer,the income tax
+3120,bescheiden,modest
+3121,die Stressresistenz,the stress resistance
+3122,die Agenda,the agenda
+3123,vorziehen,to prefer
+3124,die Flexibilität,the flexibility
+3125,die Eilübersetzung,the urgent translation
+3126,verkaufsoffen,open for business
+3127,der Veranstalter,the event organiser
+3128,die Zimmerkategorie,the room category
+3129,das Piktogramm,the pictogram
+3130,der Sanitäter,the paramedic
+3131,schwerfallen,to find something difficult
+3132,die Erlebniswelt,the theme park
+3133,die Meisterwerkstatt,the professional workshop
+3134,das Folgejahr,the following year
+3135,der Installateur,the installation technician
+3136,die Platzwunde,the laceration
+3137,das Betreuungsangebot,the care offer
+3138,das Entrecôte,the entrecôte steak
+3139,das Vertrauen,the trust
+3140,die Preisreduzierung,the price reduction
+3141,erweitern,to expand
+3142,autonom,autonomous
+3143,der Kopfschutz,the protective headgear
+3144,der Griff,the handle
+3145,die Behinderung,the disability
+3146,machbar,do-able
+3147,der Vorgang,the procedure
+3148,der Apothekerschrank,the chemist’s cupboard
+3149,die Sperrzeit,the blocking time
+3150,das Design,the design
+3151,die Seltenheit,the rarity
+3152,der Beton,the concrete
+3153,gespült,rinsed
+3154,der Steckbrief,the profile
+3155,abstimmen,to vote
+3156,eh,huh
+3157,existieren,to exist
+3158,Kontakte knüpfen,to make contacts
+3159,anschrauben,to screw on
+3160,der Witz,the joke
+3161,abziehen,to deduct
+3162,effektiv,effective
+3163,das Datenblatt,the data sheet
+3164,die Projektvorstellung,the project presentation
+3165,der Vertreter,the representative
+3166,das Betriebsklima,the working atmosphere
+3167,die EC-Karte,the ec card
+3168,glänzend,shiny
+3169,leisten,to provide
+3170,die Feuerlöscheinrichtung,the Feuerlöscheinrichtungen fire extinguishing unit
+3171,erreichbar,contactable
+3172,definieren,to define
+3173,das Leistungsspektrum,the range of services
+3174,die Chance,the chance
+3175,das Logo,the logo
+3176,die Stückzahl,the item no.
+3177,der Lautsprecher,the loud speaker
+3178,verhandeln,to negotiate
+3179,mutig,brave
+3180,reibungslos,without a hitch
+3181,die Pflegeversicherung,the nursing insurance
+3182,die Automobilherstellung,the automotive manufacturing
+3183,der Schutzhelm,the safety helmet
+3184,verhalten,to behave
+3185,das Streikverbot,the strike ban
+3186,die Industrieanlage,the industrial plant
+3187,der Bohrhammer,the drill hammer
+3188,arbeitsunfähig,unable to work
+3189,der Abwasserschacht,the manhole
+3190,kriegen,to get
+3191,der Aufhänger,the trailer
+3192,die Arbeitsförderung,the employment promotion
+3193,die Belohnung,the reward
+3194,weitererzählen,to pass on
+3195,der Notarzt,the emergency doctor
+3196,das Pflegeheim,the care home
+3197,prägen,to shape
+3198,die Marketingabteilung,the marketing department
+3199,die Prognose,the prognosis
+3200,die Methode,the method
+3201,der Kundenberater,the customer service advisor
+3202,die Wichtigkeit,the importance
+3203,anhand,by means of
+3204,die Lieferzeit,the delivery time
+3205,das Altgerät,the old device
+3206,die Körperpflege,the personal hygiene
+3207,dual,dual
+3208,genügend,sufficient
+3209,unpassend,unsuitable
+3210,der Schutz,the protection
+3211,das PPT,the ppt
+3212,reißen,to rip
+3213,die Zahlungserinnerung,the payment reminder
+3214,durchgeplant,well-planned
+3215,die Ausbildungszeit,the training period
+3216,die Ausschreibung,the call for tender
+3217,die Altersklasse,the age bracket
+3218,der Übersetzer,the translator
+3219,dreijährig,three-year
+3220,abhalten,to prevent
+3221,die Frühstückspension,the bed and breakfast
+3222,bewundern,to admire
+3223,die Pflegemaßnahme,the care measure
+3224,der Jahresanfang,the start of the year
+3225,die Zugangsvoraussetzung,the Zugangsvoraussetzungen entrance requirement
+3226,das Großlager,the large warehouse
+3227,die Baumwolle,the cotton
+3228,respektvoll,respectful
+3229,posten,to post
+3230,die Bildungseinrichtung,the educational facility
+3231,die Organisationsaufgabe,the organisational task
+3232,die Mahlzeit,the mealtime
+3233,anbringen,to affix
+3234,die Neueröffnung,the reopening
+3235,der Lohn,the wage
+3236,das Suchergebnis,the search result
+3237,die Homepage,the home page
+3238,der Frühstücksablauf,the breakfast times
+3239,bemerken,to notice
+3240,der Übergang,the transition
+3241,das Möbelhaus,the furniture store
+3242,der Sekretär,the secretary
+3243,belohnen,to reward
+3244,wirken,to have an effect
+3245,beirren,to mislead
+3246,das PDF,the pdf
+3247,der Sicherheitsdienst,the security service
+3248,der Umsatz,the revenue
+3249,die Heizungsinstallation,the heating system
+3250,die Medienbranche,the media industry
+3251,die Blutung,the bleeding
+3252,verwalten,to manage
+3253,täglich,daily
+3254,das Autohaus,the car showroom
+3255,der Rabatt,the discount
+3256,der Abzug,the withdrawal
+3257,der SolZ,the solidarity surcharge
+3258,nachholen,to resit
+3259,der Anlagenmechaniker,the plant mechanic
+3260,die Interessenvertretung,the advocacy group
+3261,der Qualitätsstandard,the quality standard
+3262,die Landesgrenze,the country border
+3263,das Lüftungsrohr,the ventilation pipe
+3264,weltgrößte,world’s biggest
+3265,zweifeln,to doubt
+3266,der Gabelstapler,the forklift trucks
+3267,interkulturell,inter-cultural
+3268,die Fabrik,the fabric
+3269,die Produktion,the production
+3270,abbauen,to break down
+3271,die Verhandlungsbasis,the negotiating basis
+3272,der Zwilling,the twin
+3273,der Bezug,the reference
+3274,die Geschäftsleitung,the executive committee
+3275,der Ständer,the stand
+3276,gepresst,pressed
+3277,schüchtern,shy
+3278,die Aufstellung,the installation
+3279,das Zubehör,the supplies
+3280,rückseitig,on the reverse
+3281,durchschauen,to look through
+3282,der Onlinebezahldienst,the online payment service
+3283,betten,to embed
+3284,die Kinderbetreuung,the childcare
+3285,anderswo,somewhere else
+3286,die Kernarbeitszeit,the main working hours
+3287,dunkelgrau,dark green
+3288,unterteilen,to partition
+3289,regulär,regular
+3290,die Montage,the assembly
+3291,der Stick,the usb stick
+3292,der Übertragungszeitraum,the transfer period
+3293,der Laufschuh,the running shoe
+3294,die Augenschädigung,the eye damage
+3295,unterziehen,to undergo
+3296,mitliefern,to supply with
+3297,die Sommersaison,the summer season
+3298,die Halterung,the bracket
+3299,das Drittel,the third
+3300,entfernen,to remove
+3301,die Eingliederung,the inclusion
+3302,die Unannehmlichkeit,the inconvenience
+3303,die Kündigungsfrist,the notice period
+3304,körperlich,physically
+3305,enorm,enormous
+3306,die Lieferkosten,the delivery costs
+3307,dokumentieren,to document
+3308,das Lamm,the lamb
+3309,die Grünpflanze,the green plant
+3310,gutgehen,to go well
+3311,absolut,absolute
+3312,beziehen,to obtain
+3313,hinstellen,to place
+3314,beladen,loaded
+3315,die Betreuung,the mentoring
+3316,die Pharmaindustrie,the pharmaceutical industry
+3317,das Probefoto,the sample photo
+3318,assistieren,to assist
+3319,die Nachhaltigkeit,the sustainability
+3320,die Überstundenregelung,the overtime regulation
+3321,das Vorurteil,the prejudice
+3322,das Arbeitspensum,the workload
+3323,das Cerankochfeld,the ceramic hob
+3324,der Tagesordnungspunkt,the item of the agenda
+3325,der Master,the master’s degree
+3326,zwingen,to force
+3327,die Innenbeleuchtung,the internal lighting
+3328,das Kantinenpersonal,the canteen staff
+3329,das Porträtfoto,the portrait photo
+3330,die Wechselschicht,the alternate shift
+3331,gegebenenfalls,as applicable
+3332,die Hochschulreife,the higher education entrance qualification
+3333,der Aufpreis,the surcharge
+3334,die Weltleitmesse,the world-leading conference
+3335,pragmatisch,pragmatic
+3336,der Einbauherd,the built-in oven
+3337,der Frühstücksraum,the breakfast room
+3338,die Evakuierung,the evacuation
+3339,die Richtlinie,the guideline
+3340,der Prozess,the trial
+3341,die Beilage,the supplement
+3342,sonnengelb,sunshine yellow
+3343,die Vertrautheit,the familiarity
+3344,betragen,to amount to
+3345,schrauben,to screw
+3346,die Selbstauskunft,the self-disclosure
+3347,der Erzieher,the youth care worker
+3348,die Unternehmensstruktur,the corporate structure
+3349,erstaunlich,astonishing
+3350,der Nachweis,the proof
+3351,die Schürze,the apron
+3352,die Altersbegrenzung,the age limit
+3353,die Organisation,the organisation
+3354,die Zieladresse,the target address
+3355,die Fortbildungsakademie,the training academy
+3356,der Spülenumbauschrank,the cupboard enclosing sink
+3357,die Führungskraft,the executive
+3358,schulpflichtig,required to attend school
+3359,der Bildungsabschluss,the educational level
+3360,der Arbeitsschritt,the work stage
+3361,gefährlich,dangerous
+3362,das Zusatzstudium,the postgraduate studies
+3363,die Vorauszahlung,the payment in advance
+3364,die Sicherungskopie,the backup copy
+3365,bedauern,to regret
+3366,äußern,to express
+3367,das Risiko,the risk
+3368,die Aufräumarbeit,the clean-up work
+3369,unmodern,out of fashion
+3370,die Gleitzeit,the flexible working hours
+3371,die Reinigungskraft,the cleaner
+3372,der Mindesturlaub,the minimum leave
+3373,betrieblich,operational
+3374,die Evaluation,the evaluation
+3375,die Lieferadresse,the delivery address
+3376,der Lebensmitteltechniker,the food technician
+3377,das Kundengespräch,the customer meeting
+3378,abhängen,to hang around
+3379,die Kleinigkeit,the small detail
+3380,der Schritt,the step
+3381,die Handyzahlung,the mobile payment
+3382,der Fahrradhändler,the bicycle dealer
+3383,im Argen liegen,to be in a sorry state
+3384,der USB-Anschluss,the USB port
+3385,der Atlantik,the atlantic
+3386,die Elternzeit,the parental leave
+3387,das Vorfeld,the run-up stage
+3388,die Buchungsbestätigung,the Buchungsbestätigungen booking confirmation
+3389,die Ferien,the holidays
+3390,fällig,due
+3391,duzen,to use the ‘du’ form
+3392,die Reinigung,the cleaning
+3393,der Pflegedienst,the care service
+3394,das Menschenleben,the human life
+3395,die Zwischenzeit,the interim period
+3396,die Tagessuppe,the soup of the day
+3397,die Sturzgefahr,the risk of falling
+3398,der Selbstzweifel,the self doubt
+3399,die Grundbildung,the basic education
+3400,die Kurzzeitpflege,the short-term care
+3401,der Nettobetrag,the net amount
+3402,der Geschäftsbrief,the business letter
+3403,produktiv,productive
+3404,das Müsli,the muesli
+3405,die Werbestrategie,the marketing strategy
+3406,das Bruttogehalt,the gross income
+3407,ausschließlich,exclusively
+3408,die Abmahnung,the written warning
+3409,die Kabeltrommel,the cable reel
+3410,die Gelassenheit,the composure
+3411,der Gesundheitszustand,the state of health
+3412,heben,to lift
+3413,koordinieren,to coordinate
+3414,die Angelegenheit,the matter
+3415,aufeinander verlassen,to depend on one another
+3416,die Navigationsfunktion,the navigation function
+3417,antreten,to compete
+3418,unwirksam,ineffective
+3419,wählbar,selectable
+3420,der Handwerksbetrieb,the craftsman’s business
+3421,das Versprechen,the promise
+3422,befristet,temporary
+3423,die Edelstahleinbauspüle,the stainless steel in-built sink
+3424,die Folge,the consequence
+3425,investieren,to invest
+3426,die Jahresbilanz,the annual balance sheet
+3427,das Anstoßen,the to toast
+3428,unüberlegt,rash
+3429,unverzüglich,immediate
+3430,der Standort,the location
+3431,der Wartungsdienst,the maintenance service
+3432,vergrößern,to enlarge
+3433,einräumen,to concede
+3434,bestehen,to persist
+3435,der Verkaufsbericht,the sales report
+3436,das Altenwohnheim,the old people’s home
+3437,die Perspektive,the perspective
+3438,der Resturlaub,the remaining leave
+3439,der Aussteller,the exhibitor
+3440,hauseigen,in-house
+3441,die Zukunftsaussicht,the future prospect
+3442,die Distanz,the distance
+3443,die Primarschule,the primary school
+3444,drängen,to urge
+3445,der Arbeitsabschnitt,the work section
+3446,der Kilometerstand,the mileage
+3447,die Realisierung,the realisation
+3448,die Honorartätigkeit,the freelance job
+3449,tolerant,tolerant
+3450,vorwärtskommen,to make progress
+3451,DIN,DIN
+3452,die Gleichberechtigung,the equal rights
+3453,die Abbildung,the illustration
+3454,die Notfallnummer,the emergency number
+3455,frühzeitig,premature
+3456,der Ladevorgang,the loading process
+3457,wirtschaften,to economise
+3458,die Last,the burden
+3459,respektlos,disrespectful
+3460,das Festgeld,the fixed deposit
+3461,wenden an,to turn to
+3462,die Naturwissenschaft,the natural science
+3463,das Selbstbewusstsein,the self-confidence
+3464,der Stressfaktor,the stress factor
+3465,die DOB,the women's outer garments
+3466,das Cover,the cover
+3467,der Schichtwechsel,the shift change
+3468,ordentlich,tidy
+3469,die Vorerkrankung,the pre-existing illness
+3470,die Personalversammlung,the Personalversammlungen personal collection
+3471,der Nettopreis,the net price
+3472,derartig,of its type
+3473,die Kurzanleitung,the brief instruction
+3474,das Volkshochschulprogramm,the evening classes programme
+3475,die Zahlungsbedingung,the payment conditions
+3476,der Eingriff,the intervention
+3477,die Navigation,the navigation
+3478,der Idiot,the idiot
+3479,das Onlineportal,the online portal
+3480,die Geborgenheit,the feeling of security
+3481,fortan,from now on
+3482,verallgemeinern,to generalise
+3483,die Arbeitsvergütung,the remuneration for work carried out
+3484,untereinander,among each other
+3485,der Kindersitz,the children’s seat
+3486,der VDA,the VDA
+3487,umschulen,to retrain
+3488,die Außenbeleuchtung,the external lighting
+3489,die Atmosphäre,the atmosphere
+3490,die Wartezeit,the waiting time
+3491,das Flachbild,the bas-relief
+3492,der Transport,the transport
+3493,das Konzentrat,the concentrate
+3494,versterben,to pass away
+3495,aussagen,to state
+3496,permanent,permanent
+3497,das Wochenendseminar,the weekend seminar
+3498,umsetzen,to implement
+3499,verständnisvoll,understanding
+3500,fundiert,substantiated
+3501,das Mitglied,the member
+3502,der Fahrersitz,the driver’s seat
+3503,die Nahrungsaufnahme,the food intake
+3504,der Gott,the god
+3505,die Firmenkultur,the company culture
+3506,die Verringerung,the reduction
+3507,der Notfallsanitäter,the emergency paramedic
+3508,einbehalten,to withhold
+3509,die Arbeitsplatte,the work surface
+3510,sich Mühe geben,to make an effort
+3511,die Sitzung,the session
+3512,unterscheiden,to differ
+3513,aussterben,to go extinct
+3514,die Facharztpraxis,the specialist medical practice
+3515,die Lohnerhöhung,the pay increase
+3516,überfordert,overwhelmed
+3517,der Arbeitsbereich,the work area
+3518,einen langen Atem haben,to have staying power
+3519,erneuerbar,renewable
+3520,trauen,to trust
+3521,erscheinen,to appear
+3522,die Fachübersetzung,the specialist translation
+3523,das Fotoalbum,the photo album
+3524,die Montageanleitung,the assembly instruction
+3525,die Präsenz,the presence
+3526,die Kirchensteuer,the church tax
+3527,der Splitter,the splinter
+3528,kontinuierlich,continually
+3529,energieeffizient,energy-efficient
+3530,der Berufstyp,the type of occupation
+3531,abarbeiten,to work through
+3532,spontan,spontaneous
+3533,das Syndrom,the syndrome
+3534,die SV,the social insurance
+3535,auslegen,to interpret
+3536,die Firmenphilosophie,the company philosophy
+3537,die Vereinbarkeit,the compatibility
+3538,der Tinnitus,the tinnitus
+3539,der Herdumbauschrank,the cupboard enclosing oven
+3540,die Arbeitsfläche,the worktop
+3541,das Angebotsschreiben,the offer letter
+3542,das Schriftstück,the written document
+3543,das Gesundheitszentrum,the health centre
+3544,konstruktiv,constructive
+3545,zurückrufen,to call back
+3546,der Minijob,the mini job
+3547,die Visitenkarte,the business card
+3548,die Verfolgung,the pursuit
+3549,das Schmiermittel,the lubricating agent
+3550,die Skepsis,the scepticism
+3551,die Fahrzeugsicherheit,the vehicle safety
+3552,die Baufirma,the construction company
+3553,rausfahren,to drive out
+3554,der Bildungsserver,the education server
+3555,der Investor,the investor
+3556,vertreten,to represent
+3557,die Stärkung,the reinforcement
+3558,herkömmlich,conventional
+3559,genormt,standardised
+3560,das Institut,the institute
+3561,der Kundenrabatt,the customer discount
+3562,die Rohrdämmung,the tubing insulation
+3563,anlässlich,on the occasion of
+3564,das Gelände,the grounds
+3565,der Betreuungsplatz,the place in childcare
+3566,ausladen,to unload
+3567,die Klimatechnik,the air conditioning technology
+3568,der Hochschulabschluss,the university degree
+3569,im Lot sein,to be in balance
+3570,aktualisieren,to update
+3571,die Industrie und Handelskammer,the chamber of industry and commerce
+3572,der Arbeitsunfall,the accident at work
+3573,zielen,to target
+3574,die Berufsbildungsreife,the vocational education certificate
+3575,die Pension,the guesthouse
+3576,die Unterrichtseinheit,the unit
+3577,zudem,moreover
+3578,die Männerdomäne,the man’s world
+3579,die Teambesprechung,the team meeting
+3580,die Front,the front
+3581,das Notizbuch,the notepad
+3582,cremeweiß,cream
+3583,der Arbeitsprozess,the working process
+3584,verfallen,to deteriorate
+3585,das Kriterium,the criteria
+3586,zertifiziert,certified
+3587,die Rationalisierung,the rationalisation
+3588,aufsteigen,to move up
+3589,gelten,to apply
+3590,die Planungsphase,the planning phase
+3591,fleißig,hard-working
+3592,jmdm. böse sein (ugs.),be angry with sb
+3593,der Vorarbeiter,the foreman
+3594,der Posteraufhänger,the poster hanger
+3595,der Vorfall,the incident
+3596,ungenau,inaccurate
+3597,das Missverständnis,the misunderstanding
+3598,verraten,to betray
+3599,jeweilig,respective
+3600,schildern,to portray
+3601,die Förderung,the funding
+3602,allgemeinbildend,of general educational value
+3603,die Berufsmöglichkeit,the career opportunity
+3604,der Anschlusskontakt,the connector contact
+3605,der Arzthelfer,the doctor’s assistant
+3606,umsehen,to look around
+3607,das Jugendalter,the adolescence
+3608,die Grundpflege,the basic care
+3609,bündeln,to bundle
+3610,der Schwerbehinderte,the severely disabled person
+3611,der Sticker,the sticker
+3612,ausführlich,in-depth
+3613,das GPS,the GPS
+3614,das Erwachsenenalter,the adulthood
+3615,das Toilettenpapier,the toilet paper
+3616,die MwSt,the VAT
+3617,der Moderationskoffer,the presenter’s toolbox
+3618,der Notfall,the emergency
+3619,der Dauerzustand,the permanent state
+3620,die Veränderung,the modification
+3621,protokollieren,to take minutes
+3622,die Zustimmung,the consent
+3623,die Sozialleistung,the social benefit
+3624,die Unzufriedenheit,the dissatisfaction
+3625,die Mehrwertsteuer,the value added tax
+3626,die Bezeichnung,the description
+3627,die Konkurrenz,the competition
+3628,die Administration,the administration
+3629,die Einhaltung,the compliance
+3630,die Mandel,the almond
+3631,der Personalkaufmann,the human resource manager
+3632,die Tastatur,the keyboard
+3633,die Terminabstimmung,the arrangement of appointment
+3634,erläutern,to clarify
+3635,bezeichnen,to designate
+3636,angemessen,appropriate
+3637,anstellen,to employ
+3638,die Vorgabe,the specification
+3639,der Bau,the construction
+3640,vorantreiben,to drive forward
+3641,die Internetseite,the internet page
+3642,das Sortiment,the assortment
+3643,der Farbakzent,the touch of colour
+3644,weiterführen,to continue with
+3645,die Ratenzahlung,the payment in instalments
+3646,die Besprechungsunterlagen,the meeting documents
+3647,das Hauptmenü,the main menu
+3648,global,global
+3649,familienfreundlich,family-friendly
+3650,zentral,central
+3651,steuerlich,fiscal
+3652,das Netz,the web
+3653,wissenschaftlich,scientific
+3654,das Bücherregal,the bookshelf
+3655,die Verwaltungsaufgabe,the administrative task
+3656,die Einteilung,the classification
+3657,einmalig,one-time
+3658,entspannt,relaxed
+3659,der Bewegungsdrang,the urge to move
+3660,der Geschäftsablauf,the course of business
+3661,ambulant,outpatient
+3662,der Wäschereiservice,the laundry service
+3663,der Bürgermeister,the mayor
+3664,die Maßnahme,the measure
+3665,der Link,the link
+3666,navigieren,to navigate
+3667,das Reinigungsmittel,the cleaning agent
+3668,das Vertriebsmeeting,the sales meeting
+3669,netto,net
+3670,das Zeitalter,the time period
+3671,der Lebensstandard,the standard of living
+3672,hinzufügen,to add
+3673,schiefgehen,to go wrong
+3674,die Mindmap,the mind map
+3675,gewiss,certain
+3676,der Vertriebsweg,the sales channel
+3677,die Schriftform,the written form
+3678,die Marke,the brand
+3679,das Fachwissen,the expert knowledge
+3680,das Ladegerät,the charger
+3681,der Beweis,the evidence
+3682,die Textilien,the textiles
+3683,das Vorgehen,the approach
+3684,arbeitslos,unemployed
+3685,der Sprecher,the speaker
+3686,die Ganztagsschule,the full-time school
+3687,das Verkaufstalent,the sales talent
+3688,die Bequemlichkeit,the comfort
+3689,die Abdeckung,the coverage
+3690,der Expertenbericht,the expert report
+3691,volljährig,of age
+3692,der Hängeeckschrank,the hanging corner cabinet
+3693,die Quartalsaufstellung,the quarterly financial report
+3694,die Notsituation,the emergency situation
+3695,die Aufstockung,the accumulation of capital
+3696,aufgeben,to give up
+3697,die Küchenzeile,the kitchen unit
+3698,durchlaufen,to go through
+3699,dankbar,thankful
+3700,der Blog,the blog
+3701,der Dachboden,the attic
+3702,die Routenberechnung,the route calculation
+3703,die Artikelbezeichnung,the article description
+3704,freiberuflich,freelance
+3705,die Klausel,the clause
+3706,die Analyse,the analysis
+3707,unrealistisch,unrealistic
+3708,der Fakt,the fact
+3709,das Großraumbüro,the open-plan office
+3710,der Anspruch,the claim
+3711,erwerben,to gain
+3712,der Notausgang,the emergency exit
+3713,wiederfinden,to recover
+3714,die Managerkrankheit,the executive burnout
+3715,das Outsourcing,the outsourcing
+3716,entladen,to discharge
+3717,der Inhalt,the content
+3718,der Großraum,the greater area
+3719,die Technikerschule,the technical school
+3720,das Fingerfood,the finger food
+3721,der Nettoverdienst,the net earnings
+3722,organisatorisch,organisational
+3723,die Konfession,the confession
+3724,erarbeiten,to work out
+3725,das Verhältnis,the relationship
+3726,auflegen,to hang up
+3727,wagen,to dare
+3728,die Funktion,the function
+3729,benommen,dazed
+3730,das Frühstücksbüfett,the breakfast buffet
+3731,der Unterschrank,the lower cabinet
+3732,die Bestnote,the highest mark
+3733,durchmogeln,to muddle through
+3734,digital,digital
+3735,die Therme,the spa
+3736,durchfahren,to pass through
+3737,das Jahresende,the end of the year
+3738,die Immobilienbranche,the real estate industry
+3739,theoretisch,theoretical
+3740,mangelnd,insufficient
+3741,die Ladenöffnungszeit,the store opening hours
+3742,der Arztbesuch,the visit to the doctor
+3743,negativ,negative
+3744,der Kundenservice,the customer service
+3745,realistisch,realistic
+3746,der Heizungsanschluss,the heating connection
+3747,unwichtig,unimportant
+3748,die Aktionswoche,the promotional week
+3749,gängig,common
+3750,wesentlich,significant
+3751,der Schlitz,the slit
+3752,das Darlehen,the loan
+3753,intensiv,intensive
+3754,spitz,sharp
+3755,gestresst,stressed
+3756,einholen,to gather
+3757,ISO,ISO
+3758,das Suchfeld,the search box
+3759,die Garantie,the guarantee
+3760,selbstbewusst,self-confident
+3761,die Spätschicht,the late shift
+3762,das Lächeln,the to smile
+3763,Standardization),for Standardization)
+3764,die Sicherheitsbestimmung,the safety regulation
+3765,lehnen,to lean
+3766,die Werbung,the advertisement
+3767,aktivieren,to activate
+3768,nichtselbstständig,not self-employed
+3769,die Maschine,the machine
+3770,überwinden,to overcome
+3771,auswählen,to select
+3772,freistellen,to make available
+3773,ansprechbar,responsive
+3774,sowie,just as
+3775,ebenfalls,likewise
+3776,l,the job outline
+3777,das Notfallzentrum,the emergency centre
+3778,das Nettogehalt,the net income
+3779,das Bewerbungsgespräch,the job interview
+3780,das Lammcarré,the lammcarré
+3781,kurzfristig,short-term
+3782,brutto,gross
+3783,die Bundesagentur für Arbeit,the Federal Employment Agency
+3784,die Persönlichkeit,the personality
+3785,hinweisen,to point out
+3786,der Zollstock,the folding ruler
+3787,der Verkehrsunfall,the traffic accident
+3788,die Onlinesuche,the online search
+3789,die Festlegung,the determination
+3790,fähig,able
+3791,gegenstandslos,devoid of purpose
+3792,die Angebotserstellung,the quote generation
+3793,der Vorgesetzte,the superior
+3794,werben,to advertise
+3795,der Fernkurs,the distance learning course
+3796,das QMS,the QMS
+3797,montieren,to assemble
+3798,der Fahrzeugbrief,the vehicle registration document
+3799,das Budget,the budget
+3800,die Zukunftsprognose,the forecast
+3801,die Gartenterrasse,the garden patio
+3802,klassisch,classic
+3803,vertraglich,contractual
+3804,das WLAN,the wifi
+3805,der Bücherflohmarkt,the book flea market
+3806,der Fluchtweg,the escape route
+3807,das Stoffmuster,the fabric pattern
+3808,die SIM-karte,the sim card
+3809,der Journalist,the journalist
+3810,unsicher,uncertain
+3811,die Priorität,the priority
+3812,die Einkaufsabteilung,the purchasing department
+3813,der Versandhandel,the mail order business
+3814,auspacken,to unpack
+3815,niedrig,low
+3816,der Pfeil,the arrow
+3817,pädagogisch,pedagogical
+3818,die Neuheit,the novelty
+3819,die Presse,the press
+3820,der Fahrdienst,the transport service
+3821,zumal,particularly as
+3822,die Kreisstadt,the district town
+3823,ängstlich,anxious
+3824,betreuen,to mentor
+3825,die Sicht,the sight
+3826,der Elektromarkt,the electrical store
+3827,der Small Talk,the small talk
+3828,die Sicherheitsfirma,the security firm
+3829,die Berufsgruppe,the occupation group
+3830,die Rettungskraft,the rescue team
+3831,souverän,sovereign
+3832,gelaunt,in a
+3833,das Streitgespräch,the debate
+3834,die Wunde,the wound
+3835,erstellen,to create
+3836,der Näher,the tailor
+3837,die Steuerklasse,the tax bracket
+3838,das Vergnügen,the pleasure
+3839,das Feld,the field
+3840,automatisieren,to automate
+3841,beheben,to remedy
+3842,das Mediendesign,the media design
+3843,der Umstand,the circumstance
+3844,die Dunstabzugshaube,the extractor hood
+3845,der Export,the export
+3846,der Spender,the donor
+3847,die Unterstützung,the support
+3848,der Magnet,the magnet
+3849,der Fernunterricht,the distance learning
+3850,signalisieren,to signal
+3851,betrachten,to regard
+3852,nützlich,useful
+3853,der Unfallort,the accident scene
+3854,fußläufig,within walking distance
+3855,gestatten,to permit
+3856,höchstens,at most
+3857,berufsbezogen,career-related
+3858,das Stellenportal,the online job portal
+3859,das Vordach,the awning
+3860,die Neueinstellung,the new appointment
+3861,der Aspekt,the aspect
+3862,dienstältere,senior
+3863,der E-Book-Reader,the ebook reader
+3864,die Routine,the routine
+3865,das Mobiltelefon,the mobile telephone
+3866,das Spiegelei,the fried egg
+3867,die Sanitärfirma,the sanitary service company
+3868,mittellang,mid-length
+3869,frühestens,at the earliest
+3870,die Gesamtsumme,the sum total
+3871,die Feuerwehr,the fire brigade
+3872,der Roboter,the robot
+3873,die Baustelle,the construction site
+3874,abräumen,to clear up
+3875,auslagern,to outsource
+3876,der Edelstahl,the stainless steel
+3877,kritisieren,to criticise
+3878,der Heimweg,the way home
+3879,die Gutscheinverlosung,the raffle draw
+3880,die Altenpflege,the care of the elderly
+3881,das E-Learning,the e-learning
+3882,beiderseits,on both sides
+3883,die Sprachförderung,the language development
+3884,weiterentwickeln,to further develop
+3885,umkehren,to turn back
+3886,ungeplant,unplanned
+3887,der Weltkrieg,the world war
+3888,die Flatrate,the flat rate
+3889,das Resort,the resort
+3890,die Anordnung,the layout
+3891,das Argument,the argument
+3892,die Quote,the quote
+3893,die Kiste,the box
+3894,die Verletzung,the injury
+3895,die Anrechnung,the charges
+3896,beispielsweise,for example
+3897,das Silikon,the silicone
+3898,das Computerzubehör,the computer accessories
+3899,die Belastungssituation,the load situation
+3900,der Marker,the marker
+3901,perlmuttfarben,pearly
+3902,der Lagerarbeiter,the warehouse worker
+3903,solange,as long as
+3904,kleinschrittig,in small steps
+3905,der Druck,the pressure
+3906,das Saftkonzentrat,the juice concentrate
+3907,erfüllen,to fulfil
+3908,fürchten,to fear
+3909,der Burnout,the burnout
+3910,der Handwerksberuf,the craftsman's trade
+3911,das Waschbecken,the sink
+3912,die Heizungstherme,the heater
+3913,das Motivationsschreiben,the letter of motivation
+3914,der Afrorap,the Afro rap
+3915,der Takt,the pace
+3916,das Segment,the segment
+3917,die Finanzabteilung,the finance department
+3918,örtlich,local
+3919,suggerieren,to suggest
+3920,zutreffen,to be applicable
+3921,die Berufschance,the career prospect
+3922,das Firmengelände,the company property
+3923,der Innenhof,the inner courtyard
+3924,die Heizungsanlage,the heating unit
+3925,die Mitte,the middle
+3926,die Metallindustrie,the metal industry
+3927,durchführen,to carry out
+3928,automatisch,automatic
+3929,der Bankettsaal,the banquet hall
+3930,das Gasrohr,the gas pipe
+3931,die Fußgängerzone,the pedestrian zone
+3932,die Bemerkung,the remark
+3933,die Barzahlung,the cash payment
+3934,die Geschäftschance,the business opportunity
+3935,der Anbieter,the provider
+3936,umsonst,for nothing
+3937,der Touchscreen,the touchscreen
+3938,die Schließung,the closing-down
+3939,therapeutisch,therapeutic
+3940,unkompliziert,uncomplicated
+3941,die Umbauarbeit,the renovation work
+3942,platt,flat
+3943,der Mikrozensus,the micro census
+3944,der Ausbildungsberuf,the skilled occupation
+3945,die Teilzeitanstellung,the part-time position
+3946,die Notwendigkeit,the necessity
+3947,die Preisentwicklung,the price trend
+3948,verbreiten,to spread
+3949,ausgegrenzt,excluded
+3950,vorlesen,to read aloud
+3951,umsiedeln,to relocate
+3952,die Schwäche,the weakness
+3953,die Depression,the depression
+3954,die Webcam,the webcam
+3955,der Ausdruck,the expression
+3956,nötigen,to bully
+3957,das Login,the log-in
+3958,das Seniorenstift,the care home for the elderly
+3959,die Lohnart,the salary type
+3960,t,the technology
+3961,der Tod,the death
+3962,die Marmoroptik,the marble-look
+3963,das Lernangebot,the learning opportunity
+3964,skeptisch,sceptical
+3965,der Kalendermonat,the calendar month
+3966,ansprechen,to address
+3967,das Fremdenzimmer,the guest room
+3968,hauptsächlich,mainly
+3969,die Nebentätigkeit,the secondary employment
+3970,anwesend,present
+3971,der Tourismus,the tourism
+3972,die Gehminute,the number of minute’s walk
+3973,die Sanitäreinrichtung,the sanitary installation
+3974,abbrechen,cancel
+3975,herumgehen,to go around
+3976,arbeitssuchend,job-seeking
+3977,wegstecken,to put away
+3978,die Flüssigkeit,the fluid
+3979,die Anredeform,the form of address
+3980,fortbilden,to do further studies
+3981,die Höhe,the height
+3982,der Rückblick,the retrospect
+3983,abmontieren,to dissemble
+3984,die Tagung,the convention
+3985,der Ausbildungsaufbau,the structure of qualification
+3986,die Reparaturwerkstatt,the repair workshop
+3987,leichtfallen,to be easy for sb
+3988,abwesend,absent
+3989,der Probelauf,the test run
+3990,der Zahlungseingang,the receipt of payment
+3991,mitgestalten,to help shape
+3992,das Internetportal,the internet portal
+3993,der Lagerist,the warehouseman
+3994,unangenehm,unpleasant
+3995,die Klimaanlage,the air conditioning system
+3996,der Seifenspender,the soap dispenser
+3997,der Taschenrechner,the pocket calculator
+3998,dynamisch,dynamic
+3999,aneignen,to assimilate
+4000,der Migrationshintergrund,the migrant background
+4001,der Händler,the distributor
+4002,der Betriebskindergarten,the company nursery
+4003,die Schneiderei,the tailor’s
+4004,die Delegation,the delegation
+4005,auffüllen,to fill up
+4006,unliniert,unlined
+4007,das Sicherheitsbedenken,the security concerns
+4008,das Kuscheltier,the stuffed animal
+4009,der Rap,the rap
+4010,die Abgabe,the submission
+4011,widersprechen,to contradict
+4012,der Beschwerdebrief,the letter of complaint
+4013,der Alaskaseelachs,the alaska pollack
+4014,die Arbeitsbedingung,the working condition
+4015,der Nordwesten,the northwest
+4016,die Automobilindustrie,the automotive industry
+4017,der Bilanzbuchhalter,the report accountant
+4018,die Speicherkarte,the memory card
+4019,die Altersgruppe,the age group
+4020,der Wartungsvertrag,the maintenance contract
+4021,die Betriebsvereinbarung,the company agreement
+4022,das Set,the set
+4023,die Hauspost,the internal mail
+4024,der Arbeitsmarkt,the job market
+4025,das Werk,the factory
+4026,die Aufstiegschance,the promotion prospect
+4027,detailliert,detailed
+4028,der Übersetzerdienst,the translation service
+4029,die Produktvielfalt,the product diversity
+4030,der Karton,the package
+4031,die Patientenakte,the patient files
+4032,die Normung,the standardisation
+4033,beseitigen,to eliminate
+4034,die Pausenzeit,the break period
+4035,die Bruttovergütung,the gross compensation
+4036,der Pflegebedürftige,the care-dependent person
+4037,die AG,the ltd.
+4038,die Zeitarbeit,the temporary work
+4039,die Pinnwand,the notice board
+4040,der Messestand,the trade fair stand
+4041,erkranken,to fall ill
+4042,ausüben,to exercise
+4043,erfragen,to inquire
+4044,der Tunnel,the tunnel
+4045,unsachlich,unobjective
+4046,die Branchenkenntnis,the industry knowledge
+4047,die Unfallchirurgie,the emergency surgery
+4048,verbleiben,to remain
+4049,verzeihen,to forgive
+4050,erwünscht,desired
+4051,die Leseecke,the reading corner
+4052,die Auftragsbestätigung,the order confirmation
+4053,der Spezialist,the specialist
+4054,die Eigenschaft,the characteristic
+4055,das Prinzip,the principle
+4056,bankrott,bankrupt
+4057,die Aktualisierung,the update
+4058,stolz,proud
+4059,der Zentimeter,the centimetre
+4060,das Selbstvertrauen,the confidence
+4061,das TV,the TV
+4062,der Lehrgang,the training course
+4063,das Qualitätsmanagement,the quality management
+4064,parallel,parallel
+4065,die Rutschgefahr,the slip hazard
+4066,der Daumennagel,the thumbnail
+4067,die Kundenbewertung,the customer rating
+4068,transportieren,to transport
+4069,das Tischtennis,the table tennis
+4070,die Gewinnspanne,the profit margin
+4071,der Prospektständer,the brochure rack
+4072,der Freiberufler,the freelancer
+4073,verfügen,to dispose
+4074,die Hierarchie,the hierarchy
+4075,die Freistellung,the making available
+4076,die Fußverletzung,the foot injury
+4077,befolgen,to obey
+4078,jammern,to moan
+4079,die Lebensqualität,the quality of life
+4080,der Bauplan,the blueprint
+4081,die Berufsbekleidung,the workwear
+4082,die Region,the region
+4083,die Wirksamkeit,the effectiveness
+4084,die Verschwiegenheitspflicht,the confidentiality agreement
+4085,der Bücherschrank,the book cupboard
+4086,der Mikrokredit,the micro loan
+4087,die Automatisierungstechnik,the automation technology
+4088,logisch,logical
+4089,die Kernzeit,the core working hours
+4090,der Personalausgang,the staff exit
+4091,die Buchungsnummer,the booking number
+4092,fob,fob
+4093,das Mitarbeitermeeting,the employee meeting
+4094,beherzigen,to take to heart
+4095,zusammenfassen,to summarise
+4096,zoomen,to zoom
+4097,die Schicht,the shift
+4098,die Handelssprache,the commercial language
+4099,die Auswirkung,the effect
+4100,vermerken,to make note of
+4101,erbauen,to construct
+4102,die Bücherkiste,the book box
+4103,das Verkaufsgespräch,the sales pitch
+4104,der Urlaubsanspruch,the leave entitlement
+4105,der Lagerraum,the storage room
+4106,der Lieferwagen,the delivery van
+4107,wöchentlich,weekly
+4108,die Soft Skills,the soft skills
+4109,die Hautallergie,the skin allergy
+4110,der Kissenbezug,the cushion cover
+4111,die Mittlere Reife,the school leaving certificate
+4112,die Tagesmutter,the child minder
+4113,der Verletzte,the injured person
+4114,der Zahnarzthelfer,the dental assistant
+4115,staatlich,state
+4116,dastehen,to stand there
+4117,wochenlang,week-long
+4118,die Flucht,the escape
+4119,geprüft,checked
+4120,die Kartenzahlung,the card payment
+4121,der Bestandskunde,the existing customer
+4122,familiär,familial
+4123,die Erreichbarkeit,the contactability
+4124,heutig,contemporary
+4125,die Berufskrankheit,the occupational illness
+4126,erlernen,to learn
+4127,der Zementsack,the cement sack
+4128,die Arbeitsanweisung,the work instruction
+4129,die Norm,the norm
+4130,lebenslustig,fun-loving
+4131,die Großküche,the industrial kitchen
+4132,der Netzwerkanschluss,the network connection
+4133,extern,external
+4134,das Informationsblatt,the information sheet
+4135,das Notebook,the notebook
+4136,qualifiziert,qualified
+4137,ermitteln,to detect
+4138,cif,cif
+4139,die Einstellung,the settings
+4140,die Immobilienfirma,the real estate company
+4141,die Schwierigkeit,the difficulty
+4142,bevorzugen,to favour
+4143,bluten,to bleed
+4144,schulisch,educational
+4145,die Wurstplatte,the cold meat platter
+4146,die Ortungsfunktion,the location function
+4147,weiterbringen,to further
+4148,der Einzelpreis,the unit price
+4149,unfallfrei,without accident
+4150,ausschließen,to exclude
+4151,HD,HD
+4152,die Geschäftszeit,the opening times
+4153,der Stadtrat,the city counsellor
+4154,das Poster,the poster
+4155,durchhalten,to persevere
+4156,die Familientradition,the family tradition
+4157,der Protokollführer,the minute keeper
+4158,überleben,to survive
+4159,die Ausstrahlung,the radiance
+4160,die Druckschrift,the printed medium
+4161,die Logistik,the logistics
+4162,der Vergleich,the comparison
+4163,der Schnitt,the cut
+4164,die Anfrage,the request
+4165,das Lob,the praise
+4166,oftmals,oftentimes
+4167,die Unternehmenskultur,the corporate culture
+4168,die Bewertung,the rating
+4169,zweijährig,two-year
+4170,weiterbilden,to educate further
+4171,das Display,the display
+4172,der Helfer,the helper
+4173,der Gehörschutz,the hearing protection
+4174,der Nachfolger,the successor
+4175,der Vorwurf,the accusation
+4176,ätzend,corrosive
+4177,Ach du meine Güte!,oh my goodness!
+4178,der Berufsabschluss,the vocational qualification
+4179,die Höflichkeit,the politeness
+4180,der Hauptsitz,the headquarters
+4181,beliebig,as desired
+4182,der Rettungsdienst,the rescue service
+4183,das Whiteboard,the whiteboard
+4184,die Tageszeit,the time of day
+4185,der Lieferschein,the delivery slip
+4186,der Servicebereich,the service area
+4187,das Quartal,the quarter
+4188,das Element,the element
+4189,der Zimmerservice,the room service
+4190,platzsparend,space-saving
+4191,der QR-code,the QR code
+4192,der Elektriker,the electrician
+4193,methodisch,methodical
+4194,die Arbeitslosenversicherung,the unemployment insurance
+4195,betanken,refuelling
+4196,entschuldigung,excuse-me
+4197,sagen,to say
+4198,fressen,to eat (animal)
+4199,der Opa,the grandpa
+4200,sehen,to see
+4201,Guten Morgen,good morning
+4202,der Vogel,the bird
+4203,das Organ,the organ
+4204,die Strumpfhose,the hoose
+4205,die Grossmutter,the grand-mother
+4206,bitte sehr,you're welcome
+4207,schwimmen,to swim
+4208,attraktiv,attractive
+4209,weiss,white
+4210,auf Wiedersehen,goodbye
+4211,der Orangensaft,the orange juice
+4212,Gute Nacht,good night
+4213,das Schwein,the pig
+4214,Was machst du beruflich?,What is your work?
+4215,hunger,hungry
+4216,klar,clear
+4217,bis Bald,bye for now
+4218,der Prinz,the prince
+4219,spielen,to play
+4220,mag,like
+4221,schwul,gay lovers
+4222,der Statistiker,the statistician
+4223,durst,thirsty
+4224,es tut mir leid,I'm sorry
+4225,die Moral,the morality
+4226,prima,fine
+4227,orange,orange
+4228,Guten Abend,good evening
+4229,wilkommen,welcome
+4230,Deutschland,Germany
+4231,Guten Tag,good day
+4232,leer,empty
+4233,das Lotto,the lottery
+4234,die Gewinnzahl,the winning number
+4235,der Schauspieler,the actor
+4236,heissen,to be named
+4237,wie geht es dir?,how are you?
+4238,das Pferd,the horse
+4239,der Arkitekt,the architect
+4240,Englisch,English
+4241,das Öl,the oil
+4242,reservieren,to reserve
+4243,die Fotografie,the photography
+4244,der Bär,the bear
+4245,die Tradition,the tradition
+4246,der Veteran,the veteran
+4247,sichtbar,visible
+4248,knipsen,to push
+4249,bis Später,see you later
+4250,rosa,pink
+4251,die Sauce,the sauce
+4252,allein,alone
+4253,Juni,June
+4254,die Identität,the identity
+4255,wild,wild
+4256,das Pronomen,the pronoun
+4257,golden,golden
+4258,die SMS,the SMS
+4259,das Insekt,the insect
+4260,das Ethik,the ethique
+4261,das Handtuch,the towel
+4262,die Flagge,the flag
+4263,die Ente,the duck
+4264,das Recht,the right
+4265,bequem,convenient
+4266,der Himmel,the sky
+4267,die Philosophie,the philosophy
+4268,spenden,to donate
+4269,umkämpfen,to beat
+4270,die Kuh,the cow
+4271,die Freundin,the girlfriend
+4272,spass,fun
+4273,der Wald,the forest
+4274,die Ehefrau,the wife
+4275,die Spinne,the spider
+4276,der Maler,the painter
+4277,der Käfer,the cockroach
+4278,das Alphabet,the alphabet
+4279,das Produkt,the product
+4280,der Elefant,the elephant
+4281,der Tiger,the tiger
+4282,der Fuss,the foot
+4283,der Löwe,the lion
+4284,blind,blind
+4285,die rote Karte,the red card
+4286,mehrere,several
+4287,der Seher,the seer
+4288,die Möglichkeit,the possibility
+4289,der Historiker,the historian
+4290,erste,first (adj.)
+4291,das Leben,the life
+4292,Himmel,Heaven
+4293,der Grossvater,the grand-father
+4294,die Rose,the rose
+4295,die Enkelin,the grand-daughter
+4296,die Hexe,the witch
+4297,der Geist,the ghost
+4298,tausend,thousand
+4299,die Couch,the couch
+4300,das Omelette,the omelette
+4301,sprechen,to speak
+4302,das Zebra,the zebra
+4303,die Katze,the cat
+4304,der Praktikant,the intern
+4305,die Kumquat,the kumquat
+4306,der Küchenchef,the cook
+4307,das Kreuz,the cross
+4308,die Seife,the soap
+4309,die Stimme,the voice
+4310,perfekt,perfect
+4311,die Fliege,the fly
+4312,der Berg,the mountain
+4313,rennen,to sprint
+4314,der Mensch,the human
+4315,der Leopard,the leopard
+4316,das Schloss,the castle
+4317,der Fuchs,the fox
+4318,die Socken,the socks
+4319,das Blut,the blood
+4320,die Cranberry,the cranberry
+4321,schminken,to make up
+4322,das Comicbuch,the comic book
+4323,schwül,humide
+4324,die Clementine,the clementine
+4325,der Ehemann,the husband
+4326,der Spinat,the spinach
+4327,seltsam,strange
+4328,der Ventilator,the ventilator
+4329,die Literatur,the literature
+4330,der Gorilla,the gorilla
+4331,der Wolf,the wolf
+4332,der Khaki,the khaki
+4333,überrascht,surprised
+4334,die Briefmarke,the stamp
+4335,die Scheibe,the slice
+4336,die Avocado,the avocado
+4337,der Ursprung,the origin
+4338,gratis,free (money)
+4339,deklinieren,to decline
+4340,die Reisetasche,the travel bag
+4341,das Turnier,the tournament
+4342,sich erkälten,to catch a cold
+4343,das Boot,the boat
+4344,der Werwolf,the werewolf
+4345,die Glocke,the bell
+4346,windstill,windless
+4347,windig,windy
+4348,der Ring,the ring
+4349,der Storck,the stork
+4350,der Rotkohl,the red cabbage
+4351,der Halt,the halt
+4352,das Känguru,the kangaroo
+4353,violett,violet
+4354,der Pass,the pass
+4355,März,March
+4356,der Lachs,the salmon
+4357,der Goalkeeper,the goalkeeper
+4358,die Armee,the army
+4359,Französisch,French
+4360,die Physalis,the physalis
+4361,die Trophäe,the trophy
+4362,ab A,from A
+4363,der Gegner,the opponent
+4364,der Streik,the strike
+4365,die Zensur,the censorship
+4366,kämmen,to comb
+4367,der Würfel,the dice
+4368,die Kombination,the combination
+4369,von oben,from above
+4370,tief,deep
+4371,der Affe,the monkey
+4372,der Pinguin,the penguin
+4373,der Schrimp,the shrimp
+4374,der Weisskohl,the white cabbage
+4375,kämpfen,to fight
+4376,mieten,to rent
+4377,der Tempel,the temple
+4378,verdoppeln,to double
+4379,die Hitze,the heat
+4380,die Osterglocke,the daffodil
+4381,der Autor,the author
+4382,die Altstadt,the old town
+4383,die Taktik,the tactic
+4384,die Feder,the feather
+4385,das Lama,the llama
+4386,das Netzwerk,the network
+4387,unbequem,inconvenient
+4388,effizient,efficient
+4389,der Ersatz,the replacement
+4390,tonal,tonal
+4391,in der Nähe,near
+4392,die Windmühle,the windmill
+4393,die Schokoladenmousse,the chocolate mousse
+4394,die Partnersuche,the partner search
+4395,luxuriös,luxurious
+4396,die Süsskartoffel,the sweet potato
+4397,die Passionsfrucht,the passion fruit
+4398,die Konstellation,the constellation
+4399,die Kultur,the culture
+4400,der Einwohner,the inhabitant
+4401,die Pflaume,the plum
+4402,die Hyäne,the hyena
+4403,die Wissenschaftler,the scientist
+4404,der Polizeisprecher,the police spokesman
+4405,der Biber,the beaver
+4406,abtrocknen,to dry off
+4407,der Alk,the booze
+4408,verloren,lost
+4409,Guten Rutsch,Happy New Year (before)
+4410,uneinig,divided
+4411,die Arbeitsstelle,the job
+4412,der Spaziergang,the walk
+4413,der Erlebnispark,the adventure park
+4414,lächerlich,ridiculous
+4415,lachen,to laugh
+4416,die Legende,the legend
+4417,die Tankstelle,the service station
+4418,ausbrechen,to erupt
+4419,das Bonbon,the sweet
+4420,in Eile,in a hurry
+4421,besorgt,afraid
+4422,die Fussspur,the footprint
+4423,verletzt,injured
+4424,debattieren,to debate
+4425,die Fanartikel,the fan merchandise
+4426,ziehen,to pull
+4427,dumm,silly
+4428,der Zaun,the fence
+4429,kürzlich,recent
+4430,der Nebensatz,the subordinate clause
+4431,relativ,relative
+4432,wecken,to awake
+4433,die Laterne,the lantern
+4434,die Tollwut,the rabies
+4435,diejenigen,those
+4436,verwirklichen,to achieve
+4437,der Funkturm,the radio tower
+4438,ruhen,to rest
+4439,die Schwimmbrille,the swimming goggles
+4440,die Gefangene,the prisoner
+4441,die Kriminalität,the criminality
+4442,genehmift,approved
+4443,der Durchfall,the diarrhoea
+4444,der Ritt,the ride
+4445,echt,genuine
+4446,auf Rücksicht nehmen,to show consideration for
+4447,das Fernglas,the binoculars
+4448,der Gefallen,the favour
+4449,aushalten,to withstand
+4450,wie wäre es,what about
+4451,der Schimpanse,the chimpanzee
+4452,aufwachen,to wake up
+4453,beten,to say one's prayers
+4454,gestorben,dead
+4455,der Benutzer,the user
+4456,eindrucksvoll,impressive
+4457,bügeln,to iron
+4458,das Nickerchen,the nap
+4459,gelangweilt,bored
+4460,der Kapitän,the captain
+4461,die Abwesenheit,the absence
+4462,der Charakter,the character
+4463,wert,worth
+4464,die Zielgruppe,the target group
+4465,der Strömung,the flow
+4466,sich kennenlernen,to get to know each other
+4467,die Hupe,the horn
+4468,die Gewerkschaft,the union
+4469,der Erfolg,the success
+4470,das Eigentor,the own goal
+4471,die Mirabelle,the mirabelle
+4472,der Rummel,the fuss
+4473,rechts aussen,extreme right
+4474,egoistisch,selfish
+4475,Ungar,Hungary
+4476,der Auswechselspieler,the substitute
+4477,die Disziplin,the discipline
+4478,die Kirschtomate,the cherry tomato
+4479,weinen,to cry
+4480,das Lied,the song
+4481,verletzt,injured
+4482,der Promi,the celebrity
+4483,der Zimt,the cinnamon
+4484,einziger,exclusive
+4485,der Angriff,the attack
+4486,die Unterhose,the pants
+4487,vorherig,previous
+4488,bekannt,known
+4489,der Jäger,the hunter
+4490,das Faultier,the sloth
+4491,die Barge,the barge
+4492,chaotisch,chaotic
+4493,unsichtbar,invisible
+4494,knüpfen,to tie
+4495,der Unterstützer,the supporter
+4496,die Konzentration,the concentration
+4497,tauchen,to dive
+4498,hinaufgehen,to go up
+4499,kleben,to bond
+4500,das Attentat,the assassination attempt
+4501,die Stiftung,the foundation
+4502,die Badelatschen,the flip-flops
+4503,lautstark,vocal
+4504,gewalttätig,violent
+4505,das Muss,the must
+4506,die Angel,the fishing rod
+4507,arm,poor
+4508,die Rückseite,the reverse
+4509,überfahren,to run over
+4510,pfeifen,to whistle
+4511,der Hafen,the harbour
+4512,setzen,to bet
+4513,anbauen,to grow
+4514,das Gefängnis,the prison
+4515,der Einfluss,the influence
+4516,die Granate,the grenade
+4517,einsinken,to sink in
+4518,usw.,etc
+4519,teilen,to share
+4520,die Umweltpolitik,the environmental policy
+4521,smart,smart
+4522,sich lohnen,to be worth it
+4523,der Zuckermais,the sweetcorn
+4524,auf dem Lande,in the countryside
+4525,die Wissenschaft,the science
+4526,die Meisterschaft,the championship
+4527,abkassieren,to cash up
+4528,der Broccoli,the broccoli
+4529,die Biene,the bee
+4530,der Glühwein,the mulled wine
+4531,das Abseits,the offside
+4532,das Tatmotiv,the motive
+4533,der Schaum,the foam
+4534,erwachsen,to arise
+4535,die Dunkelheit,the darkness
+4536,runtergehen,to go down
+4537,die Melodie,the melody
+4538,besitzen,to own
+4539,aus Versehen,unintentional
+4540,der Besen,the broom
+4541,das Universum,the universe
+4542,das Ufer,the shore
+4543,unlesbar,unreadable
+4544,der Maulwurf,the mole
+4545,die Kokosnuss,the coconut
+4546,eckig,squared
+4547,das gekochtes Ei,the boiled egg
+4548,das Unbekannte,the unknown
+4549,beschützen,to guard
+4550,erstaunt,amazed
+4551,die Bauvorhaben,the construction projectf
+4552,der Spielplatz,the playground
+4553,der Kochtopf,the pot
+4554,die Masse,the mass
+4555,das Staunen,the wonder
+4556,die Bucht,the bay
+4557,das Bügeleisen,the iron
+4558,ernst,serious
+4559,das Elfmeterschiessen,the penalty schootout
+4560,der Superheld,the superhero
+4561,sich drehen,to rotate
+4562,die Rakete,the rocket
+4563,der Beamte,the clerk
+4564,die Tonhöhe,the pitch
+4565,aufdecken,to reveal
+4566,rechtsextrem,far-right
+4567,ersparen,to spare
+4568,weltlich,earthly
+4569,die Meeresfrucht,the sea food
+4570,das Gefieder,the plumage
+4571,vorletzt,last but one
+4572,fischen,to fish with a net
+4573,die Zunge,the tongue
+4574,beeindrucken,to impress
+4575,die Stufe,the stage
+4576,die Malerei,the painting
+4577,abenteuerlich,adventurous
+4578,die Mauer,the wall (outside)
+4579,einwandernd,immigrant
+4580,sich verhalten,to act
+4581,die Präposition,the preposition
+4582,der Quatsch,the nonsense
+4583,interessiert,interested
+4584,der Wohnungsbau,the housing
+4585,die Freundlichkeit,the kindness
+4586,der Geruchssin,the sense of smell
+4587,gesalzen,salted
+4588,der Drucker,the printer
+4589,der Gehweg,the pavement
+4590,der Kompromiss,the compromise
+4591,der Streit,the dispute
+4592,die Falle,the trap
+4593,der Romanesco Kohl,the Romanesco cabbage
+4594,im Angriff nehmen,to tackle
+4595,zerreissen,to tear up
+4596,schlimmer,worse
+4597,regieren,to govern
+4598,weniger,fewer
+4599,das Zielpublikum,the target audience
+4600,dreckig,filthy
+4601,der Migrant,the migrant
+4602,das Opfer,the victim
+4603,die Gabe,the gift
+4604,enttäuscht,disappointed
+4605,die Hälfte,the half
+4606,gehorsam,obendient
+4607,die Grapefruit,the grapefruit
+4608,unterbrechen,to interrupt
+4609,die Flanke,the flank
+4610,das Fell,the fur
+4611,riechen,to smell
+4612,der Vulkanausbruch,the volcanic eruption
+4613,der Panda,the panda
+4614,umsichtig,prudent
+4615,abenteuerlustig,adventuresome
+4616,die Guave,the guava
+4617,die Papaya,the papaya
+4618,kühl,cool
+4619,der Vorhang,the curtain
+4620,das Aussehen,the appearance
+4621,mitreissen,to carry away
+4622,ertrinken,to drown
+4623,bergab,downhill
+4624,jugendlich,youthful
+4625,trocknen,to dry
+4626,der Stein,the stone
+4627,die Haft,the detention
+4628,demzufolge,consequently
+4629,beeinflussen,to influence
+4630,bergauf,uphill
+4631,der Wal,the whale
+4632,der Vertrag,the contract
+4633,abschliessen,to conclude
+4634,sterbend,dying
+4635,hupen,to hoot
+4636,der Sprudel,the sparkling water
+4637,gesunken,decreased
+4638,der Besitzer,the owner
+4639,der Soldat,the soldier
+4640,das Abenteuer,the adventure
+4641,dank,thanks to
+4642,der Brückentag,the bridging day
+4643,Frohes Neues Jahr,Happy New Year (after)
+4644,Freunde gewinnen,to make friends
+4645,die Ratte,the rat
+4646,laugen,to leach
+4647,die Tabellenletzte,the bottom team
+4648,bitter,bitter
+4649,die Erfahrung,the experience
+4650,die Gewalt,the violence
+4651,beklagen,to lament
+4652,der Hausfloss,the floating house
+4653,mitreissend,thrilling
+4654,angeln,to fish
+4655,das Segelboot,the sailing boat
+4656,duschen,to shower
+4657,offensiv,offensive
+4658,der Erpresser,the blackmailer
+4659,das Dingsbums,the thingy
+4660,am Anfang,at the beginning
+4661,ernten,to harvest
+4662,feilschen,to haggle
+4663,sprachlos,speechless
+4664,der Engel,the angel
+4665,die Wanderung,the hike
+4666,der Anpfiff,the whistle
+4667,die Notbremse,the emergency brake
+4668,das Tippspiel,the betting game
+4669,die Offenheit,the openness
+4670,geschlossen,closed
+4671,die Strophe,the verse
+4672,das Heimspiel,the home game
+4673,die Halbzeit,the half-time
+4674,wolkenlos,cloudless
+4675,anklopfen,to knock
+4676,anpassen,to adapt
+4677,die Sünde,the sin
+4678,die Opfergabe,the offering
+4679,auffliegen,to fly up
+4680,verteidigen,to defend
+4681,kohlensauer,carbonic
+4682,das Interesse,the interest
+4683,der Mitspieler,the co-player
+4684,das Handy,the mobile phone
+4685,das Sprichwort,the proverb
+4686,der Welpe,the puppy
+4687,faul,lazy
+4688,der Käfig,the cage
+4689,blühen,to flower
+4690,kennenlernen,to become familiar with
+4691,an gewöhnen,to accustom to
+4692,der Einwanderer,the immigrant
+4693,entgegen,contrary to
+4694,zuerst,first (adv.)
+4695,staunen,to be astonished
+4696,die Ernte,the harvest
+4697,die Hymne,the anthem
+4698,das Foul,the foul
+4699,ein bisschen,a bit
+4700,verzichten,to renonce
+4701,erzählen,to tell
+4702,das Oberteil,the top
+4703,Angenehm!,Nice to meet you!
+4704,sich kümmern,to look after
+4705,umfahren,to bypass
+4706,böse,evil
+4707,knien,to kneel
+4708,die Wut,the anger
+4709,rausreissen,to tear off
+4710,das Kätzchen,the kitten
+4711,der Rosenkohl,the Brussels sprout
+4712,bedrohen,to threaten
+4713,bewässern,to water
+4714,der Schnabel,the beak
+4715,die Eile,the urgency
+4716,sich gönnen,to treat oneself to
+4717,das Orchester,the orchestra
+4718,simpel,simple
+4719,der Aufwand,the expense
+4720,Kapiert?,Geddit?
+4721,die Begegnung,the encounter
+4722,gekümmert,worried about
+4723,der Rhabarber,the rhubarb
+4724,die Schalotte,the shallot
+4725,das Mittelalter,the Middle Ages
+4726,der Ahn,the ancestor
+4727,die Höhle,the cave
+4728,das Auswärtsspiel,the away game
+4729,frustrierend,frustrating
+4730,vernünftig,reasonable
+4731,die Schildkröte,the turtle
+4732,unschuldig,innocent
+4733,das Nashorn,the rhino
+4734,der Kuckuck,the cuckoo
+4735,geweiht,consecrated
+4736,der Pfirsich,the peach
+4737,die rote Bete,the beetroot
+4738,die Verteilung,the distribution
+4739,der Hahn,the rooster
+4740,wegbringen,to bring away
+4741,das Freibad,the outdoor pool
+4742,die Zichorie,the chicory
+4743,der Vordergrund,the foreground
+4744,die Hölle,the hell
+4745,das Restaurierung,the restoration
+4746,das Nilpferd,the hippopotamus
+4747,das Kühlhaus,the cold store
+4748,vor A bis B,from A to B
+4749,das Denkmal,the monument
+4750,vorn,in the front
+4751,die Quitte,the quince
+4752,die Zukunft,the future
+4753,das Geheimnis,the secret
+4754,der Spargel,the asparagus
+4755,anstehen,to queue
+4756,die Kardone,the cardoon
+4757,der Stürmer,the striker
+4758,der Sprung,the jump
+4759,die Zahnbürste,the toothbrush
+4760,der Fehler,the mistake
+4761,der Zwerg,the dwarf
+4762,die schwarze Johannisbeere,the blackcurrant
+4763,gießen,to pour
+4764,blenden,to blind
+4765,die Bürste,the brush
+4766,der Kürbis,the pumpkin
+4767,die Flexion,the inflection
+4768,der Satz des Pythagoras,the Pythagora's theorem
+4769,der Rechner,the calculator
+4770,der Sonnenbrand,the sunburn
+4771,der Dreh,the twist
+4772,die Mangostanfrucht,the mangosteen
+4773,der Dorn,the thorn
+4774,die Gartenbohne,the French bean
+4775,der Jubel,the cheer
+4776,das Huhn,the chicken
+4777,uralt,ancient
+4778,das Gesetz,the law (G.)
+4779,verdammt,damn
+4780,perfide,perfidious
+4781,sich die Zähne putzen,to brush one's teeth
+4782,das Waschen,the washing
+4783,stumm,mute
+4784,sich freuen,to be pleased
+4785,der Zweifel,the doubt
+4786,schwimmbecken,to pool
+4787,die Schwarzwurzel,the salsify
+4788,der Künstler,the artist
+4789,der Weizen,the wheat
+4790,die rote Beeren,the red berries
+4791,die Vorspeise,the starter
+4792,die Sternfrucht,the carambola
+4793,der Musikgeschmak,the musical taste
+4794,still,silent
+4795,sich vorstellen,to imagine
+4796,das Lachen,the laugh
+4797,die Brombeere,the blackberry
+4798,sterben,to die
+4799,der Sauerampfer,the sorrel
+4800,zum Geburtstag viel Glück,happy birthday
+4801,die Petersilie,the parsley
+4802,die Mitbewohner,the flatmate
+4803,abseits,offside
+4804,der Ton,the clay
+4805,fälligkeit,due date
+4806,beschenken,to make a present
+4807,leise,discrete
+4808,die Feige,the fig
+4809,die Landwirtschaft,the agriculture
+4810,der Verkehr,the circulation
+4811,Nun!,Well!
+4812,dabei sein,to be there
+4813,anhalten,to halt
+4814,die Stube,the lounge
+4815,die Aufmerksamkeit,the attention
+4816,die Ableitung,the derivation
+4817,die Litschi,the lychee
+4818,verbieten,to prohibit
+4819,die Bejahung,the affirmation
+4820,die Hängematte,the hammock
+4821,die Stachelbeere,the gooseberry
+4822,herzlich,cordial
+4823,die Wüste,the desert
+4824,die Brunnenkresse,the watercress
+4825,zwingend,mandatory
+4826,the Heiligabend,Christmas Eve
+4827,der Liebling,the favourite
+4828,der Endiviensalat,the endive
+4829,die Reineclaude,the greengage
+4830,der Wahnsinn,the madness
+4831,der Schwamm,the sponge
+4832,die Lauchzwiebel,the spring onion
+4833,liebste,favorite
+4834,entdecken,to discover
+4835,der Knoblauch,the garlic
+4836,der Muskelkater,the sore muscles
+4837,aufhören,to cease
+4838,darauf,thereon
+4839,aufreissen,to tear open
+4840,sich streiten,to quarrel
+4841,der Grünkohl,the kale
+4842,die Masche,the mesh
+4843,die Tiefe,the depth
+4844,die Gurke,the cucumber
+4845,sich bedanken,to say thank you
+4846,wach,awake
+4847,die Rübe,the turnip
+4848,unpraktisch,impractical
+4849,der Rüssel,the trunk
+4850,der Spielstand,the score
+4851,der Fussweg,the footpath
+4852,die Gefahr,the danger
+4853,der Besitz,the possession
+4854,Bekannte,the friends
+4855,das Sternzeichen,the zodiacal sign
+4856,die Kastanie,the chestnut
+4857,veranstalten,to organize
+4858,was für,what kind of
+4859,die Vorbereitung,the preparation
+4860,der Mut,the courage
+4861,die Panne,the breakdown
+4862,die Öffentliche Verkehrsmittel,the public transports
+4863,siegen,to triumph
+4864,verlobt,engaged
+4865,der Sellerie,the celery
+4866,die Fernbedienung,the remote
+4867,die Scherbe,the shard
+4868,flüssig,liquid
+4869,der Fenchel,the fennel
+4870,der Schnittlauch,the chives
+4871,der Bruch,the facture
+4872,verschenken,to give away
+4873,der Rettich,the radish
+4874,die Pastinake,the parsnip
+4875,das Nasenbluten,the nosebleed
+4876,reichen,to be sufficient
+4877,das Reh,the deer
+4878,die Probe,the sample
+4879,der Notruf,the emergency call
+4880,irreführend,misleading
+4881,die Wahl,the choice
+4882,messen,to measure
+4883,die Zuckerschoten,the snow peas
+4884,das Mauspad,the mouse pad
+4885,die Geschwindigkeit,the speed
+4886,die Johannisbeere,the currant
+4887,aller guten Dinge sind drei,all good things come in threes
+4888,das Brustschwimmen,the breaststroke
+4889,der Rand,the edge
+4890,die Kette,the necklace
+4891,der Feldsalat,the lamb's lettuce
+4892,der Verleih,the rental shop
+4893,davon,thereof
+4894,das Küken,the chick
+4895,das Töpfchen,the potty
+4896,die Verlängerung,the extra-time
+4897,der Glückwunch,the congratulations
+4898,der Kraulstil,the crawl
+4899,die Schere,the scissors
+4900,der Eierkuchen,the pancake
+4901,das Gebäck,the pastry
+4902,auftauchen,to pop up
+4903,lutschen,to suck
+4904,"jo höher die Zahl ist, desto bsser ist die Note","the higher the number, the better the grade"
+4905,riesig,huge
+4906,der Kater,the hangover
+4907,gefreut,pleased
+4908,gern geschehen,you are welcome
+4909,der Stift,the pin
+4910,die Verneinung,the negation
+4911,das Schaf,the sheep
+4912,der Anteil,the proportion
+4913,die Topinambur,the Jerusalem artichoke
+4914,die Linse,the lens
+4915,der Zauberspruch,the spell
+4916,stechen,to sting
+4917,der Hausbau,the house construction
+4918,scheinbar,seemingly
+4919,unerträglich,unbearable
+4920,eins nach dem anderen,one by one
+4921,verwenden,to utilize
+4922,die Beule,the bump
+4923,beherrschen,to dominate
+4924,der Wickel,the compress
+4925,die Hochrechnung,the projection
+4926,die Wahlbeteiligung,the turnout
+4927,verbrauchen,to consume
+4928,der Schinken,the ham
+4929,treten,to kick
+4930,verstecken,to hide
+4931,gerne,gladly
+4932,die Übertreibung,the exaggeration
+4933,ausser,except
+4934,einzigartig,unique
+4935,die Stillzeit,the breastfeeding period
+4936,weiter so,keep it up
+4937,die Daten,the data
+4938,höchst,highly
+4939,der Felsen,the rock
+4940,der Badeanzug,the swimsuit
+4941,die Ziege,the goat
+4942,das Gewicht,the weight
+4943,die Verzweiflung,the despair
+4944,sachte,gentle
+4945,ewig,eternally
+4946,der Lauch,the leek
+4947,unten,below
+4948,die Ablehnung,the refusal
+4949,das Eichhörnchen,the squirrel
+4950,der Beutel,the sachet
+4951,reissen,to tear
+4952,betrügen,to cheat
+4953,das Glied,the limb
+4954,der Mangold,the chard
+4955,die Häufigkeit,the frequency
+4956,der Schluckauf,the hiccup
+4957,die Gefriertruhe,the freezer
+4958,staubig,dusty
+4959,die Wahrheit,the truth
+4960,das Heilmittel,the remedy
+4961,der Tacker,the stapler
+4962,die Fastenzeit,the Lent
+4963,ausgestorben,extinct
+4964,zurechtkommen,to cope

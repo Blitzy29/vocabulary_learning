@@ -50,6 +50,8 @@ def initiate_vocab(test=True, test_name='test'):
         vocab = pd.read_csv('data/official/german_english.csv')
         probas_next_session = pd.read_csv('data/official/predictions_next_session.csv')
 
+    vocab = calculate_days_since_success(vocab)
+
     vocab['try_session_german_english'] = False
     vocab['try_session_english_german'] = False
 
@@ -58,6 +60,23 @@ def initiate_vocab(test=True, test_name='test'):
         probas_next_session,
         on='id_vocab'
     )
+
+    return vocab
+
+
+def calculate_days_since_success(vocab):
+
+    for languages in ['german_english', 'english_german']:
+
+        vocab[f"time_since_success_{languages}"] = vocab[f"last_success_{languages}"].apply(
+            lambda x: datetime.datetime.today() - datetime.datetime.strptime(x, "%Y-%m-%d")
+        )
+
+        vocab[f"days_since_success_{languages}"] = vocab[
+            f"time_since_success_{languages}"
+        ].dt.days
+
+        del vocab[f"time_since_success_{languages}"]
 
     return vocab
 
@@ -107,14 +126,20 @@ def choose_a_language(i_vocab_try, vocab):
 
     forbidden_words = (
             vocab['try_session_german_english'] |
-            vocab['try_session_english_german']
+            vocab['try_session_english_german'] |
+            (vocab["days_since_success_german_english"] <
+             (vocab["score_german_english"] ** 2)
+             )
     )
     if len(vocab[forbidden_words]) != len(vocab):
         possible_languages.append('english')
 
     forbidden_words = (
             vocab['try_session_german_english'] |
-            vocab['try_session_english_german']
+            vocab['try_session_english_german'] |
+            (vocab["days_since_success_english_german"] <
+             (vocab["score_english_german"] ** 2)
+             )
     )
     if len(vocab[forbidden_words]) != len(vocab):
         possible_languages.append('german')
@@ -154,7 +179,10 @@ def choose_a_word(i_vocab_try, vocab):
 
     forbidden_words = (
             vocab['try_session_german_english'] |
-            vocab['try_session_english_german']
+            vocab['try_session_english_german'] |
+            (vocab[f"days_since_success_{i_vocab_try['input_language']}_{i_vocab_try['output_language']}"] <
+             (vocab[f"score_{i_vocab_try['input_language']}_{i_vocab_try['output_language']}"] ** 2)
+             )
     )
 
     list_possible_words = vocab[~forbidden_words]
@@ -416,12 +444,10 @@ def update_vocab(vocab, i_vocab_try):
             vocab["id_vocab"] == i_vocab_try['id_vocab'],
             f"score_{i_vocab_try['input_language']}_{i_vocab_try['output_language']}"
         ] += 1
-
-    if not i_vocab_try['is_it_correct']:
         vocab.loc[
             vocab["id_vocab"] == i_vocab_try['id_vocab'],
-            f"score_{i_vocab_try['input_language']}_{i_vocab_try['output_language']}"
-        ] -= 1
+            f"last_success_{i_vocab_try['input_language']}_{i_vocab_try['output_language']}"
+        ] = datetime.datetime.today().strftime("%Y-%m-%d")
 
     vocab.loc[
         vocab["id_vocab"] == i_vocab_try['id_vocab'],
@@ -484,6 +510,8 @@ def finalize_vocab(vocab, test=True, test_name='test'):
 
     del vocab['english_proba']
     del vocab['german_proba']
+    del vocab['days_since_success_german_english']
+    del vocab['days_since_success_english_german']
 
     if test:
         vocab.to_csv(f'data/raw/german_english_{test_name}_after.csv', index=False)
