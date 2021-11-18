@@ -143,7 +143,7 @@ def transform_type(dataset, vardict):
     return dataset
 
 
-def split_train_valid_test_dataset(dataset, train_dataset_path, valid_dataset_path, test_dataset_path):
+def split_train_valid_test_dataset(dataset, dict_path):
     """ Split dataset into train (70%), valid (20%) and test (10%)
     """
 
@@ -161,18 +161,27 @@ def split_train_valid_test_dataset(dataset, train_dataset_path, valid_dataset_pa
     valid_dataset = dataset[dataset["id_session"].isin(valid_sessions)]
     test_dataset = dataset[dataset["id_session"].isin(test_sessions)]
 
+    valid_historical_dataset = train_dataset.append(valid_dataset)
+    test_historical_dataset = train_dataset.append(valid_dataset).append(test_dataset)
+
     print('Training sessions    - {:3d} sessions - {:5d} datapoints.'.format(len(train_sessions), len(train_dataset)))
     print('Validation sessions  - {:3d} sessions - {:5d} datapoints.'.format(len(valid_sessions), len(valid_dataset)))
     print('Test sessions        - {:3d} sessions - {:5d} datapoints.'.format(len(test_sessions), len(test_dataset)))
 
-    with open(train_dataset_path, "wb") as file:
+    with open(dict_path['train_dataset_path'], "wb") as file:
         dill.dump(train_dataset, file)
 
-    with open(valid_dataset_path, "wb") as file:
+    with open(dict_path['valid_dataset_path'], "wb") as file:
         dill.dump(valid_dataset, file)
 
-    with open(test_dataset_path, "wb") as file:
+    with open(dict_path['test_dataset_path'], "wb") as file:
         dill.dump(test_dataset, file)
+
+    with open(dict_path['valid_historical_dataset_path'], "wb") as file:
+        dill.dump(valid_historical_dataset, file)
+
+    with open(dict_path['test_historical_dataset_path'], "wb") as file:
+        dill.dump(test_historical_dataset, file)
 
     print('Saved')
 
