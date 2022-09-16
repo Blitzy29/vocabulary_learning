@@ -65,7 +65,7 @@ lesscpy==0.14.0
 lightgbm==3.1.1
 lockfile==0.12.2
 luigi==3.0.2
-Mako==1.1.4
+Mako==1.2.2
 MarkupSafe==1.1.1
 matplotlib==3.3.2
 mccabe==0.6.1
